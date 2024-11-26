@@ -1,0 +1,25 @@
+@extends('master')
+@section('content')
+
+ <div class="container">
+ <div class="row justify-content-left ">
+<p></p>
+<!--<h2 style="color:#f60;"> <br><strong>About ISUW</strong> </h2>-->
+<div class="k_cheading">
+		<h1>About <span class="k_greencolor">India Smart Utility Week (ISUW)</span> </h1>
+		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+	</div>
+<p style="text-align:justify;">India is spearheading an ambitious mission on energy transition and is the only major economies that exceeded the mid-term targets under the Paris Agreement by end of 2020. India has now set a new target of 450 GW of renewable energy by 2030; and working on innovative policies and programs for holistic transformation to decarbonize the energy, transport, manufacturing and other sectors. In this endeavor Government of India (GoI) has taken positive steps towards leveraging digitalization and other emerging technologies such as Artificial Intelligence (AI), Machine Learning (ML), Robotics, Blockchain, Green Hydrogen etc.</p>
+<p style="text-align:justify;">Since inception in 2011, India Smart Grid Forum (ISGF) has been spearheading the movement towards digitalization of utilities in India. Highly disruptive black swan events like Covid-19 also present never before opportunities for innovation and transformation with profound implications that are gainful in the long term. In the aftermath of Covid-19, digital platforms have become the coveted assets for utilities in their business continuity and resiliency. GoI has launched a new program that mandates smart meters for all the 250 million+ electricity customers in the country. Besides smart metering, utilities are expected to leverage digital platforms for many of their operations. All these new initiatives towards digitalization which in the business-as-usual scenario in the pre-Covid world would have taken well over a decade are now going to happen in the next 2-3 years on fast track. This is going to create data driven smart utilities which will open up new business opportunities for organizations providing tools and services to host and manage the enormous amounts of data utilities are expected to generate in the near future. Emerging technologies like Artificial Intelligence, Machine Learning and Advanced Analytics, Blockchain, Virtual Reality and Augmented Reality, Drones, Coud Platforms and Robotic Process Automation are also being leveraged by utilities for various applications which is optimizing business models and opening up new business opportunities.</p>
+<p style="text-align:justify;"> ISGF has been organising its flagship annual event, India Smart Utility Week (ISUW) since 2015 and it is considered as one of the top five international events on Smart Grids, Electric Mobility and Smart Cities. Post Covid-19, water and city gas distribution utilities are also preparing to equip themselves with latest technologies for improved operational efficiency and successful integration into the smart city systems. However, lack of effective policy and regulations both at the central and state level along with inadequate safety guidelines, standards, business models act as barriers for this growth. All the previous editions of ISUW (formerly known as India Smart Grid Week – ISGW) were huge success that attracted the attention and participation of the whose-who amongst top-notch thinkers and utility leaders from around the globe. Technology Companies, Regulators, Policy Makers, Government Officials and Senior Officials from Electric, Water and Gas Utilities from 50+ countries participated every year in the past editions of ISUW. Due to COVID-19, ISUW 2021 was conducted on a 3D digital platform which was attended by over 2700 delegates and 457 Speakers from 49 Countries.
+</p>
+<h2 class="headingclass"> <br><strong>ABOUT ISUW 2022</strong> </h2>
+
+<p style="text-align:justify;">ISUW 2022 is scheduled from 02 – 04 March 2022 on a Digital Platform as an International Conference and Exhibition on Smart Energy, Electric Mobility and Smarter Cities. ISUW 2022 will bring together India’s leading Electricity, Gas and Water Utilities, Smart City Developers, Policy Makers, Regulators, Investors and world’s top-notch Smart Energy Experts and Researchers to discuss trends, share best practices and showcase next generation technologies and products in smart energy, electric mobility and smart cities domains. ISUW 2022 will include plenaries, interactive workshops, keynotes, technical sessions and technical paper presentations. Bi-lateral Smart Grid workshop with EU, USA, Switzerland, Sweden and France are also being planned. Sixth edition of ISGF Innovation Awards 2022 will also be organised as part of ISUW 2022.</p>
+<p style="text-align:justify;">For Partnership, Exhibition and Participation queries, please write to us at  <a href="mailto:isuw@isuw.in">isuw@isuw.in</a>.&nbsp; For more details about ISUW 2022, kindly visit <a href="http://www.isuw.in">www.isuw.in</a>.</p>
+
+<p></p>
+</div>
+</div>
+
+@endsection
