@@ -9092,7 +9092,7 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="/public/uploads/2024/ISUW2023TechnicalPaperCompendium_cover.pdf">Compendium of Technical Papers India Smart Utility Week 2024</a></span></p>
+  lang=EN-IN style='color:black'><a href="/public/uploads/2024/ISUW2023TechnicalPaperCompendium_cover.pdf">Compendium of Technical Papers India Smart Utility Week 2023</a></span></p>
   </td>
   <td width=208 nowrap style='width:155.95pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
