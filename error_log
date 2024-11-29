@@ -1,8 +1,0 @@
-[23-Jan-2023 01:55:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Speakers::show() in /home2/rkumarisgf/isuw.in/app/Http/Controllers/Speakers.php on line 17
-[23-Jan-2023 02:09:08 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Speakers::show() in /home2/rkumarisgf/isuw.in/app/Http/Controllers/Speakers.php on line 16
-[22-Feb-2024 17:08:16 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home2/rkumarisgf/isuw.in/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1253
-[22-Feb-2024 17:08:16 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home2/rkumarisgf/isuw.in/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 1262
-[22-Feb-2024 17:08:16 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home2/rkumarisgf/isuw.in/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2482
-[22-Feb-2024 17:08:16 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home2/rkumarisgf/isuw.in/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2607
-[22-Feb-2024 17:08:16 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home2/rkumarisgf/isuw.in/vendor/nesbot/carbon/src/Carbon/Traits/Date.php on line 2619
-[22-Feb-2024 17:08:16 UTC] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home2/rkumarisgf/isuw.in/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
