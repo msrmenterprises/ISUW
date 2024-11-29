@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home2/rkumarisgf/isuw.in/
+    - /bin/cp -R images $DEPLOYPATH
