@@ -19,7 +19,7 @@ margin-left:20px;
 <!--<img src="http://www.isuw.in/beta/wp-content/uploads/2021/12/AWARDS-BANNER-1.jpeg" class="center" style="width: 90%;"></style>-->
 <div class="k_cheading">
 		<h1>9th ISGF INNOVATION AWARDS 2025<br/>
-		 <span class="k_greencolor">Award Ceremony on 21 March 2025 as part of<br/>
+		 <span class="k_greencolor">Award Ceremony on 21 March 2025 <br/> As part of <br/>
 		  India Smart Utility Week (ISUW 2025)</span></h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
@@ -53,13 +53,13 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 
 <H4 style="color: green;"><strong>Overview of ISGF Innovation Awards</strong></style></H4>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >ISGF Innovation Awards instituted in 2017 is aimed to recognize and to celebrate organizations (utilities and technology companies), projects, products and personalities that have set a new benchmark in Electricity, Gas, Water and E-Mobility domains. Till 2024, ISGF had selected and recognized more than 323 such organizations/ individuals. <b>The 9th Edition of ISGF Innovation Awards 2025 will be conferred to the Winners on 21 March 2024.</b></FONT></P>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >India Smart Grid Forum (ISGF) invites Public and Private Utilities, Urban Local Bodies, Technology Companies, EPC Contractors, Start-ups, Incubators, Researchers, Municipalities, Funding Agencies and Academia to submit their nominations. </FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT ><b>India Smart Grid Forum (ISGF) invites Public and Private Utilities, Urban Local Bodies, Technology Companies, EPC Contractors, Start-ups, Incubators, Researchers, Municipalities, Funding Agencies and Academia to submit their nominations. </b></FONT></P>
 <!--<p>For more details, Please visit: <a href="https://isuw.in/innovation-awards">https://isuw.in/innovation-awards</a>; Email us at <a href="mailto:awards@isuw.in">awards@isuw.in</a></p>
 <H4 style="color: green;"><strong>Refer important links below for further details: </strong></style></H4> -->
 <h4 style="color: green;"><strong>Refer important links below for further details:</h4>
 <p></p><li>About India Smart Grid Forum (ISGF): <a href="https://indiasmartgrid.org/about" target="_blank">https://indiasmartgrid.org/about</a></li>
 <li>About India Smart Utility Week (ISUW) 2023: <a href="http://isuw.in/" target="_blank">http://isuw.in/</a></li>
-<li>Glimpses of Awards Ceremony 2023: <a href="https://www.flickr.com/photos/indiasmartgridforum/sets/72177720306710839/" target="_blank"> https://www.flickr.com/photos/indiasmartgridforum/sets/72177720306710839/</a> </li></p>
+<li>Glimpses of Awards Ceremony 2023: <a href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315675305/" target="_blank"> https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315675305/</a> </li></p>
 
 <div class="accordion accordion-flush" id="accordionFlushExample"> 
   <div class="accordion-item">
@@ -464,11 +464,11 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
   of Artificial Intelligence, Machine Learning and Robotic Solutions </span></p>
   <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><b><span style='font-size:
-  12.0pt;font-family:"Calibri Light","sans-serif"'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
+  12.0pt;font-family:"Calibri Light","sans-serif"'>a)</span><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
   </span></span></b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Utility</span></p>
   <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;margin-bottom:
   .0001pt;text-indent:-18.0pt;line-height:normal'><b><span style='font-size:
-  12.0pt;font-family:"Calibri Light","sans-serif"'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+  12.0pt;font-family:"Calibri Light","sans-serif"'>b)</span><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
   </span></span></b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Industry/Technology
   Provider</span></p>
   </td>
@@ -1186,7 +1186,7 @@ category</b>
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapeight" aria-expanded="false" aria-controls="flush-collapeight">
-       <H4 style="color: green;"><strong>Important Notes for Nomination Eligibility: </strong></style></H4>
+       <H4 style="color: green;"><strong>Important Notes for Nomination Eligibility </strong></style></H4>
       </button>
     </h2>
     <div id="flush-collapeight" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
@@ -1211,7 +1211,7 @@ category</b>
 <!--<H4 style="color: green;"><strong>Who can Participate?<strong></style></H4>-->
 <P>1.	Individuals or organizations as per details in the above table can apply</p>
 <p>2.	Nominations are invited from Indian Companies/Utilities and Companies/organizations working on Projects in India</p>
-<p>3.	 If you do not belong to any of the types of organizations mentioned in the “Who can apply?” list above, but still believe that your entry fits the category description then you are encouraged to write to us at<B><a href="awards@isuw.in">awards@isuw.in</a></B></P>
+<p>3.	 If you do not belong to any of the types of organizations mentioned in the “Who can apply?” list above, but still believe that your entry fits the category description then you are encouraged to write to us at <B><a href="awards@isuw.in">awards@isuw.in</a></B></P>
 </div></div></div></div>
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -1394,7 +1394,30 @@ Brisbane Dadari Project – awarded for project excellence in 25th
 IPMA World Congress at Brisbane in 2011;</FONT></P>
 		</TD>
 	</TR>
-</TABLE> -->
+
+	<TR>
+		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+			<P><FONT ><B>Mr. Ravinder Singh Dhillon &nbsp;&nbsp;&nbsp;<BR>Chairman & Managing
+			Director<BR>Power Finance
+			Corporation (PFC)</B></FONT></P>
+		</TD>
+		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Ravinder Singh Dhillon is a seasoned expert with 39 years of diverse experience spanning the power and infrastructure sectors. As the
+former Chairman and Managing Director of Power Finance
+Corporation (PFC), he led the organization to achieve its prestigious
+Maharatna status, ensuring record-breaking profits and spearheading
+initiatives such as green bonds and infrastructure diversification. With
+a strong academic foundation in power systems from IIT Delhi, his
+career includes significant contributions to power system planning at
+CEA, technical design at BHEL, and financial innovations at PFC.
+Currently serving as an Independent Director at GE Power India Ltd.,
+he continues to influence the energy sector with his deep expertise in
+project financing, renewable energy, and policy formulation.</FONT></P>
+			
+		</TD>
+	</TR>
+</TABLE> 
 </div>
     </div>
   </div>
@@ -1639,7 +1662,7 @@ solutions</FONT></FONT></FONT></P>
     </h2>
     <div id="flush-collapseselection" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<P STYLE="margin-bottom: 0in"><IMG SRC="http://www.isuw.in/public/images/selection-process-2024.PNG"></P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="/images/2024/selection.png"></P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 </div></div></div></div>
@@ -1854,12 +1877,12 @@ solutions</FONT></FONT></FONT></P>
       </button>
     </h2>
     <div id="flush-collapsetwo" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body"><P><B><FONT >ISGF Award Secretariat |
+      <div class="accordion-body"><P><B><FONT >1) ISGF Award Secretariat |
 </B>For more details, Winner selection procedure and to submit Nomination, please visit: 
 <a href="http://www.isuw.in/innovation-awards/">http://www.isuw.in/innovation-awards/</a></font><br/>
-Direct link for nomination form:  <a href="https://forms.gle/XrVQAgjbfTWD5bYeA" target="_blank" rel="noopener noreferrer">https://forms.gle/XrVQAgjbfTWD5bYeA</a><br/>
-Last date to apply for Online Nominations has been extended to <b>28 Dec 2024</b><br/>
-For queries, please write to us at <a href="mailto:awards@isuw.in">awards@isuw.in</a></p>
+2) Direct link for nomination form:  <a href="https://forms.gle/XrVQAgjbfTWD5bYeA" target="_blank" rel="noopener noreferrer">https://forms.gle/XrVQAgjbfTWD5bYeA</a><br/>
+3) Last date to apply for Online Nominations has been extended to <b>28 Dec 2024</b><br/>
+4) For queries, please write to us at <a href="mailto:awards@isuw.in">awards@isuw.in</a></p>
 	</div>
     </div>
   </div>
