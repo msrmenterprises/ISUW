@@ -58,8 +58,8 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <H4 style="color: green;"><strong>Refer important links below for further details: </strong></style></H4> -->
 <h4 style="color: green;"><strong>Refer important links below for further details:</h4>
 <p></p><li>About India Smart Grid Forum (ISGF): <a href="https://indiasmartgrid.org/about" target="_blank">https://indiasmartgrid.org/about</a></li>
-<li>About India Smart Utility Week (ISUW) 2023: <a href="http://isuw.in/" target="_blank">http://isuw.in/</a></li>
-<li>Glimpses of Awards Ceremony 2023: <a href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315675305/" target="_blank"> https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315675305/</a> </li></p>
+<li>About India Smart Utility Week (ISUW) 2024: <a href="http://isuw.in/" target="_blank">http://isuw.in/</a></li>
+<li>Glimpses of Awards Ceremony 2024: <a href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315675305/" target="_blank"> https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315675305/</a> </li></p>
 
 <div class="accordion accordion-flush" id="accordionFlushExample"> 
   <div class="accordion-item">
@@ -462,15 +462,15 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Adoption
   of Artificial Intelligence, Machine Learning and Robotic Solutions </span></p>
-  <p class=MsoListParagraphCxSpFirst style='margin-bottom:0cm;margin-bottom:
-  .0001pt;text-indent:-18.0pt;line-height:normal'><b><span style='font-size:
-  12.0pt;font-family:"Calibri Light","sans-serif"'>a)</span><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;
-  </span></span></b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Utility</span></p>
-  <p class=MsoListParagraphCxSpLast style='margin-bottom:0cm;margin-bottom:
-  .0001pt;text-indent:-18.0pt;line-height:normal'><b><span style='font-size:
-  12.0pt;font-family:"Calibri Light","sans-serif"'>b)</span><span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
-  </span></span></b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Industry/Technology
-  Provider</span></p>
+  
+  <p class="Default" style="margin-left:36.0pt;text-indent:-18.0pt">
+	<span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">a.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">
+	Utility</span></p>
+
+  <p class="Default" style="margin-left:36.0pt;text-indent:-18.0pt">
+	<span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">b.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">
+	Industry/Technology Provider</span></p>
+ 
   </td>
   <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
   none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
@@ -680,55 +680,18 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
   <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
   none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This
-  award category will</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>recognize
-  individual women</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>who
-  have made substantial</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>contributions
+  This
+  award category will recognize
+  individual women who
+  have made substantial contributions
   in the areas covered under any of the above 9 award categories. i.e. power /
   utility sector/ technology provider/ implementing agency; OR has built a
-  successful start-</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>up
-  that is growing</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>successfully;
-  OR</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Has
-  promoted initiatives</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>focused
-  on areas such as</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>policy
-  reform, innovative</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>technology
-  adoption,</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>innovative
-  financing etc. in the power sector.</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>&nbsp;</span></p>
+  successful start-up that is growing successfully;
+  OR Has
+  promoted initiatives focused on areas such as policy
+  reform, innovative technology
+  adoption, innovative
+  financing etc. in the power sector.
   </td>
  </tr>
  <tr style='height:49.15pt'>
@@ -1279,7 +1242,7 @@ and decide upon the winners.</P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/subra.gif" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<!-- <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/subra.gif" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P> -->
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><BR><BR>
 			</P>
 			<P STYLE="margin-bottom: 0.11in"><FONT ><B>Mr. V.
@@ -1316,7 +1279,7 @@ Certified Associate of Indian Institute of Bankers, Bombay.</FONT></P>
 	</TR>
 		<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/uma.png" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<!-- <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/uma.png" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P> -->
 			<P><FONT ><B>Mr. P Uma Shankar&nbsp;&nbsp;<BR>Former
 			Secretary<BR>Ministry of Power, Government of India</B></FONT></P>
 		</TD>
@@ -1326,7 +1289,7 @@ Certified Associate of Indian Institute of Bankers, Bombay.</FONT></P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/padama.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=180 BORDER=0></P>
+			<!-- <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/padama.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=180 BORDER=0></P> -->
 			<P><FONT ><B>Padmaja Ruparel&nbsp;&nbsp;<BR>Co-Founder<BR>Indian Angel Network;<br/>
 Founding Partner, IAN
 Fund</B></FONT></P>
@@ -1348,7 +1311,7 @@ A graduate with English Honours, Padmaja then completed her MBA as well as Chart
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+			<!-- <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P> -->
 			<P><FONT ><B>Mr. BP Singh&nbsp;&nbsp;&nbsp;<BR>Former
 			Member<BR>Delhi Electricity Regulatory Commission (DERC)</B></FONT></P>
 		</TD>
@@ -1397,23 +1360,13 @@ IPMA World Congress at Brisbane in 2011;</FONT></P>
 
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+			<!-- <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P> -->
 			<P><FONT ><B>Mr. Ravinder Singh Dhillon &nbsp;&nbsp;&nbsp;<BR>Chairman & Managing
 			Director<BR>Power Finance
 			Corporation (PFC)</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Ravinder Singh Dhillon is a seasoned expert with 39 years of diverse experience spanning the power and infrastructure sectors. As the
-former Chairman and Managing Director of Power Finance
-Corporation (PFC), he led the organization to achieve its prestigious
-Maharatna status, ensuring record-breaking profits and spearheading
-initiatives such as green bonds and infrastructure diversification. With
-a strong academic foundation in power systems from IIT Delhi, his
-career includes significant contributions to power system planning at
-CEA, technical design at BHEL, and financial innovations at PFC.
-Currently serving as an Independent Director at GE Power India Ltd.,
-he continues to influence the energy sector with his deep expertise in
-project financing, renewable energy, and policy formulation.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">Ravinder Singh Dhillon is a seasoned expert with over 40 years of diverse experience spanning the power and infrastructure sectors. As the former Chairman and Managing Director of Power Finance Corporation (PFC) - the largest NBFC in the country, he led the organization to achieve its prestigious Maharatna status, ensuring record-breaking profits, facilitating Govt. of India schemes as as RDSS, LPS rules, IPDS etc. and spearheading initiatives such as green bonds and infrastructure diversification. With a strong academic foundation in Power Systems from IIT Delhi, his career includes significant contributions to Power System Planning at CEA, Technical Design at BHEL, and project appraisal and financial innovations at PFC. Currently serving as an Independent Director at GE Power India Ltd., he continues to influence the energy sector with his deep expertise in project financing, renewable energy, energy transition, and policy formulation.</P>
 			
 		</TD>
 	</TR>

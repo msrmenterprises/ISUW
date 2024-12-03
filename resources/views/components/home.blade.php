@@ -10,7 +10,7 @@
             @if ($loop->first)
                <div class="carousel-item active">
                   <div class="first-div ">
-                     <img src="{{$banner->BannerUrl}}" class="d-block w-100" alt="{{$banner->ImageAltText}}">
+                     <a href="https://www.isuw.in/innovation-awards" target="_blank"><img src="{{$banner->BannerUrl}}" class="d-block w-100" alt="{{$banner->ImageAltText}}"></a>
                   </div>
                </div>
                @else
