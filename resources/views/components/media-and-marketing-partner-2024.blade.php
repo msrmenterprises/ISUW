@@ -7,7 +7,7 @@
 
 	<div class="k_cheading">
 		<h1>ISUW 2025 <span class="k_greencolor">Supporting Media Partners</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/public/uploads/images/kborder_bottom.png" alt=""> <br/>
 	</div>
 
 	<div class="col-lg-3"><div class="logo-div"><a href="https://industrialoutlook.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/INDUSTRIAL.png" alt=""  ></a></div></div>
@@ -31,9 +31,7 @@
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.quotidianoenergia.it/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/QE_nuovo.png" alt=""  ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.energyportal.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/energyportal.jpeg" alt=""  ></a></div></div>
 -->
-	<p><a href="http://www.isuw.in/media-and-marketing-partner/" target="_blank" rel="noopener">Media and Marketing Partners of ISUW 2021</a></p>
-	<p><a href="http://www.isuw.in/media-and-marketing-partner-2022" target="_blank" rel="noopener">Media and Marketing Partners of ISUW 2022</a></p>
-	<p><a href="http://www.isuw.in/media-and-marketing-partner-2023" target="_blank" rel="noopener">Media and Marketing Partners of ISUW 2023</a></p>
+	
 
 	<p></p>
 </div>
