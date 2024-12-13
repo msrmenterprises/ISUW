@@ -1242,7 +1242,7 @@ and decide upon the winners.</P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<!-- <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/subra.gif" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P> -->
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/subra.gif" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><BR><BR>
 			</P>
 			<P STYLE="margin-bottom: 0.11in"><FONT ><B>Mr. V.
@@ -1279,7 +1279,7 @@ Certified Associate of Indian Institute of Bankers, Bombay.</FONT></P>
 	</TR>
 		<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<!-- <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/uma.png" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P> -->
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/uma.png" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
 			<P><FONT ><B>Mr. P Uma Shankar&nbsp;&nbsp;<BR>Former
 			Secretary<BR>Ministry of Power, Government of India</B></FONT></P>
 		</TD>
@@ -1289,7 +1289,7 @@ Certified Associate of Indian Institute of Bankers, Bombay.</FONT></P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<!-- <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/padama.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=180 BORDER=0></P> -->
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/padama.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=180 BORDER=0></P>
 			<P><FONT ><B>Padmaja Ruparel&nbsp;&nbsp;<BR>Co-Founder<BR>Indian Angel Network;<br/>
 Founding Partner, IAN
 Fund</B></FONT></P>
@@ -1311,7 +1311,7 @@ A graduate with English Honours, Padmaja then completed her MBA as well as Chart
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<!-- <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P> -->
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
 			<P><FONT ><B>Mr. BP Singh&nbsp;&nbsp;&nbsp;<BR>Former
 			Member<BR>Delhi Electricity Regulatory Commission (DERC)</B></FONT></P>
 		</TD>
@@ -1360,7 +1360,7 @@ IPMA World Congress at Brisbane in 2011;</FONT></P>
 
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<!-- <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P> -->
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
 			<P><FONT ><B>Mr. Ravinder Singh Dhillon &nbsp;&nbsp;&nbsp;<BR>Chairman & Managing
 			Director<BR>Power Finance
 			Corporation (PFC)</B></FONT></P>
