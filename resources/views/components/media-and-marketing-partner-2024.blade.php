@@ -4,10 +4,10 @@
  <div class="container">
 
  <div class="row justify-content-left ">
-
+	<p><br/></p>
 	<div class="k_cheading">
 		<h1>ISUW 2025 <span class="k_greencolor">Supporting Media Partners</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> <br/>
+		<img src="/public/uploads/images/kborder_bottom.png" alt="">
 	</div>
 
 	<div class="col-lg-3"><div class="logo-div"><a href="https://industrialoutlook.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/INDUSTRIAL.png" alt=""  ></a></div></div>
