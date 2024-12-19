@@ -1243,8 +1243,7 @@ and decide upon the winners.</P>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2024/VSubramanian.jpg" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><BR><BR>
-			</P>
+			
 			<P STYLE="margin-bottom: 0.11in"><FONT ><B>Mr. V.
 			Subramanian&nbsp;&nbsp;<BR>Former Secretory<BR>Ministry of New and
 			Renewable Energy (MNRE), Government of India</B></FONT></P>
