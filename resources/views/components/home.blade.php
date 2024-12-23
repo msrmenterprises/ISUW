@@ -137,6 +137,51 @@
                            </div>
                         </div>
                      </div>
+                     <h2 class="mt-4">Key Partners 2025
+                     </h2>
+                     <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                           <div class="logo-title">
+                              <h4>Platinum Partners </h4>
+                           </div>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:50px">
+                               </div>
+                           </a>
+                        </div>
+                     </div>
+
+                     <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                           <div class="logo-title">
+                              <h4>Bronze Partners </h4>
+                           </div>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:50px">
+                               </div>
+                           </a>
+                        </div>
+                     </div>
+                        
+                        
+                        
+                          
+                      
+                        
+                         
+                        
+                        
+                          
+                         
+
+
+
                      <h2 class="mt-4">Key Partners 2024
                      </h2>
                         <div class="row justify-content-center">
