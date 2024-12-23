@@ -15,9 +15,15 @@
 		<h1>ISUW 2025 <span class="k_greencolor">Supporting Organisation </span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 		</div>
-		<div class="col-lg-4"></div>
-		<div class="col-lg-4"><div class="logo-div"><a href="https://energyalliance.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/globalEnergy.png" alt="" width="300" height="104"></a></div></div>
-		<div class="col-lg-4"></div>
+		
+		<div class="col-lg-3"><div class="logo-div"><a href="https://energyalliance.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/globalEnergy.png" alt="" width="300" height="104"></a></div></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="http://globalsmartenergy.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="http://www.isuw.in/beta/wp-content/uploads/2020/12/GSEF-LOGO-1.png" alt="" width="300" height="104"></a></div></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="https://aiaiindia.com/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="https://www.isuw.in/public/uploads/organizations/allindia.jpg" alt="CEN LEC" width="150" style="max-height: 130px"></a></div></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="https://www.cbip.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051" style="" src="https://www.isuw.in/public/uploads/organizations/CBIP PNG.png" width="100" height="104"> </a></div></div>
+		<div class="col-lg-3"></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="https://www.cigre.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="https://www.isuw.in/public/uploads/organizations/cigre.jpg" alt="" ></a></div></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="https://ngsindia.org/" target="_blank" rel="attachment wp-att-5807 noopener noreferrer"><img class="aligncenter size-full wp-image-5807" style="width: 55% !important;" src="https://www.isuw.in/public/uploads/organizations/NGSLogo.png" alt="CEN" height="193"></a></div></div>
+		<div class="col-lg-3"></div>
 	</div>
 	<div class="row justify-content-left ">
 
