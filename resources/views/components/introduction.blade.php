@@ -37,7 +37,7 @@ thinkers and utility leaders from around the globe. Technology Companies, Regula
 Makers, Government Officials and Senior Officers from Electricity, Water and Gas Utilities from 50+
 countries participated every year in the past editions. ISUW 2023 was attended by over 2200
 delegates and addressed by 264 eminent speakers from 22+ countries.</p>
-<h2 class="headingclass"> <br><strong>11TH EDITION OF INDIA SMART UTILITY WEEK (ISUW 2024) FROM 18 – 22 MARCH 2025 IN NEW
+<h2 class="headingclass"> <br><strong>11TH EDITION OF INDIA SMART UTILITY WEEK (ISUW 2025) FROM 18 – 22 MARCH 2025 IN NEW
 DELHI</strong> </h2>
 
 <p style="text-align:justify;">The 11th edition of ISUW is scheduled from 18 - 22 March 2025 in New Delhi, India, as an
