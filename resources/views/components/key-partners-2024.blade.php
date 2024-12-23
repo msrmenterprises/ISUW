@@ -11,6 +11,37 @@ margin-left: 408px;
 </style>-->
 <p></p>
 <div class="k_cheading">
+		<h1>ISUW 2025 <span class="k_greencolor">KEY PARTNERS </span> </h1>
+		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+	</div>
+
+<h5 style="text-align:center;"><b>Platinum Partners</b></h5>	
+<div class="row justify-content-center">
+	<div class="col-lg-4">
+		<a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
+</div>	
+
+<h5 style="text-align:center;"><b>Bronze Partners</b></h5>
+<div class="row justify-content-center">
+	<div class="col-lg-4">
+		<a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
+</div>	
+
+
+
+<!-- Content for 2024 -->
+<p></p>
+<div class="k_cheading">
 		<h1>ISUW 2024 <span class="k_greencolor">KEY PARTNERS </span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
