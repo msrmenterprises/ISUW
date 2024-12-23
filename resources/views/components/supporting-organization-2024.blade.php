@@ -17,7 +17,7 @@
 		</div>
 		<div class="col-lg-4"></div>
 		<div class="col-lg-4"><div class="logo-div"><a href="https://energyalliance.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/globalEnergy.png" alt="" width="300" height="104"></a></div></div>
-		<div class="col-lg-4"></div>
+		<div class="col-lg-4">Data </div>
 	</div>
 	<div class="row justify-content-left ">
 
