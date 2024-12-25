@@ -723,7 +723,7 @@
 			     <div class="col-lg-12 mb-4 text-end">
                   <a class="btn btn-light" style="
     margin-top: -25px;
-" href="/speakers-2024">View All</a>
+" href="/speakers">View All</a>
                </div>
             </div>
             <div class="row justify-content-center ">

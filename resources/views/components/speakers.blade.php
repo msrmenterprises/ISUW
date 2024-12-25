@@ -26,7 +26,7 @@
 				  @endif
 				  @endforeach			 
             </div>
-            <p style="text-align:center; font-size:16px;"><a href="https://www.isuw.in/speakers-2024" class="getstartedd " target="_blank">ISUW Speakers 2024</a></p> 
+            <p style="text-align:center; font-size:16px;"><a href="https://www.isuw.in/2024/speakers-2024" class="getstartedd " target="_blank">ISUW Speakers 2024</a></p> 
             <p style="text-align:center; font-size:16px;"><a href="https://www.isuw.in/speakers-2023" class="getstartedd " target="_blank">ISUW Speakers 2023</a></p>
             <p style="text-align:center; font-size:16px;"><a href="https://www.isuw.in/speakers" class="getstartedd " target="_blank">ISUW Speakers 2022</a></p>
          </div>

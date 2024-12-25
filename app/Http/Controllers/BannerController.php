@@ -46,7 +46,7 @@ class BannerController extends Controller
          $imageurl = URL::to('/public/uploads/speakers/')."/".$imagename;
         $base=base64_decode($request['uploadfile']);
         $request->uploadfile->move(public_path('uploads/speakers/'), $imagename);
-        $banners = DB::table('speakers2024')->insert(['imageUrl'=>$imageurl,'isActive'=>'1','imageAlt'=>$request->altText,'name'=>$request->name,'description'=>$request->desc,'company'=>$request->company]);
+        $banners = DB::table('speakers2025')->insert(['imageUrl'=>$imageurl,'isActive'=>'1','imageAlt'=>$request->altText,'name'=>$request->name,'description'=>$request->desc,'company'=>$request->company]);
         return "Sucessfully updated";
     }
 

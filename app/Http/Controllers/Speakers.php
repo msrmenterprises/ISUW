@@ -21,8 +21,8 @@ class Speakers extends Controller
     }
     public function showspeaker24()
     {
-      $speakersr24 = DB::table('speakers2024')->orderBy('name')->get();
-     return view('components.speakers-2024',compact('speakersr24'));
+      $speakersr24 = DB::table('speakers2025')->orderBy('name')->get();
+     return view('components.speakers',compact('speakersr24'));
 
     }
 
@@ -48,7 +48,7 @@ class Speakers extends Controller
     public function showDetailspkeaker24($id)
     { 
       
-      $speaker24 = DB::table('speakers2024')->where('id', '=', $id)->get()->first();
+      $speaker24 = DB::table('speakers2025')->where('id', '=', $id)->get()->first();
    
      return view('components.speakerdetail2024',compact('speaker24'));
      

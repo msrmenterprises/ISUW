@@ -9,7 +9,7 @@ class homeController extends Controller
     public function show()
     {
       $banners = DB::table('banners')->get();
-      $speakersr24 = DB::table('speakers2024')->get();
+      $speakersr24 = DB::table('speakers2025')->get();
       $exhibitors = DB::table('exhibitors2022')->get();
       $utilitycategory = DB::table('utilitycategory2022')->get();
       $utilityimages = DB::table('utilityimages')->get();

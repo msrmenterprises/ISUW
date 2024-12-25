@@ -34,7 +34,7 @@ Route::get('/isuw-2024-presentations', [homeController::class, 'presentation2024
 
 Route::get('/speakers',[Speakers::class, 'show']);
 Route::get('/speakers-2023',[Speakers::class, 'showspeaker']);
-Route::get('/speakers-2024',[Speakers::class, 'showspeaker24']);
+Route::get('/speakers',[Speakers::class, 'showspeaker24']);
 Route::get('/testimonial',[TestimonialController::class, 'show']);
 Route::get('/speaker/{id}',[Speakers::class, 'showDetail']);
 Route::get('/speakerr/{id}',[Speakers::class, 'showDetailspkeaker']);
