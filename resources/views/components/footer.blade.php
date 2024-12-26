@@ -103,6 +103,7 @@ color:#EF7B00;
                <li><a href="#">2021</a></li>
                <li><a href="#">2022</a></li>
                <li><a href="#">2023</a></li>
+               <li><a href="/2024" target="_blank">2024</a></li>
             </ul>
 			<br>
             <ul>
