@@ -67,7 +67,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
 </div>
 
 <!-- 20204 Started  -->
-<div id="2023" class="tabcontent" style="display: block;">
+<div id="2024" class="tabcontent" style="display: block;">
  <div class="container slider_margin1">
     <div class="row">
       <div class="col-md-6">
@@ -75,7 +75,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 13 March 2024 | INAUGURATION OF ISUW 2024 CONFERENCE AND EXHIBITION
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/E2YZmUpeA3M?si=_cPQse7puVrY3vL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/E2YZmUpeA3M?si=_cPQse7puVrY3vL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -83,7 +83,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW 2024 | 13 March 2024 | Digitalization of Utilities, Digitalization Roadmaps; Digital Twins 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/WTdK9obdhCw?si=LHhfXxJkHrZdcaqK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/WTdK9obdhCw?si=LHhfXxJkHrZdcaqK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -93,7 +93,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 13 March 2024 | Emerging Technologies for Utilities (In Collaboration with DST) | Part 1
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/lNe7NVsr8V4?si=LEdiv3iCqeeGmorf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/lNe7NVsr8V4?si=LEdiv3iCqeeGmorf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -101,7 +101,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW 2024 | 13 March 2024 | Emerging Technologies for Utilities (In Collaboration with DST) | Part 2 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/F-_HqfGppiM?si=kjcmCTl4O8_HvSKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/F-_HqfGppiM?si=kjcmCTl4O8_HvSKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -112,7 +112,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW24 | 13 Mar | 13th EU - India Smart Energy Workshop | Session Partner - European Union | Part 1
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ZyleHwipkoM?si=6qteWpfBjOCNeZ64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/ZyleHwipkoM?si=6qteWpfBjOCNeZ64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -120,7 +120,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 | 13 Mar | 13th EU - India Smart Energy Workshop | Session Partner - European Union | Part 2 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/YpUkKO19w1Q?si=abs6DbM5k-g5WaaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/YpUkKO19w1Q?si=abs6DbM5k-g5WaaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -131,7 +131,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 1ST INDIA-BRAZIL Smart Energy Workshop (Session Partner: LATAM SGF and BICC) | Part 1
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/H4eznSxn81Q?si=Y6jyMgtw2Y8YhsrO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/H4eznSxn81Q?si=Y6jyMgtw2Y8YhsrO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -139,7 +139,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW 2024 | 1ST INDIA-BRAZIL Smart Energy Workshop (Session Partner: LATAM SGF and BICC) | Part 2 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/O_kF_QQXJj4?si=heOX98t87NWozrRp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/O_kF_QQXJj4?si=heOX98t87NWozrRp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -150,7 +150,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 1ST INDIA-BRAZIL Smart Energy Workshop (Session Partner: LATAM SGF and BICC) | Part 3
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/MBIzFE8WChA?si=oVW7tgLS_p1Et8dL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/MBIzFE8WChA?si=oVW7tgLS_p1Et8dL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -158,7 +158,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 | 13 Mar |10th US–India Smart Energy Workshop| Session Partners: USDOC,USIBC, USAID & CSIS) 1 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/60dv5hs8fxM?si=7AfpWjzOKgBvh3EF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/60dv5hs8fxM?si=7AfpWjzOKgBvh3EF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -169,7 +169,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW24 | 13 Mar |10th US–India Smart Energy Workshop| Session Partners: USDOC,USIBC, USAID & CSIS) 2
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/K15WGYKNp5s?si=xWgJRWXqXZ80quff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/K15WGYKNp5s?si=xWgJRWXqXZ80quff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -177,7 +177,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 | 13 Mar |10th US–India Smart Energy Workshop| Session Partners: USDOC,USIBC, USAID & CSIS) 3 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/kMjIIYrs6m8?si=4Ro0-RjqzM463tSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/kMjIIYrs6m8?si=4Ro0-RjqzM463tSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -188,7 +188,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 13 March 2024 | The short List of Climate Actions that will Work” by Michael Barnard
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/kQ_muttVC84?si=kQfj-ojhHuPt31ca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/kQ_muttVC84?si=kQfj-ojhHuPt31ca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -196,7 +196,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 | 14 Mar |Global Lessons on Smart Metering | (REC, PFC, IntelliSmart and USAID/SAREP)| Part 1 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/PUVugvR80_M?si=jfYmhjBY7ZOtA4t2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/PUVugvR80_M?si=jfYmhjBY7ZOtA4t2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -207,7 +207,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW24 |14 Mar | Global Lessons on Smart Metering | (REC, PFC, IntelliSmart and USAID/SAREP)| Part 2
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/jsrOy6VSTWs?si=DXRakt8iJVNsSBk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/jsrOy6VSTWs?si=DXRakt8iJVNsSBk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -215,7 +215,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 | 14 Mar | Global Lessons on Smart Metering | (REC, PFC, IntelliSmart & USAID/SAREP)| Part 3 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/4AKTQ5thqxE?si=9FDZm9vWoLA1YEcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/4AKTQ5thqxE?si=9FDZm9vWoLA1YEcA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -226,7 +226,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 14 Mar 2024 | Part 1 | Energy Positive Smart Buildings and Campuses | USAID/SAREP
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/qMz602GnL7U?si=IVIwSaULop1Lrg3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/qMz602GnL7U?si=IVIwSaULop1Lrg3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -234,7 +234,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW 2024 | 14 Mar 2024 | Part 2 | Energy Positive Smart Buildings and Campuses | USAID/SAREP 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/CNlZbEQGmog?si=NtXtay4wWQST3zUv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/CNlZbEQGmog?si=NtXtay4wWQST3zUv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -245,7 +245,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 14 Mar 2024 | Part 3 | Energy Positive Smart Buildings and Campuses | USAID/SAREP
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/s3SkmKQzvkI?si=VpvaCnHtlz_cXBjT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/s3SkmKQzvkI?si=VpvaCnHtlz_cXBjT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -253,7 +253,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW 2024 | 14 March 2024 | Part 1 | 3rd India - Germany Smart Energy Workshop | Session Partner GIZ 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/2dZposaT0Bo?si=WlXIMAwCB0lcJBXC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/2dZposaT0Bo?si=WlXIMAwCB0lcJBXC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -264,7 +264,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 14 March 2024 | Part 2 | 3rd India - Germany Smart Energy Workshop | Session Partner GIZ
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/wdKDReiWo9U?si=ReXZJrDjIyu3rpXd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/wdKDReiWo9U?si=ReXZJrDjIyu3rpXd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -272,7 +272,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 |14 Mar |Workshop on Innovative Technologies for Energy Transition| The UK Government| Part 1 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/337nKWs-ijw?si=4V1rkwmch3lDVAkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/337nKWs-ijw?si=4V1rkwmch3lDVAkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -283,7 +283,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW24 |14 Mar |Workshop on Innovative Technologies for Energy Transition| The UK Government| Part 2
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/IiwpWZOVOto?si=VTVZXMebjIUdh5Lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/IiwpWZOVOto?si=VTVZXMebjIUdh5Lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -291,7 +291,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 |14 Mar |Workshop on Innovative Technologies for Energy Transition| The UK Government| Part 3 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/5sJGQbzpcTg?si=xpj77fpSBIFUWCwe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/5sJGQbzpcTg?si=xpj77fpSBIFUWCwe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -302,7 +302,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 14 March 2024 | Session:5 Virtual Power Plants (VPPS) and Power System Flexibility
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/zQKO5tUTfRI?si=Y7tHsVBBH79ZTTqH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/zQKO5tUTfRI?si=Y7tHsVBBH79ZTTqH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -310,7 +310,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 |14 Mar| Cooling Challenge–Cooling as a Service against Monthly Fee through (DCS)|BEE| Part 1 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/9MTgvapELps?si=RiKZ3LwyJZZ-I-BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/9MTgvapELps?si=RiKZ3LwyJZZ-I-BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -321,7 +321,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW24 |14 Mar| Cooling Challenge–Cooling as a Service against Monthly Fee through (DCS)|BEE| Part 2
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/LQFrgshAQJc?si=QieLGtDPd_QZ4iv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/LQFrgshAQJc?si=QieLGtDPd_QZ4iv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -329,7 +329,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW 2024 | 14 March 2024 | Climate Resilience of Future Grids | Session Partner - CDRI 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/YDsLFhZ3ykg?si=MSxQvkFQ4PEaHwZB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/YDsLFhZ3ykg?si=MSxQvkFQ4PEaHwZB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -340,7 +340,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 14 Mar 24| Nuclear Renaissance and the Role of SMR in NZPS | NEI, EDF, BARC/NPCIL & NTPC
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/ed9Ks4nQgRE?si=vdK9Z7i_rHOUrCc5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/ed9Ks4nQgRE?si=vdK9Z7i_rHOUrCc5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -348,7 +348,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW 2024 | 14 March 2024 | Presentation of Select Technical Papers | Part 1 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/wHcscLiFndk?si=35UdK7FRtB-gBEoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/wHcscLiFndk?si=35UdK7FRtB-gBEoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -359,7 +359,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 14 March 2024 | Presentation of Select Technical Papers | Part 2
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/eg_g4ztxU1Q?si=lFQ_qXkT02aIRRdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/eg_g4ztxU1Q?si=lFQ_qXkT02aIRRdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -367,7 +367,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 | 14 Mar | Super Grids for Energy Transition & Energy Security | GO15, USAID & Hitachi Energy 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/PyhJZtjEg5U?si=YRxeTLcRjw4YHLjq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/PyhJZtjEg5U?si=YRxeTLcRjw4YHLjq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -378,7 +378,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 15 March 2024 | Long Duration Energy Storage Systems (LDES)
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/H128srm_Tbo?si=q_qLcsC2YPfWT6PS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/H128srm_Tbo?si=q_qLcsC2YPfWT6PS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -386,7 +386,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 | 15 March | Policy & Regulatory Support for Fast Tracking The Transition to NZ Power System 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/NK6W0jWlhw4?si=c3Q1_2c1mJaU8hjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/NK6W0jWlhw4?si=c3Q1_2c1mJaU8hjZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -397,7 +397,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 15 March 2024 | Evolving Trends in Electric Mobility: MW-scale Charging Systems | Part 1
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/3YQp-J3KGCE?si=TM3Gn83M9NenGkmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/3YQp-J3KGCE?si=TM3Gn83M9NenGkmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -405,7 +405,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW 2024 | 15 March 2024 | Evolving Trends in Electric Mobility: MW-scale Charging Systems | Part 2 
           </h3>
           <ul>  
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/rj2QiwzETcs?si=k7y5k4h7eHOyqlcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/rj2QiwzETcs?si=k7y5k4h7eHOyqlcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -416,7 +416,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 15 March 2024 | Digital Tools for DER Management
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/K_Ezf_vdJ6g?si=k9t1lLjolpcbkxx1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/K_Ezf_vdJ6g?si=k9t1lLjolpcbkxx1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -424,7 +424,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 | 15 Mar | Smart Utilities Integration- Electricity+City Gas+Water | NGS & India CGD Forum| 1 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/lN3PsZxSgHg?si=CcBKGPCuILKPHKv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/lN3PsZxSgHg?si=CcBKGPCuILKPHKv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -435,7 +435,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW24 | 15 Mar| Smart Utilities Integration- Electricity+City Gas+Water | NGS & India CGD Forum | 2
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/pgo0Dl3uVoc?si=fcor5ViMpj0b4J93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/pgo0Dl3uVoc?si=fcor5ViMpj0b4J93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -443,7 +443,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW24 | 15 Mar| Smart Utilities Integration- Electricity+City Gas+Water | NGS & India CGD Forum | 3 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/wpU3kOxoXEc?si=bpMQxIjX4KonFWJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/wpU3kOxoXEc?si=bpMQxIjX4KonFWJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -454,7 +454,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 15 March 2024 | Power Markets and Carbon Markets | Session Partner - BEE & IEX | Part 1
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/6kavU5LV-14?si=R7AAKTntO2tnhm9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/6kavU5LV-14?si=R7AAKTntO2tnhm9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -462,7 +462,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW 2024 | 15 March 2024 | Power Markets and Carbon Markets | Session Partner - BEE & IEX | Part 2 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/p_6CQkGLLjA?si=s5JkGAn3oy8UHfzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/p_6CQkGLLjA?si=s5JkGAn3oy8UHfzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
@@ -473,7 +473,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2024 | 15 March 2024 | Evolving Trends in Utility Automation | Session Partner - C-DAC
         </h3>
         <ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/jRLM-3L2ZVU?si=bSPpamAVjikCgV-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="488" height="280" src="https://www.youtube.com/embed/jRLM-3L2ZVU?si=bSPpamAVjikCgV-P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
       <div class="col-md-6">
@@ -481,7 +481,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW 2024 | 15 March 2024 | ISGF INNOVATION AWARDS 2024 
           </h3>
           <ul>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/kK8pOQd9bl8?si=DfLGNTzKLeasmJ0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/kK8pOQd9bl8?si=DfLGNTzKLeasmJ0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
           </ul>
       </div>
     </div>
