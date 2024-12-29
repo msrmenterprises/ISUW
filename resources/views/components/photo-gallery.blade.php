@@ -90,7 +90,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc | 12 Mar 2024
           </h3>
           <ul>
-              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315606550" title="ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc"><img src="https://live.staticflickr.com/65535/53604344025_109bd088b8_z.jpg" width="640" height="480" alt="ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc"/></a>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315606550" title="ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc"><img src="https://live.staticflickr.com/65535/53604344025_109bd088b8_z.jpg" width="488" height="170" alt="ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc"/></a>
                 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
@@ -99,7 +99,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: OCPP Technical Workshop and Training (In Collaboration with Open Charge Alliance) | 12 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315605377" title="ISUW_2024: OCPP Technical Workshop and Training (In Collaboration with Open Charge Alliance)"><img src="https://live.staticflickr.com/65535/53603067802_4a31ab8632_z.jpg" width="640" height="480" alt="ISUW_2024: OCPP Technical Workshop and Training (In Collaboration with Open Charge Alliance)"/></a>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315605377" title="ISUW_2024: OCPP Technical Workshop and Training (In Collaboration with Open Charge Alliance)"><img src="https://live.staticflickr.com/65535/53603067802_4a31ab8632_z.jpg" width="488" height="170" alt="ISUW_2024: OCPP Technical Workshop and Training (In Collaboration with Open Charge Alliance)"/></a>
             <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
@@ -111,7 +111,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Master Class on Energy Transition Strategies and Pathways to Net Zero Power Systems | 12 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315613341" title="ISUW_2024: Master Class on Energy Transition Strategies and Pathways to Net Zero Power Systems"><img src="https://live.staticflickr.com/65535/53603974251_f50a34e9f2_z.jpg" width="640" height="480" alt="ISUW_2024: Master Class on Energy Transition Strategies and Pathways to Net Zero Power Systems"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315613341" title="ISUW_2024: Master Class on Energy Transition Strategies and Pathways to Net Zero Power Systems"><img src="https://live.staticflickr.com/65535/53603974251_f50a34e9f2_z.jpg" width="488" height="170" alt="ISUW_2024: Master Class on Energy Transition Strategies and Pathways to Net Zero Power Systems"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
       <div class="col-md-6">
@@ -119,7 +119,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024:  8th IEC - IEEE Smart Energy Standardization Coordination Workshop (In collaboration with BIS, IEC and IEEE) | 12 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315628029" title="ISUW_2024:  8th IEC - IEEE Smart Energy Standardization Coordination Workshop (In collaboration with BIS, IEC and IEEE)"><img src="https://live.staticflickr.com/65535/53604002891_7d641c2026_z.jpg" width="640" height="480" alt="ISUW_2024:  8th IEC - IEEE Smart Energy Standardization Coordination Workshop (In collaboration with BIS, IEC and IEEE)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315628029" title="ISUW_2024:  8th IEC - IEEE Smart Energy Standardization Coordination Workshop (In collaboration with BIS, IEC and IEEE)"><img src="https://live.staticflickr.com/65535/53604002891_7d641c2026_z.jpg" width="488" height="170" alt="ISUW_2024:  8th IEC - IEEE Smart Energy Standardization Coordination Workshop (In collaboration with BIS, IEC and IEEE)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
     </div>
@@ -130,7 +130,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: INAUGURATION OF ISUW 2024 CONFERENCE AND EXHIBITION | 13 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315575180" title="ISUW_2024: INAUGURATION OF ISUW 2024 CONFERENCE AND EXHIBITION"><img src="https://live.staticflickr.com/65535/53601292949_a668b9dc6c_z.jpg" width="640" height="480" alt="ISUW_2024: INAUGURATION OF ISUW 2024 CONFERENCE AND EXHIBITION"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315575180" title="ISUW_2024: INAUGURATION OF ISUW 2024 CONFERENCE AND EXHIBITION"><img src="https://live.staticflickr.com/65535/53601292949_a668b9dc6c_z.jpg" width="488" height="170" alt="ISUW_2024: INAUGURATION OF ISUW 2024 CONFERENCE AND EXHIBITION"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
       <div class="col-md-6">
@@ -138,7 +138,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Session-1: Digitalization of Utilities, Digitalization Roadmaps; Digital Twins | 13 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315581031" title="ISUW_2024: Session-1: Digitalization of Utilities, Digitalization Roadmaps; Digital Twins"><img src="https://live.staticflickr.com/65535/53601313394_e956e71b48_z.jpg" width="640" height="480" alt="ISUW_2024: Session-1: Digitalization of Utilities, Digitalization Roadmaps; Digital Twins"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315581031" title="ISUW_2024: Session-1: Digitalization of Utilities, Digitalization Roadmaps; Digital Twins"><img src="https://live.staticflickr.com/65535/53601313394_e956e71b48_z.jpg" width="488" height="170" alt="ISUW_2024: Session-1: Digitalization of Utilities, Digitalization Roadmaps; Digital Twins"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
     </div>
@@ -149,7 +149,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Session-2: Emerging Technologies for Utilities (In Collaboration with DST) | 13 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315586343" title="ISUW_2024: Session-2: Emerging Technologies for Utilities (In Collaboration with DST)"><img src="https://live.staticflickr.com/65535/53601450150_a7a71d0d78_z.jpg" width="640" height="480" alt="ISUW_2024: Session-2: Emerging Technologies for Utilities (In Collaboration with DST)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315586343" title="ISUW_2024: Session-2: Emerging Technologies for Utilities (In Collaboration with DST)"><img src="https://live.staticflickr.com/65535/53601450150_a7a71d0d78_z.jpg" width="488" height="170" alt="ISUW_2024: Session-2: Emerging Technologies for Utilities (In Collaboration with DST)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
       <div class="col-md-6">
@@ -157,7 +157,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: 13th EU - India Smart Energy Workshop (in Collaboration with European Union) | 13 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315574452" title="ISUW_2024: 13th EU - India Smart Energy Workshop (in Collaboration with European Union)"><img src="https://live.staticflickr.com/65535/53601551700_84ee17f970_z.jpg" width="640" height="480" alt="ISUW_2024: 13th EU - India Smart Energy Workshop (in Collaboration with European Union)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315574452" title="ISUW_2024: 13th EU - India Smart Energy Workshop (in Collaboration with European Union)"><img src="https://live.staticflickr.com/65535/53601551700_84ee17f970_z.jpg" width="488" height="170" alt="ISUW_2024: 13th EU - India Smart Energy Workshop (in Collaboration with European Union)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
     </div>
@@ -168,7 +168,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: 1ST INDIA - BRAZIL Smart Energy Workshop - THEMES: T&D LOSS REDUCTION AND BIOFUELS (In Collaboration with LATAM Smart Grid Forum and Brazil-India Chamber of Commerce) | 13 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315575572" title="ISUW_2024: 1ST INDIA - BRAZIL Smart Energy Workshop - THEMES: T&amp;D LOSS REDUCTION AND BIOFUELS (In Collaboration with LATAM Smart Grid Forum and Brazil-India Chamber of Commerce)"><img src="https://live.staticflickr.com/65535/53601384413_5bec1665a2_z.jpg" width="640" height="480" alt="ISUW_2024: 1ST INDIA - BRAZIL Smart Energy Workshop - THEMES: T&amp;D LOSS REDUCTION AND BIOFUELS (In Collaboration with LATAM Smart Grid Forum and Brazil-India Chamber of Commerce)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315575572" title="ISUW_2024: 1ST INDIA - BRAZIL Smart Energy Workshop - THEMES: T&amp;D LOSS REDUCTION AND BIOFUELS (In Collaboration with LATAM Smart Grid Forum and Brazil-India Chamber of Commerce)"><img src="https://live.staticflickr.com/65535/53601384413_5bec1665a2_z.jpg" width="488" height="170" alt="ISUW_2024: 1ST INDIA - BRAZIL Smart Energy Workshop - THEMES: T&amp;D LOSS REDUCTION AND BIOFUELS (In Collaboration with LATAM Smart Grid Forum and Brazil-India Chamber of Commerce)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
       <div class="col-md-6">
@@ -176,7 +176,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: 10th US – India Smart Energy Workshop - Theme: (1) Resource Adequacy Planning Planning for Net Zero Power Systems, (2) Energy Storage Systems (In Collaboration with US DOC, USIBC, USAID and CSIS) | 13 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315597689" title="ISUW_2024: 10th US – India Smart Energy Workshop - Theme: (1) Resource Adequacy Planning Planning for Net Zero Power Systems, (2) Energy Storage Systems (In Collaboration with US DOC, USIBC, USAID and CSIS)"><img src="https://live.staticflickr.com/65535/53601519954_6664de48b4_z.jpg" width="640" height="480" alt="ISUW_2024: 10th US – India Smart Energy Workshop - Theme: (1) Resource Adequacy Planning Planning for Net Zero Power Systems, (2) Energy Storage Systems (In Collaboration with US DOC, USIBC, USAID and CSIS)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315597689" title="ISUW_2024: 10th US – India Smart Energy Workshop - Theme: (1) Resource Adequacy Planning Planning for Net Zero Power Systems, (2) Energy Storage Systems (In Collaboration with US DOC, USIBC, USAID and CSIS)"><img src="https://live.staticflickr.com/65535/53601519954_6664de48b4_z.jpg" width="488" height="170" alt="ISUW_2024: 10th US – India Smart Energy Workshop - Theme: (1) Resource Adequacy Planning Planning for Net Zero Power Systems, (2) Energy Storage Systems (In Collaboration with US DOC, USIBC, USAID and CSIS)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
     </div>
@@ -187,7 +187,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: SPECIAL PLENARY 1: “The short List of Climate Actions that will Work” by Michael Barnard, Founder of “The Future is Electric” | 13 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315702644" title="ISUW_2024: SPECIAL PLENARY 1: “The short List of Climate Actions that will Work” by Michael Barnard, Founder of “The Future is Electric”"><img src="https://live.staticflickr.com/65535/53612200584_475063572c_z.jpg" width="640" height="480" alt="ISUW_2024: SPECIAL PLENARY 1: “The short List of Climate Actions that will Work” by Michael Barnard, Founder of “The Future is Electric”"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315702644" title="ISUW_2024: SPECIAL PLENARY 1: “The short List of Climate Actions that will Work” by Michael Barnard, Founder of “The Future is Electric”"><img src="https://live.staticflickr.com/65535/53612200584_475063572c_z.jpg" width="488" height="170" alt="ISUW_2024: SPECIAL PLENARY 1: “The short List of Climate Actions that will Work” by Michael Barnard, Founder of “The Future is Electric”"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
       <div class="col-md-6">
@@ -195,7 +195,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Session - 3: Global Lessions on Smart Metering - Session with AMISPs and DISCOMS (Session Partners - REC, PFC, IntelliSmart and USAID/SAREP) | 14 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315702269" title="ISUW_2024: Session - 3: Global Lessions on Smart Metering - Session with AMISPs and DISCOMS (Session Partners - REC, PFC, IntelliSmart and USAID/SAREP)"><img src="https://live.staticflickr.com/65535/53610942757_d492fa3141_z.jpg" width="640" height="480" alt="ISUW_2024: Session - 3: Global Lessions on Smart Metering - Session with AMISPs and DISCOMS (Session Partners - REC, PFC, IntelliSmart and USAID/SAREP)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315702269" title="ISUW_2024: Session - 3: Global Lessions on Smart Metering - Session with AMISPs and DISCOMS (Session Partners - REC, PFC, IntelliSmart and USAID/SAREP)"><img src="https://live.staticflickr.com/65535/53610942757_d492fa3141_z.jpg" width="488" height="170" alt="ISUW_2024: Session - 3: Global Lessions on Smart Metering - Session with AMISPs and DISCOMS (Session Partners - REC, PFC, IntelliSmart and USAID/SAREP)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
     </div>
@@ -206,7 +206,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Session 4: Energy Positive Smart Buildings and Campuses (In Collaboration with USAID/SAREP) | 14 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315596690" title="ISUW_2024: Session 4: Energy Positive Smart Buildings and Campuses (In Collaboration with USAID/SAREP)"><img src="https://live.staticflickr.com/65535/53602114122_656c849931_z.jpg" width="640" height="480" alt="ISUW_2024: Session 4: Energy Positive Smart Buildings and Campuses (In Collaboration with USAID/SAREP)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315596690" title="ISUW_2024: Session 4: Energy Positive Smart Buildings and Campuses (In Collaboration with USAID/SAREP)"><img src="https://live.staticflickr.com/65535/53602114122_656c849931_z.jpg" width="488" height="170" alt="ISUW_2024: Session 4: Energy Positive Smart Buildings and Campuses (In Collaboration with USAID/SAREP)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
       <div class="col-md-6">
@@ -214,7 +214,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: 3rd India - Germany Smart Energy Workshop - Theme: Demand Response(In Collaboration with GIZ) | 14 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315611323" title="ISUW_2024: 3rd India - Germany Smart Energy Workshop - Theme: Demand Response(In Collaboration with GIZ)"><img src="https://live.staticflickr.com/65535/53603349226_72e6e3087a_z.jpg" width="640" height="480" alt="ISUW_2024: 3rd India - Germany Smart Energy Workshop - Theme: Demand Response(In Collaboration with GIZ)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315611323" title="ISUW_2024: 3rd India - Germany Smart Energy Workshop - Theme: Demand Response(In Collaboration with GIZ)"><img src="https://live.staticflickr.com/65535/53603349226_72e6e3087a_z.jpg" width="488" height="170" alt="ISUW_2024: 3rd India - Germany Smart Energy Workshop - Theme: Demand Response(In Collaboration with GIZ)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
     </div>
@@ -225,7 +225,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Workshop on Innovative Technologies for Energy Transition (In Collaboration With The UK Government) | 14 Mar 2024
           </h3>
           <ul>  
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315611423" title="ISUW_2024: Workshop on Innovative Technologies for Energy Transition (In Collaboration With The UK Government)"><img src="https://live.staticflickr.com/65535/53603356801_14ecedda00_z.jpg" width="640" height="480" alt="ISUW_2024: Workshop on Innovative Technologies for Energy Transition (In Collaboration With The UK Government)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315611423" title="ISUW_2024: Workshop on Innovative Technologies for Energy Transition (In Collaboration With The UK Government)"><img src="https://live.staticflickr.com/65535/53603356801_14ecedda00_z.jpg" width="488" height="170" alt="ISUW_2024: Workshop on Innovative Technologies for Energy Transition (In Collaboration With The UK Government)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
       <div class="col-md-6">
@@ -233,7 +233,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Session-5: Virtual Power Plants (VPPS) and Power System Flexibility | 14 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315606601" title="ISUW_2024: Session-5: Virtual Power Plants (VPPS) and Power System Flexibility"><img src="https://live.staticflickr.com/65535/53603709729_7db9093bfa_z.jpg" width="640" height="480" alt="ISUW_2024: Session-5: Virtual Power Plants (VPPS) and Power System Flexibility"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315606601" title="ISUW_2024: Session-5: Virtual Power Plants (VPPS) and Power System Flexibility"><img src="https://live.staticflickr.com/65535/53603709729_7db9093bfa_z.jpg" width="488" height="170" alt="ISUW_2024: Session-5: Virtual Power Plants (VPPS) and Power System Flexibility"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
     </div>
@@ -244,7 +244,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: The Cooling Challenge – Cooling as a Service against Monthly Fee through District Cooling Systems (DCS) (In Collaboration with BEE) | 14 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315606746" title="ISUW_2024: The Cooling Challenge – Cooling as a Service against Monthly Fee through District Cooling Systems (DCS) (In Collaboration with BEE)"><img src="https://live.staticflickr.com/65535/53603376026_a6015f4795_z.jpg" width="640" height="480" alt="ISUW_2024: The Cooling Challenge – Cooling as a Service against Monthly Fee through District Cooling Systems (DCS) (In Collaboration with BEE)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315606746" title="ISUW_2024: The Cooling Challenge – Cooling as a Service against Monthly Fee through District Cooling Systems (DCS) (In Collaboration with BEE)"><img src="https://live.staticflickr.com/65535/53603376026_a6015f4795_z.jpg" width="488" height="170" alt="ISUW_2024: The Cooling Challenge – Cooling as a Service against Monthly Fee through District Cooling Systems (DCS) (In Collaboration with BEE)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
       <div class="col-md-6">
@@ -252,7 +252,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Session - 6: Climate Resilience of Future Grids (In Collaboration with CDRI) | 14 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315599222" title="ISUW_2024: Session - 6: Climate Resilience of Future Grids (In Collaboration with CDRI)"><img src="https://live.staticflickr.com/65535/53603727399_8fe079f7cd_z.jpg" width="640" height="480" alt="ISUW_2024: Session - 6: Climate Resilience of Future Grids (In Collaboration with CDRI)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315599222" title="ISUW_2024: Session - 6: Climate Resilience of Future Grids (In Collaboration with CDRI)"><img src="https://live.staticflickr.com/65535/53603727399_8fe079f7cd_z.jpg" width="488" height="170" alt="ISUW_2024: Session - 6: Climate Resilience of Future Grids (In Collaboration with CDRI)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
     </div>
@@ -263,7 +263,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Session - 7: Nuclear Renaissance and the Role of SMR in Net Zero Power Systems (In Collaboration with NEI, EDF, BARC/NPCIL and NTPC) | 14 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315612173" title="ISUW_2024: Session - 7: Nuclear Renaissance and the Role of SMR in Net Zero Power Systems (In Collaboration with NEI, EDF, BARC/NPCIL and NTPC)"><img src="https://live.staticflickr.com/65535/53602542257_4f3e100f56_z.jpg" width="640" height="480" alt="ISUW_2024: Session - 7: Nuclear Renaissance and the Role of SMR in Net Zero Power Systems (In Collaboration with NEI, EDF, BARC/NPCIL and NTPC)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315612173" title="ISUW_2024: Session - 7: Nuclear Renaissance and the Role of SMR in Net Zero Power Systems (In Collaboration with NEI, EDF, BARC/NPCIL and NTPC)"><img src="https://live.staticflickr.com/65535/53602542257_4f3e100f56_z.jpg" width="488" height="170" alt="ISUW_2024: Session - 7: Nuclear Renaissance and the Role of SMR in Net Zero Power Systems (In Collaboration with NEI, EDF, BARC/NPCIL and NTPC)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
       <div class="col-md-6">
@@ -271,7 +271,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Presentation of Select Technical Papers | 14 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315607501" title="ISUW_2024: Presentation of Select Technical Papers"><img src="https://live.staticflickr.com/65535/53603643003_480f29da21_z.jpg" width="640" height="480" alt="ISUW_2024: Presentation of Select Technical Papers"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315607501" title="ISUW_2024: Presentation of Select Technical Papers"><img src="https://live.staticflickr.com/65535/53603643003_480f29da21_z.jpg" width="488" height="170" alt="ISUW_2024: Presentation of Select Technical Papers"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
     </div>
@@ -282,7 +282,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
           <h3 class="p-head">ISUW_2024: Session – 8: Super Grids for Energy Transition and Energy Security - Cross Border Electricity Trade in South Asia and Interconnection of Regional Grids in Asia (Sessin Partner - GO15, PGCIL*, UNEP*, USAID* and Hitachi Energy) | 14 Mar 2024
           </h3>
           <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315601845" title="ISUW_2024: Session – 8: Super Grids for Energy Transition and Energy Security - Cross Border Electricity Trade in South Asia and Interconnection of Regional Grids in Asia (Sessin Partner - GO15, PGCIL*, UNEP*, USAID* and Hitachi Energy)"><img src="https://live.staticflickr.com/65535/53603463286_e272c284f5_z.jpg" width="640" height="480" alt="ISUW_2024: Session – 8: Super Grids for Energy Transition and Energy Security - Cross Border Electricity Trade in South Asia and Interconnection of Regional Grids in Asia (Sessin Partner - GO15, PGCIL*, UNEP*, USAID* and Hitachi Energy)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315601845" title="ISUW_2024: Session – 8: Super Grids for Energy Transition and Energy Security - Cross Border Electricity Trade in South Asia and Interconnection of Regional Grids in Asia (Sessin Partner - GO15, PGCIL*, UNEP*, USAID* and Hitachi Energy)"><img src="https://live.staticflickr.com/65535/53603463286_e272c284f5_z.jpg" width="488" height="170" alt="ISUW_2024: Session – 8: Super Grids for Energy Transition and Energy Security - Cross Border Electricity Trade in South Asia and Interconnection of Regional Grids in Asia (Sessin Partner - GO15, PGCIL*, UNEP*, USAID* and Hitachi Energy)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
           </ul>
       </div>
       <div class="col-md-6">
