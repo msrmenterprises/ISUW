@@ -54,9 +54,8 @@
                            </p>
                         </div>
                      </div>
-                  </div>
+                 
 
-                  <div class="card-box">
                       <div class="ministry">
                      <h2>Supporting<br> 
                         Ministries 2024
