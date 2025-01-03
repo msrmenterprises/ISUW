@@ -40,6 +40,22 @@
             </div>
             <div class="row">
                <div class="col-lg-3">
+
+                  <div class="card-box">
+                     <div class="ministry">
+                        <h2>Supporting<br> 
+                        Ministries 2025
+                        </h2>
+                        <div class="logo-div">
+                           <p>
+                              <a href="https://powermin.gov.in/">
+                                 <img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MOP Golden.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" />
+                              </a>  
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+
                   <div class="card-box">
                       <div class="ministry">
                      <h2>Supporting<br> 
@@ -77,7 +93,7 @@
 
                   <a class="btn btn-light-section" style="border: 2px solid #EF7B00;" href=" /theme-and-session-partners-2024">View All</a>
               </div>
-					  <!--<div class="row justify-content-center mt-4">
+					  <div class="row justify-content-center mt-4">
                        <h2>Thematic Session Partners
                      </h2>
                         <div class="col-lg-8 utilitesSlick slick-initialized slick-slider"><button type="button" class="slick-prev pull-left slick-arrow" style="display: block;"><img src="images/arrow-left2.png"></button>
