@@ -43,8 +43,8 @@
 
                   <div class="card-box">
                      <div class="ministry">
-                        <h2>Supporting<br> 
-                        Ministries 2025
+                        <h2>SUPPORTING <br> 
+                        MINISTRY 2025
                         </h2>
                         <div class="logo-div">
                            <p>
@@ -57,8 +57,8 @@
                  
 
                       <div class="ministry">
-                     <h2>Supporting<br> 
-                        Ministries 2024
+                     <h2>SUPPORTING<br> 
+                        MINISTRIES 2024
                      </h2>
 <div class="logo-div"><p><a href="https://powermin.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MOP Golden.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div>
 <div class="logo-div"><p><a href="https://mnre.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MNRE GOLDEN.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div>
