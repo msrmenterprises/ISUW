@@ -2,6 +2,9 @@
 @section('content')
 
  <div class="container">
+	<style>
+		.tabletheme, td, th{padding:6px;}
+	</style>
  <div class="row justify-content-left ">     
 <p></p>
 
@@ -12,7 +15,7 @@
 	</div>
 	<!--<marquee>	Due to technical error in the server,  we are unable to process your registration at the moment.  Please check this page again in a few hours for registration. You may also write an email to us on email id <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> for offline registration and payment. Thank you for your patience and we regret the inconvenience.</marquee>
 -->
-	<img src="https://isuw.in/public/uploads/images/register-banner.jpg" height="500px;"></img>
+	<!-- <img src="https://isuw.in/public/uploads/images/register-banner.jpg" height="500px;"></img> -->
 	<p></p>
 	<div class="k_cheading">
 	<a href="https://isuw2024.groupthink.events/">
@@ -24,13 +27,13 @@
 <li style="list-style:none; text-align:center"><a href="mailto:isuw@isuw.in" target="_blank" class="getstartedd ">International Registration</a></li>-->
 	<p></p>
 	
-    <table border="1">
+    <table class="tabletheme" border="1">
         <thead>
             <tr style="background: #EF7B00;color: white;">
-                <th style="padding:6px">Registration Categories</th>
-                <th style="padding:6px">Fee in INR + 18% GST Extra</th>
-                <th style="padding:6px">Fee in USD + Taxes</th>
-                <th style="padding:6px">Package Includes Passes For</th>
+                <th>Registration Categories</th>
+                <th>Fee in INR + 18% GST Extra</th>
+                <th>Fee in USD + Taxes</th>
+                <th>Package Includes Passes For</th>
             </tr>
         </thead>
         <tbody>
@@ -109,11 +112,11 @@
     <p>*18% GST will be applicable on all the above-mentioned amounts</p>
 
 	<h2>Offers and Discounts</h2>
-    <table border="1">
+    <table class="tabletheme" border="1">
         <thead>
 		<tr style="background: #EF7B00;color: white;">
-			<th style="padding:6px">Discount Percentage</th>
-			<th style="padding:6px">Terms and Conditions</th>
+			<th>Discount Percentage</th>
+			<th>Terms and Conditions</th>
 		</tr>
         </thead>
         <tbody>
