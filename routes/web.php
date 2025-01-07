@@ -133,6 +133,9 @@ Route::get('/admin', function () {
   Route::get('/register__ISUW2024', function () {
       return view('/components/register__ISUW2024');
  });
+ Route::get('/register', function () {
+     return view('/components/register');
+});
  Route::get('/key-highlights', function () {
       return view('/components/key-highlights');
  });
