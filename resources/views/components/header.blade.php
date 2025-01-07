@@ -17,7 +17,7 @@
 					 <li><a href="https://www.instagram.com/indiasmartgridforum/"><img src="/images/insta.jpg" style="width:25px; height:25px;"></a></li>
                      <li><a href="https://www.youtube.com/results?search_query=india+smart+grid+forum"><img src="images/youtube.png"></a></li>
                      <li><a href="https://www.flickr.com/photos/indiasmartgridforum"><img src="/images/flickr.png"></a></li>
-                     <li><a href="#" class="getstarted ">Register Now</a></li>
+                     <li><a href="register" class="getstarted ">Register Now</a></li>
                   </ul>
                </div>
             </div>

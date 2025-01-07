@@ -38,7 +38,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>Conference Full Pass</td>
+                <td>Conference Full Pass<br/>3 Day Conference and Exhibition package with Special Workshops, Master classes, Technical Tours, Gala Dinner and ISGF Innovation Awards (18 - 22March 2025)</td>
                 <td>40,000*</td>
                 <td>500*</td>
                 <td>

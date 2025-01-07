@@ -7,7 +7,7 @@ color:#EF7B00;
          <div class="container">
               <!--<li style="list-style:none; text-align:center"><a href="https://isuw.in/register__ISUW2024" target="_blank" class="getstartedd ">Register Now</a></li>
        -->
-       <li style="list-style:none; text-align:center"><a href="#" target="_blank" class="getstartedd ">Register Now</a></li>
+       <li style="list-style:none; text-align:center"><a href="register" target="_blank" class="getstartedd ">Register Now</a></li>
        
 		 <!--<div class="register-now" style="
     text-align: center;"><a href="http://www.isgw.in/isuw-registration-2021/" target="_blank"><img src="http://www.isgw.in/wp-content/uploads/2017/09/Register_Now_Button.png" style="width:15%;"></a></div>-->

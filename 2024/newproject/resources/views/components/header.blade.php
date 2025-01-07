@@ -17,7 +17,7 @@
 					 <li><a href="#"><img src="images/insta.jpg" style="width:25px; height:25px;"></a></li>
                      <li><a href="#"><img src="images/youtube.png"></a></li>
                      <li><a href="#"><img src="images/flickr.png"></a></li>
-                     <li><a href="#" class="getstarted ">Register Now</a></li>
+                     <li><a href="register" class="getstarted ">Register Now</a></li>
                   </ul>
                </div>
             </div>
@@ -94,7 +94,7 @@
 					 <li><a href="#">Enquiry</a></li>
                   </ul>
                </li>
-               <li><a class="getstarted scrollto" href="#">Register Now</a></li>
+               <li><a class="getstarted scrollto" href="register">Register Now</a></li>
             </ul> 
             <!-- .navbar -->
          </div>
