@@ -18,9 +18,9 @@
 	<!-- <img src="https://isuw.in/public/uploads/images/register-banner.jpg" height="500px;"></img> -->
 	<p></p>
 	<div class="k_cheading">
-	<a href="https://isuw2024.groupthink.events/">
+	
 	<img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
-	</a>
+	
 	</div>
 <!--<li style="list-style:none; text-align:center"><a href="mailto:isuw@isuw.in" target="_blank" class="getstartedd ">Indian Registration</a></li>
 <p></p>
@@ -153,9 +153,9 @@ letter request please register yourself and send us a request for visa letter on
 <p></p>
 
 	<div class="k_cheading">
-	<a href="https://isuw2024.groupthink.events/">
+	
 	<img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
-	</a>
+	
 	</div>
 	<!--<li style="list-style:none; text-align:center"><a href="mailto:isuw@isuw.in" target="_blank" class="getstartedd ">Indian Registration</a></li>
 <p></p>
