@@ -26,11 +26,11 @@
 	
     <table border="1">
         <thead>
-            <tr>
-                <th>Registration Categories</th>
-                <th>Fee in INR + 18% GST Extra</th>
-                <th>Fee in USD + Taxes</th>
-                <th>Package Includes Passes For</th>
+            <tr style="background: #EF7B00;color: white;">
+                <th style="padding:6px">Registration Categories</th>
+                <th style="padding:6px">Fee in INR + 18% GST Extra</th>
+                <th style="padding:6px">Fee in USD + Taxes</th>
+                <th style="padding:6px">Package Includes Passes For</th>
             </tr>
         </thead>
         <tbody>
@@ -108,12 +108,42 @@
     </table>
     <p>*18% GST will be applicable on all the above-mentioned amounts</p>
 
+	<h2>Offers and Discounts</h2>
+    <table border="1">
+        <thead>
+		<tr style="background: #EF7B00;color: white;">
+			<th style="padding:6px">Discount Percentage</th>
+			<th style="padding:6px">Terms and Conditions</th>
+		</tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>20%</td>
+                <td>Early Bird offer is valid till 10 Feb 2025. To get this code, please write to us at secretariat@isuw.in and isuw@isuw.in with your organisation details</td>
+            </tr>
+            <tr>
+                <td>20%</td>
+                <td>Only for ISGF Members valid till 20 Feb 2025. To get this code, please write to us at secretariat@isuw.in and isuw@isuw.in with your organisation details</td>
+            </tr>
+            <tr>
+                <td>20%</td>
+                <td>This offer is valid for Delegate group of 4 till 15 Feb 2025. In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at secretariat@isuw.in and isuw@isuw.in with delegate details such as Name, Email id, and Company Name</td>
+            </tr>
+            <tr>
+                <td>30%</td>
+                <td>This offer is valid for Delegate group of 5 and above till 15 Feb 2025. In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at secretariat@isuw.in and isuw@isuw.in with Delegate Details such as Name, Email id, and Company Name</td>
+            </tr>
+        </tbody>
+    </table>
+
 
 
 
 <p><b>Disclaimer:</b><br/>
 <ul>
-    <li>All the Foreign Delegates interested in visiting ISUW 2024 may apply for e-visa.</li>
+    <li>All the Foreign Delegates interested in visiting ISUW 2025 may apply for e-visa.For Visa
+letter request please register yourself and send us a request for visa letter on email id
+<a href="mailto:isuw@isuw.in">isuw@isuw.in</a></li>
     <li>ISGF holds the right of admission, registration cancellation and to revoke any discount offers</li>
 <li>GST and other important charges will be over and above the mentioned fee</li>
 <li>For queries, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a></li></ul>
