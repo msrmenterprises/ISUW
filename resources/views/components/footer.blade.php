@@ -28,7 +28,7 @@ color:#EF7B00;
                      <p></p>
                      <ul class="social-media d-flex">
                         <li class="ms-0"><a href="https://www.facebook.com/IndiaSmartUtilityWeek" target="_blank"><img src="images/facebook.png"></a></li>
-                        <li><a href="https://twitter.com/ISUW_India" target="_blank"><img src="images/WhiteTwitter.png"></a></li> 
+                        <li><a href="https://twitter.com/ISUW_India" target="_blank"><img src="images/twitter.png"></a></li> 
                         <li><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="images/linkedin.png"></a></li>
 						<li><a href="https://www.instagram.com/indiasmartgridforum/?utm_medium=copy_link" target="_blank"><img src="images/insta.jpg" style="width:25px; height:25px;"></a></li>
                         <li><a href="https://www.youtube.com/results?search_query=india+smart+grid+forum"target="_blank"><img src="images/youtube.png"></a></li>
