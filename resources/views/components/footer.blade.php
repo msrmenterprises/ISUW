@@ -43,15 +43,16 @@ color:#EF7B00;
 					 <h6 style="color:#4EBC3C; font-size: 17px;"><b>ISGF Innovation Award Categories</b></h6>
                      <ol class="list-group list-group-numbered">
                      <li>Best Smart Grid Project in India</li>
-                     <li>Adoption of Artificial Intelligence, Machine Learning and Robotic Solutions</li>
                      <li>Most Innovative Renewable Energy Programs/Projects in India</li>
-                      <li>Smart Start-up of the Year</li> 
                      <li>Smart Technology</li>
+                      <li>Emerging Innovation in Electric Mobility Domain</li> 
+                     <li>Adoption of Artificial Intelligence, Machine Learning and Robotic Solutions</li>
+                     <li>Smart Start-up of the Year</li>
                      <li>Smart Incubator of the Year</li>
-                     <li>Finance For Energy Transition</li>
-                     <li>Emerging Innovation in Electric Mobility Domain</li>
+                     <li>Innovative Financing For Energy Transition</li>
                      <li>Waste-to-Energy Projects (W2E)</li>
-                     <li>Women in Power</li>
+                     <li>Woman in Energy and Utilities</li>
+                     <li>ISGF President's Award for the Best Contribution towards Energy Transition in India</li>
                       </ol>
 					 <div class="register-now">
 					 <a href="http://www.isuw.in/innovation-awards" class="button" target="_blank">Read details</a>
@@ -164,6 +165,6 @@ color:#EF7B00;
     <a href="https://www.isuw.in/conference-agenda-and-program-2025" class="buttonbrochuree" target="_blank">ISUW Agenda</a>
 	</div>
 	<div class="k_fixed_bro">
-    <a href="http://isuw.in/public/images/ISUW-2025-BROCHURE.pdf" class="buttonbrochure" target="_blank">Download Brochure</a>
+    <a href="https://isuw.in/public/images/ISUW-2025-BROCHURE.pdf" class="buttonbrochure" target="_blank">Download Brochure</a>
 	</div>
       </section>
