@@ -93,7 +93,7 @@ a:hover {
            // display
            document.getElementById("timer").innerHTML =
              "<div class=\"days\"> \
-           <div class=\"numbers\">" + days + "</div>days</div> \
+           <div class=\"numbers\">" + dayswww + "</div>days</div> \
          <div class=\"hours\"> \
            <div class=\"numbers\">" + hours + "</div>hours</div> \
          <div class=\"minutes\"> \

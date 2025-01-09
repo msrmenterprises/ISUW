@@ -981,7 +981,7 @@
             </div>
             <div id="timer">
                <div class="days">
-                  <div class="numbers">316</div>dayssss
+                  <div class="numbers">316</div>days
                </div>
                <div class="hours">            
                   <div class="numbers">10</div>hours
