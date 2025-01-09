@@ -946,7 +946,7 @@
       <section class="page-section isuw-countdown">
          <div class="container">
             <div class="section-title">
-               <h2 class="text-black">ISUW 2025 Countdown1s</h2>
+               <h2 class="text-black">ISUW 2025 Countdown</h2>
             </div>
 	<!--	<div class="elementor-widget-container">
 <div class="elementor-countdown-wrapper" data-date="1615556460">
@@ -979,7 +979,7 @@
                <div class="triangle"></div>
                <div class="string"></div>
             </div>
-            <div id="timer">
+            <!-- <div id="timer">
                <div class="days">
                   <div class="numbers">316</div>days
                </div>
@@ -992,6 +992,6 @@
                <div class="seconds">            
                   <div class="numbers">3</div>seconds</div>          
                </div>
-         </div>
+         </div> -->
       </section>
       @endsection
