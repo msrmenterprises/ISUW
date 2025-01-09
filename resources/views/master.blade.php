@@ -91,7 +91,7 @@ a:hover {
            let seconds = Math.floor((diff % (1000 * 60)) / 1000);
          
            // display
-           document.getElementById("timer").innerHTML =
+           document.getElementById("timer111").innerHTML =
              "<div class=\"days\"> \
            <div class=\"numbers\">" + days + "</div>daysssss</div> \
          <div class=\"hours\"> \
