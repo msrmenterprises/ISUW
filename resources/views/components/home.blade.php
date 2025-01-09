@@ -980,18 +980,7 @@
                <div class="string"></div>
             </div>
             <div id="timer">
-               <!-- <div class="days">
-                  <div class="numbers">316</div>days
-               </div>
-               <div class="hours">            
-                  <div class="numbers">10</div>hours
-               </div>
-               <div class="minutes">            
-                  <div class="numbers">49</div>minutes
-               </div>          
-               <div class="seconds">            
-                  <div class="numbers">3</div>seconds</div>          
-               </div> -->
+               
          </div>
       </section>
       @endsection
