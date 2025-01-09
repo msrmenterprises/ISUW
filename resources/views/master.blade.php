@@ -62,7 +62,7 @@ a:hover {
       <script src="https://kenwheeler.github.io/slick/slick/slick.js"></script>
       <script src="./public/js/bootstrap.bundle.min.js"></script>
       <script src="./public/js/script.js"></script>
-      <script>
+      <!-- <script>
          const year = new Date().getFullYear();
          const tenthOfJuly = new Date(year, 13,4).getTime();
          const tenthOfJulyNextYear = new Date(year + 1, 2, 18).getTime();
@@ -93,7 +93,7 @@ a:hover {
            // display
            document.getElementById("timer").innerHTML =
              "<div class=\"days\"> \
-           <div class=\"numbers\">" + days + "</div>daysssss</div> \
+           <div class=\"numbers\">" + days + "</div>days</div> \
          <div class=\"hours\"> \
            <div class=\"numbers\">" + hours + "</div>hours</div> \
          <div class=\"minutes\"> \
@@ -103,6 +103,47 @@ a:hover {
          </div>";
          
          }, 1000);
+      </script> -->
+
+      <script>
+      // Set the target date to 18th March 2025 at 10:00 AM
+      const targetDate = new Date(2025, 2, 18, 10, 0, 0).getTime();
+
+      // Countdown function
+      let timer = setInterval(function() {
+
+      // Get today's date and time
+      const today = new Date().getTime();
+
+      // Calculate the difference
+      let diff = targetDate - today;
+
+      // If the target date has passed, stop the timer
+      if (diff < 0) {
+          clearInterval(timer);
+          document.getElementById("timer").innerHTML = "The countdown has ended!";
+          return;
+      }
+
+      // Calculate days, hours, minutes, and seconds
+      let days = Math.floor(diff / (1000 * 60 * 60 * 24));
+      let hours = Math.floor((diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      let minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+      let seconds = Math.floor((diff % (1000 * 60)) / 1000);
+
+      // Display the result
+      document.getElementById("timer").innerHTML =
+          "<div class=\"days\"> \
+          <div class=\"numbers\">" + days + "</div>days</div> \
+          <div class=\"hours\"> \
+          <div class=\"numbers\">" + hours + "</div>hours</div> \
+          <div class=\"minutes\"> \
+          <div class=\"numbers\">" + minutes + "</div>minutes</div> \
+          <div class=\"seconds\"> \
+          <div class=\"numbers\">" + seconds + "</div>seconds</div>";
+
+      }, 1000);
       </script>
+
     </body>
 </html>
