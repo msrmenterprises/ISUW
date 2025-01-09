@@ -979,8 +979,8 @@
                <div class="triangle"></div>
                <div class="string"></div>
             </div>
-            <!-- <div id="timer">
-               <div class="days">
+            <div id="timer">
+               <!-- <div class="days">
                   <div class="numbers">316</div>days
                </div>
                <div class="hours">            
@@ -991,7 +991,7 @@
                </div>          
                <div class="seconds">            
                   <div class="numbers">3</div>seconds</div>          
-               </div>
-         </div> -->
+               </div> -->
+         </div>
       </section>
       @endsection
