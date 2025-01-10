@@ -244,18 +244,17 @@ Portal, Chat-bot, Voice-bot </li>
     </h2>
     <div id="flush-collapsetwo" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-	  <P STYLE="margin-bottom: 0.11in">1. To Submit the Abstract for ISUW 2025, please visit the following link:<A HREF="https://forms.gle/F12C1inTWREcTcMd9" target="_blank">https://forms.gle/F12C1inTWREcTcMd9</A><br/>
+		<P STYLE="margin-bottom: 0.11in">
+		1. To submit the Abstract for ISUW 2025, please visit the following link  <A HREF="https://forms.gle/Xdi6uzQime1LbCck7" target="_blank">https://forms.gle/Xdi6uzQime1LbCck7</A><br/>
 
-2. Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers<br/>
-3. <b>Abstract of paper:</b> Max 250 words to be submitted with this application latest by <b>16 August 2024</b><br/>
-4. Shortlisted Paper Abstracts will be announced by <b>30th September 2024</b> for Full Paper
-Submission<br/>
-5. Full Paper: Authors of shortlisted papers will be required to submit the full paper in
-IEEE paper format by <b>15th October 2024</b> |Max: 6 pages / 1200 Words | (Download the
-format from following link: <a href="https://shorturl.at/JogXr" target="_blank"> https://shorturl.at/JogXr</a><br/>
-6. Shortlisted Papers will be announced by <b>31 November 2024</b><br/>
-7. Papers deemed purely commercial in nature will not be selected<br/>
-8. For queries email us at: <a href="tp@isuw.in">tp@isuw.in</a></p>
+		2. Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers<br/>
+		3. <b>Abstract of paper:</b> Max 250 words to be submitted with this application latest by <b>16 August 2024</b><br/>
+		4. Shortlisted Paper Abstracts will be announced by <b>30th September 2024</b> for Full Paper
+		Submission<br/>
+		5. Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 5th January 2025 |Max: 6 pages / 1200 Words | (Download the format from following link: <a href="https://shorturl.at/JogXr" target="_blank">Conference-template-A4 _IEEE.doc </a><br/>
+		6. SShortlisted Papers will be announced by <b>21st January 2025</b><br/>
+		7. Papers deemed purely commercial in nature will not be selected<br/>
+		8. For queries email us at: <a href="tp@isuw.in">tp@isuw.in</a></p>
 	  </div></div></div></div>
 	  <p align="center" style="line-height: 108%; margin-bottom: 0.11in"></p>
 	  <div class="accordion accordion-flush" id="accordionFlushExample">
