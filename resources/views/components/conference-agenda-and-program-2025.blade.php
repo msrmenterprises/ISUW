@@ -14,7 +14,7 @@
 
 <p style="text-align:center; font-size:16px;"><a href="images/2025/ISUW2025agenda.pdf" target="_blank" class="getstartedd ">Download Agenda</a></p>
 
-<iframe src="mages//2025/ISUW2025agenda.pdf" height="600" width="150" title="Agenda" style="width: 800px;text-align: center;"></iframe><p></p>
+<iframe src="images/2025/ISUW2025agenda.pdf" height="600" width="150" title="Agenda" style="width: 800px;text-align: center;"></iframe><p></p>
 </div>
 </div>
 
