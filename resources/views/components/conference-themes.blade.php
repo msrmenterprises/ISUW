@@ -1,6 +1,8 @@
 @extends('master')
 @section('content')
-
+<style>
+  ul {margin-left:16px !important;}
+  </style>
  <div class="container">
  <div class="row justify-content-left ">
 <p></p>
@@ -155,6 +157,7 @@ Systems</li>
  <li>TECHNICAL DEMONSTRATION - Hot Line Maintenance on 11 kV and LT Lines (In
  collaboration with TPDDL and Altec) *</li>
 </ul>
+<p></p>
  <p style="color:#ed7d31;">CULTURAL TOURS (ALL DAY)</p>
  <ul><li>TOUR 4 – TAJ MAHAL</li>
  <li>TOUR 5 - DELHI</li>
