@@ -133,7 +133,7 @@
                         </div>
                         <div class="col-lg-3">
                            <div class="spot-div">
-                              <a href="https://www.isuw.in/conference-agenda-and-program-2024" target="_blank">
+                              <a href="https://www.isuw.in/conference-agenda-and-program-2025" target="_blank">
                                  <img src="images/spot03.png" class="logo-img " alt="...">
                                  <h3>ISUW <br/>
                                     Agenda
