@@ -342,7 +342,7 @@ kind support from industries like Siemens, Emerson, L
 for test-bed on security of cyber physical systems.</FONT></P>
 		</TD>
 	</TR>
-	<TR>
+	<!-- <TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/n.murgan.PNG" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><BR><BR>
@@ -388,8 +388,8 @@ was the Chairman to bring Smart Meter standard -BIS
 16444 and CBIP Manual for Energy Meter.
 </FONT></P>
 		</TD>
-	</TR>
-	<TR>
+	</TR> -->
+	<!-- <TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/ravi.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
 			<P><FONT ><B>Mr. Ravi Seethapathy, <BR>Ambassador Americas, Global
@@ -441,10 +441,10 @@ Electrification Excellence”.<FONT ><B>
 			</P>
 			
 		</TD>
-	</TR>
+	</TR> -->
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
 			<P><FONT ><B>Mr. BP Singh&nbsp;&nbsp;&nbsp;<BR>Former
 			Member<BR>Delhi Electricity Regulatory Commission (DERC)</B></FONT></P>
 		</TD>
@@ -466,7 +466,7 @@ He had been adjudged and awarded Best Director Projects Corporate Excellence Awa
 			
 		</TD>
 	</TR>
-		<TR>
+		<!-- <TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/rish.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
 			<P><FONT ><B>Mr. Rish Ghatikar <br/>
@@ -494,7 +494,33 @@ dynamic pricing strategies. Ghatikar&#39;s work has
 appeared in over 100 scientific publications. </FONT></P>
 			
 		</TD>
+	</TR> -->
+
+	<TR>
+		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="#" alt="Rajesh Bansal" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+			<P><FONT ><B>Mr. Rajesh Bansal
+			<BR>Former CEO of BSES Rajdhani Power Ltd
+			</B></FONT></P>
+		</TD>
+		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
+			Rajesh Bansal started his career as Scientist in Indian Space Research Organization. Later he was involved in the development of first Single Phase Electronic Meter, in India. He has worked for various energy meter companies including DZG Germany. In 2004, he joined BSES Delhi, Reliance
+			group, as Head of Meter Management and Energy Audit and in 2021 reached to position of CEO.</p>	
+			<p>He has good exposure of world-wide metering, data usage and power distribution technology. He
+			has shared his experience with various international meter manufacturers, Meter ASIC designers,
+			Utilities and service providers to Utilities across the globe. He has written a series of papers about
+			“Role of energy meters and usage of meter data”, Smart Apps – next step to data analytics, How to
+			leverage benefits from smart grid data, validation of smart metering system, addressing utility
+			objectives</p>		
+			<p>Presently he is advising various companies and start Ups, sharing his knowledge and experience at
+			various platform, conduct session on “Fascinating world of power distribution” regularly to enhance
+			interest of student and young professional into core engineering. He is member of various
+			government committees/ task force and Chairman of CBIP Metering manual committee</p>
+		</TD>
 	</TR>
+
+
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/reji.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
