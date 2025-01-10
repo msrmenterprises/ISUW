@@ -8,7 +8,7 @@
   
 </style> 
  <div class="k_cheading">
-		<h1>ISUW 2024 <span class="k_greencolor">Technical Tours</span> </h1>
+		<h1>ISUW 2025 <span class="k_greencolor">Technical Tours</span> </h1>
 		<h4 style="text-align:center;">22nd March 2025</h4>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
