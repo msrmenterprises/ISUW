@@ -1,7 +1,7 @@
 @extends('master')
 @section('content')
 <style>
-  ul {margin-left:16px !important;}
+  ul {margin-left:30px !important;}
   </style>
  <div class="container">
  <div class="row justify-content-left ">
