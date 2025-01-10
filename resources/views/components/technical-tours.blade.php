@@ -9,7 +9,7 @@
 </style> 
  <div class="k_cheading">
 		<h1>ISUW 2024 <span class="k_greencolor">Technical Tours</span> </h1>
-		<h4 style="text-align:center;">16 March 2024 </h4>
+		<h4 style="text-align:center;">22nd March 2025</h4>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<div class="accordion accordion-flush" id="accordionFlushExample">
@@ -17,7 +17,7 @@
  <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsewinners-2" aria-expanded="false" aria-controls="flush-collapsewinners-2">
-       <H4 style="color: green;"><strong>16th March 2024 ( Saturday ) - Technical Tours  </strong></style></H4>
+       <H4 style="color: green;"><strong>22nd March 2025 ( Saturday ) - Technical Tours  </strong></style></H4>
       </button>
     </h2>
     <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
