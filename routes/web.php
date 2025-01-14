@@ -166,7 +166,7 @@ Route::get('/admin', function () {
  Route::get('/supporting-organization-2023', function () {
       return view('/components/supporting-organization-2023');
  });
- Route::get('/supporting-organization-2024', function () {
+ Route::get('/supporting-organization', function () {
       return view('/components/supporting-organization-2024');
  });
  Route::get('/media-and-marketing-partner-2022', function () {
