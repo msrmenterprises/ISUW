@@ -76,7 +76,7 @@ color:#EF7B00;
                      <h5 style="color:#4EBC3C;">Day 4 – 21 March 2025 (Friday)</h5>
                      <p>Conference &amp; Exhibition | ISGF Innovation Awards Ceremony &amp; Valedictory Function</p>
                      <h5 style="color:#4EBC3C;">Day 5 – 22 March 2025 (Saturday)</h5>
-                     <p>Technical Tours and Cultural Tours</p>
+                     <p>Technical Tours, Demonstration and Cultural Tours</p>
                   </div>
 				   <div class="register-now">
 					 <a href="http://www.isuw.in/conference-agenda-and-program-2025" class="button" target="_blank">Program Agenda</a>

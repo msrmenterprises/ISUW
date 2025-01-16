@@ -82,11 +82,18 @@ ul, li {
 .info .mrq{
 	width: 100%;
 }
+
 .pre-header ul.social-media {
     text-align: right;
 }
 .pre-header ul li {
     display: inline-block;
+}
+@media (max-width: 1400px) {
+  .pre-header ul.social-media li {
+    margin-left: 0;
+	    display: inline-block;
+}
 }
 .pre-header ul.social-media li {
     margin-left: 14px;

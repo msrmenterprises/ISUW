@@ -15,7 +15,7 @@
                      <li><a href="https://twitter.com/ISUW_India" target="_blank"><img src="/images/twitter.png"></a></li>
                      <li><a href="https://www.linkedin.com/company/7602312/admin/" target="_blank"><img src="/images/linkedin.png"></a></li>
 					 <li><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="/images/insta.jpg" style="width:25px; height:25px;"></a></li>
-                     <li><a href="https://www.youtube.com/results?search_query=india+smart+grid+forum" target="_blank"><img src="images/youtube.png"></a></li>
+                     <!-- <li><a href="https://www.youtube.com/results?search_query=india+smart+grid+forum" target="_blank"><img src="images/youtube.png"></a></li> -->
                      <li><a href="https://www.flickr.com/photos/indiasmartgridforum" target="_blank"><img src="/images/flickr.png"></a></li>
                      <li><a href="https://www.youtube.com/@INDIASMARTGRIDFORUM_" target="_blank"><img src="/images/youtube.png"></a></li>
                      
