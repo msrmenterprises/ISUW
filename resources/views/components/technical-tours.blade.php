@@ -8,7 +8,7 @@
   
 </style> 
  <div class="k_cheading">
-		<h1>ISUW 2025 <span class="k_greencolor">Technical Tours</span> </h1>
+		<h1>ISUW 2025 <span class="k_greencolor">Technical Tour & Demonstration</span> </h1>
 		<h4 style="text-align:center;">22nd March 2025</h4>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
@@ -17,14 +17,43 @@
  <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsewinners-2" aria-expanded="false" aria-controls="flush-collapsewinners-2">
-       <H4 style="color: green;"><strong>22nd March 2025 ( Saturday ) - Technical Tours  </strong></style></H4>
+       <H4 style="color: green;"><strong>22nd March 2025 ( Saturday )- ISUW Technical Tour & Demonstration  </strong></style></H4>
       </button>
     </h2>
     <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-	  <p>Tour 1 - NRLDC+REMC and TPDDL LAB + 10 MW BESS </p>
-	  <p>Tour 2 - TPDDL LAB + 10 MW BESS and NRLDC+REMC</p>
-	  <p>Tour 3 - 800 kV HVDC STATION IN AGRA + TAJ MAHAL </p>
+        <table border="1" cellpadding="10" cellspacing="0">
+      <tr>
+      <th>Tour</th>
+      <th>Description</th>
+      </tr>
+      <tr>
+      <td>Tour 1</td>
+      <td>NRLDC+REMC and TPDDL LAB + 10 MW BESS</td>
+      </tr>
+      <tr>
+      <td>Tour 2</td>
+      <td>TPDDL LAB + 10 MW BESS and NRLDC+REMC</td>
+      </tr>
+      <tr>
+      <td>Tour 3</td>
+      <td>800 kV HVDC STATION IN AGRA + TAJ MAHAL</td>
+      </tr>
+      <tr>
+      <td>Technical Demonstration</td>
+      <td>Hot Line Maintenance on 11 kV and LT Lines (In collaboration with TPDDL and Altec)</td>
+      </tr>
+      </table>
+      <p>*To Departure and Arrival will be from ISUW 2025 Venue. Passport and Visa Copy/ Aadhar Card Mandatory. Advance Registration Mandatory for ISUW Speakers, Partners, Exhibitors
+      and Delegates with Technical Tour / Demonstration Package</p>
+
+      <div class="k_cheading">
+        <a href="https://www.isuw.in/register">
+        <img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center"></img>
+        </a>
+        <p>*Registration in advance is Mandatory</p>
+    </div>
+
 </div></div></div></div>
 <p></p>
 
