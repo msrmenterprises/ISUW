@@ -80,7 +80,7 @@ ul, li {
 	    width: 171px;
 }
 .info .mrq{
-	width: 100%;
+	width: 100%; 
 }
 
 .pre-header ul.social-media {
@@ -319,6 +319,7 @@ font-family: 'Roboto Condensed';
 .k_cheading {
     text-align: center;
     margin-bottom: 30px;
+    margin-top:20px;
 }
 .logo-div  img{
 	  max-height:70px;

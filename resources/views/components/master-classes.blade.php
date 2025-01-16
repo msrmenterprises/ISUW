@@ -37,13 +37,18 @@
     </h2>
     <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-	  <p>Regency 3</p>
-	<div class="k_cheading">
-	<a href="https://isuw2024.groupthink.events/">
-	<img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
-	</a>
-	</div>
-</div></div></div></div>
+        <p>Regency 3</p>
+        
+      </div>
+    </div>
+  </div>
+  <div class="k_cheading">
+        <a href="https://isuw2024.groupthink.events/">
+        <img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
+        </a>
+        <p>*Registration in advance is Mandatory</p>
+    </div>
+</div>
 <p></p>
 
 <p></p>
