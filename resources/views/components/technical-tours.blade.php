@@ -41,7 +41,7 @@
       </tr>
       <tr>
       <td>Technical Demonstration</td>
-      <td>Hot Line Maintenance on 11 kV and LT Lines (In collaboration with TPDDL and Altec)</td>
+      <td>Hot Line Maintenance on 11 kV and LT Lines (In collaboration with TPDDL and Altec) <sup>*</sup></td>
       </tr>
       </table>
       <p>*To Departure and Arrival will be from ISUW 2025 Venue. Passport and Visa Copy/ Aadhar Card Mandatory. Advance Registration Mandatory for ISUW Speakers, Partners, Exhibitors
