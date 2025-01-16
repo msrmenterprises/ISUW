@@ -89,7 +89,7 @@ ul, li {
 .pre-header ul li {
     display: inline-block;
 }
-@media (max-width: 1400px) {
+@media (min-width: 1000px) and (max-width: 1400px) {
   .pre-header ul.social-media li {
     margin-left: 0;
 	    display: inline-block;
