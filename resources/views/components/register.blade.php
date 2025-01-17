@@ -42,13 +42,16 @@
                 <td>40,000*</td>
                 <td>500*</td>
                 <td>
-                    Access to ISUW Conference and Exhibition for 3 Days (19 – 21 March 2025)<br>
-                    Access to Master classes on 18 March 2025 and Technical Tours on 22 March 2025<br>
-                    1 coupon of the amazing lunch buffet spread for 3 days (19 – 21 March 2025)<br>
-                    High tea and coffee throughout the conference day<br>
-                    Exclusively designed Delegate Bag with goodies and information/details of the event, participating partners, sponsors, and exhibitors<br>
-                    Special access to ISGF Innovation Awards Night on 21 March 2025<br>
-                    Gala Dinner for 1 Pax on 21 March 2025
+                <ul class="theme">
+                    
+                <li>Access to ISUW Conference and Exhibition for 3 Days (19 – 21 March 2025)</li>
+                <li>Access to Master classes on 18 March 2025 and Technical Tours on 22 March 2025</li>
+                <li> 1 coupon of the amazing lunch buffet spread for 3 days (19 – 21 March 2025)</li>
+                <li> High tea and coffee throughout the conference day</li>
+                <li> Exclusively designed Delegate Bag with goodies and information/details of the event, participating partners, sponsors, and exhibitors</li>
+                <li> Special access to ISGF Innovation Awards Night on 21 March 2025<</li>
+                <li> Gala Dinner for 1 Pax on 21 March 2025</li>
+                </ul>   
                 </td>
             </tr>
             <tr>
@@ -56,12 +59,14 @@
                 <td>35,000*</td>
                 <td>450*</td>
                 <td>
-                    Access to ISUW Conference and Exhibition for 3 Days (19 – 21 March 2025)<br>
-                    1 coupon of the amazing lunch buffet spread for 3 days (19 – 21 March 2025)<br>
-                    High tea and coffee throughout the conference day<br>
-                    Exclusively designed Delegate Bag with goodies and information/details of the event, participating partners, sponsors, and exhibitors<br>
-                    Special access to ISGF Innovation Awards Night on 21 March 2025<br>
-                    Gala Dinner for 1 Pax on 21 March 2025
+                <ul class="theme">
+                    <li>Access to ISUW Conference and Exhibition for 3 Days (19 – 21 March 2025)</li>
+                    <li>1 coupon of the amazing lunch buffet spread for 3 days (19 – 21 March 2025)</li>
+                    <li>High tea and coffee throughout the conference day</li>
+                    <li> Exclusively designed Delegate Bag with goodies and information/details of the event, participating partners, sponsors, and exhibitors</li>
+                    <li>Special access to ISGF Innovation Awards Night on 21 March 2025</li>
+                    <li>Gala Dinner for 1 Pax on 21 March 2025</li>
+                </ul>    
                 </td>
             </tr>
             <tr>
@@ -75,8 +80,10 @@
                 <td>8,000*</td>
                 <td>100*</td>
                 <td>
-                    Access to Master Classes on 18 March 2025<br>
-                    3 Days Exhibition only (18 - 21 March 2025)
+                <ul class="theme">
+                    <li>Access to Master Classes on 18 March 2025</li>
+                    <li>3 Days Exhibition only (18 - 21 March 2025)</li>
+                </ul>    
                 </td>
             </tr>
             <tr>
@@ -84,12 +91,14 @@
                 <td>10,000</td>
                 <td>NA</td>
                 <td>
-                    Package including Master Classes, Conference, Exhibition, and Special Workshops<br>
-                    Attach/Email your valid ID card to avail the offer at isuw@isuw.in<br>
-                    Access to ISUW Conference and Exhibition for 3 days (13 – 15 March 2024)<br>
-                    1 coupon of the amazing lunch buffet spread for 3 days<br>
-                    High tea and coffee throughout the conference day<br>
-                    Please note: Only valid students with a valid ID card will be allowed to get this pass. ISGF holds the right to cancel the registration in case an invalid ID is found. The student ID card shall be emailed at isuw@isuw.in in advance
+                <ul class="theme">
+                    <li>Package including Master Classes, Conference, Exhibition, and Special Workshops</li>
+                    <li>Attach/Email your valid ID card to avail the offer at isuw@isuw.in</li>
+                    <li>Access to ISUW Conference and Exhibition for 3 days (13 – 15 March 2024)</li>
+                    <li>1 coupon of the amazing lunch buffet spread for 3 days</li>
+                    <li>High tea and coffee throughout the conference day</li>
+                    <li>Please note: Only valid students with a valid ID card will be allowed to get this pass. ISGF holds the right to cancel the registration in case an invalid ID is found. The student ID card shall be emailed at isuw@isuw.in in advance</li>
+                </ul>    
                 </td>
             </tr>
             <tr>
@@ -103,8 +112,10 @@
                 <td>Complimentary</td>
                 <td>Complimentary</td>
                 <td>
-                    For Registration of Indian Utility Officials, Attach/Email your valid ID card at yashika@indiasmartgrid.org<br>
-                    Valid requests will get access to ISUW Conference and Exhibition for 3 days (13 – 15 March 2024), 1 coupon of the amazing lunch buffet spread for 3 days, High tea and coffee throughout the conference day
+                <ul class="theme">
+                    <li>For Registration of Indian Utility Officials, Attach/Email your valid ID card at yashika@indiasmartgrid.org</li>
+                    <li>Valid requests will get access to ISUW Conference and Exhibition for 3 days (13 – 15 March 2024), 1 coupon of the amazing lunch buffet spread for 3 days, High tea and coffee throughout the conference day</li>
+                </ul>
                 </td>
             </tr>
         </tbody>
