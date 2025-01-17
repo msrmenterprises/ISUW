@@ -50,9 +50,9 @@
                 <li>Mentorship and ongoing support to advance their ideas and careers.</li>
             </ul>
         </div>
-        <div class="btn-group">
-            <a href="#" class="btn btn-primary">DOWNLOAD BROCHURE</a>
-            <a href="#" class="btn btn-success">REGISTER NOW</a>
+        <div class="k_cheading">
+            <a href="#" class="getstarted scrollto">DOWNLOAD BROCHURE</a>
+            <a href="#" class="getstarted scrollto">REGISTER NOW</a>
         </div>
     </div>
 </div>
