@@ -23,7 +23,7 @@
 		<div class="col-lg-3"><div class="logo-div"><a href="https://www.cigre.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="https://www.isuw.in/public/uploads/organizations/cigre.jpg" alt="" ></a></div></div>
 		<!-- <div class="col-lg-3"><div class="logo-div"><a href="https://ngsindia.org/" target="_blank" rel="attachment wp-att-5807 noopener noreferrer"><img class="aligncenter size-full wp-image-5807" style="width: 55% !important;" src="https://www.isuw.in/public/uploads/organizations/NGSLogo.png" alt="CEN" height="193"></a></div></div> -->
 		<div class="col-lg-3"><div class="logo-div"><a href="https://www.indiacgd.in/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="https://www.isuw.in/public/uploads/organizations/Indiacgd.jpeg" alt="" width="200" height="104"></a></div></div>
-		<div class="col-lg-3"><a href="#" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/AIDA.png" alt="" width="300" height="104"></a></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/AIDA.png" alt="" width="300" height="104"></a></div></div>
 	</div>
 	<div class="row justify-content-left ">
 
