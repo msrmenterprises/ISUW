@@ -37,7 +37,7 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
+            <tr style="font-weight:bold">
                 <td>Conference Full Pass<br/>3 Day Conference and Exhibition package with Special Workshops, Master classes, Technical Tours, Gala Dinner and ISGF Innovation Awards (18 - 22March 2025)</td>
                 <td>40,000*</td>
                 <td>500*</td>
@@ -55,13 +55,13 @@
                 </td>
             </tr>
             <tr>
-                <td>3 Day Conference and Exhibition package (Including Gala Dinner)</td>
-                <td>35,000*</td>
-                <td>450*</td>
+                <td><b>3 Day Conference and Exhibition package (Including Gala Dinner)</b></td>
+                <td><b>35,000*</b></td>
+                <td><b>450*</b></td>
                 <td>
                 <ul class="theme">
-                    <li>Access to ISUW Conference and Exhibition for 3 Days (19 – 21 March 2025)</li>
-                    <li>1 coupon of the amazing lunch buffet spread for 3 days (19 – 21 March 2025)</li>
+                    <li><b>Access to ISUW Conference and Exhibition for 3 Days (19 – 21 March 2025)</b></li>
+                    <li>1 coupon of the amazing lunch buffet spread for 3 days <b>(19 – 21 March 2025)</b></li>
                     <li>High tea and coffee throughout the conference day</li>
                     <li> Exclusively designed Delegate Bag with goodies and information/details of the event, participating partners, sponsors, and exhibitors</li>
                     <li>Special access to ISGF Innovation Awards Night on 21 March 2025</li>
