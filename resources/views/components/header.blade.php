@@ -57,6 +57,7 @@
                       <li><a href="/innovation-awards" target="_blank">Innovation Awards</a></li>
                        <li><a href="/technical-tours" target="_blank">Technical Tours </a></li>
                        <li><a href="/master-classes" target="_blank">Master Classes</a></li>
+                       <li><a href="/cultural-tours" target="_blank">Cultural Tours</a></li>
                   </ul>
                </li>
                <li class="dropdown">

@@ -191,6 +191,9 @@ Route::get('/admin', function () {
  Route::get('/master-classes', function () {
       return view('/components/master-classes');
  });
+ Route::get('/cultural-tours', function () {
+     return view('/components/cultural-tours');
+});
  Route::get('/technical-paper-isuw-2022', function () {
       return view('/components/technical-paper-isuw-2022');
  });
