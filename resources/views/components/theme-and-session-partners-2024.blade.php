@@ -51,6 +51,8 @@
  <div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="https://isuw.in/uploads/countryflags/Germany.png" alt="TIE"></a></div></div>
 -->
 
+<h5 style="text-align:center;"><b>Session Partners</b></h5>
+<div class="col-lg-3"><div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img src="images/2025/AspenTech.png" alt=""  height="102" style="display:inline;"></div></a></div>
  
  
  <p></p>
