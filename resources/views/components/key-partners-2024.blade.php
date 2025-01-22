@@ -17,7 +17,7 @@ margin-left: 408px;
 
 <h5 style="text-align:center;"><b>Platinum Partners</b></h5>	
 <div class="row justify-content-center">
-	<div class="col-lg-4">
+	<div class="col-lg-3">
 		<a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
 				<img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:50px">
@@ -27,7 +27,7 @@ margin-left: 408px;
 </div>	
 <h5 style="text-align:center;"><b>Platinum Partners</b></h5>
 <div class="row justify-content-center">
-	<div class="col-lg-5">
+	<div class="col-lg-3">
 		<a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
 				<img src="images/2025/Fluentgrid.png" alt="" style="display:inline; height:50px">
@@ -38,7 +38,7 @@ margin-left: 408px;
 
 <h5 style="text-align:center;"><b>Bronze Partners</b></h5>
 <div class="row justify-content-center">
-	<div class="col-lg-4">
+	<div class="col-lg-3">
 		<a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
 				<img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:50px">
