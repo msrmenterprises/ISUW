@@ -26,7 +26,7 @@ margin-left: 408px;
 	</div>
 </div>	
 
-<h5 style="text-align:center;"><b>Platinum Partners</b></h5>	
+<h5 style="text-align:center;"><b>Silver Partners</b></h5>	
 <div class="row justify-content-center">
 	<div class="col-lg-3">
 	<a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer">
