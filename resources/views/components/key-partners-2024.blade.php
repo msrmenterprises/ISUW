@@ -25,6 +25,18 @@ margin-left: 408px;
 		</a>
 	</div>
 </div>	
+
+<h5 style="text-align:center;"><b>Platinum Partner</b></h5>	
+<div class="row justify-content-center">
+	<div class="col-lg-3">
+	<a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/1641569652.png" ></a>
+	</div>
+
+	<div class="col-lg-3">
+	<a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a>
+	</div>
+</div>
+
 <h5 style="text-align:center;"><b>Technology Partner</b></h5>
 <div class="row justify-content-center">
 	<div class="col-lg-3">
