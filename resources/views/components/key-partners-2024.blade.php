@@ -25,6 +25,16 @@ margin-left: 408px;
 		</a>
 	</div>
 </div>	
+<h5 style="text-align:center;"><b>Platinum Partners</b></h5>
+<div class="row justify-content-center">
+	<div class="col-lg-5">
+		<a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="images/2025/Fluentgrid.png" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
+</div>	
 
 <h5 style="text-align:center;"><b>Bronze Partners</b></h5>
 <div class="row justify-content-center">
