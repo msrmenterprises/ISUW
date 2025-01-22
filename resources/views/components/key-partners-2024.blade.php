@@ -157,6 +157,20 @@ margin-left: 408px;
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.pfcindia.com/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/1200px-Power_Finance_Corporation_Logo.svg (1).png" alt=""  height="102" style="display:inline;"></a></div></div>
 
 </div>
+
+<h5 style="text-align:center;"><b>Session Partners</b></h5>
+<div class="row justify-content-center"> 
+<div class="col-lg-4">
+      <div class="logo-div">
+      <a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/1641569652.png" ></a>
+      </div>
+   </div>
+   <div class="col-lg-4">
+      <div class="logo-div">
+      <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a>
+      </div>
+   </div>
+</div>
 <!--<div class="col-lg-3"><div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img src="https://isuw.in/uploads/countryflags/USA.png" alt=""  height="102" style="display:inline;"></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.se.com/ww/en/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/SCHNEIDER ELECTRIC.png" alt="" width="140px"  height="102" style="display:inline;"></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.nokia.com/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/images/nokia.png" alt="" width="140px"  height="102" style="display:inline;"></a></div></div>
