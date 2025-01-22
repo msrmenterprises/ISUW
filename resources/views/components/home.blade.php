@@ -797,13 +797,15 @@
          <h2>ISUW 2025 Exhibitors</h2>
       </div>
       <div class="row justify-content-center ">
-      <div class="col-lg-2"><a href="https://sunnetsoftware.com/contact-us/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/sunnet.png" alt="" style="display:inline; height:59px"></a></div></div>
-      <div class="col-lg-2"><a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:59px"></a></div></div>
-      <div class="col-lg-2"><a href="https://edx.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:59px"></a></div></div>
-      <div class="col-lg-2"><div class="logo-div"><a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer"><img  src="images/2025/ISGF.jpg" alt="" width="213" height="102"></a></div></div>
-
-         
-      </div>
+         <div class="col-lg-2"><a href="https://sunnetsoftware.com/contact-us/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/sunnet.png" alt="" style="display:inline; height:59px"></a></div></div>
+         <div class="col-lg-2"><a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:59px"></a></div></div>
+         <div class="col-lg-2"><a href="https://edx.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:59px"></a></div></div>
+         <div class="col-lg-2"><div class="logo-div"><a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer"><img  src="images/2025/ISGF.jpg" alt="" width="213" height="102"></a></div></div>
+         <div class="col-lg-2"><div class="logo-div"><a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/1641569652.png" ></a></div></div>
+         <div class="col-lg-2"><div class="logo-div"> <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a>  </div></div>
+         <div class="col-lg-2"><div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/AspenTech.png" alt="" style="display:inline; height:50px"></div></a></div></div>
+         <div class="col-lg-2"><div class="logo-div"><a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/Fluentgrid.png" alt="" style="display:inline; height:50px"></div></a></div></div>
+   </div>
    </div>
 </section>      
      
