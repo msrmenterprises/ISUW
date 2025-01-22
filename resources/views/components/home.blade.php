@@ -184,6 +184,24 @@
                         </div>
                      </div>
 
+                  <div class="row justify-content-center">
+                  <div class="col-lg-12">
+                  <div class="logo-title">
+                  <h4>Silver Partners</h4>
+                  </div>
+                  </div>
+                  <div class="col-lg-4">
+                  <div class="logo-div">
+                  <a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/1641569652.png" ></a>
+                  </div>
+                  </div>
+                  <div class="col-lg-4">
+                  <div class="logo-div">
+                  <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a>
+                  </div>
+                  </div>
+                  </div>
+
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
@@ -379,23 +397,7 @@
                                                   
 </div>
 
-<div class="row justify-content-center">
-   <div class="col-lg-12">
-      <div class="logo-title">
-      <h4>Silver Partners</h4>
-      </div>
-   </div>
-   <div class="col-lg-4">
-      <div class="logo-div">
-      <a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/1641569652.png" ></a>
-      </div>
-   </div>
-   <div class="col-lg-4">
-      <div class="logo-div">
-      <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a>
-      </div>
-   </div>
-</div>
+
                     <!-- <h2 class="mt-4">Key Partners 2023
                      </h2>
                                                <div class="row justify-content-center">
