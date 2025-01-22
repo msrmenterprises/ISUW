@@ -176,9 +176,11 @@
                            </div>
                         </div>
                         <div class="col-lg-5">
-                           <a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer">
-                              <img src="images/2025/AspenTech.png" alt="" style="display:inline; height:50px">
-                           </a>
+                           <div class="logo-div">
+                              <a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer">
+                                 <img src="images/2025/AspenTech.png" alt="" style="display:inline; height:50px">
+                              </a>
+                           </div>   
                         </div>
                      </div>
 
