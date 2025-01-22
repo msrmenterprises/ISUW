@@ -172,6 +172,19 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
+                              <h4>Session Partner </h4>
+                           </div>
+                        </div>
+                        <div class="col-lg-5">
+                           <a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2025/AspenTech.png" alt="" style="display:inline; height:50px">
+                           </a>
+                        </div>
+                     </div>
+
+                     <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                           <div class="logo-title">
                               <h4>Technology Partner </h4>
                            </div>
                         </div>
@@ -184,18 +197,7 @@
                         </div>
                      </div>
 
-                     <div class="row justify-content-center">
-                        <div class="col-lg-12">
-                           <div class="logo-title">
-                              <h4>Session Partner </h4>
-                           </div>
-                        </div>
-                        <div class="col-lg-5">
-                           <a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer">
-                              <img src="images/2025/AspenTech.png" alt="" style="display:inline; height:50px">
-                           </a>
-                        </div>
-                     </div>
+                     
 
                      <div class="row justify-content-center">
                         <div class="col-lg-12">

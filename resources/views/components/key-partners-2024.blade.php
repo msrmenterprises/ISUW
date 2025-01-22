@@ -15,7 +15,7 @@ margin-left: 408px;
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
-<h5 style="text-align:center;"><b>Platinum Partners</b></h5>	
+<h5 style="text-align:center;"><b>Platinum Partner</b></h5>	
 <div class="row justify-content-center">
 	<div class="col-lg-3">
 		<a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer">
@@ -25,7 +25,7 @@ margin-left: 408px;
 		</a>
 	</div>
 </div>	
-<h5 style="text-align:center;"><b>Platinum Partners</b></h5>
+<h5 style="text-align:center;"><b>Technology Partner</b></h5>
 <div class="row justify-content-center">
 	<div class="col-lg-3">
 		<a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer">
@@ -36,7 +36,7 @@ margin-left: 408px;
 	</div>
 </div>	
 
-<h5 style="text-align:center;"><b>Bronze Partners</b></h5>
+<h5 style="text-align:center;"><b>Bronze Partner</b></h5>
 <div class="row justify-content-center">
 	<div class="col-lg-3">
 		<a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
