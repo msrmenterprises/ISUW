@@ -28,12 +28,12 @@ margin-left: 408px;
 
 <h5 style="text-align:center;"><b>Silver Partners</b></h5>	
 <div class="row justify-content-center">
-	<div class="col-lg-3">
+	<!-- <div class="col-lg-3">
 	<a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer">
 	<div class="logo-div"><img src="https://www.isuw.in/uploads/partner/1641569652.png" ></div>
 
 </a>
-	</div>
+	</div> -->
 
 	<div class="col-lg-3">
 	<a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
