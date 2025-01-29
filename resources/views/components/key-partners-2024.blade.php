@@ -52,7 +52,18 @@ margin-left: 408px;
 			</div>
 		</a>
 	</div>
-</div>	
+</div>
+
+<h5 style="text-align:center;"><b>Country Partner</b></h5>
+<div class="row justify-content-center">
+	<div class="col-lg-3">
+		<a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
+</div>
 
 <h5 style="text-align:center;"><b>Bronze Partners</b></h5>
 <div class="row justify-content-center">
