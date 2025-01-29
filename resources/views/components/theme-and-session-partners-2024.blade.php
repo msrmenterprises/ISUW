@@ -7,6 +7,15 @@
 <style>
   
 </style> 
+
+<div class="k_cheading">
+		<h1>ISUW 2025 <span class="k_greencolor">Conference Sessions Partner</span> </h1>
+		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+	</div>
+	<div class="col-lg-4"></div>
+	<div class="col-lg-4"><div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img src="images/2025/AspenTech.png" alt=""  height="102" style="display:inline;"></div></a></div>
+	<div class="col-lg-4"></div>
+	
  <div class="k_cheading">
 		<h1>ISUW 2024 <span class="k_greencolor">Conference Sessions Partners</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
