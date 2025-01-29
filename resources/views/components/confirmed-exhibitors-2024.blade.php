@@ -17,7 +17,7 @@
       <div class="col-lg-3"><div class="logo-div"> <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a>  </div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img src="images/2025/AspenTech.png" alt="" style="display:inline; height:50px"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Fluentgrid.png" alt="" style="display:inline; height:50px"></a></div></div>
-      <div class="col-lg-3"><div class="logo-div"><a href="https://www.landisgyr.com/" target="_blank"><img src="images/Exhibitors/landis_gyr_logo.jpg" style="display:inline; height:50px"></a> </div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.landisgyr.com/" target="_blank"><img src="images/2025/Landis.png" style="display:inline; height:50px"></a> </div></div>
 
 <p></p>
 <div class="k_cheading">
