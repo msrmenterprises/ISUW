@@ -51,7 +51,7 @@
             </ul>
         </div>
         <div class="k_cheading">
-            <a href="#" class="getstartedd">DOWNLOAD BROCHURE</a>
+            <a href="images/2025/RAIDBrochure.pdf" class="getstartedd">DOWNLOAD BROCHURE</a>
             <a href="#" class="getstartedd">REGISTER NOW</a>
         </div>
     </div>
