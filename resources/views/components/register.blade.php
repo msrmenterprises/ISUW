@@ -19,7 +19,7 @@
 	<p></p>
 	<div class="k_cheading">
 	
-	<img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
+	<a href="https://isuw2025.experiencesense.com/" target="_blank"><img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img></a>
 	
 	</div>
 <!--<li style="list-style:none; text-align:center"><a href="mailto:isuw@isuw.in" target="_blank" class="getstartedd ">Indian Registration</a></li>
