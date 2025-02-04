@@ -44,7 +44,7 @@
                   <div class="card-box">
                      <div class="ministry">
                         <h2>SUPPORTING <br> 
-                        MINISTRY 2025
+                        MINISTRIES 2025
                         </h2>
                         <div class="logo-div">
                            <p>
@@ -53,6 +53,8 @@
                               </a>  
                            </p>
                         </div>
+                        <div class="logo-div"><a href="https://niti.gov.in/" target="_blank"><img class="aligncenter" src="http://www.isuw.in/public/uploads/ministries/NITI Aayog.jpg" alt="Ministry of Commerce" width="150" height="158"></a></div>
+                        <div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/CEA PNG.png" alt="Ministry of Power" width="219" max-height="158" /></a></p></div>
                      </div>
                  
 
