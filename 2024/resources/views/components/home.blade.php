@@ -59,7 +59,7 @@
 <div class="logo-div"><p><a href="https://mea.gov.in/index.htm" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MEA.png" alt="Ministry of Power" width="219" max-height="158" /></a></p></div>
 <div class="logo-div"><p><a href="http://mowr.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/minstry of jal shakti png.png" alt="Ministry of Commerce" /></a></div>
 --></div>      
- <a class="btn btn-light-section" style="border: 2px solid #EF7B00;" href=" /supporting-ministries-2024">View All</a>               	     
+ <a class="btn btn-light-section" style="border: 2px solid #EF7B00;" href=" /supporting-ministries-2025">View All</a>               	     
 <!--<div class="thematic">
 				   <div class="col-lg-12">
                            <div class="logo-title">

@@ -235,8 +235,8 @@ Route::get('/admin', function () {
  Route::get('/supporting-ministries-2023', function () {
       return view('/components/supporting-ministries-2023');
  });
- Route::get('/supporting-ministries-2024', function () {
-      return view('/components/supporting-ministries-2024');
+ Route::get('/supporting-ministries-2025', function () {
+      return view('/components/supporting-ministries-2025');
  });
  Route::get('/thanku', function () {
      return view('/components/thanku');
