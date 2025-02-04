@@ -715,7 +715,7 @@
                   </div>
                </div>
                <div class="col-lg-3">
-                    <div class="card-box utilities">
+                     <div class="card-box utilities">
                         
                         <!-- we need to remove below section when supporting utilities 2022 needs to be remove-->
                         <div class="row justify-content-center">
@@ -733,6 +733,30 @@
                            <div class="col-lg-12">
                               <!-- <div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" style="margin-top:-10px;"></a></div>
                               <div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="" width="213" height="102"></a></div> -->
+                              <div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" style="margin-top:-10px;"></a></div>
+                              <div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" style="margin-top:-10px;"></a></div>
+
+                        </div>
+                     </div>
+
+                    <div class="card-box utilities">
+                        
+                        <!-- we need to remove below section when supporting utilities 2022 needs to be remove-->
+                        <div class="row justify-content-center">
+                           <div class="col-lg-12">
+                              <h2>Supporting   <br>
+                              Utilities 2024</h2>
+                           </div> 
+                        </div>
+                        <div class="col-lg-12">
+                              <div class="logo-title">
+                                 <h4>Host Utilities</h4>
+                              </div>
+                        </div>
+                        <div class="row justify-content-center">
+                           <div class="col-lg-12">
+                              <div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" style="margin-top:-10px;"></a></div>
+                              <div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="" width="213" height="102"></a></div>
                               <div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" style="margin-top:-10px;"></a></div>
                               <div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" style="margin-top:-10px;"></a></div>
 
