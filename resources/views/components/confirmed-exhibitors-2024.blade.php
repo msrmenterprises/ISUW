@@ -17,7 +17,10 @@
       <div class="col-lg-3"><div class="logo-div"> <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a>  </div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img src="images/2025/AspenTech.png" alt="" style="display:inline; height:50px"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Fluentgrid.png" alt="" style="display:inline; height:50px"></a></div></div>
-      
+      <div class="col-lg-3"><div class="logo-div"><a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569692.png" alt=""  height="102" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/CDAC.jpg" alt="" width="200" style="display:inline; height:105px"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.exicom.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/exicom.png" alt="" width="200" style="display:inline; height:105px"></a></div></div>
+
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW 2024<span class="k_greencolor"> EXHIBITORS </span> </h1>
