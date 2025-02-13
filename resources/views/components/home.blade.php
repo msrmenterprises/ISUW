@@ -876,7 +876,7 @@
          <div class="col-lg-3"><div class="logo-div"><a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Fluentgrid.png" alt="" style="display:inline; height:50px"></a></div></div>
          <div class="col-lg-3"><div class="logo-div"><a href="https://www.landisgyr.com/" target="_blank"><img src="images/2025/Landis.png" style="display:inline; height:50px"></a> </div></div>
          <div class="col-lg-3"><div class="logo-div"><a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569692.png" alt=""  height="102" style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><div class="logo-div"><a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/CDAC.jpg" alt="" width="200" style="display:inline; height:105px"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/C-DAC.jpg" alt="" width="200" style="display:inline; height:105px"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.exicom.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/exicom.png" alt="" width="200" style="display:inline; height:105px"></a></div></div>  
       </div>
    </div>
