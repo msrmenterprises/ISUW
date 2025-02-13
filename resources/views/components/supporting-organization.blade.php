@@ -26,6 +26,10 @@
 		<div class="col-lg-3"><div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/AIDA.png" alt="" width="300" height="104"></a></div></div>
 		<div class="col-lg-3"><div class="logo-div"><a href="https://www.boci.org.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/BOCI.jpg" alt="BOCI"></a></div></div>
 		<div class="col-lg-3"><div class="logo-div"><a href="https://www.busworld.org/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/LOGOBaseline.png" alt="Bus World"></a></div></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="https://www.cencenelec.eu/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051" style="" src="https://www.isuw.in/public/uploads/exhibitor/cenelec.jpeg" width="120"> </a></div></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="https://www.cencenelec.eu/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051" style="" src="https://www.isuw.in/public/uploads/exhibitor/cen.jpeg" width="170"> </a></div></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="https://www.etsi.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="https://www.isuw.in/public/uploads/organizations/ETSI.jpg" alt="" width="200"></a></div></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="https://www.iea-isgan.org/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="https://www.isuw.in/public/uploads/organizations/ISGAN.png" alt="CEN LEC"></a></div></div>
 		
 	</div>
 	<div class="row justify-content-left ">
