@@ -97,6 +97,17 @@ margin-left: 408px;
 	</div>
 </div>	
 
+<h5 style="text-align:center;"><b>Knowledge Partner</b></h5>
+<div class="row justify-content-center">
+	<div class="col-lg-3">
+		<a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="https://www.isuw.in/public/uploads/partner/CDAC.jpg" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
+</div>
+
 
 
 <!-- Content for 2024 -->

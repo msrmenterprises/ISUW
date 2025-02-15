@@ -272,8 +272,23 @@
                            </a>
                         </div>
                      </div>
+
+                     
                         
-                        
+                     <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                           <div class="logo-title">
+                              <h4>Knowledge Partner </h4>
+                           </div>
+                        </div>
+                        <div class="col-lg-5">
+                           <a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="https://www.isuw.in/public/uploads/partner/CDAC.jpg" alt="" style="display:inline; height:50px">
+                               </div>
+                           </a>
+                        </div>  
+                     </div>    
                         
                           
                       
