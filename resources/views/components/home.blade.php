@@ -260,7 +260,7 @@
                         <div class="col-lg-5">
                            <a href="https://www.ti.com/" target="_blank" rel="noopener noreferrer">
                               <div class="logo-div">
-                                 <img src="images/2025/t1.png" alt="" style="display:inline; height:50px">
+                                 <img src="images/2025/ti.png" alt="" style="display:inline; height:50px">
                                </div>
                            </a>
                         </div>
