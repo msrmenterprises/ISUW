@@ -257,6 +257,20 @@
                                </div>
                            </a>
                         </div>
+                        <div class="col-lg-5">
+                           <a href="https://www.ti.com/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="mages/2025/t1.png" alt="" style="display:inline; height:50px">
+                               </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-5">
+                           <a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="images/2025/WiSun.png" alt="" style="display:inline; height:50px">
+                               </div>
+                           </a>
+                        </div>
                      </div>
                         
                         
