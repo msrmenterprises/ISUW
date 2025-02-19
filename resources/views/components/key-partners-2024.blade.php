@@ -97,7 +97,7 @@ margin-left: 408px;
 	</div>
 </div>	
 
-<h5 style="text-align:center;"><b>Knowledge Partner</b></h5>
+<h5 style="text-align:center;"><b>Knowledge Partners</b></h5>
 <div class="row justify-content-center">
 	<div class="col-lg-3">
 		<a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer">
