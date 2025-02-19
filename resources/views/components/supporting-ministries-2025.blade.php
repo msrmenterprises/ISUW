@@ -13,8 +13,8 @@
 <div class="row justify-content-center">
 <div class="col-lg-3"><div class="logo-div"><p><a href="https://powermin.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MOP Golden.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>	    
-<!-- <div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><p><a href="https://mnre.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MNRE GOLDEN.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div></div> -->
+<div class="row justify-content-center">
+<div class="col-lg-3"><div class="logo-div"><p><a href="https://mnre.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MNRE GOLDEN.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div></div>
 <div class="row justify-content-center">
 <div class="col-lg-3"><div class="logo-div"><p><a href="https://niti.gov.in/" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/NITI Aayog.jpg" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>
