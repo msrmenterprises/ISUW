@@ -1357,7 +1357,7 @@ IPMA World Congress at Brisbane in 2011;</FONT></P>
 		</TD>
 	</TR>
 
-	<TR>
+	<!-- <TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="/images/2024/ravinder.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
 			<P><FONT ><B>Mr. Ravinder Singh Dhillon &nbsp;&nbsp;&nbsp;<BR>Former Chairman & Managing
@@ -1368,7 +1368,7 @@ IPMA World Congress at Brisbane in 2011;</FONT></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">Ravinder Singh Dhillon is a seasoned expert with over 40 years of diverse experience spanning the power and infrastructure sectors. As the former Chairman and Managing Director of Power Finance Corporation (PFC) - the largest NBFC in the country, he led the organization to achieve its prestigious Maharatna status, ensuring record-breaking profits, facilitating Govt. of India schemes as as RDSS, LPS rules, IPDS etc. and spearheading initiatives such as green bonds and infrastructure diversification. With a strong academic foundation in Power Systems from IIT Delhi, his career includes significant contributions to Power System Planning at CEA, Technical Design at BHEL, and project appraisal and financial innovations at PFC. Currently serving as an Independent Director at GE Power India Ltd., he continues to influence the energy sector with his deep expertise in project financing, renewable energy, energy transition, and policy formulation.</P>
 			
 		</TD>
-	</TR>
+	</TR> -->
 </TABLE> 
 </div>
     </div>
