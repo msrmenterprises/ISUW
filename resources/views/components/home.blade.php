@@ -185,6 +185,14 @@
                               </a>
                            </div>   
                         </div>
+                        <div class="col-lg-5">
+                           <div class="logo-div">
+                              <a href="#" target="_blank" rel="noopener noreferrer">
+                                 <img src="mages/2025/BSCE.png" alt="" style="display:inline; height:50px">
+                              </a>
+                           </div>   
+                        </div>
+                        
                      </div>
 
                   <div class="row justify-content-center">
