@@ -15,12 +15,19 @@ margin-left: 408px;
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
-<h5 style="text-align:center;"><b>Platinum Partner</b></h5>	
+<h5 style="text-align:center;"><b>Platinum Partners</b></h5>	
 <div class="row justify-content-center">
 	<div class="col-lg-3">
 		<a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
 				<img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
+	<div class="col-lg-3">
+		<a href="https://www.impresa.ai/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="images/2025/Impressa.png" alt="" style="display:inline; height:50px">
 			</div>
 		</a>
 	</div>
