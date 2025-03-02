@@ -845,6 +845,9 @@
 </div> -->
 <div class="thematic">
 				   <div class="col-lg-12">
+               <h4>Conference Session Partners</h4>
+               <div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/AspenTech.png" alt="TIE"></a></div>
+               <div class="logo-div"><a href="https://bscesystemsinc.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/BSCE.png" alt="TIE"></a></div>
                            <!-- <div class="logo-title">
                               <h4>Conference Session Partners</h4>
                            </div>
