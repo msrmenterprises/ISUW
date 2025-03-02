@@ -155,7 +155,7 @@
                            </div>
                         </div>
                      </div>
-                     <h2 class="mt-4">Key Partner 2025
+                     <h2 class="mt-4">Key Partners 2025
                      </h2>
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
@@ -222,7 +222,7 @@
                   <div class="row justify-content-center">
                   <div class="col-lg-12">
                   <div class="logo-title">
-                  <h4>Silver Partners</h4>
+                  <h4>Silver Partner</h4>
                   </div>
                   </div>
                   <!-- <div class="col-lg-4">
