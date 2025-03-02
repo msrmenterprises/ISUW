@@ -15,7 +15,7 @@ margin-left: 408px;
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
-<h5 style="text-align:center;"><b>Host Utilities</b></h5>
+<h5 style="text-align:center;"><b>Host Utility</b></h5>
 <div class="row justify-content-center">
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt=""  height="115" style="display:inline;"></a></div></div>
 <!-- <div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt=""  style="display:inline;"></a></div></div>

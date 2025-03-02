@@ -160,6 +160,23 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
+                              <h4>Host Utility</h4>
+                           </div>
+                        </div>
+                        <div class="col-lg-4"></div>
+                        <div class="col-lg-4">
+                           <div class="logo-div">
+                              <a href="ttps://www.tatapower.com" target="_blank" rel="noopener noreferrer">
+                                 <img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="" style="display:inline; height:50px">
+                              </a>
+                           </div>   
+                        </div>
+                        <div class="col-lg-4"></div>
+                        
+                     </div>
+                     <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                           <div class="logo-title">
                               <h4>Platinum Partners</h4>
                            </div>
                         </div>
