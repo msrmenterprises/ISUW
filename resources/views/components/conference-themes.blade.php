@@ -64,15 +64,15 @@ Collaboration with BIS, IEC And IEEE)</li>
     </h2>
     <div id="flush-collapsetwo" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
- <!-- <p style="color:#ed7d31;">CONFERENCE THEMATIC SESSIONS -->
- <ul>
-  <li>First Meeting of All India DISCOMs Association (AIDA)</li>
- <!-- <li>250 Million Smart Meters in India – New Business Opportunities with the
- Digitalization of DISCOMs</li>
-<li>Resiliency of Utilities Against Extreme Weather Events</li>
-<li>RD&D of Emerging/Digital Technologies for Utilities (in collaboration with DST)*</li> -->
-</ul>
- <!-- </p> -->
+  <p style="color:#ed7d31;">
+      <ul>
+          <li>First Meeting of All India DISCOMs Association (AIDA)</li>
+          <!-- <li>250 Million Smart Meters in India – New Business Opportunities with the
+          Digitalization of DISCOMs</li>
+          <li>Resiliency of Utilities Against Extreme Weather Events</li>
+          <li>RD&D of Emerging/Digital Technologies for Utilities (in collaboration with DST)*</li> -->
+      </ul>
+  </p>
 
   <p style="color:#ed7d31;">WORKSHOPS/ROUNDTABLES/SEMINARS
       <ul>
