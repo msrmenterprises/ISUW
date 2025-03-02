@@ -26,7 +26,7 @@
          </div>
       </div>
       <div class="site-header">
-         <img src="/public/uploads/banner/ISUW Header Banner.jpg" class="img-fluid"> 
+         <img src="/public/uploads/banner/ISUWHeaderBanner.jpg" class="img-fluid"> 
       </div>
       <header id="header" class="navbar-expand-lg">
          <div class="container ">
