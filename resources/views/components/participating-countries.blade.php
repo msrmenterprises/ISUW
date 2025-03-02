@@ -8,7 +8,7 @@
   
 </style>
 <div class="k_cheading">
-		<h1>ISUW<span class="k_greencolor"> Participating Countries</span> </h1>
+		<h1>Countries<span class="k_greencolor"> Participated in Previous Edition of ISUW</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
