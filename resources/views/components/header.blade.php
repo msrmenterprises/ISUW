@@ -65,7 +65,7 @@
                   <a href="#" class=" " data-bs-toggle="dropdown"><span>PARTNERS</span> <i class="fa fa-chevron-down"></i></a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                      <li><a href="/partnership-opportunity-information" target="_blank">Partnership Opportunities</a></li>
-                      <li><a href="/key-partners-2024" target="_blank">Key Partners</a></li>
+                      <li><a href="/key-partners" target="_blank">Key Partners</a></li>
                       <li><a href="/supporting-organization" target="_blank">Supporting Organizations</a></li>
                       <li><a href="/supporting-ministries-2025" target="_blank">Supporting Ministries</a></li>
                       <li><a href="/media-and-marketing-partner-2024" target="_blank">Media and Marketing Partners</a></li>

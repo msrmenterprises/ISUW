@@ -214,8 +214,8 @@ Route::get('/admin', function () {
    Route::get('/key-partners-2023', function () {
       return view('/components/key-partners-2023');
  });
- Route::get('/key-partners-2024', function () {
-      return view('/components/key-partners-2024');
+ Route::get('/key-partners', function () {
+      return view('/components/key-partners');
  });
  Route::get('/photo-gallery', function () {
       return view('/components/photo-gallery');
