@@ -808,9 +808,9 @@
                         </div>
                      </div>
 
-                    <div class="card-box utilities">
+                    <!-- <div class="card-box utilities">
                         
-                        <!-- we need to remove below section when supporting utilities 2022 needs to be remove-->
+                       
                         <div class="row justify-content-center">
                            <div class="col-lg-12">
                               <h2>Supporting   <br>
@@ -839,12 +839,13 @@
                          <div class="row justify-content-center">
 						  <div class="col-lg-12">
                 <div class="logo-div"><a href="https://uppcl.org/uppcl/hi/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/UPPCL.png" alt="" /> </a></div>
-                <!--<div class="logo-div"><a href="https://www.cesc.co.in/homeener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/CESC.jpg" style="margin-top:-10px;"></a></div>
-                -->
-</div></div>
+                <div class="logo-div"><a href="https://www.cesc.co.in/homeener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/CESC.jpg" style="margin-top:-10px;"></a></div>
+               
+</div>
+</div> -->
 <div class="thematic">
 				   <div class="col-lg-12">
-                           <div class="logo-title">
+                           <!-- <div class="logo-title">
                               <h4>Conference Session Partners</h4>
                            </div>
 <div class="logo-div"><a href="https://www.giz.de/en/html/index.html" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="https://www.isuw.in/public/uploads/exhibitor/giz.png" alt="TIE"></a></div>
@@ -862,7 +863,7 @@
 <div class="logo-div"><a href="https://cercind.gov.in/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/cerc.PNG" alt=""   style="display:inline;"></a></div>
 <div class="logo-div"><a href="https://cdri.world/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/CDRI_Logo.jpg" alt=""  height="102" style="display:inline;"></a></div>
 <div class="logo-div"><a href="https://www.apuea.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="https://www.isuw.in/public/uploads/exhibitor/e-notes_p5_apuea-logo_may17.png" alt="" ></a></div>
-<div class="logo-div"><a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt=""  height="102" style="display:inline;"></a></div>
+<div class="logo-div"><a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt=""  height="102" style="display:inline;"></a></div> -->
 
 
 <!-- till this line   -->
