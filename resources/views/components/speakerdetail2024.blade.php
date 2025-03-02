@@ -5,15 +5,16 @@
          <div class="container">
            
 		    <div class="k_cheading">
-		<h1>ISUW 2024 <span class="k_greencolor">Speaker </span> </h1>
+		<h1>ISUW 2025 <span class="k_greencolor">Speaker </span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
             <div class="row justify-content-left ">
 			 <p></p>
                <div class="col-lg-12 ">
                   <div class="d-flex ">
-  <div class="flex-shrink-0">
-   <img src="{{$speaker24->imageUrl}}" class="img-fluid " alt="{{$speaker24->imageAlt}}">
+  <!-- <div class="flex-shrink-0"> -->
+  <div class="col-lg-3">  
+   <img src="{{$speaker24->imageUrl}}" class="img-fluid " alt="{{$speaker24->imageAlt}}" style="width:100%">
   </div>
   <div class="flex-grow-1 ms-3">
     <b style="font-size:22px; color:green;">{{$speaker24->name}}</b><br>
