@@ -9,6 +9,8 @@
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 
+<h4 style="color:#f60; text-align:center;">India Smart Utility Week (ISUW) 2025</h4> 	
+
 <h4 style="color:#f60; text-align:center;">India Smart Utility Week (ISUW) 2024</h4> 	
 <div class="row justify-content-center">
 <div class="wp-block-image" style="text-align: center;"><figure class="aligncenter"><a href="images/2025/2024KeyHighlights.jpg"><img class="img-fluid" src="images/2025/2024KeyHighlights.jpg" style="width:840px" alt="" /></a></figure></div>
