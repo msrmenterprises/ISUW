@@ -35,17 +35,14 @@ Energy. All the previous editions of ISUW (initially known as India Smart Grid W
 huge success that attracted the attention and participation of the whose-who amongst top-notch
 thinkers and utility leaders from around the globe. Technology Companies, Regulators, Policy
 Makers, Government Officials and Senior Officers from Electricity, Water and Gas Utilities from 50+
-countries participated every year in the past editions. ISUW 2023 was attended by over 2200
-delegates and addressed by 264 eminent speakers from 22+ countries.</p>
+countries participated every year in the past editions.</p>
 <h2 class="headingclass"> <br><strong>11TH EDITION OF INDIA SMART UTILITY WEEK (ISUW 2025) FROM 18 – 22 MARCH 2025 IN NEW
 DELHI</strong> </h2>
 
 <p style="text-align:justify;">The 11th edition of ISUW is scheduled from 18 - 22 March 2025 in New Delhi, India, as an
 International Conference and Exhibition on Smart Energy and Smart Mobility. ISUW 2025 will include
 plenary sessions, special &amp; bilateral workshops, keynotes, roundtables, technical sessions, technical
-paper presentations, tutorials, and technical tours. Bilateral Smart Grid Workshops with EU, UK,
-USA, Brazil, and Germany are also being planned. The 9th edition of ISGF Innovation Awards will be
-organized as part of ISUW 2025 on 21 March 2025.</p> 
+paper presentations, tutorials, and technical tours. Bilateral Smart Grid Workshops with UK, USA, Brazil, and Indonesia are also being planned. The 9th edition of ISGF Innovation Awards will be organized as part of ISUW 2025 on 21 March 2025.</p> 
     <p style="text-align:justify;"><b>For Partnership, Exhibition and Participation queries, please write to us at  <a href="mailto:isuw@isuw.in">isuw@isuw.in</a>.&nbsp; For more details about ISUW 2025, kindly visit <a href="http://www.isuw.in">www.isuw.in</a>.</b></p>
 
 <p></p>
