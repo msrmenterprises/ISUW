@@ -52,11 +52,11 @@
             <div class="accordion accordion-flush" id="accordionFlushExample">
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="flush-headingOne">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsetwo" aria-expanded="false" aria-controls="flush-collapsetwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseone" aria-expanded="false" aria-controls="flush-collapseone">
                         <H4 style="color: #ed7d31;"><strong>Robotics : Grid Inspection and Repair Bot</strong></style></H4>
                     </button>
                     </h2>
-                    <div id="flush-collapsetwo" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                    <div id="flush-collapseone" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                         <div class="accordion-body">
                             <p style="color:#ed7d31;">
                                 <img src="images/2025/Roboticsgrid.jpg" alt="" style="width: 58%;
@@ -88,11 +88,11 @@
 
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="flush-headingThree">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsetwo" aria-expanded="false" aria-controls="flush-collapsetwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsethree" aria-expanded="false" aria-controls="flush-collapsethree">
                         <H4 style="color: #ed7d31;"><strong>Drones : Damage Detection and Package Delivery</strong></style></H4>
                     </button>
                     </h2>
-                    <div id="flush-collapsetwo" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                    <div id="flush-collapsethree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                         <div class="accordion-body">
                             <p style="color:#ed7d31;">
                                 <img src="images/2025/Roboticsgrid.jpg" alt="" style="width: 58%;
