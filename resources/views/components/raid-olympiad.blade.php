@@ -32,6 +32,9 @@
         </div>
         <div>
             <h4><strong>The Robots-AI-Drone (RAID) Olympiad 2025</strong></h4>
+            <div class="col-lg-12">
+            <img src="images/2025/Raid-Banner.png" alt="">
+            </div>
             <p><b>Spring Edition - Seeds of Innovation</b></p>
             <p>The Robots-AI-Drone (RAID) Olympiad is a prestigious global initiative by <b>Ideas Matter Most (IMM)</b> that seeks to ignite innovation and foster creativity in the dynamic fields of robotics, artificial intelligence, and drone technologies.</p>
             <p>The <b>2025 Spring edition</b>, with a special focus on the <b>Utility Sector</b>, is a collaborative effort between IMM and the <b>India Smart Grid Forum (ISGF)</b>. This Olympiad challenges participants to develop groundbreaking solutions addressing key utility sector challenges, such as:</p>
