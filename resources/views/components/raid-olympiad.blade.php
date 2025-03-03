@@ -33,7 +33,9 @@
         <div>
             <h4><strong>The Robots-AI-Drone (RAID) Olympiad 2025</strong></h4>
             <div class="col-lg-12">
-            <img src="images/2025/Raid-Banner.png" alt="">
+            <img src="images/2025/Raid-Banner.png" alt="" style="width: 58%;
+    margin-top: 15px;
+    margin-bottom: 20px;">
             </div>
             <p><b>Spring Edition - Seeds of Innovation</b></p>
             <p>The Robots-AI-Drone (RAID) Olympiad is a prestigious global initiative by <b>Ideas Matter Most (IMM)</b> that seeks to ignite innovation and foster creativity in the dynamic fields of robotics, artificial intelligence, and drone technologies.</p>
