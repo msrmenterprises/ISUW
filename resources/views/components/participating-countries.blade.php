@@ -145,7 +145,7 @@
 	
 </div> -->
  
-	<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Australia.png" style="width: 220px;"><BR/>Australia</div></div>
+	<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Australia.png" style="width: 220px;"><h5 style="font-size: 13px;">Australia</h5></div></div>
      <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Flag_of_Antigua_and_Barbuda.svg.png" style="width: 219px;">Antigua and Barbuda</div></div>
 
 		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Austria.png" style="width: 234px;">Austria</div></div>
