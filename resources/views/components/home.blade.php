@@ -328,7 +328,47 @@
                                </div>
                            </a>
                         </div>  
-                     </div>    
+                     </div>   
+                     
+                     
+                     <h2 class="mt-4">Supporting Organizations 2025
+                     </h2>
+                     <div class="row justify-content-center">
+
+                        <div class="col-lg-4">
+                           <a href="#" target="_blank">
+                              <div class="logo-div"><img src="/images/2025/GSEF.png" class="logo-img " style="display:inline; height:60px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="#" target="_blank">
+                              <div class="logo-div"><img src="/images/2025/India-CGD.jpeg" class="logo-img " style="display:inline; height:60px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="#" target="_blank">
+                              <div class="logo-div"><img src="/images/2025/Igef.png" class="logo-img " style="display:inline; height:60px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="#" target="_blank">
+                              <div class="logo-div"><img src="/images/2025/etsi.jpg" class="logo-img " style="display:inline; height:60px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="#" target="_blank">
+                              <div class="logo-div"><img src="/images/2025/isgan.png" class="logo-img " style="display:inline; height:60px">
+                              </div>
+                           </a>
+                        </div>
+                        
+                        
+                     </div>
+                        
                         
                           
                       
@@ -341,7 +381,7 @@
 
 
 
-                     <h2 class="mt-4">Key Partners 2024
+                     <!-- <h2 class="mt-4">Key Partners 2024
                      </h2>
                         <div class="row justify-content-center">
                         <div class="col-lg-12">
@@ -354,9 +394,9 @@
                         </div>
                          <div class="col-lg-4"><a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:50px"></a></div></div>
  
-                        <!-- <div class="col-lg-4">
+                         <div class="col-lg-4">
                             <a href="https://www.lntecc.com/we-are/our-businesses/power-transmission-distribution/" target="_blank"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/LandT.png" class="logo-img " style="display:inline; height:60px; width:130px;" ></div></a>
-                        </div>-->
+                        </div>
                         </div>
                         <div class="row justify-content-center">
                         <div class="col-lg-12">
@@ -435,11 +475,11 @@
                          <div class="col-lg-4"><a href="https://www.trillectric.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/exhibitor/Trillectric.png" alt="" style="height:59px;"></div></a></div>
                          <div class="col-lg-4"><a href="https://kimbal.io/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/Tagline logo.png" alt="" style="height:59px;"></div></a></div>
 
-                          <!--<div class="col-lg-4"><a href="https://shyamindus.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/exhibitor/1677061891.png" alt="" style="height:42px;"></div></a></div>
+                          div class="col-lg-4"><a href="https://shyamindus.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/exhibitor/1677061891.png" alt="" style="height:42px;"></div></a></div>
                          <div class="col-lg-4"><a href="https://www.visiontek.co.in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/vision.png" alt="" style="height:42px;"></div></a></div>
                          <div class="col-lg-4"><a href="https://www.oracle.com/in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="" style="height:55px;"></div></a></div>
                        <div class="col-lg-4"><a href="https://www.ey.com/en_in" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/EY-new.png" alt="" style="height:59px; width:105px;"></div></a></div>
-                        -->
+                        
                         </div>
                         <div class="row justify-content-center">
                         <div class="col-lg-12">
@@ -456,10 +496,10 @@
                            </div>
                         </div>
                          <div class="col-lg-4"><div class="logo-div"><a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt=""></a></div></div>
-                        </div>
+                        </div> -->
                         
                         	
-<div class="row justify-content-center">
+<!-- <div class="row justify-content-center">
     <div class="col-lg-12">
     <div class="logo-title">
         <h4>Session Partners</h4>
@@ -473,23 +513,21 @@
 <div class="col-lg-4"><div class="logo-div"><a href="https://www.cecp-eu.in/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/EU-FIRST.PNG" alt=""  height="102" style="display:inline;"></a></div></div>
 <div class="col-lg-4"><a href="https://www.cecp-eu.in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/EU-SECOND.jpg" alt=""  height="102" style="display:inline;"></div></a></div>
 <div class="col-lg-4"><div class="logo-div"><a href="https://sarepenergy.net/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/usaid.png" alt=""  height="102" style="display:inline;"></a></div></div>
-<!--<div class="col-lg-4"><div class="logo-div"><a href="https://www.assetplusconsulting.com/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/Asset Plus.png" alt=""   style="display:inline;"></a></div></div>
---><div class="col-lg-4"><div class="logo-div"><a href="https://www.intellismartinfra.in/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/intellismart.PNG" alt=""   style="display:inline;"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://www.assetplusconsulting.com/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/Asset Plus.png" alt=""   style="display:inline;"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://www.intellismartinfra.in/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/intellismart.PNG" alt=""   style="display:inline;"></a></div></div>
 <div class="col-lg-4"><div class="logo-div"><a href="https://www.seci.co.in/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/download.png" alt=""   style="display:inline;"></a></div></div>
 <div class="col-lg-4"><div class="logo-div"><a href="https://www.go15.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/GO15_LOGO-copie.png" alt=""   style="display:inline;"></a></div></div>
 <div class="col-lg-4"><div class="logo-div"><a href="https://www.hitachienergy.com/in/en" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/HITACHI.PNG" alt=""></a></div></div>
 <div class="col-lg-4"><div class="logo-div"><a href="https://cercind.gov.in/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/cerc.PNG" alt=""   style="display:inline;"></a></div></div>
-<!--<div class="col-lg-4"><div class="logo-div"><a href="https://dst.gov.in/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/DST.png" alt=""   style="display:inline;"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://dst.gov.in/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/DST.png" alt=""   style="display:inline;"></a></div></div>
 <div class="col-lg-4"><div class="logo-div"><a href="https://www.csis.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/csis.PNG" alt=""    style="display:inline;"></a></div></div>
--->
 <div class="col-lg-4"><a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt=""  height="102" style="display:inline;"></div></a></div>
 <div class="col-lg-4"><a href="https://cdri.world/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/CDRI_Logo.jpg" alt=""  height="102" style="display:inline;"></div></a></div>
 <div class="col-lg-4"><div class="logo-div"><a href="https://www.pfcindia.com/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/1200px-Power_Finance_Corporation_Logo.svg (1).png" alt=""  height="102" style="display:inline;"></a></div></div>
 <div class="col-lg-4"><div class="logo-div"><a href="https://www.apuea.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="https://www.isuw.in/public/uploads/exhibitor/e-notes_p5_apuea-logo_may17.png" alt="" ></a></div></div>
 <div class="col-lg-4"><div class="logo-div"><a href="https://beeindia.gov.in/en" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/bureo-new.png" alt=""   style="display:inline;"></a></div></div>
-
                                                   
-</div>
+</div> -->
 
 
                     <!-- <h2 class="mt-4">Key Partners 2023
