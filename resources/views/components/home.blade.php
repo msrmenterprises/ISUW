@@ -395,18 +395,7 @@
                               </div>
                            </a>
                         </div>
-                        <div class="col-lg-4">
-                           <a href="#" target="_blank">
-                              <div class="logo-div"><img src="/images/2025/cigre.png" class="logo-img " style="display:inline; height:60px">
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-lg-4">
-                           <a href="#" target="_blank">
-                              <div class="logo-div"><img src="/images/2025/cigre.png" class="logo-img " style="display:inline; height:60px">
-                              </div>
-                           </a>
-                        </div>
+                        
                         
                         
                      </div>
