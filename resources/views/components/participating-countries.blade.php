@@ -14,7 +14,7 @@
 	<div class="col-lg-3">
 		<a href="#" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
-				<img src="/uploads/countryflags/Australia.png" alt="" style="display:inline; height:50px">
+				<img src="/uploads/countryflags/Australia.png" alt="" style="display:inline;">
 				<h5 style="font-size: 13px;">Australia</h5>
 			</div>
 		</a>
@@ -22,7 +22,7 @@
 	<div class="col-lg-3">
 		<a href="#" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
-				<img src="/public/uploads/countryflags/Flag_of_Antigua_and_Barbuda.svg.png" alt="" style="display:inline; height:50px">
+				<img src="/public/uploads/countryflags/Flag_of_Antigua_and_Barbuda.svg.png" alt="" style="display:inline;">
 				<h5 style="font-size: 13px;">Antigua and Barbuda</h5>
 			</div>
 		</a>
@@ -30,7 +30,7 @@
 	<div class="col-lg-3">
 		<a href="#" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
-				<img src="/uploads/countryflags/Austria.png" alt="" style="display:inline; height:50px">
+				<img src="/uploads/countryflags/Austria.png" alt="" style="display:inline; ">
 				<h5 style="font-size: 13px;">Austria</h5>
 			</div>
 		</a>
@@ -38,32 +38,112 @@
 	<div class="col-lg-3">
 		<a href="#" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
-				<img src="public/uploads/countryflags/Armenia.png" alt="" style="display:inline; height:50px">
+				<img src="public/uploads/countryflags/Armenia.png" alt="" style="display:inline;">
 				<h5 style="font-size: 13px;">Armenia</h5>
 			</div>
 		</a>
 	</div>
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/public/uploads/countryflags/Argentina.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Argentina</h5>
+			</div>
+		</a>
+	</div>
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/uploads/countryflags/Bahrain.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Bahrain</h5>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/uploads/countryflags/Bangladesh.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Bangladesh</h5>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/public/uploads/countryflags/Brazil.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Brazil</h5>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/public/uploads/countryflags/Brussels.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Brussels</h5>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/uploads/countryflags/Belgium.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Belgium</h5>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/uploads/countryflags/Benin.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Benin</h5>
+			</div>
+		</a>
+	</div>
+
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/uploads/countryflags/Bhutan.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Bhutan</h5>
+			</div>
+		</a>
+	</div>
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/uploads/countryflags/Bolivia.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Bolivia</h5>
+			</div>
+		</a>
+	</div>
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/uploads/countryflags/Botswana.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Botswana</h5>
+			</div>
+		</a>
+	</div>
+	<div class="col-lg-3">
+		<a href="#" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="/uploads/countryflags/Botswana.png" alt="" style="display:inline;">
+				<h5 style="font-size: 13px;">Botswana</h5>
+			</div>
+		</a>
+	</div>
+	
 </div>
-
-		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="" style="width: 220px;"></div></div>
-	    <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Argentina.png" style="width: 220px;">Argentina</div></div>
-
-		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Bahrain.png" style="width: 220px;">Bahrain</div></div>
-
-		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Bangladesh.png" style="width: 220px;">Bangladesh</div></div>
-		 <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Brazil.png" style="width: 220px;">Brazil</div></div>
-         <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Brussels.png" style="width: 220px;">Brussels</div></div>
-
-		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Belgium.png" style="width: 220px;">Belgium</div></div>
-	
-		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Benin.png" style="width: 220px;">Benin</div></div>
-	
-		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Bhutan.png" style="width: 220px;">Bhutan</div></div>
-	
-		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Bolivia.png" style="width: 220px;">Bolivia</div></div>
-	
-		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Botswana.png" style="width: 220px;">Botswana</div></div>
-
+	    
+		
+		
+		
+		
 		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Camaroon.png" style="width: 220px;">Camaroon</div></div>
 			 
        <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Cambodia.png" style="width: 220px;">Cambodia</div></div>
