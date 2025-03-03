@@ -343,7 +343,7 @@
                         </div>
                         <div class="col-lg-4">
                            <a href="#" target="_blank">
-                              <div class="logo-div"><img src="/images/2025/India-CGD.jpeg" class="logo-img " style="display:inline; height:60px">
+                              <div class="logo-div"><img src="/images/2025/IndiaCGD.jpeg" class="logo-img " style="display:inline; height:60px">
                               </div>
                            </a>
                         </div>
@@ -355,13 +355,43 @@
                         </div>
                         <div class="col-lg-4">
                            <a href="#" target="_blank">
-                              <div class="logo-div"><img src="/images/2025/etsi.jpg" class="logo-img " style="display:inline; height:60px">
+                              <div class="logo-div"><img src="/images/2025/ETSI.jpg" class="logo-img " style="display:inline; height:60px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="#" target="_blank">
+                              <div class="logo-div"><img src="/images/2025/APUA.jpg" class="logo-img " style="display:inline; height:60px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="#" target="_blank">
+                              <div class="logo-div"><img src="/images/2025/BOCI.jpg" class="logo-img " style="display:inline; height:60px">
                               </div>
                            </a>
                         </div>
                         <div class="col-lg-4">
                            <a href="#" target="_blank">
                               <div class="logo-div"><img src="/images/2025/isgan.png" class="logo-img " style="display:inline; height:60px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="#" target="_blank">
+                              <div class="logo-div"><img src="/images/2025/GEAPP.png" class="logo-img " style="display:inline; height:60px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="#" target="_blank">
+                              <div class="logo-div"><img src="/images/2025/scgj.gif" class="logo-img " style="display:inline; height:60px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-4">
+                           <a href="#" target="_blank">
+                              <div class="logo-div"><img src="/images/2025/cigre.png" class="logo-img " style="display:inline; height:60px">
                               </div>
                            </a>
                         </div>
