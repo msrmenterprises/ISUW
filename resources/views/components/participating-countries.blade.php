@@ -15,6 +15,7 @@
 		<a href="#" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
 				<img src="/uploads/countryflags/Australia.png" alt="" style="display:inline; height:50px">
+				<h5 style="font-size: 22px;">Australia</h5>
 			</div>
 		</a>
 	</div>
