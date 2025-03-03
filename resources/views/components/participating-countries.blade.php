@@ -6,6 +6,11 @@
 <p></p>
 
 <div class="k_cheading">
+		<h1>Countries Participated<span class="k_greencolor">  in Previous Edition of ISUW</span> </h1>
+		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+	</div>
+
+<!-- <div class="k_cheading">
 		<h1>Countries Participated <span class="k_greencolor">in Previous Edition of ISUW</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 </div>
@@ -138,12 +143,31 @@
 		</a>
 	</div>
 	
-</div>
-	    
-		
-		
-		
-		
+</div> -->
+ 
+	<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Australia.png" style="width: 220px;"><BR/>Australia</div></div>
+     <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Flag_of_Antigua_and_Barbuda.svg.png" style="width: 219px;">Antigua and Barbuda</div></div>
+
+		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Austria.png" style="width: 234px;">Austria</div></div>
+	    <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="public/uploads/countryflags/Armenia.png" style="width: 220px;">Armenia</div></div>
+	    <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Argentina.png" style="width: 220px;">Argentina</div></div>
+
+		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Bahrain.png" style="width: 220px;">Bahrain</div></div>
+
+		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Bangladesh.png" style="width: 220px;">Bangladesh</div></div>
+		 <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Brazil.png" style="width: 220px;">Brazil</div></div>
+         <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Brussels.png" style="width: 220px;">Brussels</div></div>
+
+		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Belgium.png" style="width: 220px;">Belgium</div></div>
+	
+		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Benin.png" style="width: 220px;">Benin</div></div>
+	
+		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Bhutan.png" style="width: 220px;">Bhutan</div></div>
+	
+		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Bolivia.png" style="width: 220px;">Bolivia</div></div>
+	
+		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Botswana.png" style="width: 220px;">Botswana</div></div>
+
 		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Camaroon.png" style="width: 220px;">Camaroon</div></div>
 			 
        <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Cambodia.png" style="width: 220px;">Cambodia</div></div>
