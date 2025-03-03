@@ -48,6 +48,28 @@
             <p>This Olympiad challenges participants to develop groundbreaking solutions addressing key utility sector challenges, such as: Infrastructure inspection and maintenance, Energy efficiency, Smart management systems.</p>
             <p>A distinguished panel of experts from India and around the globe will evaluate and judge the competition entries across various phases, ensuring a fair and rigorous assessment process.</p>
             
+            <p>Join us in following competitions under The Robots-AI-Drone (RAID) Olympiad 2025 and shape the future of Utility Section</p>
+<div class="accordion accordion-flush" id="accordionFlushExample">
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="flush-headingOne">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsetwo" aria-expanded="false" aria-controls="flush-collapsetwo">
+            <H4 style="color: #ed7d31;"><strong>Robotics : Grid Inspection and Repair Bot</strong></style></H4>
+        </button>
+        </h2>
+        <div id="flush-collapsetwo" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+            <div class="accordion-body">
+                <p style="color:#ed7d31;">
+                    <img src="images/2025/Roboticsgrid.jpg" alt="" style="width: 58%;
+                    margin-top: 15px;
+                    margin-bottom: 20px;">
+                </p>
+
+                </div>
+        </div>
+    </div>    
+</div>
+
+
             <h4><b>Rewards and Opportunities for Participants</b></h4>
             <p>Winning teams, runners-up, and notable participants will receive:</p>
             <ul class="theme">
