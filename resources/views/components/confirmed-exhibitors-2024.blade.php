@@ -20,14 +20,18 @@
       <div class="col-lg-3"><div class="logo-div"><a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569692.png" alt=""  height="102" style="display:inline;"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/C-DAC.jpg" alt="" width="200" style="display:inline; height:105px"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.exicom.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/exicom.png" alt="" width="200" style="display:inline; height:105px"></a></div></div>
+      <div class="col-lg-3"><a href="https://www.tauruspowertronics.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/TAURUS LOGO (1).jpg" alt=""></div></a></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.phoenixcontact.com/en-in/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/Phoenix Contact.jpg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.impresa.ai/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Impressa.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://lora-alliance.org/" target="_blank" rel="noopener noreferrer"><img src="images/2025/LoRaAlliance.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.powerxchange.io/" target="_blank" rel="noopener noreferrer"><img src="images/2025/PowerXchange.jpeg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
 
-<p></p>
+      <!-- <p></p>
 <div class="k_cheading">
 		<h1>ISUW 2024<span class="k_greencolor"> EXHIBITORS </span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
-	</div>
-	   <!--<div class="col-lg-3"><div class="logo-div"><a href="https://www.hitachienergy.com/in/en" target="_blank" rel="noopener noreferrer"><img src="http://www.isuw.in/public/uploads/partner/Combo logo_wo (1).png" alt=""  style="display:inline; height="102px;"></a></div></div>
-	 --> <div class="col-lg-3"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img  src="http://isuw.in/uploads/images/sew-water.png" alt="" width="213" height="102"></a></div></div>
+	</div> -->
+	   <!-- <div class="col-lg-3"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img  src="http://isuw.in/uploads/images/sew-water.png" alt="" width="213" height="102"></a></div></div>
   	  <div class="col-lg-3"><div class="logo-div"><a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569652.png" alt="" style="display:inline; height:55px;"></a></div></div>
          <div class="col-lg-3"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="" style="height:102px;"></div></a></div>
           	<div class="col-lg-3"><div class="logo-div"><a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569692.png" alt=""  height="102" style="display:inline;"></a></div></div>
@@ -48,7 +52,7 @@
  <div class="col-lg-3"><a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:59px"></a></div></div>
 <div class="col-lg-3"><a href="https://www.trillectric.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/exhibitor/Trillectric.png" alt="" style="height:59px;"></div></a></div>
 <div class="col-lg-3"><a href="https://pluto-men.com/"><div class="logo-div"><img src="http://www.isuw.in/public/uploads/partner/Plutomen Logo- Big size.png" alt="Ministry of Commerce" style="display:inline; height:59px"></div></a></div>
-              
+               -->
     <!--	<div class="col-lg-3"><div class="logo-div"><a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="http://www.isuw.in/beta/wp-content/uploads/2021/02/AWS_logo_RGB.png" alt=""  style="display:inline;"></a></div></div>
     	<div class="col-lg-3"><div class="logo-div"><a href="https://atandra.in/" target="_blank" rel="noopener noreferrer"><img src="http://www.isuw.in/public/uploads/exhibitor/atandra in 225 X 70.jpg" alt=""  style="display:inline;"></a></div></div>
      
@@ -76,7 +80,8 @@
 -->
 	
 <p></p>
-  <p style="text-align:center; font-size:16px;"><a href="http://isuw.in/confirmed-exhibitors-2023" class="getstartedd ">ISUW 2023 EXHIBITORS</a></p>
+<p style="text-align:center; font-size:16px;"><a href="http://isuw.in/2024/confirmed-exhibitors-2024" class="getstartedd ">ISUW 2024 EXHIBITORS</a></p>  
+<p style="text-align:center; font-size:16px;"><a href="http://isuw.in/confirmed-exhibitors-2023" class="getstartedd ">ISUW 2023 EXHIBITORS</a></p>
  <p style="text-align:center; font-size:16px;"><a href="http://isuw.in/confirmed-exhibitors" class="getstartedd ">ISUW 2022 EXHIBITORS</a></p>
  <p style="text-align:center; font-size:16px;"><a href="http://isuw.in/confirmed-exhibitors-2021" class="getstartedd ">ISUW 2021 EXHIBITORS</a></p>
 
