@@ -49,6 +49,15 @@ margin-left: 408px;
 
 </a>
 	</div> -->
+	
+
+	<div class="col-lg-3">
+		<a href="https://lora-alliance.org/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="images/2025/LoRaAlliance.png" alt="" width="213" height="115" style="display:inline;">
+			</div>
+		</a>
+	</div>
 
 	<div class="col-lg-3">
 	<a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
@@ -107,6 +116,13 @@ margin-left: 408px;
 		<a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
 				<img src="images/2025/WiSun.png" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
+	<div class="col-lg-3">
+		<a href="https://www.phoenixcontact.com/en-in/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="images/2025/Phoenix.svg" alt="" style="display:inline; height:50px">
 			</div>
 		</a>
 	</div>
