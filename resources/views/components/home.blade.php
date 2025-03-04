@@ -158,7 +158,7 @@
                      <h2 class="mt-4">Key Partners 2025
                      </h2>
                      <div class="row justify-content-center">
-                        <div class="col-lg-12">
+                        <!-- <div class="col-lg-12">
                            <div class="logo-title">
                               <h4>Host Utility</h4>
                            </div>
@@ -170,7 +170,7 @@
                                  <img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="" style="display:inline; height:50px">
                               </a>
                            </div>   
-                        </div>
+                        </div> -->
                        
                         
                      </div>
@@ -883,8 +883,8 @@
                         </div>
                         <div class="row justify-content-center">
                            <div class="col-lg-12">
-                              <!-- <div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" style="margin-top:-10px;"></a></div>
-                              <div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="" width="213" height="102"></a></div> -->
+                              <div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" style="margin-top:-10px;"></a></div>
+                              <!-- <div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="" width="213" height="102"></a></div> -->
                               <div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" style="margin-top:-10px;"></a></div>
                               <div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" style="margin-top:-10px;"></a></div>
 
