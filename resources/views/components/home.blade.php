@@ -1027,10 +1027,10 @@
 <section class="page-section isuw-exhibitors">
    <div class="container">
       <div class="section-title">
-         <h2>ISUW 2024 Exhibitors</h2>
+         <h2>ISUW 2025 Participating Utilities</h2>
       </div>
       <div class="row justify-content-center ">
-         <div class="col-lg-2"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img  src="http://isuw.in/uploads/images/sew-water.png" alt="" height="102"></a></div></div>
+         <!-- <div class="col-lg-2"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img  src="http://isuw.in/uploads/images/sew-water.png" alt="" height="102"></a></div></div>
          <div class="col-lg-2"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="" style="height:102px;"></div></a></div>
          <div class="col-lg-2"><div class="logo-div"><a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569692.png" alt=""  height="102" style="display:inline;"></a></div></div>
          <div class="col-lg-2"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt=""  height="115" style="display:inline;"></a></div></div>
@@ -1049,7 +1049,7 @@
          <div class="col-lg-2"><a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:59px"></a></div></div>
          <div class="col-lg-2"><a href="https://www.trillectric.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/exhibitor/Trillectric.png" alt="" style="height:59px;"></div></a></div>
          <div class="col-lg-2"><a href="https://www.meity.gov.in/"><div class="logo-div"><img src="http://www.isuw.in/public/uploads/ministries/MEITY-exhi.PNG" alt="Ministry of Commerce" width="100"></div></a></div>
-         <div class="col-lg-2"><div class="logo-div"><a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer"><img  src="http://www.isuw.in/beta/wp-content/uploads/2021/01/ISGF-LOGO-HD.jpg" alt="" width="213" height="102"></a></div></div>
+         <div class="col-lg-2"><div class="logo-div"><a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer"><img  src="http://www.isuw.in/beta/wp-content/uploads/2021/01/ISGF-LOGO-HD.jpg" alt="" width="213" height="102"></a></div></div> -->
       </div>
    </div>
 </section>
