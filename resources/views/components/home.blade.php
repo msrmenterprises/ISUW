@@ -334,6 +334,13 @@
                      <h2 class="mt-4">Supporting Organizations 2025
                      </h2>
                      <div class="row justify-content-center">
+                     <!-- <div class="col-lg-4">
+                        <a href="https://energyalliance.org/" target="_blank">
+                           <div class="logo-div">
+                              <img src="/images/2025/GSEF.png" class="logo-img " style="display:inline; height:60px">
+                           </div>
+                        </a>
+                     </div> -->
 
                         <!-- <div class="col-lg-4">
                            <a href="#" target="_blank">

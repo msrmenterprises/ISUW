@@ -9,7 +9,9 @@
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 
-<h4 style="color:#f60; text-align:center;">India Smart Utility Week (ISUW) 2025</h4> 	
+<h4 style="color:#f60; text-align:center;">India Smart Utility Week (ISUW) 2025</h4> 
+<hr/>
+<p>ISUW 2025 Key Highlights Shall be uploaded after ISUW 2025</p>	
 
 <h4 style="color:#f60; text-align:center;">India Smart Utility Week (ISUW) 2024</h4> 	
 <div class="row justify-content-center">
