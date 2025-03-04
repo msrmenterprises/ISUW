@@ -1030,6 +1030,77 @@
          <h2>ISUW 2025 Participating Utilities</h2>
       </div>
       <div class="row justify-content-center ">
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/TataPower.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/Powergrid.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/MGVCL.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/UPPCL.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/TPWODL.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/BSESYamuna.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/NPCL1.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/TPNODL.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/MSEDCL.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/BRPL.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/GUVNL.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/PG.jpg" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/TataDDL.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      <div class="col-lg-2">
+         <div class="logo-div">
+            <a href="#" target="_blank"><img src="images/2025/NPCL.png" style="height: 120px;"></a>
+         </div>
+      </div>
+      
          <!-- <div class="col-lg-2"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img  src="http://isuw.in/uploads/images/sew-water.png" alt="" height="102"></a></div></div>
          <div class="col-lg-2"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="" style="height:102px;"></div></a></div>
          <div class="col-lg-2"><div class="logo-div"><a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569692.png" alt=""  height="102" style="display:inline;"></a></div></div>
