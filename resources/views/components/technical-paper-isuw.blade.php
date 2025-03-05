@@ -251,7 +251,7 @@ Portal, Chat-bot, Voice-bot </li>
 		3. <b>Abstract of paper:</b> Max 250 words to be submitted with this application latest by <b>16 August 2024</b><br/>
 		4. Shortlisted Paper Abstracts will be announced by <b>30th September 2024</b> for Full Paper Submission<br/>
 		5. Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 5th
-		January 2025 |Max: 6 pages / 1200 Word | (Download the format from following link: <a href="https://shorturl.at/JogXr" target="_blank">Conference-template-A4 _IEEE.doc </a><br/>
+		January 2025 |Max: 6 pages / 1200 Word | (Download the format from following link: <a href="https://shorturl.at/JogXr" target="_blank">Conference-template-A4 _IEEE.doc </a>)<br/>
 		6. Shortlisted Papers will be announced by <b>21st January 2025</b><br/>
 		7. Papers deemed purely commercial in nature will not be selected<br/>
 		8. For queries email us at: <a href="tp@isuw.in">tp@isuw.in</a></p>
@@ -5228,7 +5228,7 @@ papers on variety of topics.
 			
 </div></div></div></div>
 <p align="center" style="line-height: 108%; margin-bottom: 0.11in"></p>
-<div class="accordion accordion-flush" id="accordionFlushExample">
+<!-- <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseseven" aria-expanded="false" aria-controls="flush-collapseseven">
@@ -5238,8 +5238,7 @@ papers on variety of topics.
     <div id="flush-collapseseven" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
           <ul>
-              <!--<li>To submit your Technical Paper for ISUW 2024, please visit the following link: <a href="https://forms.gle/Ta5ZiGoW75AoRRde8" target="_blank">https://forms.gle/Ta5ZiGoW75AoRRde8</a></li>
-              -->
+              
               <li>To submit your technical paper for ISUW 2025, please visit the following link: <a href="https://forms.gle/qqv152xf9s3DLC8T9" target="_blank"> https://forms.gle/qqv152xf9s3DLC8T9 </a></li>
               
               <li>Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 15th December 2024. (Max: 6 pages / 1200 
@@ -5251,14 +5250,14 @@ YmexWJw11/view</a></li>
 separate email)</li>
           </ul>
 				<p></p>
-				</div></div></div></div>
+				</div></div></div></div> -->
 				
 				<p align="center" style="line-height: 108%; margin-bottom: 0.11in"></p>
 				<div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseeight" aria-expanded="false" aria-controls="flush-collapseeight">
-       <H4 style="color: green;"><strong>ISUW 2024 Technical Papers Selected for Presentation and Publication</strong></style></H4>
+       <H4 style="color: green;"><strong>ISUW 2025 Technical Papers Selected for Presentation and Publication</strong></style></H4>
       </button>
     </h2>
     <div id="flush-collapseeight" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
