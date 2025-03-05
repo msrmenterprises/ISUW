@@ -899,7 +899,7 @@
                         <div class="row justify-content-center">
                            <div class="col-lg-12">
                               
-                              <div class="logo-div"><<a href="https://www.noidapower.com/" target="_blank"><img src="images/2025/NPCL1.png" style="height: 120px;"/></a></div>
+                              <div class="logo-div"><a href="https://www.noidapower.com/" target="_blank"><img src="images/2025/NPCL1.png" style="height: 120px;"/></a></div>
                               
                         </div>
                      </div>
