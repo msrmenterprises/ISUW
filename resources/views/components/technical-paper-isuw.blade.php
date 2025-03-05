@@ -6383,125 +6383,31 @@ separate email)</li>
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td>1</td>
-                <td>Disruptive Innovations for Utilities</td>
-                <td>Object-based classification for vegetation encroachment analysis and change detection in greater noida for electrical network planning and utility management</td>
-                <td>Vikas Gupta</td>
-                <td>Noida Power Company Limited</td>
-            </tr>
-            <tr>
-                <td>2</td>
-                <td>Disruptive Innovations for Utilities</td>
-                <td>SVM and DWT based Detection and Classification of Microgrid Faults using Single Point Measurement</td>
-                <td>Sumangal Bhaumik</td>
-                <td>Abacus Institute of Engineering and Management</td>
-            </tr>
-            <tr>
-                <td>3</td>
-                <td>Disruptive Innovations for Utilities</td>
-                <td>Unlocking the Intelligent Utility with Generative AI</td>
-                <td>Dheeraj Gangadharan</td>
-                <td>Accenture</td>
-            </tr>
-            <tr>
-                <td>4</td>
-                <td>Disruptive Innovations for Utilities</td>
-                <td>A CIM Based Network Model Management</td>
-                <td>Najda V M</td>
-                <td>TNEI India Services Limited</td>
-            </tr>
-            <tr>
-                <td>5</td>
-                <td>Disruptive Innovations for Utilities</td>
-                <td>Governance Frameworks for GenAI in Sustainable Utility Management: An ESG Perspective</td>
-                <td>Priyanshu Agrawal</td>
-                <td>Cognizant</td>
-            </tr>
-            <tr>
-                <td>6</td>
-                <td>Disruptive Innovations for Utilities</td>
-                <td>Robotics Process Automation for Master Data Integration</td>
-                <td>Anil Kumar Ojha</td>
-                <td>TPWODL</td>
-            </tr>
-            <tr>
-                <td>7</td>
-                <td>Disruptive Innovations for Utilities</td>
-                <td>Application of digital twins for the low-voltage electricity grid–Challenges and opportunities of Distribution Grid Analytics in India</td>
-                <td>Ajeet Kumar Singh</td>
-                <td>The Energy & Resources Institute</td>
-            </tr>
-            <tr>
-                <td>8</td>
-                <td>Disruptive Innovations for Utilities</td>
-                <td>Disruptive Innovations for Utilities: Digitalization, New Services and Revenue Streams : Evolution of Substation Automation System</td>
-                <td>Tusar Kanti Bag</td>
-                <td>TP Central Odisha Distribution Ltd.</td>
-            </tr>
-            <tr>
-                <td>9</td>
-                <td>Regulations for the Evolving Smart Energy Systems</td>
-                <td>India's Carbon Credit Trading System: An Assessment Framework for Power Sector Transformation and Market Stability</td>
-                <td>Sujit Surendran</td>
-                <td>Cognizant Technology Solution Pvt Ltd</td>
-            </tr>
-            <tr>
-                <td>10</td>
-                <td>Regulations for the Evolving Smart Energy Systems</td>
-                <td>Framework for Indian Carbon Markets</td>
-                <td>Purnima M Gupta</td>
-                <td>Central Electricity Authority</td>
-            </tr>
-            <tr>
-                <td>11</td>
-                <td>Regulations for the Evolving Smart Energy Systems</td>
-                <td>Enhancing Regional Energy Cooperation in South Asia: Lessons from Success Stories and the Need for a Unified Regulatory Framework</td>
-                <td>Maitreyi Karthik</td>
-                <td>RTI International (USAID Implementation partner)</td>
-            </tr>
-            <tr>
-                <td>12</td>
-                <td>Regulations for the Evolving Smart Energy Systems</td>
-                <td>Regulatory Framework for Ancillary Services in Evolving Smart Energy Systems Challenges and Strategic Solutions</td>
-                <td>Gufran Basit</td>
-                <td>Siemens Technology and Services</td>
-            </tr>
-            <tr>
-                <td>13</td>
-                <td>Electric Mobility</td>
-                <td>Effect of vehicle dynamics on Performance of Electric Vehicle</td>
-                <td>Minal Rade</td>
-                <td>D.Y. Patil College of Engineering</td>
-            </tr>
-            <tr>
-                <td>14</td>
-                <td>Electric Mobility</td>
-                <td>Opportunity For Battery Swapping In India</td>
-                <td>Eshwar Pisalkar</td>
-                <td>Blue Energy Commercial Vehicle Limited</td>
-            </tr>
-            <tr>
-                <td>15</td>
-                <td>Electric Mobility</td>
-                <td>Advanced Modulation Techniques for Multilevel Inverters in Vehicle-to-Grid Applications</td>
-                <td>Nasreen Banumansoori</td>
-                <td>Silver Oak University, Ahmedabad, Gujarat</td>
-            </tr>
-            <tr>
-                <td>16</td>
-                <td>Smart Grids for Smart Cities</td>
-                <td>Integrated Modelling for Sustainable Energy Transition: Renewable Energy Planning, Resource Adequacy, and Green Hydrogen & Ammonia Supply in India</td>
-                <td>Aditi Narang</td>
-                <td>Energy Exemplar</td>
-            </tr>
-            <tr>
-                <td>17</td>
-                <td>New and Emerging Technologies and Trends</td>
-                <td>Exploring Renewable Energy Dynamics in Power Grids Through Synchrophasor Technology</td>
-                <td>Aman Gautam</td>
-                <td>Grid India</td>
-            </tr>
+            <tr><td>1</td><td>Disruptive Innovations for Utilities</td><td>Object-based classification for vegetation encroachment analysis and change detection in greater Noida for electrical network planning and utility management</td><td>Vikas Gupta</td><td>Noida Power Company Limited</td></tr>
+            <tr><td>2</td><td>Disruptive Innovations for Utilities</td><td>SVM and DWT based Detection and Classification of Microgrid Faults using Single Point Measurement</td><td>Sumangal Bhaumik</td><td>Abacus Institute of Engineering and Management</td></tr>
+            <tr><td>3</td><td>Disruptive Innovations for Utilities</td><td>Unlocking the Intelligent Utility with Generative AI</td><td>Dheeraj Gangadharan</td><td>Accenture</td></tr>
+            <tr><td>4</td><td>Disruptive Innovations for Utilities</td><td>A CIM Based Network Model Management</td><td>Najda V M</td><td>TNEI India Services Limited</td></tr>
+            <tr><td>5</td><td>Disruptive Innovations for Utilities</td><td>Governance Frameworks for GenAI in Sustainable Utility Management: An ESG Perspective</td><td>Priyanshu Agrawal</td><td>Cognizant</td></tr>
+            <tr><td>6</td><td>Disruptive Innovations for Utilities</td><td>Robotics Process Automation for Master Data Integration</td><td>Anil Kumar Ojha</td><td>TPWODL</td></tr>
+            <tr><td>7</td><td>Disruptive Innovations for Utilities</td><td>Application of digital twins for the low-voltage electricity grid – Challenges and opportunities of Distribution Grid Analytics in India</td><td>Ajeet Kumar Singh</td><td>The Energy & Resources Institute</td></tr>
+            <tr><td>8</td><td>Disruptive Innovations for Utilities</td><td>Digitalization, New Services and Revenue Streams: Evolution of Substation Automation System</td><td>Tusar Kanti Bag</td><td>TP Central Odisha Distribution Ltd.</td></tr>
+            <tr><td>9</td><td>Regulations for the Evolving Smart Energy Systems</td><td>India's Carbon Credit Trading System: An Assessment Framework for Power Sector Transformation and Market Stability</td><td>Sujit Surendran</td><td>Cognizant Technology Solution Pvt Ltd</td></tr>
+            <tr><td>10</td><td>Regulations for the Evolving Smart Energy Systems</td><td>Framework for Indian Carbon Markets</td><td>Purnima M Gupta</td><td>Central Electricity Authority</td></tr>
+            <tr><td>11</td><td>Regulations for the Evolving Smart Energy Systems</td><td>Enhancing Regional Energy Cooperation in South Asia: Lessons from Success Stories and the Need for a Unified Regulatory Framework</td><td>Maitreyi Karthik</td><td>RTI International (USAID Implementation partner)</td></tr>
+            <tr><td>12</td><td>Regulations for the Evolving Smart Energy Systems</td><td>Regulatory Framework for Ancillary Services in Evolving Smart Energy Systems: Challenges and Strategic Solutions</td><td>Gufran Basit</td><td>Siemens Technology and Services</td></tr>
+            <tr><td>13</td><td>Electric Mobility</td><td>Effect of vehicle dynamics on Performance of Electric Vehicle</td><td>Minal Rade</td><td>D.Y. Patil College of Engineering</td></tr>
+            <tr><td>14</td><td>Electric Mobility</td><td>Opportunity For Battery Swapping In India</td><td>Eshwar Pisalkar</td><td>Blue Energy Commercial Vehicle Limited</td></tr>
+            <tr><td>15</td><td>Electric Mobility</td><td>Advanced Modulation Techniques for Multilevel Inverters in Vehicle-to-Grid Applications</td><td>Nasreen Banumansoori</td><td>Silver Oak University, Ahmedabad, Gujarat</td></tr>
+            <tr><td>16</td><td>Electric Mobility</td><td>Strategic Charging Demand Management of Electric Buses: A Case Study on Urban Decarbonization</td><td>Mahavir Singh</td><td>The Energy and Resources Institute</td></tr>
+            <tr><td>17</td><td>Electric Mobility</td><td>Harnessing Drone Technology to Transforming India’s Future in Mobility</td><td>Sanjay Singh Rawat</td><td>Accenture Ltd.</td></tr>
+            <tr><td>18</td><td>Foundational Blocks for Smart Grids</td><td>Improving Frequency Regulation and Reliability in Renewable Energy Based Distribution Networks through Advanced Inertia Control and Optimized Fault Passage Indicators (FPIs)</td><td>Aditya Kumar Pati</td><td>PSCC, TPWODL, BURLA</td></tr>
+            <tr><td>19</td><td>Foundational Blocks for Smart Grids</td><td>Estimation of Most Probable Root Cause using Digital Tools for Inverter Dominated Power Grid</td><td>Sarthak Dash</td><td>GE Vernova</td></tr>
+            <tr><td>20</td><td>Foundational Blocks for Smart Grids</td><td>Integrated Bespoke Outage Management System: Effective solution for Indian Power Utilities to address Customer Power Failure Grievance</td><td>Birendra Choudhary</td><td>Noida Power Company Limited</td></tr>
+            <tr><td>21</td><td>India@100 in 2047: Vision for the Indian Power System</td><td>IEEE 2800 Complied Power Hardware-in-the-Loop (PHIL) Setup for Analyzing PV Plant's Behaviour in Power Systems</td><td>Sarasij Das</td><td>Indian Institute on Science, Bangalore</td></tr>
+            <tr><td>22</td><td>India@100 in 2047: Vision for the Indian Power System</td><td>Generation Planning Analysis in India’s Evolving Policy Landscape: A Case Study of Uttar Pradesh</td><td>Sairam Thandra</td><td>Centre for Study of Science, Technology and Policy (CSTEP)</td></tr>
+            <tr><td>23</td><td>Smart Grids for Smart Cities</td><td>Integrated Modelling for Sustainable Energy Transition: Renewable Energy Planning, Resource Adequacy, and Green Hydrogen & Ammonia Supply in India</td><td>Aditi Narang</td><td>Energy Exemplar</td></tr>
+            <tr><td>24</td><td>Smart Grids for Smart Cities</td><td>The Role of Decentralized Energy Communities in Supporting Telecom Infrastructure</td><td>Jagruti Thakur</td><td>KTH Royal Institute of Technology</td></tr>
+            <tr><td>25</td><td>New and Emerging Technologies and Trends</td><td>Exploring Renewable Energy Dynamics in Power Grids Through Synchrophasor Technology</td><td>Aman Gautam</td><td>Grid India</td></tr>
         </tbody>
     </table>
 <p class="western" style="text-decoration: none"><br/>
