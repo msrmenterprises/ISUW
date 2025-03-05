@@ -891,6 +891,19 @@
                         </div>
                      </div>
 
+                     <div class="col-lg-12">
+                              <div class="logo-title">
+                                 <h4>Co-Host Utility</h4>
+                              </div>
+                        </div>
+                        <div class="row justify-content-center">
+                           <div class="col-lg-12">
+                              
+                              <div class="logo-div"><<a href="https://www.noidapower.com/" target="_blank"><img src="images/2025/NPCL1.png" style="height: 120px;"/></a></div>
+                              
+                        </div>
+                     </div>
+
                     <!-- <div class="card-box utilities">
                         
                        
