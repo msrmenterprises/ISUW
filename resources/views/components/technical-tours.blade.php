@@ -17,7 +17,7 @@
  <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsewinners-2" aria-expanded="false" aria-controls="flush-collapsewinners-2">
-       <H4 style="color: green;"><strong>22nd March 2025 ( Saturday )- ISUW Technical Tour & Demonstration  </strong></style></H4>
+       <H4 style="color: green;"><strong>22nd March 2025 ( Saturday )- ISUW Technical Tour  </strong></style></H4>
       </button>
     </h2>
     <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
@@ -39,13 +39,19 @@
       <td>Tour 3</td>
       <td>800 kV HVDC STATION IN AGRA + TAJ MAHAL</td>
       </tr>
-      <tr>
-      <td>Technical Demonstration</td>
-      <td>Hot Line Maintenance on 11 kV and LT Lines (In collaboration with TPDDL and Altec) <sup>*</sup></td>
-      </tr>
+      
       </table>
-      <p>*To Departure and Arrival will be from ISUW 2025 Venue. Passport and Visa Copy/ Aadhar Card Mandatory. Advance Registration Mandatory for ISUW Speakers, Partners, Exhibitors
-      and Delegates with Technical Tour / Demonstration Package</p>
+      <p>Please Note 
+        <ul>
+            <li>Tour Departure and Arrival will be from ISUW 2025 Venue</li>
+
+            <li>Passport and Visa Copy/ Aadhar Card Mandatory</li>
+
+            <li>Advance Registration Mandatory for ISUW Speakers, Partners, Exhibitors and Delegates with Technical Tour </li>
+
+            <li>Technical Tour return timing is subject to traffic. Please book your flights at least 4-5 hours after mentioned time</li>
+        </ul>
+</p>
 
       <div class="k_cheading">
         <a href="https://www.isuw.in/register">
