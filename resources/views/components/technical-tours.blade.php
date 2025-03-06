@@ -40,9 +40,9 @@
       <td>800 kV HVDC STATION IN AGRA + TAJ MAHAL</td>
       </tr>
       
-      </table>
+      </table><br/>
       <p>Please Note 
-        <ul>
+        <ul style="margin-left:21px">
             <li>Tour Departure and Arrival will be from ISUW 2025 Venue</li>
 
             <li>Passport and Visa Copy/ Aadhar Card Mandatory</li>
