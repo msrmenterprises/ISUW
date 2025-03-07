@@ -240,7 +240,7 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
-                              <h4>Technology Partner </h4>
+                              <h4>Technology Partners</h4>
                            </div>
                         </div>
                         <div class="col-lg-5">
@@ -248,6 +248,20 @@
                               <div class="logo-div">
                                  <img src="images/2025/Fluentgrid.png" alt="" style="display:inline; height:50px">
                                </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-5">
+                           <a href="https://cyanconnode.com/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="images/2025/cyanconnode.png" alt="" style="display:inline; height:50px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-5">
+                           <a href="https://radius.co.in/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="images/2025/radius.png" alt="" style="display:inline; height:50px">
+                              </div>
                            </a>
                         </div>
                      </div>

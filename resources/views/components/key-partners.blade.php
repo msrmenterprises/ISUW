@@ -76,12 +76,26 @@ margin-left: 408px;
 	</div>
 </div>
 
-<h5 style="text-align:center;"><b>Technology Partner</b></h5>
+<h5 style="text-align:center;"><b>Technology Partners</b></h5>
 <div class="row justify-content-center">
 	<div class="col-lg-3">
 		<a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer">
 			<div class="logo-div">
 				<img src="images/2025/Fluentgrid.png" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
+	<div class="col-lg-3">
+		<a href="https://cyanconnode.com/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="images/2025/cyanconnode.png" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
+	<div class="col-lg-3">
+		<a href="https://radius.co.in/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="images/2025/radius.png" alt="" style="display:inline; height:50px">
 			</div>
 		</a>
 	</div>
