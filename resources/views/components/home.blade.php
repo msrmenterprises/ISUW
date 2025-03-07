@@ -209,13 +209,13 @@
                               </a>
                            </div>   
                         </div>
-                        <div class="col-lg-5">
+                        <!-- <div class="col-lg-5">
                            <div class="logo-div">
                               <a href="#" target="_blank" rel="noopener noreferrer">
                                  <img src="images/2025/BSCE.png" alt="" style="display:inline; height:50px">
                               </a>
                            </div>   
-                        </div>
+                        </div> -->
                         
                      </div>
 
@@ -942,9 +942,15 @@
 <div class="thematic">
 				   <div class="col-lg-12">
                <h4>Conference Session Partners</h4>
-               <div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/AspenTech.png" alt="TIE"></a></div>
-               <div class="logo-div"><a href="https://bscesystemsinc.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/BSCE.png" alt="TIE"></a></div>
-                           <!-- <div class="logo-title">
+               <div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/AIDA.png" alt="TIE"></a></div>
+               <div class="logo-div"><a href="https://www.bis.gov.in/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/BIS.jpg" alt="TIE"></a></div>
+               <div class="logo-div"><a href="https://www.ideasmattermost.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/Ideasmatter.png" alt="TIE"></a></div>
+               <div class="logo-div"><a href="https://www.iec.ch/homepage" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/IEC.png" alt="TIE"></a></div>
+               <div class="logo-div"><a href="https://www.ieee.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/IEEE.png" alt="TIE"></a></div>
+               <div class="logo-div"><a href="https://apua-asea.org/en/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/APUA.jpg" alt="TIE"></a></div>
+               <div class="logo-div"><a href="https://openchargealliance.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/OpenChargeAlliance.jpg" alt="TIE"></a></div>
+               <div class="logo-div"><a href="https://www.trade.gov/us-commercial-service" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/UScommercial.png" alt="TIE"></a></div>
+                          <!-- <div class="logo-title">
                               <h4>Conference Session Partners</h4>
                            </div>
 <div class="logo-div"><a href="https://www.giz.de/en/html/index.html" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="https://www.isuw.in/public/uploads/exhibitor/giz.png" alt="TIE"></a></div>
