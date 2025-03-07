@@ -895,7 +895,8 @@
                               <div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" style="margin-top:-10px;"></a></div>
                               <div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" style="margin-top:-10px;"></a></div>
                               <div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" style="margin-top:-10px;"></a></div>
-                        </div>
+                              
+                           </div>
                      </div>
 
                      <div class="col-lg-12">

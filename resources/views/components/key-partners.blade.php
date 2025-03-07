@@ -179,6 +179,10 @@ margin-left: 408px;
 <div class="col-lg-3"><div class="logo-div"><a href="https://uppcl.org/uppcl/hi/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/UPPCL.png" alt="" /> </a></div></div>
 <!--<div class="col-lg-3"><div class="logo-div"><a href="https://www.cesc.co.in/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/CESC.jpg" alt="" width="100" height="115" style="margin-top:-6px;display:inline"></a></div></div>
 -->
+<div class="col-lg-3">
+<div class="logo-div"><a href="https://www.noidapower.com/" target="_blank"><img src="images/2025/NPCL1.png" style="height: 120px;"/></a></div>
+</div>
+
 </div>
 
 	<h5 style="text-align:center;"><b>Platinum Partners</b></h5>
