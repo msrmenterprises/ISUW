@@ -255,7 +255,7 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
-                              <h4>Country Partner</h4>
+                              <h4>Country Partners</h4>
                            </div>
                         </div>
                         <div class="col-lg-5">
