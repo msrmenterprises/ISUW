@@ -59,11 +59,11 @@
                      </div>
                  
 
-                      <div class="ministry">
+                     <!--  <div class="ministry">
                      <h2>SUPPORTING<br> 
                         MINISTRIES 2024
                      </h2>
-<!-- <div class="logo-div"><p><a href="https://powermin.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MOP Golden.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div>
+<div class="logo-div"><p><a href="https://powermin.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MOP Golden.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div>
 <div class="logo-div"><p><a href="https://mnre.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MNRE GOLDEN.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div>
 <div class="logo-div"><a href="https://niti.gov.in/" target="_blank"><img class="aligncenter" src="http://www.isuw.in/public/uploads/ministries/NITI Aayog.jpg" alt="Ministry of Commerce" width="150" height="158"></a></div>
 <div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/CEA PNG.png" alt="Ministry of Power" width="219" max-height="158" /></a></p></div>
@@ -76,7 +76,7 @@
 <div class="logo-div"><p><a href="https://smartnet.niua.org/39-9cc9844b-1b5e-4ea6-9303-719caa5017d8"><img class="aligncenter" src="http://www.isuw.in/public/uploads/ministries/Smart-City (1).png" alt="Ministry of Commerce"/></a></div>
 <div class="logo-div"><p><a href="https://mea.gov.in/index.htm" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MEA.png" alt="Ministry of Power" width="219" max-height="158" /></a></p></div>
 <div class="logo-div"><p><a href="http://mowr.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/minstry of jal shakti png.png" alt="Ministry of Commerce" /></a></div>
---></div>      
+</div>   -->   
  <a class="btn btn-light-section" style="border: 2px solid #EF7B00;" href=" /supporting-ministries-2024">View All</a>               	     
 <!--<div class="thematic">
 				   <div class="col-lg-12">
