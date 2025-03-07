@@ -31,7 +31,7 @@
 		<div class="col-lg-3"><div class="logo-div"><a href="https://www.etsi.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="https://www.isuw.in/public/uploads/organizations/ETSI.jpg" alt="" width="200"></a></div></div>
 		<div class="col-lg-3"><div class="logo-div"><a href="https://www.iea-isgan.org/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="https://www.isuw.in/public/uploads/organizations/ISGAN.png" alt="Logo"></a></div></div>
 		<div class="col-lg-3"><div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/AIDA.png" alt="Logo"></a></div></div>
-		<div class="col-lg-3"><div class="logo-div"><a href="https://sscgj.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/SCGJ.png" alt="Logo"></a></div></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="https://sscgj.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/scgj.png" alt="Logo"></a></div></div>
 		<div class="col-lg-3"><div class="logo-div"><a href="https://energyforum.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/IGEF.svg" alt="Logo"></a></div></div>
 		
 	</div>
