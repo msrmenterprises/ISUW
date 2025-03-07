@@ -142,6 +142,13 @@ margin-left: 408px;
 			</div>
 		</a>
 	</div>
+	<div class="col-lg-3">
+		<a href="https://www.landisgyr.com/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="images/2025/Landis.png" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
 </div>	
 
 <h5 style="text-align:center;"><b>Knowledge Partners</b></h5>

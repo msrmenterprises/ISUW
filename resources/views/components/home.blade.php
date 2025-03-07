@@ -280,7 +280,7 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
-                              <h4>Bronze Partner </h4>
+                              <h4>Bronze Partners </h4>
                            </div>
                         </div>
                         <div class="col-lg-5">
@@ -316,6 +316,13 @@
                               <div class="logo-div">
                                  <img src="images/2025/Phoenix.svg" alt="" style="display:inline; height:50px">
                                </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-5">
+                           <a href="https://www.landisgyr.com/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="images/2025/Landis.png" alt="" style="display:inline; height:50px">
+                              </div>
                            </a>
                         </div>
                      </div>
