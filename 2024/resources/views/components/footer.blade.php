@@ -17,7 +17,7 @@ color:#EF7B00;
                <div class="col-lg-3">
                   <div class="widget">
                      <h6>ISUW 2025 Venue</h6>
-                     <p><i class="fa fa-home" aria-hidden="true"></i> Hotel Lalit, New Delhi, India</p>
+                     <p><i class="fa fa-home" aria-hidden="true"></i> New Delhi, India</p>
                       <h6>  For General Queries</h6>
 					 <p><i class="fa fa-phone" aria-hidden="true"></i> Call us at : <a href="tel:011 - 41030398" style="color:white;">011 - 41030398</a><br>
                         <i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:awards@isuw.in" style="color:white;"> isuw@isuw.in</a><br></p>
@@ -67,7 +67,7 @@ color:#EF7B00;
                   <div class="widget">
                      <h6>ISUW 2025 Event Structure</h6>
                      <h5 style="color:#4EBC3C;">Day 1 – 18 March 2025 (Tuesday)</h5>
-                     <p>Special Workshops</p>
+                     <p>Special Workshops and Master Classes</p>
                      <h5 style="color:#4EBC3C;">Day 2 – 19 March 2025 (Wednesday)</h5>
                      <p>Conference &amp; Exhibition</p>
                      <h5 style="color:#4EBC3C;">Day 3 – 20 March 2025 (Thursday)</h5>
