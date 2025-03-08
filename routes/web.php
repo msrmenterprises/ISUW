@@ -268,8 +268,8 @@ Route::get('/theme-and-session-partners-2021', function () {
 Route::get('/theme-and-session-partners-2023', function () {
      return view('/components/theme-and-session-partners-2023');
 });
-Route::get('/theme-and-session-partners-2024', function () {
-     return view('/components/theme-and-session-partners-2024');
+Route::get('/theme-and-session-partners-2025', function () {
+     return view('/components/theme-and-session-partners-2025');
 });
 Route::get('/confirmed-exhibitors-2021', function () {
       return view('/components/confirmed-exhibitors-2021');

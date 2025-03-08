@@ -7,6 +7,10 @@
 <style>
   
 </style> 
+
+
+	
+	
  <div class="k_cheading">
 		<h1>ISUW 2024 <span class="k_greencolor">Conference Sessions Partners</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
@@ -51,7 +55,10 @@
  <div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="https://isuw.in/uploads/countryflags/Germany.png" alt="TIE"></a></div></div>
 -->
 
- 
+<h5 style="text-align:center;"><b>Session Partners</b></h5>
+<div class="col-lg-4"></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img src="images/2025/AspenTech.png" alt=""  height="102" style="display:inline;"></div></a></div>
+<div class="col-lg-4"></div>
  
  <p></p>
  <p style="text-align:center; font-size:16px;"><a href="https://www.isuw.in/theme-and-session-partners-2023" class="getstartedd ">Theme and Session Partners 2023</a></p>
