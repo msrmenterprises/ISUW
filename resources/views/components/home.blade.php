@@ -1033,7 +1033,7 @@
                   </div>
 					   @endforeach
 				      <a class="btn btn-light-section" style="border: 2px solid #EF7B00;margin-bottom: -31px;" href="/participating-utilies">View All</a>	  -->
-					   <a class="btn btn-light-section" style="border: 2px solid #EF7B00;margin-bottom: -31px;" href="/theme-and-session-partners-2024">View All</a>
+					   <a class="btn btn-light-section" style="border: 2px solid #EF7B00;margin-bottom: -31px;" href="/theme-and-session-partners-2025">View All</a>
              
                   </div>
                  
