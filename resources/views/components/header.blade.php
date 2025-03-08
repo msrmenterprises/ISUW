@@ -69,7 +69,7 @@
                       <li><a href="/supporting-organization" target="_blank">Supporting Organizations</a></li>
                       <li><a href="/supporting-ministries-2025" target="_blank">Supporting Ministries</a></li>
                       <li><a href="/media-and-marketing-partner-2024" target="_blank">Media and Marketing Partners</a></li>
-                      <li><a href="/theme-and-session-partners-2024" target="_blank">Conference Sessions Partners</a></li>
+                      <li><a href="/theme-and-session-partners-2025" target="_blank">Conference Sessions Partners</a></li>
                       <!--<li><a href="/supporting-utilities-of-isuw" target="_blank">Supporting Utilities</a></li>-->
                      <li><a href="/participating-utilities-2025" target="_blank">Participating Utilities</a></li>
                      <li><a href="/isuw-participated-utilties" target="_blank">Participated Utilities</a></li>
