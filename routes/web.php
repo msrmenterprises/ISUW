@@ -250,8 +250,8 @@ Route::get('/participating-utilies-2021', function () {
 Route::get('/participating-utilies-2023', function () {
      return view('/components/participating-utilies-2023');
 });
-Route::get('/participating-utilies-2024', function () {
-     return view('/components/participating-utilies-2024');
+Route::get('/participating-utilities-2025', function () {
+     return view('/components/participating-utilities-2025');
 });
 Route::get('/isuw-2023-brochure', function () {
      return view('/components/isuw-2023-brochure');
