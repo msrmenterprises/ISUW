@@ -339,6 +339,27 @@
                               </div>
                            </a>
                         </div>
+                        <div class="col-lg-5">
+                           <a href="https://export.business.gov.au/find-export-markets/market-explorer-tool/market-explorer-results/all/all/ind" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="images/2025/nationalbrand.png" alt="" style="display:inline; height:50px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-5">
+                           <a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="images/2025/Eppeltone.png" alt="" style="display:inline; height:50px">
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-lg-5">
+                           <a href="https://kimbal.io/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="images/2025/Kimbal.jpeg" alt="" style="display:inline; height:50px">
+                              </div>
+                           </a>
+                        </div>
                      </div>
 
                      
