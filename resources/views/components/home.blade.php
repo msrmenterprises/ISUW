@@ -362,6 +362,13 @@
                                  <img src="images/2025/ulse.png" alt="" style="display:inline; height:50px">
                                </div>
                            </a>
+                        </div> 
+                        <div class="col-lg-5">
+                           <a href="https://www.iexindia.com/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="images/2025/IEX.png" alt="" style="display:inline; height:50px">
+                               </div>
+                           </a>
                         </div>  
                      </div>   
                      
