@@ -1124,7 +1124,184 @@
          <h2>ISUW 2025 Participating Utilities</h2>
       </div>
       <div class="row justify-content-center ">
-      <div class="col-lg-2">
+
+         <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer"><img style="margin: 0 auto; height: 44px; margin-top: 27px;" src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt=""></a></div></div>
+         <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img style="margin: 0 auto; height: 50px; width: 151px; margin-top: 23px;" src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt=""></a></div></div>
+         <div class="col-lg-3"><div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt=""  height="102"></a></div></div>
+         <div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" style="margin-top:-10px;" ></a></div></div>
+         <div class="col-lg-3"><div class="logo-div"><a href="https://www.pgvcl.com/" target="_blank" rel="noopener noreferrer"><img src="" style="margin-top:-10px;" ></a></div></div>
+         <div class="col-lg-3"><div class="logo-div"><a href="https://www.mgvcl.com/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051"  src="" alt="" height="125" /> </a></div></div>
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.mgvcl.com/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/MGVCL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.tpwesternodisha.com/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/TPCODL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.tpnodl.com/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/TPNODL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.mahadiscom.in/en/home/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.powergrid.in/en" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/Powergrid.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.noidapower.com/Home" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/NPCL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://uppcl.org/uppcl/en" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/UPPCL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.guvnl.com/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/GUVNL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://dgvcl.com/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/DGVCL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.uhbvn.org.in/web/portal/home" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/UHBVN.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.dhbvn.org.in/web/portal/home" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/DHBVN.jpg" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://kseb.in/ksebhome" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/KSEB.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.mpwz.co.in/#/home" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.tpsouthernodisha.com/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/TPSODL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://tgnpdcl.com/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/TGNPDCLTelangana.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://tsecl.in/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/Tripura(TSECL).jpg" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.pvvnl.org/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/PVVNL-Logo.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.cesc.co.in/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/CESC_Logo.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.mpwz.co.in/#/home" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/MPPKVVCL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.mahadiscom.in/en/home/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/MSEDCL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+         <div class="col-lg-3">
+            <div class="logo-div">
+               <a href="https://www.pgvcl.com/" target="_blank" rel="noopener noreferrer">
+                  <img class="alignleft size-medium wp-image-38051"  src="images/2025/PGVCL.png" alt="" height="125" /> 
+               </a>
+            </div>
+         </div>
+
+      <!-- <div class="col-lg-2">
          <div class="logo-div">
             <a href="#" target="_blank"><img src="images/2025/TataPower.png" style="height: 120px;"></a>
          </div>
@@ -1193,28 +1370,9 @@
          <div class="logo-div">
             <a href="#" target="_blank"><img src="images/2025/NPCL.png" style="height: 120px;"></a>
          </div>
-      </div>
+      </div> -->
       
-         <!-- <div class="col-lg-2"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img  src="http://isuw.in/uploads/images/sew-water.png" alt="" height="102"></a></div></div>
-         <div class="col-lg-2"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="" style="height:102px;"></div></a></div>
-         <div class="col-lg-2"><div class="logo-div"><a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569692.png" alt=""  height="102" style="display:inline;"></a></div></div>
-         <div class="col-lg-2"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt=""  height="115" style="display:inline;"></a></div></div>
-         <div class="col-lg-2"><div class="logo-div"><a href="https://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt=""  style="display:inline;"></a></div></div>
-         <div class="col-lg-2"><div class="logo-div"><a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/1641569652.png" ></div></a></div>
-         <div class="col-lg-2"><div class="logo-div"><a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a></div></div>
-         <div class="col-lg-2"><div class="logo-div"><a href="https://www.phoenixcontact.com/en-in/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/Phoenix Contact.jpg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
-         <div class="col-lg-2"><a href="https://pluto-men.com/"><div class="logo-div"><img src="http://www.isuw.in/public/uploads/partner/Plutomen Logo- Big size.png" alt="Ministry of Commerce" style="display:inline; height:59px"></div></a></div>
-         <div class="col-lg-2"><a href="https://www.tekuncorked.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/Tekuncorked.jpg" alt=""></div></a></div>
-         <div class="col-lg-2"><a href="https://www.cecp-eu.in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/EU-FIRST.PNG" alt=""  height="102" style="display:inline;"></div></a></div>
-         <div class="col-lg-2"><a href="https://www.cecp-eu.in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/EU-SECOND.jpg" alt=""  height="102" style="display:inline;"></div></a></div>
-         <div class="col-lg-2"><a href="https://www.tauruspowertronics.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/TAURUS LOGO (1).jpg" alt=""></div></a></div>
-         <div class="col-lg-2"><div class="logo-div"><a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/CDAC.jpg" alt="" width="200" style="display:inline; height:105px"></a></div></div>
-         <div class="col-lg-2"><a href="https://www.cuculus.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/exhibitor/1676736585.png" alt="" style="height:59px;"></div></a></div>
-         <div class="col-lg-2"><a href="https://www.larsentoubro.com/corporate/products-and-services/construction/power-transmission-distribution/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/exhibitor/lt.png" alt="" style="height:59px;"></div></a></div>
-         <div class="col-lg-2"><a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:59px"></a></div></div>
-         <div class="col-lg-2"><a href="https://www.trillectric.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/exhibitor/Trillectric.png" alt="" style="height:59px;"></div></a></div>
-         <div class="col-lg-2"><a href="https://www.meity.gov.in/"><div class="logo-div"><img src="http://www.isuw.in/public/uploads/ministries/MEITY-exhi.PNG" alt="Ministry of Commerce" width="100"></div></a></div>
-         <div class="col-lg-2"><div class="logo-div"><a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer"><img  src="http://www.isuw.in/beta/wp-content/uploads/2021/01/ISGF-LOGO-HD.jpg" alt="" width="213" height="102"></a></div></div> -->
+         
       </div>
    </div>
 </section>

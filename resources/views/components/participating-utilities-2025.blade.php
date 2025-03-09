@@ -82,13 +82,6 @@
 	</div>
 </div>
 
-<div class="col-lg-3">
-	<div class="logo-div">
-		<a href="https://www.noidapower.com/" target="_blank" rel="noopener noreferrer">
-			<img class="alignleft size-medium wp-image-38051"  src="images/2025/NPCL.png" alt="" height="125" /> 
-		</a>
-	</div>
-</div>
 
 <div class="col-lg-3">
 	<div class="logo-div">
@@ -129,13 +122,7 @@
 	</div>
 </div>
 
-<div class="col-lg-3">
-	<div class="logo-div">
-		<a href="https://www.tpcentralodisha.com/" target="_blank" rel="noopener noreferrer">
-			<img class="alignleft size-medium wp-image-38051"  src="images/2025/TPCODL.png" alt="" height="125" /> 
-		</a>
-	</div>
-</div>
+
 
 <div class="col-lg-3">
 	<div class="logo-div">
@@ -173,6 +160,30 @@
 	<div class="logo-div">
 		<a href="https://www.cesc.co.in/" target="_blank" rel="noopener noreferrer">
 			<img class="alignleft size-medium wp-image-38051"  src="images/2025/CESC_Logo.png" alt="" height="125" /> 
+		</a>
+	</div>
+</div>
+
+<div class="col-lg-3">
+	<div class="logo-div">
+		<a href="https://www.mpwz.co.in/#/home" target="_blank" rel="noopener noreferrer">
+			<img class="alignleft size-medium wp-image-38051"  src="images/2025/MPPKVVCL.png" alt="" height="125" /> 
+		</a>
+	</div>
+</div>
+
+<div class="col-lg-3">
+	<div class="logo-div">
+		<a href="https://www.mahadiscom.in/en/home/" target="_blank" rel="noopener noreferrer">
+			<img class="alignleft size-medium wp-image-38051"  src="images/2025/MSEDCL.png" alt="" height="125" /> 
+		</a>
+	</div>
+</div>
+
+<div class="col-lg-3">
+	<div class="logo-div">
+		<a href="https://www.pgvcl.com/" target="_blank" rel="noopener noreferrer">
+			<img class="alignleft size-medium wp-image-38051"  src="images/2025/PGVCL.png" alt="" height="125" /> 
 		</a>
 	</div>
 </div>
