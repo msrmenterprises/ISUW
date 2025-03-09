@@ -183,7 +183,7 @@
 <div class="col-lg-3">
 	<div class="logo-div">
 		<a href="https://www.pgvcl.com/" target="_blank" rel="noopener noreferrer">
-			<img class="alignleft size-medium wp-image-38051"  src="images/2025/PGVCL.png" alt="" height="125" /> 
+			<img class="alignleft size-medium wp-image-38051"  src="images/2025/PGVCL.jpg" alt="" height="125" /> 
 		</a>
 	</div>
 </div>
