@@ -263,16 +263,24 @@ Portal, Chat-bot, Voice-bot </li>
       <div class="accordion-body">
 		<P STYLE="margin-bottom: 0.11in">
 			<b>Guideline for Abstract Submission</b>
-		1. To submit the Abstract for ISUW 2025, please visit the following link  <A HREF="https://forms.gle/Xdi6uzQime1LbCck7" target="_blank">https://forms.gle/Xdi6uzQime1LbCck7</A><br/>
+			1. To submit the Abstract for ISUW 2025, please visit the following link  <A HREF="https://forms.gle/Xdi6uzQime1LbCck7" target="_blank">https://forms.gle/Xdi6uzQime1LbCck7</A><br/>
 
-		2. Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers<br/>
-		3. <b>Abstract of paper:</b> Max 250 words to be submitted with this application latest by <b>16 August 2024</b><br/>
-		4. Shortlisted Paper Abstracts will be announced by <b>30th September 2024</b> for Full Paper Submission
-		5. Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 5th
-		January 2025 |Max: 6 pages / 1200 Word | (Download the format from following link: <a href="https://shorturl.at/JogXr" target="_blank">Conference-template-A4 _IEEE.doc </a>)<br/>
-		6. Shortlisted Papers will be announced by <b>21st January 2025</b><br/>
-		7. Papers deemed purely commercial in nature will not be selected<br/>
-		8. For queries email us at: <a href="tp@isuw.in">tp@isuw.in</a></p>
+			2. Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers<br/>
+			3. <b>Abstract of paper:</b> Max 250 words to be submitted with this application latest by <b>16 August 2024</b><br/>
+			4. Shortlisted Paper Abstracts will be announced by <b>30th September 2024</b> for Full Paper Submission<br/>
+			5. Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 5th January 2025 |Max: 6 pages / 1200 Words | (Download the format from following link: <a href="https://shorturl.at/JogXr" target="_blank">Conference-template-A4 _IEEE.doc </a>)<br/>
+			6. Shortlisted Papers will be announced by <b>21st January 2025</b><br/>
+			7. Papers deemed purely commercial in nature will not be selected<br/>
+			8. For queries email us at: <a href="tp@isuw.in">tp@isuw.in</a>
+		</p>
+		<P STYLE="margin-bottom: 0.11in">
+			<b>Guidelines for the Submission of ISUW 2025 Technical Paper for the Selected Abstract</b>
+			1. To submit your technical paper for ISUW 2025, please visit the following link: <a href="https://forms.gle/qqv152xf9s3DLC8T9">https://forms.gle/qqv152xf9s3DLC8T9</a><br/>
+
+			2. Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 15th December 2024. (Max: 6 pages / 1200 words and 10 MB word and pdf file). Download the format from the following link: <a href="https://drive.google.com/file/d/1kEZ8aOjf8DAeYE-tBzLcPx" target="_blank">https://drive.google.com/file/d/1kEZ8aOjf8DAeYE-tBzLcPx</a> YmexWJw11/viewhttps://drive.google.com/file/d/1kEZ8aOjf8DAeYE-tBzLcPx YmexWJw11/view<br/>
+			3. For queries email us at <a href="aashima@indiasmartgrid.org">aashima@indiasmartgrid.org</a>&nbsp;<a href="aashima@indiasmartgrid.org">aashima@indiasmartgrid.org</a><br/>
+			4. Technical papers no. 2, 10, 40, 42, 104, 106, 114 are compiled technical papers as suggested by juries (Participants will be receiving a separate email)
+		</p>
 	  </div></div></div></div>
 	  <p align="center" style="line-height: 108%; margin-bottom: 0.11in"></p>
 	  <div class="accordion accordion-flush" id="accordionFlushExample">
