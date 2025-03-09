@@ -25,10 +25,10 @@
 	
  
 
-<h5 style="text-align:center;"><b>Session Partners</b></h5>
+<!-- <h5 style="text-align:center;"><b>Session Partners</b></h5>
 <div class="col-lg-4"></div>
 <div class="col-lg-4"><div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img src="images/2025/AspenTech.png" alt=""  height="102" style="display:inline;"></div></a></div>
-<div class="col-lg-4"></div>
+<div class="col-lg-4"></div> -->
  
  <p></p>
  <p style="text-align:center; font-size:16px;"><a href="https://www.isuw.in/2024/theme-and-session-partners-2024" class="getstartedd ">Theme and Session Partners 2024</a></p>
