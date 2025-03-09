@@ -262,8 +262,8 @@ Portal, Chat-bot, Voice-bot </li>
     <div id="flush-collapsetwo" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
 		<P STYLE="margin-bottom: 0.11in">
-			<b>Guideline for Abstract Submission</b>
-			1. To submit the Abstract for ISUW 2025, please visit the following link  <A HREF="https://forms.gle/Xdi6uzQime1LbCck7" target="_blank">https://forms.gle/Xdi6uzQime1LbCck7</A><br/>
+			<b>Guideline for Abstract Submission</b><br/>
+			1. To submit the Abstract for ISUW 2025, please visit the following link  <A href="https://forms.gle/Xdi6uzQime1LbCck7" target="_blank">https://forms.gle/Xdi6uzQime1LbCck7</A><br/>
 
 			2. Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers<br/>
 			3. <b>Abstract of paper:</b> Max 250 words to be submitted with this application latest by <b>16 August 2024</b><br/>
@@ -274,8 +274,8 @@ Portal, Chat-bot, Voice-bot </li>
 			8. For queries email us at: <a href="tp@isuw.in">tp@isuw.in</a>
 		</p>
 		<P STYLE="margin-bottom: 0.11in">
-			<b>Guidelines for the Submission of ISUW 2025 Technical Paper for the Selected Abstract</b>
-			1. To submit your technical paper for ISUW 2025, please visit the following link: <a href="https://forms.gle/qqv152xf9s3DLC8T9">https://forms.gle/qqv152xf9s3DLC8T9</a><br/>
+			<b>Guidelines for the Submission of ISUW 2025 Technical Paper for the Selected Abstract</b><br/>
+			1. To submit your technical paper for ISUW 2025, please visit the following link: <a href="https://forms.gle/qqv152xf9s3DLC8T9" target="_blank">https://forms.gle/qqv152xf9s3DLC8T9</a><br/>
 
 			2. Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 15th December 2024. (Max: 6 pages / 1200 words and 10 MB word and pdf file). Download the format from the following link: <a href="https://drive.google.com/file/d/1kEZ8aOjf8DAeYE-tBzLcPx" target="_blank">https://drive.google.com/file/d/1kEZ8aOjf8DAeYE-tBzLcPx</a> YmexWJw11/viewhttps://drive.google.com/file/d/1kEZ8aOjf8DAeYE-tBzLcPx YmexWJw11/view<br/>
 			3. For queries email us at <a href="aashima@indiasmartgrid.org">aashima@indiasmartgrid.org</a>&nbsp;<a href="aashima@indiasmartgrid.org">aashima@indiasmartgrid.org</a><br/>
