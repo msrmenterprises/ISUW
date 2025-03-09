@@ -25,12 +25,7 @@
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.impresa.ai/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Impressa.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://lora-alliance.org/" target="_blank" rel="noopener noreferrer"><img src="images/2025/LoRaAlliance.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.powerxchange.io/" target="_blank" rel="noopener noreferrer"><img src="images/2025/PowerXchange.jpeg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
-      <div class="col-lg-3">
-                  <div class="logo-div">
-                  <a href="https://lora-alliance.org/" target="_blank" rel="noopener noreferrer"><img src="images/2025/LoRaAlliance.png" ></a>
-                  </div>
-                  </div>
-                  <div class="col-lg-3"><div class="logo-div"><a href="https://www.phoenixcontact.com/en-in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Phoenix.svg" alt="" width="160" height="115" style="display:inline;"></a></div></div>            
+      
       <!-- <p></p>
 <div class="k_cheading">
 		<h1>ISUW 2024<span class="k_greencolor"> EXHIBITORS </span> </h1>
