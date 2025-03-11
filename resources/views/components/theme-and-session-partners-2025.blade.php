@@ -22,6 +22,16 @@
 	<div class="col-lg-4"><div class="logo-div"><a href="https://apua-asea.org/en/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/APUA.jpg" alt="TIE"></a></div></div>
 	<div class="col-lg-4"><div class="logo-div"><a href="https://openchargealliance.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/OpenChargeAlliance.jpg" alt="TIE"></a></div></div>
 	<div class="col-lg-4"><div class="logo-div"><a href="https://www.trade.gov/us-commercial-service" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/UScommercial.png" alt="TIE"></a></div></div>
+
+	<div class="col-lg-4"><div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/AIDA.png" alt="TIE"></a></div></div>
+	<div class="col-lg-4"><div class="logo-div"><a href="https://www.bis.gov.in/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/BIS.jpg" alt="TIE"></a></div></div>
+	<div class="col-lg-4"><div class="logo-div"><a href="https://www.cdri.world/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/CDRI.jpg" alt="TIE"></a></div></div>
+	<div class="col-lg-4"><div class="logo-div"><a href="https://www.indiabrazilchamber.org/home" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/IBCoC.png" alt="TIE"></a></div></div>
+	<div class="col-lg-4"><div class="logo-div"><a href="https://www.smartgrid.com.br/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/LATAM.png" alt="TIE"></a></div></div>
+	<div class="col-lg-4"><div class="logo-div"><a href="https://sscgj.in/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/SCGJ.png" alt="TIE"></a></div></div>
+	<div class="col-lg-4"><div class="logo-div"><a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/UKGovSTACKRGB.png" alt="TIE"></a></div></div>
+	<div class="col-lg-4"><div class="logo-div"><a href="https://pjci.idremember.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/PJCI.png" alt="TIE"></a></div></div>
+	<div class="col-lg-4"><div class="logo-div"><a href="https://ulse.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/ulstandengage.svg" alt="TIE"></a></div></div>
 	
  
 
