@@ -117,6 +117,9 @@ margin-left: 408px;
 				</div>
 			</a>
 	</div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.smartgrid.com.br/eng" target="_blank" rel="noopener noreferrer"><img src="images/2025/LATAM.png" alt=""  height="102" style="display:inline;"></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.indiabrazilchamber.org/home" target="_blank" rel="noopener noreferrer"><img src="images/2025/IBCoC.png" alt=""  height="102" style="display:inline;"></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img src="images/2025/pjci.png" alt=""  height="102" style="display:inline;"></a></div></div>
 </div>
 
 <h5 style="text-align:center;"><b>Bronze Partners</b></h5>
@@ -280,9 +283,7 @@ margin-left: 408px;
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.indiabrazilchamber.org/home" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/I-B CoC.png" alt=""  height="102" style="display:inline;"></div></a></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.smartgrid.com.br/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/LATAM.png" alt=""  height="102" style="display:inline;"></div></a></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://sarepenergy.net/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/usaid.png" alt=""  height="102" style="display:inline;"></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="https://www.smartgrid.com.br/eng" target="_blank" rel="noopener noreferrer"><img src="images/2025/LATAM.png" alt=""  height="102" style="display:inline;"></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="https://www.indiabrazilchamber.org/home" target="_blank" rel="noopener noreferrer"><img src="images/2025/IBCoC.png" alt=""  height="102" style="display:inline;"></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img src="images/2025/pjci.png" alt=""  height="102" style="display:inline;"></a></div></div>
+
   
 </div>
 
