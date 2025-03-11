@@ -16,8 +16,8 @@
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img style="margin: 0 auto; height: 50px; width: 151px; margin-top: 23px;" src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt=""></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt=""  height="102"></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" style="margin-top:-10px;" ></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="https://www.pgvcl.com/" target="_blank" rel="noopener noreferrer"><img src="" style="margin-top:-10px;" ></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="https://www.mgvcl.com/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051"  src="" alt="" height="125" /> </a></div></div>
+<!-- <div class="col-lg-3"><div class="logo-div"><a href="https://www.pgvcl.com/" target="_blank" rel="noopener noreferrer"><img src="" style="margin-top:-10px;" ></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="https://www.mgvcl.com/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051"  src="" alt="" height="125" /> </a></div></div> -->
 <div class="col-lg-3">
 	<div class="logo-div">
 		<a href="https://www.mgvcl.com/" target="_blank" rel="noopener noreferrer">
@@ -42,13 +42,13 @@
 	</div>
 </div>
 
-<div class="col-lg-3">
+<!-- <div class="col-lg-3">
 	<div class="logo-div">
 		<a href="https://www.mahadiscom.in/en/home/" target="_blank" rel="noopener noreferrer">
 			<img class="alignleft size-medium wp-image-38051"  src="" alt="" height="125" /> 
 		</a>
 	</div>
-</div>
+</div> -->
 
 <div class="col-lg-3">
 	<div class="logo-div">
@@ -114,13 +114,13 @@
 	</div>
 </div>
 
-<div class="col-lg-3">
+<!-- <div class="col-lg-3">
 	<div class="logo-div">
 		<a href="https://www.mpwz.co.in/#/home" target="_blank" rel="noopener noreferrer">
 			<img class="alignleft size-medium wp-image-38051"  src="" alt="" height="125" /> 
 		</a>
 	</div>
-</div>
+</div> -->
 
 
 
@@ -184,6 +184,30 @@
 	<div class="logo-div">
 		<a href="https://www.pgvcl.com/" target="_blank" rel="noopener noreferrer">
 			<img class="alignleft size-medium wp-image-38051"  src="images/2025/PGVCL.jpg" alt="" height="125" /> 
+		</a>
+	</div>
+</div>
+
+<div class="col-lg-3">
+	<div class="logo-div">
+		<a href="https://www.tpwesternodisha.com/" target="_blank" rel="noopener noreferrer">
+			<img class="alignleft size-medium wp-image-38051"  src="images/2025/TPWODL.png" alt="" height="125" /> 
+		</a>
+	</div>
+</div>
+
+<div class="col-lg-3">
+	<div class="logo-div">
+		<a href="https://www.apspdcl.in/index.jsp" target="_blank" rel="noopener noreferrer">
+			<img class="alignleft size-medium wp-image-38051"  src="images/2025/APSPDCL.png" alt="" height="125" /> 
+		</a>
+	</div>
+</div>
+
+<div class="col-lg-3">
+	<div class="logo-div">
+		<a href="https://posoco.in/en/" target="_blank" rel="noopener noreferrer">
+			<img class="alignleft size-medium wp-image-38051"  src="images/2025/Grid-India.png" alt="" height="125" /> 
 		</a>
 	</div>
 </div>
