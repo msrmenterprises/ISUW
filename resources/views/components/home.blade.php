@@ -286,6 +286,10 @@
                                </div>
                            </a>
                         </div>
+
+                        <div class="col-lg-5"><div class="logo-div"><a href="https://www.smartgrid.com.br/eng" target="_blank" rel="noopener noreferrer"><img src="images/2025/LATAM.png" alt=""  height="102" style="display:inline;"></a></div></div>
+                        <div class="col-lg-5"><div class="logo-div"><a href="https://www.indiabrazilchamber.org/home" target="_blank" rel="noopener noreferrer"><img src="images/2025/IBCoC.png" alt=""  height="102" style="display:inline;"></a></div></div>
+                        <div class="col-lg-5"><div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img src="images/2025/pjci.png" alt=""  height="102" style="display:inline;"></a></div></div>
                       
                      </div>
 
