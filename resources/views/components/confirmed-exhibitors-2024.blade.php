@@ -8,7 +8,7 @@
 		<h1>ISUW 2025<span class="k_greencolor"> EXHIBITORS </span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 </div>
-<div class="col-lg-3"><a href="https://sunnetsoftware.com/contact-us/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/sunnet.png" alt="" style="display:inline; height:59px"></a></div></div>
+      <div class="col-lg-3"><a href="https://sunnetsoftware.com/contact-us/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/sunnet.png" alt="" style="display:inline; height:59px"></a></div></div>
       <div class="col-lg-3"><a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:59px"></a></div></div>
       <div class="col-lg-3"><a href="https://edx.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:59px"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer"><img  src="images/2025/ISGF.jpg" alt="" width="213" height="102"></a></div></div>
@@ -26,10 +26,10 @@
       <div class="col-lg-3"><div class="logo-div"><a href="https://lora-alliance.org/" target="_blank" rel="noopener noreferrer"><img src="images/2025/LoRaAlliance.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.powerxchange.io/" target="_blank" rel="noopener noreferrer"><img src="images/2025/PowerXchange.jpeg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.austrade.gov.au/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Austrade.jpeg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><div class="logo-div"><a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Eppeltone.jpeg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><div class="logo-div"><a href="https://cyanconnode.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/logo_cyanconnode.jpeg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><div class="logo-div"><a href="https://radius.co.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Radius.jpeg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><div class="logo-div"><a href="https://www.noidapower.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/NPCL.jpeg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Eppeltone.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://cyanconnode.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/logo_cyanconnode.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://radius.co.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Radius.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.noidapower.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/NPCL.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
       
       <!-- <p></p>
 <div class="k_cheading">
