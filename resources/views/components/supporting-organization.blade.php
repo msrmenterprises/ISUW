@@ -34,7 +34,7 @@
 		<div class="col-lg-3"><div class="logo-div"><a href="https://sscgj.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="https://sscgj.in/wp-content/themes/sscgj/images/scgj.gif" alt="Logo"/></a></div></div>
 		<div class="col-lg-3"><div class="logo-div"><a href="https://energyforum.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/IGEF.svg" alt="Logo"></a></div></div>
 		<div class="col-lg-3"><div class="logo-div"><a href="https://www.epri.com/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/EPRI.png" alt="Logo"></a></div></div>
-		<div class="col-lg-3"><div class="logo-div"><a href="https://vjti.ac.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/VJTI.png" alt="Logo"></a></div></div>
+		<div class="col-lg-3"><div class="logo-div"><a href="https://vjti.ac.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/VJTI.jpg" alt="Logo"></a></div></div>
 		
 	</div>
 	<div class="row justify-content-left ">
