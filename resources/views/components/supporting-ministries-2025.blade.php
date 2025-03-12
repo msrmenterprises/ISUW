@@ -21,6 +21,9 @@
 <div class="row justify-content-center">
 <div class="col-lg-3"><div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/cea 1.jpg" alt="Ministry of Power" style="width:219px; max-height:170px;"  /></a></p></div></div>
 </div>
+<div class="row justify-content-center">
+<div class="col-lg-3"><div class="logo-div"><p><a href="https://dst.gov.in/" target="_blank"><img class="aligncenter  wp-image-38077" src="images/2025/DSTGold.png" alt="Ministry" style="width:219px; max-height:170px;"  /></a></p></div></div>
+</div>
 <!-- <div class="row justify-content-center">
 <div class="col-lg-3"><div class="logo-div"><p><a href="http://mowr.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/Jal Shakti.jpg" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>
