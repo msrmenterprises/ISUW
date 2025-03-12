@@ -56,9 +56,7 @@
                         <div class="logo-div"><a href="https://niti.gov.in/" target="_blank"><img class="aligncenter" src="http://www.isuw.in/public/uploads/ministries/NITI Aayog.jpg" alt="Ministry of Commerce" width="150" height="158"></a></div>
                         <div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/CEA PNG.png" alt="Ministry of Power" width="219" max-height="158" /></a></p></div>
                         <div class="logo-div"><p><a href="https://mnre.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MNRE GOLDEN.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div>
-                        
-                        <div class="logo-div"><p><a href="https://dst.gov.in/" target="_blank"><img class="aligncenter  wp-image-38077" src="images/2025/DSTGold.png" alt="Ministry" style="width:219px; max-height:170px;"  /></a></p></div></div>
-
+                        <div class="logo-div"><p><a href="https://dst.gov.in/" target="_blank"><img class="aligncenter  wp-image-38077" src="images/2025/DSTGold.png" alt="Ministry" style="width:219px; max-height:170px;"  /></a></p></div>
                      </div>
                  
 
