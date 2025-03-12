@@ -6384,7 +6384,7 @@ separate email)</li>
 <table>
         <thead>
             <tr>
-				<th colspan="5">Top 24 - ISUW 2025 Technical Paper Selected for Presentation</th>
+				<th colspan="5" style="background: #EF7B00;text-align: center;">Top 24 - ISUW 2025 Technical Paper Selected for Presentation</th>
 			</tr>
 			<tr>
                 <th>SL.</th>
