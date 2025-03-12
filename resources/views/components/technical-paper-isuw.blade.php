@@ -6389,8 +6389,8 @@ separate email)</li>
 			<tr>
                 <th>SL.</th>
                 <th>Theme</th>
-                <th>Title of Technical Paper</th>
-                <th>Technical Paper Author</th>
+                <th>Paper Title</th>
+                <th>Presenter</th>
                 <th>Organization</th>
             </tr>
         </thead>
@@ -6563,13 +6563,7 @@ separate email)</li>
                 <td>Aman Gautam</td>
                 <td>Grid India</td>
             </tr>
-            <tr>
-                <td>25</td>
-                <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
-                <td>Dual VRF Network Design for Grid IT Offices</td>
-                <td>Swagat Naryan Mohanty</td>
-                <td>TP Western Odisha Company Limited</td>
-            </tr>
+            
         </tbody>
     </table>
 	<!-- <br/>
