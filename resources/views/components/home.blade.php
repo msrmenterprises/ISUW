@@ -67,7 +67,9 @@
                         <div class="col-lg-12"><div class="logo-div"><a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/UKGovSTACKRGB.png" alt="TIE"></a></div></div>
                         <div class="col-lg-12"><div class="logo-div"><a href="https://pjci.idremember.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="https://pjci.idremember.com/wp-content/uploads/2022/05/download__1_-removebg-preview.png" alt="TIE"></a></div></div>
                         <div class="col-lg-12"><div class="logo-div"><a href="https://ulse.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/ulstandengage.svg" alt="TIE"></a></div></div>
-
+                        <div class="col-lg-12"><div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/AIDA.png" alt="TIE"></a></div></div>
+                        <div class="col-lg-12"><div class="logo-div"><a href="https://www.bis.gov.in/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/BIS.jpg" alt="TIE"></a></div></div>
+                        
                      
                      </div>
                  
@@ -1029,9 +1031,7 @@
                <div class="col-lg-12"><div class="logo-div"><a href="https://apua-asea.org/en/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/APUA.jpg" alt="TIE"></a></div></div>
                <div class="col-lg-12"><div class="logo-div"><a href="https://openchargealliance.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/OpenChargeAlliance.jpg" alt="TIE"></a></div></div>
                <div class="col-lg-12"><div class="logo-div"><a href="https://www.trade.gov/us-commercial-service" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/UScommercial.png" alt="TIE"></a></div></div>
-               <div class="col-lg-12"><div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/AIDA.png" alt="TIE"></a></div></div>
-               <div class="col-lg-12"><div class="logo-div"><a href="https://www.bis.gov.in/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/BIS.jpg" alt="TIE"></a></div></div>
-                        
+               
                
                           <!-- <div class="logo-title">
                               <h4>Conference Session Partners</h4>
