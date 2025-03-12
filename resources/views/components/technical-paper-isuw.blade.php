@@ -6570,7 +6570,7 @@ separate email)</li>
 	<table>
         <thead>
 			<tr>
-				<th colspan="5">Top 44 - ISUW 2025 Technical Paper Selected for Publication</th>
+			<th colspan="5" style="background: #EF7B00;text-align: center;">Top 44 - ISUW 2025 Technical Paper Selected for Publication</th>
 			</tr>
 			<tr>
 				<th>S No.</th>
