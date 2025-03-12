@@ -6566,7 +6566,7 @@ separate email)</li>
             
         </tbody>
     </table>
-	<!-- <br/>
+	<br/>
 	<table>
         <thead>
 			<tr>
@@ -6581,10 +6581,316 @@ separate email)</li>
 			</tr>
         </thead>
         <tbody>
-			<tr><td>Data Upload in Process</td></tr>
-            
-        </tbody>
-    </table> -->
+        <tr>
+            <td>1</td>
+            <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
+            <td>Dual VRF Network Design for Grid IT Offices</td>
+            <td>Swagat Naryan Mohanty</td>
+            <td>TP Western Odisha Company Limited</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
+            <td>Implementing Resource Adequacy Framework using PLEXOS for DISCOMs in India</td>
+            <td>Aumkar V Borgaonkar</td>
+            <td>Energy Exemplar India Pvt Ltd</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Disruptive Innovations for Utilities</td>
+            <td>Leveraging AI in Power Portfolio Optimization</td>
+            <td>Trusha Biswas</td>
+            <td>TATA Power Company Limited</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Real time monitoring of Distribution transformer (IoT & Smart meter Interface through cloud server)</td>
+            <td>J. Durairaj</td>
+            <td>TP Western Odisha Distribution limited</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Public Sentiment Analysis on Power Distribution: Leveraging Advanced Machine Learning</td>
+            <td>Tajveer Tyagi</td>
+            <td>Noida Power Company Ltd</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Smart Grids for Smart Cities</td>
+            <td>Consumer to Prosumer to Flexumer: Shifting paradigm</td>
+            <td>Prakhar Chaudhary</td>
+            <td>Cognizant Technology Solutions Pvt. Ltd.</td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Disruptive Innovations for Utilities</td>
+            <td>Redundant Communication for Unmanned Grids</td>
+            <td>Swagat Naryan Mohanty</td>
+            <td>TP Western Odisha Company Limited</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Regulations for the Evolving Smart Energy Systems</td>
+            <td>Advancing Decarbonization in India's Power Sector through Green Electricity Markets</td>
+            <td>Shivam Puri</td>
+            <td>NTPC Vidyut Vyapar Nigam Ltd</td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Regulations for the Evolving Smart Energy Systems</td>
+            <td>Tariff rationalization as a key electricity distribution reform</td>
+            <td>Raman Garg</td>
+            <td>REC Ltd</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Foundational Blocks for Smart Grids</td>
+            <td>Multi-directional Integration of EGIS with other IT/OT Systems</td>
+            <td>Manish Kumar Sharma</td>
+            <td>TP Western Odisha Distribution Ltd.</td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Dynamic Islanding Readiness Scheme for Enhanced Power System Stability</td>
+            <td>Anil Kr Vedula</td>
+            <td>The Tata Power Company Limited</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Optimization of a Hybrid plant with Wind, Solar and Battery system for Round the Clock Power -- a Case Study</td>
+            <td>Sunil Pritam</td>
+            <td>GE VERNOVA (Consulting Services)</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Disruptive Innovations for Utilities</td>
+            <td>Flex-Xplore Solution: A Digital Solution</td>
+            <td>Sagar Verma</td>
+            <td>Cognizant Technology Solutions</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Disruptive Innovations for Utilities</td>
+            <td>AI ML Enabled Asset Digital Twin - Enhancing Asset Management Techniques</td>
+            <td>Sayli Gaikwad/Aashutosh Soni</td>
+            <td>Cognizant Technology Solutions</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Smart Grids for Smart Cities</td>
+            <td>Managing Utilities Smartly in a Smart Building</td>
+            <td>Moreshwar Salpekar</td>
+            <td>Sevya Multimedia Pvt. Ltd</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Smart Grids for Smart Cities</td>
+            <td>Combined Billing and Customer Care Systems for All Utilities in a Smart City</td>
+            <td>Rohit Satghare</td>
+            <td>Accenture</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>Foundational Blocks for Smart Grids</td>
+            <td>Smart Metering Operations Center: Setting the Foundation of a Smart Grid</td>
+            <td>Hem Thukral</td>
+            <td>Abu Dhabi Distribution Company</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
+            <td>Optimizing Distribution Networks: A software Based Approach for Network Modelling and Reactive Component Studies</td>
+            <td>Swapnil Rao</td>
+            <td>TATA Power Company Limited</td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Reimagine the Utilities Customer Experience by harnessing the power of Generative AI</td>
+            <td>Kumar Mayank</td>
+            <td>Cognizant Technology Solutions</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Smart Cities for a Sustainable Future: Leveraging Grid-Interactive Buildings and Smart Street Lighting</td>
+            <td>Manan Pathak</td>
+            <td>Gujarat Energy Research and Management Institute (GERMI)</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>Foundational Blocks for Smart Grids</td>
+            <td>Imperatives for transitioning from Advanced DMS to DERMS (Distributed Energy Resource Management Systems)</td>
+            <td>Mohan Singh</td>
+            <td>Noida Power Company Limited</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
+            <td>Importance of Transmission Network Planning for Effective Renewable Energy Integration: A case Study of Rajasthan</td>
+            <td>Harikrishhna KV</td>
+            <td>Centre for Study of Science, Technology and Policy CSTEP</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>Disruptive Innovations for Utilities</td>
+            <td>Smart Way of Consumer Indexing</td>
+            <td>Ganesh Mane</td>
+            <td>TP Western Odisha Company Limited</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Smart Energy Management - The Role of AIoT in Grid-Interactive Efficient Buildings</td>
+            <td>Aashutosh Soni</td>
+            <td>Cognizant</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>Disruptive Innovations for Utilities</td>
+            <td>Enhancing Utility Customer Engagement through Digital Tools</td>
+            <td>Gufran Basit</td>
+            <td>Siemens Technology and Services</td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>Disruptive Innovations for Utilities</td>
+            <td>Voice of the Customer - What the Digital Customers Want?</td>
+            <td>Aditya Dutt Mishra</td>
+            <td>Accenture</td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>Disruptive Innovations for Utilities</td>
+            <td>Utilities Agent Assist</td>
+            <td>Jessica Shah</td>
+            <td>Accenture</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>Smart Grids for Smart Cities</td>
+            <td>Leveraging GIS-Enabled Intelligent Energy Management Systems for Optimized Smart Grid</td>
+            <td>Sion Dutta</td>
+            <td>Cognizant Technology Solutions, Pune, India</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Advancing Carbon Capture, Utilization, and Storage (CCUS) in India: Insights from the USA and Path Forward</td>
+            <td>Abhishek Kr Singh</td>
+            <td>Accenture</td>
+        </tr>
+        <tr>
+            <td>30</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Assessing Feasibility of BESS as a Sustainable Replacement for Diesel Generators</td>
+            <td>Aditya Dutt Mishra</td>
+            <td>Accenture</td>
+        </tr>
+        <tr>
+            <td>31</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Criteria for a Typical Resource Adequacy & Generation Expansion Planning at Regional Level</td>
+            <td>Suramya Dwivedi</td>
+            <td>GE Vernova Consulting Services - GERETPL</td>
+        </tr>
+        <tr>
+            <td>32</td>
+            <td>Foundational Blocks for Smart Grids</td>
+            <td>Smart Grid Evolution Covering Data Communication Need Related Studies And Smart Grid Applications For Transmission Utilities</td>
+            <td>Amit R. Kulkarni</td>
+            <td>MAHATRANSCO</td>
+        </tr>
+        <tr>
+            <td>33</td>
+            <td>Foundational Blocks for Smart Grids</td>
+            <td>Energy Storage: Applications and Business Models</td>
+            <td>Adesh Golash</td>
+            <td>BSES Rajdhani Power Ltd</td>
+        </tr>
+        <tr>
+            <td>34</td>
+            <td>Smart Water</td>
+            <td>Smart Solutions for Water Production, Transmission and Distribution</td>
+            <td>Abhjit Panda</td>
+            <td>Cognizant</td>
+        </tr>
+        <tr>
+            <td>35</td>
+            <td>Smart Water</td>
+            <td>Using Smart Water Techniques to reuse water for cleaning and washing to alleviate water shortage problems in Urban and Communities</td>
+            <td>Srinivasa Murthy Lolla</td>
+            <td>Bio Electrical & Energy systems</td>
+        </tr>
+        <tr>
+            <td>36</td>
+            <td>New and Emerging Technology and Trends</td>
+            <td>Generative AI for Smarter In-House Automation</td>
+            <td>Yogender Kumar</td>
+            <td>Noida Power Company Limited</td>
+        </tr>
+        <tr>
+            <td>37</td>
+            <td>Disruptive Innovations for Utilities</td>
+            <td>Mitigating Default Risks in Utility Payments: A Predictive Analytics Framework with Machine learning</td>
+            <td>Tajveer Tyagi</td>
+            <td>Noida Power Company Limited</td>
+        </tr>
+        <tr>
+            <td>38</td>
+            <td>Disruptive Innovations for Utilities</td>
+            <td>Assessment of Commercial Feasibility for New Electricity Connections: Leveraging AI -- Fuzzy Search, Phonetic Matching with SAP Integrations</td>
+            <td>Vivek Kumar Choubey</td>
+            <td>Noida Power Company Limited</td>
+        </tr>
+        <tr>
+            <td>39</td>
+            <td>Smart Water</td>
+            <td>Smart Technologies to Address India's Urban Water Crisis</td>
+            <td>Anisha Vyas</td>
+            <td>Accenture</td>
+        </tr>
+        <tr>
+            <td>40</td>
+            <td>Cyber Security</td>
+            <td>Enhancing Cybersecurity in Digitalized Grids through the Implementation of Secure R-GOOSE Protocols</td>
+            <td>Supratik Pathak</td>
+            <td>GE Vernova</td>
+        </tr>
+        <tr>
+            <td>41</td>
+            <td>Foundational Blocks for Smart Grids</td>
+            <td>Smart Microgrids for Campuses etc.</td>
+            <td>Surendra P Sharma</td>
+            <td>NTPC Ltd.</td>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>Electric Mobility</td>
+            <td>Predictive Modelling and Detection of Electric Vehicle (EV) charging infrastructure using household data and Grid Optimization</td>
+            <td>Shishir Shekar</td>
+            <td>Landis+Gyr</td>
+        </tr>
+        <tr>
+            <td>43</td>
+            <td>Foundational Blocks for Smart Grids</td>
+            <td>Unified HES and MDMS for Multiple OEMs Smart Meters</td>
+            <td>Anil Kumar Ojha</td>
+            <td>TPWODL</td>
+        </tr>
+        <tr>
+            <td>44</td>
+            <td>Electric Mobility</td>
+            <td>EVs as Virtual Power Plants (VPP)</td>
+            <td>Somdeb Bhattacharya</td>
+            <td>Accenture</td>
+        </tr>
+    </tbody>
+    </table>
 
 	<br/>
 
