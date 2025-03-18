@@ -212,6 +212,30 @@
 	</div>
 </div>
 
+<div class="col-lg-3">
+	<div class="logo-div">
+		<a href="https://www.apspdcl.in/index.jsp" target="_blank" rel="noopener noreferrer">
+			<img class="alignleft size-medium wp-image-38051"  src="images/2025/APSPDCL.png" alt="" height="125" /> 
+		</a>
+	</div>
+</div>
+
+<div class="col-lg-3">
+	<div class="logo-div">
+		<a href="https://www.tpwesternodisha.com/" target="_blank" rel="noopener noreferrer">
+			<img class="alignleft size-medium wp-image-38051"  src="images/2025/TPWODL.png" alt="" height="125" /> 
+		</a>
+	</div>
+</div>
+
+<div class="col-lg-3">
+	<div class="logo-div">
+		<a href="https://posoco.in/en/" target="_blank" rel="noopener noreferrer">
+			<img class="alignleft size-medium wp-image-38051"  src="images/2025/Grid-India.png" alt="" height="125" /> 
+		</a>
+	</div>
+</div>
+
 
 
 <p></p>
