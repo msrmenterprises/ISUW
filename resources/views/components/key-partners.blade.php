@@ -213,6 +213,14 @@ margin-left: 408px;
 			</div>
 		</a>
 	</div>
+	<div class="col-lg-3">
+		<a href="https://www.epri.com/" target="_blank" rel="noopener noreferrer">
+			<div class="logo-div">
+				<img src="images/2025/EPRI.png" alt="" style="display:inline; height:50px">
+			</div>
+		</a>
+	</div>
+	
 </div>
 
 
@@ -307,7 +315,7 @@ margin-left: 408px;
                         	<h5 style="text-align:center;"><b>Knowledge Partner</b></h5>
                            <div class="row justify-content-center">
                          <div class="col-lg-3"><div class="logo-div"><a href="https://ulse.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/UL Standards.png" alt="" style="height:55px;"></a></div></div>
-						 <div class="col-lg-3"><div class="logo-div"><a href="https://www.epri.com/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/EPRI.png" alt="Logo"></a></div></div>
+						 
                         </div>
                         <h5 style="text-align:center;"><b>ISGF Innovation Awards Knowledge Partner</b></h5>
                          <div class="row justify-content-center">
