@@ -30,7 +30,7 @@ use App\Http\Controllers\ContactUsFormController;
 Route::get('/', [homeController::class, 'show']);
 Route::get('/isuw-2022-presentations', [homeController::class, 'presentation']);
 Route::get('/isuw-2023-presentations', [homeController::class, 'presentation2023']);
-Route::get('/isuw-2024-presentations', [homeController::class, 'presentation2024']);
+Route::get('/isuw-2025-presentations', [homeController::class, 'presentation2024']);
 
 Route::get('/speakers',[Speakers::class, 'show']);
 Route::get('/speakers-2023',[Speakers::class, 'showspeaker']);
