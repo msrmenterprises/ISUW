@@ -101,11 +101,11 @@ class LoginController extends Controller
           'password' => ['required'],
       ]);
 
-      if($request->password=='ISUW20241216#@'){
+      if($request->password=='ISUW20251822#@'){
            session(['presentation2024' => true]);
-           return redirect('/isuw-2024-presentations');
+           return redirect('/isuw-2025-presentations');
       }else{
-          return redirect('/isuw-2024-presentations');
+          return redirect('/isuw-2025-presentations');
       }
      
 

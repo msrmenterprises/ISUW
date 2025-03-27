@@ -43,7 +43,7 @@ class homeController extends Controller
     {
         $value = $request->session()->get('presentation2024');
       if( $value==true ) {
-              return view('components.isuw-2024-presentations');
+              return view('components.isuw-2025-presentations');
       }else{
           return view('components.presentation-alert-2024');
       }
