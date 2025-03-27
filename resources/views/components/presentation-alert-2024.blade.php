@@ -32,7 +32,7 @@ button {
     
 </style>  
 <div class="k_cheading">
-		<h1>ISUW<span class="k_greencolor"> 2024 Presentations</span> </h1>
+		<h1>ISUW<span class="k_greencolor"> 2025 Presentations</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 <form method="POST" action="{{ url('presentation2024')}}"> 
