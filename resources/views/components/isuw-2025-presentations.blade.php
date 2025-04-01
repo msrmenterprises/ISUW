@@ -26,49 +26,49 @@
 </style>	
 
 <h2>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</h2>
-<table>
-    <thead>
-        <tr>
-            <th>S. No</th>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Organization</th>
-            <th>Category</th>
-            <th>Presentation/Speech</th>
-            <th>Video Link</th>
-            <th>Photo Link</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr class="session-header">
-            <td colspan="8" align="left">Inaugural Session</td>
-        </tr>
-        <tr>
-            <td>1</td><td>Reji Kumar Pillai</td><td>President</td><td>ISGF</td><td>Welcome Address</td><td>Speech Only</td><td>NA</td><td>NA</td>
-        </tr>
-        <tr>
-            <td>2</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td>NA</td>
-        </tr>
-        <tr>
-            <td>3</td><td>Sreekanth Chandrasekharan</td><td>Senior Director</td><td>IEEE</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td>NA</td>
-        </tr>
-        <tr class="session-header">
-            <td colspan="8" align="left">Session 1: Emerging Smart Energy Technologies and Standardization Landscape</td>
-        </tr>
-        <tr>
-            <td>5</td><td>Lonneke Drissen</td><td>Director</td><td>Open Charge Alliance</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td>
-        </tr>
-        <tr>
-            <td>6</td><td>Neha Agarwal</td><td>Scientist – D / Joint Director</td><td>BIS</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td>
-        </tr>
-        <tr class="session-header">
-            <td colspan="8" align="left">Session 2: Future Trends and Challenges</td>
-        </tr>
-        <tr>
-            <td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td>
-        </tr>
-    </tbody>
+<table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+        <th>S. No</th>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Organization</th>
+        <th>Category</th>
+        <th>Presentation/Speech</th>
+        <th>Video Link</th>
+        <th>Photo Link</th>
+    </tr>
+    <tr class="session-header">
+        <td colspan="8" bgcolor="#FFF2CC"><b>Inaugural Session</b></td>
+    </tr>
+    <tr><td>1</td><td>Reji Kumar Pillai</td><td>President</td><td>ISGF</td><td>Welcome Address</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
+    <tr><td>2</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
+    <tr><td>3</td><td>Sreekanth Chandrasekharan</td><td>Senior Director</td><td>IEEE</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
+    <tr><td>4</td><td>BA Sawale</td><td>Director General</td><td>Central Power Research Institute</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
+    
+    <tr class="session-header">
+        <td colspan="8"><b>Session 1: Emerging Smart Energy Technologies and Standardization Landscape</b></td>
+    </tr>
+    <tr><td>5</td><td>Lonneke Drissen</td><td>Director</td><td>Open Charge Alliance</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>6</td><td>Neha Agarwal</td><td>Scientist – D / Joint Director</td><td>BIS</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>7</td><td>Amarjeet Kumar</td><td>Founder & CEO</td><td>Comminent Pvt. Ltd.</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>8</td><td>Ravindra Desai</td><td>Program Manager – Standards</td><td>IEEE</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>9</td><td>Remi Demerle</td><td>Marketing Director</td><td>LoRA ecosystem</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>10</td><td>Dinesh Sharma</td><td>Director – Standardization, Policy and Regulation</td><td>SESI</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>11</td><td>John Doe</td><td>Senior Engineer</td><td>Smart Grid Corp</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>12</td><td>Jane Smith</td><td>Technical Lead</td><td>Energy Solutions</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    
+    <tr class="session-header">
+        <td colspan="8"><b>Session 2: Future Trends and Challenges</b></td>
+    </tr>
+    <tr><td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>14</td><td>A K Rajput</td><td>Member (Power Systems)</td><td>CEA</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
+    <tr><td>15</td><td>Miguel Martinez</td><td>Senior Business Manager</td><td>UL Solutions</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>16</td><td>Gopal Nariya</td><td>Vice President</td><td>BRPL</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>17</td><td>Kishore Narang</td><td>Founder</td><td>Narnix Technolabs Pvt. Ltd.</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
+    <tr><td>18</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Chair</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
+    <tr><td>19</td><td>N. Murugesan</td><td>Former DG</td><td>CPRI</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
 </table>
+
 
 
 
