@@ -9,8 +9,9 @@
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
+
+	<h2>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</h2>
     <table>
-		<tr><td  colspan=8 align="left" valign=bottom bgcolor="#FFF2CC"><b><font face="Roboto" color="#000000">9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</td></tr>
         <tr>
             <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">S. No</th>
             <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">Name</th>
@@ -22,7 +23,8 @@
             <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">Photo Link</th>
         </tr>
         <tr class="session-header">
-            <td colspan="8">Inaugural Session</td>
+           
+			<td  colspan=8 align="left" valign=bottom bgcolor="#FFF2CC"><b><font face="Roboto" color="#000000">Inaugural Session</td></tr>
         </tr>
         <tr>
             <td>1</td><td>Reji Kumar Pillai</td><td>President</td><td>ISGF</td><td>Welcome Address</td><td>Speech Only</td><td>NA</td><td>NA</td>
