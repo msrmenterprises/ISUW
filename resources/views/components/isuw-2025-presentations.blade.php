@@ -48,7 +48,7 @@
     <tr class="session-header">
         <td colspan="8"><b>Session 1: Emerging Smart Energy Technologies and Standardization Landscape</b></td>
     </tr>
-    <tr><td>5</td><td>Lonneke Drissen</td><td>Director</td><td>Open Charge Alliance</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>5</td><td>Lonneke Drissen</td><td>Director</td><td>Open Charge Alliance</td><td>Speaker</td><td><a href="images/2025/5. Lonneke Driessen- 9th IEEE-IEC-BIS Workshop" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
     <tr><td>6</td><td>Neha Agarwal</td><td>Scientist – D / Joint Director</td><td>BIS</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
     <tr><td>7</td><td>Amarjeet Kumar</td><td>Founder & CEO</td><td>Comminent Pvt. Ltd.</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
     <tr><td>8</td><td>Ravindra Desai</td><td>Program Manager – Standards</td><td>IEEE</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
