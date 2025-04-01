@@ -69,6 +69,120 @@
     <tr><td>19</td><td>N. Murugesan</td><td>Former DG</td><td>CPRI</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
 </table>
 
+<h2>OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE) | REGENCY 5 | 14:00 ~ 17:00 | Anand Kumar Singh</h2>
+    <table>
+        <tr>
+            <th>S. No</th>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Organization</th>
+            <th>Category</th>
+            <th>Presentation/ Speech</th>
+            <th>Video link</th>
+            <th>Photo link</th>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td>Ravi Seethapathy</td>
+            <td>Advisor, ISGF</td>
+            <td>Executive Chairman, Biosirus Inc</td>
+            <td>Chair</td>
+            <td>Speech Only</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>21</td>
+            <td>Suresh Babu</td>
+            <td>Scientist – E</td>
+            <td>DST</td>
+            <td>Moderator</td>
+            <td>Speech Only</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>22</td>
+            <td>Lonekke Driessen</td>
+            <td>Director</td>
+            <td>Open Charge Alliance</td>
+            <td>Theme Presentation</td>
+            <td>View/Download</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>23</td>
+            <td>Anand Kumar Singh</td>
+            <td>General Manager</td>
+            <td>ISGF</td>
+            <td>Theme Presentation</td>
+            <td>View/Download</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>24</td>
+            <td>Pradeep Aggarwal</td>
+            <td>General Manager, Renewable – EV & Open Access</td>
+            <td>BRPL</td>
+            <td>Speaker</td>
+            <td>Speech Only</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>25</td>
+            <td>Manoj Kumar Upadhyay</td>
+            <td>Dy Adviser-Energy</td>
+            <td>NITI Aayog</td>
+            <td>Speaker</td>
+            <td>Speech Only</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>26</td>
+            <td>Nick Singh</td>
+            <td></td>
+            <td>ESKOM, South Africa</td>
+            <td>Speaker</td>
+            <td>View/Download</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>27</td>
+            <td>Akshay Mukesh</td>
+            <td>DGM</td>
+            <td>Ather Energy</td>
+            <td>Speaker</td>
+            <td>Speech Only</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>28</td>
+            <td>Bidyut Mazumdar</td>
+            <td>Chief Manager</td>
+            <td>Siemens</td>
+            <td>Speaker</td>
+            <td>Speech Only</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+        <tr>
+            <td>29</td>
+            <td>Jai Prakash Singh</td>
+            <td>Sector Expert</td>
+            <td>E-Mobility</td>
+            <td>Speaker</td>
+            <td>Speech Only</td>
+            <td>NA</td>
+            <td>NA</td>
+        </tr>
+    </table>
+
 
 
 
