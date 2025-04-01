@@ -60,10 +60,10 @@
     <tr class="session-header">
         <td colspan="8"><b>Session 2: Future Trends and Challenges</b></td>
     </tr>
-    <tr><td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td><a href="13. Subhadip Raychaudhari- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
     <tr><td>14</td><td>A K Rajput</td><td>Member (Power Systems)</td><td>CEA</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
-    <tr><td>15</td><td>Miguel Martinez</td><td>Senior Business Manager</td><td>UL Solutions</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
-    <tr><td>16</td><td>Gopal Nariya</td><td>Vice President</td><td>BRPL</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>15</td><td>Miguel Martinez</td><td>Senior Business Manager</td><td>UL Solutions</td><td>Speaker</td><td><a href="15. Miguel Martinez- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>16</td><td>Gopal Nariya</td><td>Vice President</td><td>BRPL</td><td>Speaker</td><td><a href="16. Gopal Nariya- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
     <tr><td>17</td><td>Kishore Narang</td><td>Founder</td><td>Narnix Technolabs Pvt. Ltd.</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
     <tr><td>18</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Chair</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
     <tr><td>19</td><td>N. Murugesan</td><td>Former DG</td><td>CPRI</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
@@ -107,7 +107,7 @@
             <td>Director</td>
             <td>Open Charge Alliance</td>
             <td>Theme Presentation</td>
-            <td>View/Download</td>
+            <td><a href="22. Lonneke Drissen - OCPP Technical Session.pdf" download>View/Download</a></td>
             <td>NA</td>
             <td>NA</td>
         </tr>
@@ -117,7 +117,7 @@
             <td>General Manager</td>
             <td>ISGF</td>
             <td>Theme Presentation</td>
-            <td>View/Download</td>
+            <td><a href="23. Anand Kumar Singh - OCPP Technical Session.pdf" download>View/Download</a></td>
             <td>NA</td>
             <td>NA</td>
         </tr>
@@ -147,7 +147,7 @@
             <td></td>
             <td>ESKOM, South Africa</td>
             <td>Speaker</td>
-            <td>View/Download</td>
+            <td><a href="26. Nick Singh_OCPP Technical session.pdf" download>View/Download</a></td>
             <td>NA</td>
             <td>NA</td>
         </tr>
