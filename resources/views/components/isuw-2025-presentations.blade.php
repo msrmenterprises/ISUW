@@ -49,11 +49,11 @@
         <td colspan="8"><b>Session 1: Emerging Smart Energy Technologies and Standardization Landscape</b></td>
     </tr>
     <tr><td>5</td><td>Lonneke Drissen</td><td>Director</td><td>Open Charge Alliance</td><td>Speaker</td><td><a href="images/2025/5. Lonneke Driessen- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
-    <tr><td>6</td><td>Neha Agarwal</td><td>Scientist – D / Joint Director</td><td>BIS</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
-    <tr><td>7</td><td>Amarjeet Kumar</td><td>Founder & CEO</td><td>Comminent Pvt. Ltd.</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
-    <tr><td>8</td><td>Ravindra Desai</td><td>Program Manager – Standards</td><td>IEEE</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
-    <tr><td>9</td><td>Remi Demerle</td><td>Marketing Director</td><td>LoRA ecosystem</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
-    <tr><td>10</td><td>Dinesh Sharma</td><td>Director – Standardization, Policy and Regulation</td><td>SESI</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
+    <tr><td>6</td><td>Neha Agarwal</td><td>Scientist – D / Joint Director</td><td>BIS</td><td>Speaker</td><td><a href="6. Neha Agarwal- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>7</td><td>Amarjeet Kumar</td><td>Founder & CEO</td><td>Comminent Pvt. Ltd.</td><td>Speaker</td><td><a href="7. Amarjeet Kumar - 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>8</td><td>Ravindra Desai</td><td>Program Manager – Standards</td><td>IEEE</td><td>Speaker</td><td><a href="8. Ravindra Desai- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>9</td><td>Remi Demerle</td><td>Marketing Director</td><td>LoRA ecosystem</td><td>Speaker</td><td><a href="9. Remi- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>10</td><td>Dinesh Sharma</td><td>Director – Standardization, Policy and Regulation</td><td>SESI</td><td>Speaker</td><td><a href="10. Dinesh Chand Sharma- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
     <tr><td>11</td><td>John Doe</td><td>Senior Engineer</td><td>Smart Grid Corp</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
     <tr><td>12</td><td>Jane Smith</td><td>Technical Lead</td><td>Energy Solutions</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
     
