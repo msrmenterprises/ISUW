@@ -9,18 +9,17 @@
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
-
-	<h2>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</h2>
     <table>
+		<tr><td  colspan=8 align="left" valign=bottom bgcolor="#FFF2CC"><b><font face="Roboto" color="#000000">9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</td></tr>
         <tr>
-            <th>S. No</th>
-            <th>Name</th>
-            <th>Designation</th>
-            <th>Organization</th>
-            <th>Category</th>
-            <th>Presentation/Speech</th>
-            <th>Video Link</th>
-            <th>Photo Link</th>
+            <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">S. No</th>
+            <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">Name</th>
+            <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">Designation</th>
+            <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">Organization</th>
+            <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">Category</th>
+            <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">Presentation/Speech</th>
+            <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">Video Link</th>
+            <th style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000">Photo Link</th>
         </tr>
         <tr class="session-header">
             <td colspan="8">Inaugural Session</td>
