@@ -941,45 +941,65 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	
+	<tr class="session-header">
+		<td colspan="8">
+			<h4>ISUW 2025_Awards Innovation Award Ceremony and Gala Dinner</h4>
+		</td>
+	</tr>
     <tr>
-        <td colspan="6">ISUW 2025_Awards Innovation Award Ceremony and Gala Dinner</td>
+        <td colspan="6"></td>
         <td>NA</td>
         <td><a href="https://flic.kr/s/aHBqjC7ebp">Link</a></td>
     </tr>
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	
+	<tr class="session-header">
+		<td colspan="8">
+			<h4>ISUW 2025_Welcome Reception</h4>
+		</td>
+	</tr>
     <tr>
-        <td colspan="6">ISUW 2025_Welcome Reception</td>
+        <td colspan="6"></td>
         <td>NA</td>
         <td><a href="https://flic.kr/s/aHBqjC79po">Link</a></td>
     </tr>
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	
+	<tr class="session-header">
+		<td colspan="8">
+			<h4>ISUW 2025_Exhibition</h4>
+		</td>
+	</tr>
     <tr>
-        <td colspan="6">ISUW 2025_Exhibition</td>
+        <td colspan="6"></td>
         <td>NA</td>
         <td><a href="https://flic.kr/s/aHBqjC7wA2">Link</a></td>
     </tr>
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	
+	<tr class="session-header">
+		<td colspan="8">
+			<h4>ISUW 2025_Branding</h4>
+		</td>
+	</tr>
     <tr>
-        <td colspan="6">ISUW 2025_Branding</td>
+        <td colspan="6"></td>
         <td>NA</td>
         <td><a href="https://flic.kr/s/aHBqjC7rRt">Link</a></td>
     </tr>
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	
+	<tr class="session-header">
+		<td colspan="8">
+			<h4>ISUW 2025_Technical Tours and Demonstrations</h4>
+		</td>
+	</tr>
     <tr>
-        <td colspan="6">ISUW 2025_Technical Tours and Demonstrations</td>
+        <td colspan="6"></td>
         <td>NA</td>
         <td><a href="https://flic.kr/s/aHBqjC7dvT">Link</a></td>
     </tr>
