@@ -48,22 +48,22 @@
     <tr class="session-header">
         <td colspan="8"><b>Session 1: Emerging Smart Energy Technologies and Standardization Landscape</b></td>
     </tr>
-    <tr><td>5</td><td>Lonneke Drissen</td><td>Director</td><td>Open Charge Alliance</td><td>Speaker</td><td><a href="images/2025/5. Lonneke Driessen- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
-    <tr><td>6</td><td>Neha Agarwal</td><td>Scientist – D / Joint Director</td><td>BIS</td><td>Speaker</td><td><a href="6. Neha Agarwal- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
-    <tr><td>7</td><td>Amarjeet Kumar</td><td>Founder & CEO</td><td>Comminent Pvt. Ltd.</td><td>Speaker</td><td><a href="7. Amarjeet Kumar - 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
-    <tr><td>8</td><td>Ravindra Desai</td><td>Program Manager – Standards</td><td>IEEE</td><td>Speaker</td><td><a href="8. Ravindra Desai- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
-    <tr><td>9</td><td>Remi Demerle</td><td>Marketing Director</td><td>LoRA ecosystem</td><td>Speaker</td><td><a href="9. Remi- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
-    <tr><td>10</td><td>Dinesh Sharma</td><td>Director – Standardization, Policy and Regulation</td><td>SESI</td><td>Speaker</td><td><a href="10. Dinesh Chand Sharma- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>5</td><td>Lonneke Drissen</td><td>Director</td><td>Open Charge Alliance</td><td>Speaker</td><td><a href="images/2025/5. Lonneke Driessen- 9th IEEE-IEC-BIS Workshop.pdf" >View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>6</td><td>Neha Agarwal</td><td>Scientist – D / Joint Director</td><td>BIS</td><td>Speaker</td><td><a href="6. Neha Agarwal- 9th IEEE-IEC-BIS Workshop.pdf" >View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>7</td><td>Amarjeet Kumar</td><td>Founder & CEO</td><td>Comminent Pvt. Ltd.</td><td>Speaker</td><td><a href="7. Amarjeet Kumar - 9th IEEE-IEC-BIS Workshop.pdf" >View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>8</td><td>Ravindra Desai</td><td>Program Manager – Standards</td><td>IEEE</td><td>Speaker</td><td><a href="8. Ravindra Desai- 9th IEEE-IEC-BIS Workshop.pdf" >View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>9</td><td>Remi Demerle</td><td>Marketing Director</td><td>LoRA ecosystem</td><td>Speaker</td><td><a href="9. Remi- 9th IEEE-IEC-BIS Workshop.pdf" >View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>10</td><td>Dinesh Sharma</td><td>Director – Standardization, Policy and Regulation</td><td>SESI</td><td>Speaker</td><td><a href="10. Dinesh Chand Sharma- 9th IEEE-IEC-BIS Workshop.pdf" >View/Download</a></td><td>NA</td><td>NA</td></tr>
     <tr><td>11</td><td>John Doe</td><td>Senior Engineer</td><td>Smart Grid Corp</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
     <tr><td>12</td><td>Jane Smith</td><td>Technical Lead</td><td>Energy Solutions</td><td>Speaker</td><td>View/Download</td><td>NA</td><td>NA</td></tr>
     
     <tr class="session-header">
         <td colspan="8"><b>Session 2: Future Trends and Challenges</b></td>
     </tr>
-    <tr><td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td><a href="13. Subhadip Raychaudhari- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td><a href="13. Subhadip Raychaudhari- 9th IEEE-IEC-BIS Workshop.pdf" >View/Download</a></td><td>NA</td><td>NA</td></tr>
     <tr><td>14</td><td>A K Rajput</td><td>Member (Power Systems)</td><td>CEA</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
-    <tr><td>15</td><td>Miguel Martinez</td><td>Senior Business Manager</td><td>UL Solutions</td><td>Speaker</td><td><a href="15. Miguel Martinez- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
-    <tr><td>16</td><td>Gopal Nariya</td><td>Vice President</td><td>BRPL</td><td>Speaker</td><td><a href="16. Gopal Nariya- 9th IEEE-IEC-BIS Workshop.pdf" download>View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>15</td><td>Miguel Martinez</td><td>Senior Business Manager</td><td>UL Solutions</td><td>Speaker</td><td><a href="15. Miguel Martinez- 9th IEEE-IEC-BIS Workshop.pdf" >View/Download</a></td><td>NA</td><td>NA</td></tr>
+    <tr><td>16</td><td>Gopal Nariya</td><td>Vice President</td><td>BRPL</td><td>Speaker</td><td><a href="16. Gopal Nariya- 9th IEEE-IEC-BIS Workshop.pdf" >View/Download</a></td><td>NA</td><td>NA</td></tr>
     <tr><td>17</td><td>Kishore Narang</td><td>Founder</td><td>Narnix Technolabs Pvt. Ltd.</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
     <tr><td>18</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Chair</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
     <tr><td>19</td><td>N. Murugesan</td><td>Former DG</td><td>CPRI</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
@@ -107,7 +107,7 @@
             <td>Director</td>
             <td>Open Charge Alliance</td>
             <td>Theme Presentation</td>
-            <td><a href="22. Lonneke Drissen - OCPP Technical Session.pdf" download>View/Download</a></td>
+            <td><a href="22. Lonneke Drissen - OCPP Technical Session.pdf" >View/Download</a></td>
             <td>NA</td>
             <td>NA</td>
         </tr>
@@ -117,7 +117,7 @@
             <td>General Manager</td>
             <td>ISGF</td>
             <td>Theme Presentation</td>
-            <td><a href="23. Anand Kumar Singh - OCPP Technical Session.pdf" download>View/Download</a></td>
+            <td><a href="23. Anand Kumar Singh - OCPP Technical Session.pdf" >View/Download</a></td>
             <td>NA</td>
             <td>NA</td>
         </tr>
@@ -147,7 +147,7 @@
             <td></td>
             <td>ESKOM, South Africa</td>
             <td>Speaker</td>
-            <td><a href="26. Nick Singh_OCPP Technical session.pdf" download>View/Download</a></td>
+            <td><a href="26. Nick Singh_OCPP Technical session.pdf" >View/Download</a></td>
             <td>NA</td>
             <td>NA</td>
         </tr>
@@ -182,6 +182,180 @@
             <td>NA</td>
         </tr>
     </table>
+
+	<h2>DAY - 2: 19 MARCH 2025 | WEDNESDAY</h2>
+
+<h3>INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION (10:00 ~ 12:30) IST | Venue: Cystal 1 & 2 | Sumit Sharma</h3>
+<table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+        <th>S. No</th>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Organization</th>
+        <th>Category</th>
+        <th>Presentation/Speech</th>
+        <th>Video link</th>
+        <th>Photo link</th>
+    </tr>
+    <tr><td>30</td><td>Reji Kumar Pillai</td><td>President and Chairman</td><td>ISGF and Global Smart Energy Federation (GSEF)</td><td>Welcome Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC768d">Link</a></td></tr>
+    <tr><td>31</td><td>Liu Zehong</td><td>Executive Vice Chairman</td><td>GEIDCO</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC768d">Link</a></td></tr>
+    <tr><td>32</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC768d">Link</a></td></tr>
+    <tr><td>33</td><td>Sandeep Zanzaria</td><td>MD and CEO</td><td>GE T&D India Ltd</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC768d">Link</a></td></tr>
+    <tr><td>34</td><td>Abel Didier Tella</td><td>Director General</td><td>Association of Power Utilities in Africa</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC768d">Link</a></td></tr>
+    <tr><td>35</td><td>Ashish Goel</td><td>General Secretary, All India DISCOMs Association</td><td>Chairman, UPPCL</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC768d">Link</a></td></tr>
+    <tr><td>36</td><td>Ghanshyam Prasad</td><td>Chairman</td><td>Central Electricity Authority</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC768d">Link</a></td></tr>
+    <tr><td>37</td><td>Reena Suri</td><td>Executive Director</td><td>ISGF and Global Smart Energy Federation (GSEF)</td><td>Vote of Thanks</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC768d">Link</a></td></tr>
+</table>
+
+<h3>FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA) (14:00 -16:30) - Venue: Cystal-2 | Shashi Bala</h3>
+<table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+        <th>S. No</th>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Organization</th>
+        <th>Category</th>
+        <th>Presentation/Speech</th>
+        <th>Video link</th>
+        <th>Photo link</th>
+    </tr>
+    <tr><td>38</td><td>Lokesh Chandra</td><td>President</td><td>All India DISCOMs Association</td><td>Chair</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC78Kc">Link</a></td></tr>
+    <tr><td>39</td><td>Ashish Goel</td><td>General Secretary</td><td>All India DISCOMs Association</td><td>Co-Chair</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC78Kc">Link</a></td></tr>
+    <tr><td>40</td><td>Alok Kumar</td><td>Former Secretary</td><td>Ministry of Power</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC78Kc">Link</a></td></tr>
+</table>
+
+<h3>UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government) (14:30 ~ 16:30) - Venue: Cystal-1 | Anand Kumar Singh</h3>
+<table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+        <th>S. No</th>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Organization</th>
+        <th>Category</th>
+        <th>Presentation/Speech</th>
+        <th>Video link</th>
+        <th>Photo link</th>
+    </tr>
+    <tr class="session-header">
+        <td colspan="8" bgcolor="#FFF2CC"><b>Inaugural Session</b></td>
+    </tr>
+    <tr><td>41</td><td>Reena Suri</td><td>Executive Director</td><td>India Smart Grid Forum</td><td>Welcome Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>42</td><td>Vikas Gaba</td><td>Partner and National Head - Power and Utilities</td><td>KPMG and Programme Lead, ASPIRE</td><td>Context Setting</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>43</td><td>Laura Aylett</td><td>Head - Climate and Energy</td><td>British High Commission</td><td>Inaugural Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>44</td><td>Archana Chauhan</td><td>Head - Energy, Sector Reforms</td><td>Climate and Energy Team, British High Commission</td><td>Highlights of the ASPIRE Programme</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>45</td><td>Mohammad Rihan</td><td>Director General</td><td>NISE</td><td>Speacial Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>46</td><td>Laura Sandys</td><td>CEO</td><td>Challenging Ideas.com</td><td>Speacial Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>47</td><td>Kamalpreet Wadhwan</td><td>Deputy General Manager & Technical Advisor to Executive Director</td><td>Power Finance Corporation</td><td>Speacial Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>48</td><td>Bhagwan Sahay Bairwa</td><td>Chief Engineer</td><td>CEA</td><td>Speacial Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>49</td><td>Archana Chauhan</td><td>Head - Energy, Sector Reforms</td><td>Climate and Energy Team, British High Commission</td><td>Vote of Thanks and Closing Remarks</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    
+    <tr class="session-header">
+        <td colspan="8"><b>Session 1: Future-Ready Power Grids: Practical Solutions for Modernization</b></td>
+    </tr>
+    <tr><td>50</td><td>Cathy Chen</td><td>Associate Director</td><td>KPMG UK</td><td>Theme Presentation</td><td>View/Download</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>51</td><td>Sanyukta Dasgupta</td><td>Senior Adviser, Smart Power, Climate and Energy Team</td><td>British High Commission and Smart Power Lead, ASPIRE Programme</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>52</td><td>Kamalpreet Wadhwan</td><td>Deputy General Manager & Technical Advisor to Executive Director</td><td>Power Finance Corporation</td><td>Speacial Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>53</td><td>Kumud Wadhwa</td><td>Chief General Manager</td><td>Power Grid Corporation of India Limited</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>54</td><td>Ashutosh Natraj</td><td>CEO and Co-Founder</td><td>Vidrona Ltd.</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>55</td><td>Ankur Sharma</td><td>CEO</td><td>Flock Energy</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    
+    <tr class="session-header">
+        <td colspan="8"><b>Session 2: Empowering Women: Driving Change in the Power Sector</b></td>
+    </tr>
+    <tr><td>56</td><td>Saurabh Gupta</td><td>Partner - Power and Utilities</td><td>KPMG and Smart Power Lead, ASPIRE</td><td>Theme Presentation</td><td>View/Download</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>57</td><td>Archana Chauhan</td><td>Head - Energy Sector Reforms</td><td>Climate and Energy Team, British High Commission</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>58</td><td>Isha Duhan</td><td>MD</td><td>PVVNL, UP</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>59</td><td>Kumud Wadhwa</td><td>Chief General Manager</td><td>Power Grid Corporation of India Limited</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>60</td><td>Ritu Kumar</td><td>Deputy General Manager</td><td>Energy Efficiency Services Limited</td><td>Speaker</td><td>View/Download</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>61</td><td>Sandhaya Srivastava Shah</td><td>General Manager</td><td>BSES Yamuna Power Limited</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>62</td><td>Kamalpreet Wadhawan</td><td>Deputy General Manager and Technical Advisor to Executive Director</td><td>Power Finance Corporation Ltd</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+    <tr><td>63</td><td>Sonal Shah</td><td>Founder, The Urban Catalysts and Executive Director</td><td>Centre for Sustainable and Equitable Cities</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
+</table>
+
+<h3>ROUNDTABLE ON UNLOCKING INDIA'S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government) | Crystal 2 | 16:45 – 18:00 | Anand kumar Singh</h3>
+<table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+        <th>S. No</th>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Organization</th>
+        <th>Category</th>
+        <th>Presentation/Speech</th>
+        <th>Video link</th>
+        <th>Photo link</th>
+    </tr>
+    <tr><td>64</td><td>Nishant Singh</td><td>Senior Advisor- Renewable Energy</td><td>British High Commission</td><td>Chair</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>65</td><td>Abhishesk Shah</td><td>Partner-Power and Utilities</td><td>KPMG India</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>66</td><td>Deepankar Phalnikar</td><td>Assistant Manager</td><td>Invest India</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>67</td><td>Naveen Nagpal</td><td>Assistant Vice President - Renewables, BESS and New Initiatives</td><td>BSES Rajdhani Power Limited</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>68</td><td>Raman Sharma</td><td>Founder and Managing Director</td><td>Exigo Recycling Private Limited</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>69</td><td>Chetan Pathak</td><td>Group Leader - Policy Regulatory and Government Business</td><td>Gensol Group</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>70</td><td>Rahul Shelke</td><td>Founder</td><td>Ampere Hour Energy</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>71</td><td>Ankit Sharma</td><td>Head - Business Development, Utility and Emerging Technologies</td><td>Hero Future Energies</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>72</td><td>Vikrant Sharma</td><td>Deputy Director</td><td>NISE</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>73</td><td>Sachin Singh</td><td>Fellow and Area Convenor, Electricity and Renewables Division</td><td>TERI</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>74</td><td>Shubhra Thakur</td><td>Country Director-India</td><td>Long Duration Energy Storage Council</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>75</td><td>Rahul Tongia</td><td>Senior Fellow</td><td>Centre for Social and Economic Progress (CSEP)</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>76</td><td>Vikram Gandotra</td><td>Director (Industry &amp; Policy)</td><td>Siemens</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>77</td><td>Bindu Madhavi Polumahanti</td><td>Director (Policy and Regulatory)</td><td>India Energy Storage Alliance (IESA)</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>78</td><td>Laura Sandys</td><td>CEO</td><td>Challenging Ideas.com</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+    <tr><td>79</td><td>Sarthak Dhama</td><td>Senior Manager</td><td>Invest India</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
+</table>
+
+<h3>11th US - INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE) | REGENCY 1 & 2 |14:30-17:30 | Disha Khosla</h3>
+<table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+        <th>S. No</th>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Organization</th>
+        <th>Category</th>
+        <th>Presentation/Speech</th>
+        <th>Video link</th>
+        <th>Photo link</th>
+    </tr>
+    <tr><td>80</td><td>V. Manjunath</td><td>Regional Standards Manager</td><td>ULSE</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze">Link</a></td></tr>
+    <tr class="session-header">
+        <td colspan="8" bgcolor="#FFF2CC"><b>Theme: Role of International Harmonization of Standards in Driving Safer and Secure Smart Grid</b></td>
+    </tr>
+    <tr><td>81</td><td>Nathalie Scharf</td><td>Dy Sr Commercial Officer</td><td>US Embassy, India</td><td>Opening Remark</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze">Link</a></td></tr>
+    <tr><td>82</td><td>Sonya Bird</td><td>VP International Standards</td><td>ULSE</td><td>Context Setting</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze">Link</a></td></tr>
+    <tr><td>83</td><td>A K Rajput</td><td>Former Member (Power Systems)</td><td>CEA</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze">Link</a></td></tr>
+    <tr class="session-header">
+        <td colspan="8"><b>Global Experience and Best Practices</b></td>
+    </tr>
+    <tr><td>84</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze">Link</a></td></tr>
+    <tr><td>85</td><td>Doug Arent</td><td>Executive Director, NREL Foundation; and Former Deputy Associate Lab Director, NREL</td><td>NREL</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze">Link</a></td></tr>
+    <tr><td>86</td><td>Miguel Martinez</td><td>Sr. Business Manager</td><td>UL Solutions</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze">Link</a></td></tr>
+</table>
+
+<h3>1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA)) | 14:30-17:30| Regency- 5| Aashima</h3>
+<table border="1" cellspacing="0" cellpadding="5">
+    <tr>
+        <th>S. No</th>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Organization</th>
+        <th>Category</th>
+        <th>Presentation/Speech</th>
+        <th>Video link</th>
+        <th>Photo link</th>
+    </tr>
+    <tr><td>87</td><td>Ashish Khanna</td><td>Director General</td><td>ISA</td><td>Chair</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>88</td><td>Abel Dider Tella</td><td>DG</td><td>APUA</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>89</td><td>Ravi Seethapathy</td><td>Advisor</td><td>ISGF</td><td>Co-Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>90</td><td>Tarun Katiyar</td><td>CEO</td><td>TPTCL</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>91</td><td>Nick Singh</td><td>ESKOM</td><td>South Africa</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>92</td><td>Atalanta Kar</td><td>GM for Growth Markets, Asia Pacific, Africa, Indian sub-Continent</td><td>GE Vernova</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>93</td><td>Medewou Mawuena</td><td>Deputy CEO</td><td>CEB (BENIN - TOGO)</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>94</td><td>Adamou Zime Ngobi Salifou</td><td>Deputy CEO</td><td>CEB (BENIN)</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>95</td><td>Ahmadou Bivoung</td><td>Deputy CEO</td><td>ENEO (CAMEROUN)</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>96</td><td>PK Agarwal</td><td>Former Director</td><td>Grid Controller of India Ltd</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>97</td><td>Lawrence Jones</td><td>Sr. Vice President</td><td>International Edison Electric Institute</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>98</td><td>Jeannot Koudebi</td><td>DCRE</td><td>APUA (COTE D'IVOIRE)</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>99</td><td>Agate Palasse</td><td>Deputy CEO</td><td>TOGO-BENIN/CEB</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+    <tr><td>100</td><td>Fifatin Francois Xavier</td><td>Deputy CEO</td><td>TOGO-BENIN/CEB</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73DH">Link</a></td></tr>
+</table>
 
 
 
