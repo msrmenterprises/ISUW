@@ -75,8 +75,10 @@
     <tr><td>19</td><td>N. Murugesan</td><td>Former DG</td><td>CPRI</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
 </table>
 
-<h2>OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE) | REGENCY 5 | 14:00 ~ 17:00 | Anand Kumar Singh</h2>
     <table>
+	<tr class="session-head">
+		<td colspan="8"><h4>OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE) | REGENCY 5 | 14:00 ~ 17:00 | Anand Kumar Singh</h4></td>
+	</tr>
         <tr>
             <th>S. No</th>
             <th>Name</th>
@@ -189,10 +191,16 @@
         </tr>
     </table>
 
-	<h2>DAY - 2: 19 MARCH 2025 | WEDNESDAY</h2>
+	
 
 <h3>INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION (10:00 ~ 12:30) IST | Venue: Cystal 1 & 2 | Sumit Sharma</h3>
 <table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">
+		<td colspan="8">
+			<h2>DAY - 2: 19 MARCH 2025 | WEDNESDAY</h2><br/>	
+			<h4>OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE) | REGENCY 5 | 14:00 ~ 17:00 | Anand Kumar Singh</h4>
+		</td>
+	</tr>
     <tr>
         <th>S. No</th>
         <th>Name</th>
@@ -213,8 +221,11 @@
     <tr><td>37</td><td>Reena Suri</td><td>Executive Director</td><td>ISGF and Global Smart Energy Federation (GSEF)</td><td>Vote of Thanks</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC768d">Link</a></td></tr>
 </table>
 
-<h3>FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA) (14:00 -16:30) - Venue: Cystal-2 | Shashi Bala</h3>
+
 <table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">
+		<td colspan="8"><h4>FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA) (14:00 -16:30) - Venue: Cystal-2 | Shashi Bala</h4></td>
+	</tr>
     <tr>
         <th>S. No</th>
         <th>Name</th>
@@ -230,8 +241,11 @@
     <tr><td>40</td><td>Alok Kumar</td><td>Former Secretary</td><td>Ministry of Power</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC78Kc">Link</a></td></tr>
 </table>
 
-<h3>UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government) (14:30 ~ 16:30) - Venue: Cystal-1 | Anand Kumar Singh</h3>
+
 <table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">
+		<td colspan="8"><h4>UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government) (14:30 ~ 16:30) - Venue: Cystal-1 | Anand Kumar Singh</h4></td>
+	</tr>
     <tr>
         <th>S. No</th>
         <th>Name</th>
@@ -278,8 +292,13 @@
     <tr><td>63</td><td>Sonal Shah</td><td>Founder, The Urban Catalysts and Executive Director</td><td>Centre for Sustainable and Equitable Cities</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF">Link</a></td></tr>
 </table>
 
-<h3>ROUNDTABLE ON UNLOCKING INDIA'S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government) | Crystal 2 | 16:45 – 18:00 | Anand kumar Singh</h3>
+
 <table border="1" cellspacing="0" cellpadding="5">
+
+	<tr class="session-head">	
+		<td colspan="8"><h4>ROUNDTABLE ON UNLOCKING INDIA'S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government) | Crystal 2 | 16:45 – 18:00 | Anand kumar Singh</h4></td>
+	</tr>
+	
     <tr>
         <th>S. No</th>
         <th>Name</th>
@@ -308,8 +327,11 @@
     <tr><td>79</td><td>Sarthak Dhama</td><td>Senior Manager</td><td>Invest India</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77hX">Link</a></td></tr>
 </table>
 
-<h3>11th US - INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE) | REGENCY 1 & 2 |14:30-17:30 | Disha Khosla</h3>
+
 <table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">	
+		<td colspan="8"><h4>11th US - INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE) | REGENCY 1 & 2 |14:30-17:30 | Disha Khosla</h4></td>
+	</tr>
     <tr>
         <th>S. No</th>
         <th>Name</th>
@@ -335,8 +357,11 @@
     <tr><td>86</td><td>Miguel Martinez</td><td>Sr. Business Manager</td><td>UL Solutions</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze">Link</a></td></tr>
 </table>
 
-<h3>1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA)) | 14:30-17:30| Regency- 5| Aashima</h3>
+
 <table border="1" cellspacing="0" cellpadding="5">
+<tr class="session-head">	
+		<td colspan="8"><h4>1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA)) | 14:30-17:30| Regency- 5| Aashima</h4></td>
+	</tr>
     <tr>
         <th>S. No</th>
         <th>Name</th>
