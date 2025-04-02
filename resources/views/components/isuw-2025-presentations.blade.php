@@ -22,11 +22,17 @@
 	background-color: #FFF2CC;
 	font-weight: bold;
 	}
+	.session-head{
+	background-color:#8cc63e;
+	}
 
 </style>	
 
-<h2>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</h2>
+
 <table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">
+		<td colspan="8"><h4>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</h4></td>
+	</tr>	
     <tr>
         <th>S. No</th>
         <th>Name</th>
