@@ -915,7 +915,95 @@
     <tr><td>305</td><td>Pramod Mishra</td><td>AVP-Planning</td><td>BRPL</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7e7m">Link</a></td></tr>
 </table>
 
+<table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">
+		<td colspan="8">
+			<h4>CAPACITY BUILDING IN UTILITIES FOR ENERGY TRANSITION (IN COLLABORATION WITH SKILL COUNCIL FOR GREEN JOBS) | Regency 5|14:30 - 17:00| Yashika Maheshwari</h4>
+		</td>
+	</tr>
+    <tr>
+        <th>S. No</th>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Organization</th>
+        <th>Category</th>
+        <th>Presentation/Speech</th>
+        <th>Video link</th>
+        <th>Photo link</th>
+    </tr>
+    <tr><td>306</td><td>N P Padhy</td><td>Professor</td><td>MNIT, Jaipur</td><td>Chair</td><td>View/Download</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7jHz">Link</a></td></tr>
+    <tr><td>307</td><td>Mukul Saxena</td><td>Advisor</td><td>Skill Council for Green Jobs (SCGJ)</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7jHz">Link</a></td></tr>
+    <tr><td>308</td><td>Arpit</td><td>CEO- Chief Executive Officer</td><td>Skill Council for Green Jobs (SCGJ)</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7jHz">Link</a></td></tr>
+    <tr><td>309</td><td>Vipul Pandey</td><td>Head - Skill Development</td><td>GD Goenka University</td><td>Speaker</td><td>View/Download</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7jHz">Link</a></td></tr>
+    <tr><td>310</td><td>Afeena Ashfaque</td><td>Associate Director</td><td>SED Fund</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7jHz">Link</a></td></tr>
+    <tr><td>311</td><td>Subhra Das</td><td>Head - Skill Development Amity Skills Institute</td><td>Amity University</td><td>Speaker</td><td>View/Download</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7jHz">Link</a></td></tr>
+    <tr><td>312</td><td>Vanshika Gazmer</td><td>Incharge</td><td>National Solar Energy Federation of India</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7jHz">Link</a></td></tr>
+</table>
 
+<table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">
+		<td colspan="8">
+			<h4>ISUW 2025_Awards Innovation Award Ceremony and Gala Dinner</h4>
+		</td>
+	</tr>
+    <tr>
+        <td colspan="6"></td>
+        <td>NA</td>
+        <td><a href="https://flic.kr/s/aHBqjC7ebp">Link</a></td>
+    </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">
+		<td colspan="8">
+			<h4>ISUW 2025_Welcome Reception</h4>
+		</td>
+	</tr>
+    <tr>
+        <td colspan="6"></td>
+        <td>NA</td>
+        <td><a href="https://flic.kr/s/aHBqjC79po">Link</a></td>
+    </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">
+		<td colspan="8">
+			<h4>ISUW 2025_Exhibition</h4>
+		</td>
+	</tr>
+    <tr>
+        <td colspan="6"></td>
+        <td>NA</td>
+        <td><a href="https://flic.kr/s/aHBqjC7wA2">Link</a></td>
+    </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">
+		<td colspan="8">
+			<h4>ISUW 2025_Branding</h4>
+		</td>
+	</tr>
+    <tr>
+        <td colspan="6"></td>
+        <td>NA</td>
+        <td><a href="https://flic.kr/s/aHBqjC7rRt">Link</a></td>
+    </tr>
+</table>
+
+<table border="1" cellspacing="0" cellpadding="5">
+	<tr class="session-head">
+		<td colspan="8">
+			<h4>ISUW 2025_Technical Tours and Demonstrations</h4>
+		</td>
+	</tr>
+    <tr>
+        <td colspan="6"></td>
+        <td>NA</td>
+        <td><a href="https://flic.kr/s/aHBqjC7dvT">Link</a></td>
+    </tr>
+</table>
 
 <!-- Continue with the remaining sessions following the same pattern -->
 
