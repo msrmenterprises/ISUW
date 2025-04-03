@@ -13,21 +13,17 @@
 		<h1>INDIA SMART UTILITY WEEK <span class="k_greencolor">2025 Registration</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
-	<!--<marquee>	Due to technical error in the server,  we are unable to process your registration at the moment.  Please check this page again in a few hours for registration. You may also write an email to us on email id <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> for offline registration and payment. Thank you for your patience and we regret the inconvenience.</marquee>
--->
-	<!-- <img src="https://isuw.in/public/uploads/images/register-banner.jpg" height="500px;"></img> -->
+	
 	<p></p>
 	<div class="k_cheading">
 	
 	<a href="https://isuw2025.experiencesense.com/" target="_blank"><img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img></a>
 	
 	</div>
-<!--<li style="list-style:none; text-align:center"><a href="mailto:isuw@isuw.in" target="_blank" class="getstartedd ">Indian Registration</a></li>
-<p></p>
-<li style="list-style:none; text-align:center"><a href="mailto:isuw@isuw.in" target="_blank" class="getstartedd ">International Registration</a></li>-->
+
 	<p></p>
 	
-    <table class="tabletheme" border="1">
+    <!-- <table class="tabletheme" border="1">
         <thead>
             <tr style="background: #EF7B00;color: white;">
                 <th>Registration Categories</th>
@@ -167,10 +163,8 @@ letter request please register yourself and send us a request for visa letter on
 	
 	<img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
 	
-	</div>
-	<!--<li style="list-style:none; text-align:center"><a href="mailto:isuw@isuw.in" target="_blank" class="getstartedd ">Indian Registration</a></li>
-<p></p>
-<li style="list-style:none; text-align:center"><a href="mailto:isuw@isuw.in" target="_blank" class="getstartedd ">International Registration</a></li>-->
+	</div> -->
+	
 
 	<p></p>
 </div></div>
