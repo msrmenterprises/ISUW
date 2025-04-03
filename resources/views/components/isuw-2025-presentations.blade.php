@@ -616,7 +616,7 @@
         <th>Photo link</th>
     </tr>
     <tr><td>180</td><td>Kiran Gupta</td><td>Chief-Customer Experience, Commercial, Govt. Affairs, EAC & Customer Litigation</td><td>TPDDL</td><td>Chair & Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC79cw">Link</a></td></tr>
-    <tr><td>181</td><td>Praveen Kumar Goyal</td><td>Senior Vice President</td><td>Noida Power Company Limited</td><td>Theme Presentation</td><td>View/Download</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC79cw">Link</a></td></tr>
+    <tr><td>181</td><td>Praveen Kumar Goyal</td><td>Senior Vice President</td><td>Noida Power Company Limited</td><td>Theme Presentation</td><td><a href="images/2025/181. Praveen Goyal_Deep Dive.pdf" >View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC79cw">Link</a></td></tr>
     <tr><td>182</td><td>Murthi Thandavaran</td><td>Additional Vice President</td><td>BSES Rajdhani Power Limited</td><td>Theme Presentation</td><td><a href="images/2025/182. T Murthi_Deep Dive.pdf" >View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC79cw">Link</a></td></tr>
     <tr><td>183</td><td>V S K S Kumar Pabbineedi</td><td>Manager</td><td>Power Grid Corporation of India Ltd</td><td>Theme Presentation</td><td><a href="images/2025/183. VSKS, PGCIL_Deep Dive.pdf" >View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC79cw">Link</a></td></tr>
     <tr><td>184</td><td>Anil Ojha</td><td>Head Technical Services</td><td>TP Western Odisha Distribution Limited</td><td>Theme Presentation</td><td><a href="images/2025/184. Anil Ojha_Deep Dive.pdf" >View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC79cw">Link</a></td></tr>
