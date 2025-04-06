@@ -66,17 +66,17 @@ color:#EF7B00;
                </div> 
                <div class="col-lg-3">
                   <div class="widget">
-                     <h6>ISUW 2025 Event Structure</h6>
-                     <h5 style="color:#4EBC3C;">Day 1 – 18 March 2025 (Tuesday)</h5>
+                     <h6>ISUW 2026 Event Structure</h6>
+                     <h5 style="color:#4EBC3C;">Day 1 – 10 March 2026 (Tuesday)</h5>
                      <p>Special Workshops</p>
-                     <h5 style="color:#4EBC3C;">Day 2 – 19 March 2025 (Wednesday)</h5>
+                     <h5 style="color:#4EBC3C;">Day 2 – 11 March 2026 (Wednesday)</h5>
                      <p>Conference &amp; Exhibition</p>
-                     <h5 style="color:#4EBC3C;">Day 3 – 20 March 2025 (Thursday)</h5>
+                     <h5 style="color:#4EBC3C;">Day 3 – 12 March 2026 (Thursday)</h5>
                      <p>Conference &amp; Exhibition</p>
-                     <h5 style="color:#4EBC3C;">Day 4 – 21 March 2025 (Friday)</h5>
+                     <h5 style="color:#4EBC3C;">Day 4 – 13 March 2026 (Friday)</h5>
                      <p>Conference &amp; Exhibition | ISGF Innovation Awards Ceremony &amp; Valedictory Function</p>
-                     <h5 style="color:#4EBC3C;">Day 5 – 22 March 2025 (Saturday)</h5>
-                     <p>Technical Tours, Demonstration and Cultural Tours</p>
+                     <h5 style="color:#4EBC3C;">Day 5 – 14 March 2026 (Saturday)</h5>
+                     <p>Technical Tours and Cultural Tours</p>
                   </div>
 				   <div class="register-now">
 					 <a href="http://www.isuw.in/conference-agenda-and-program" class="button" target="_blank">Program Agenda</a>
