@@ -107,7 +107,7 @@ a:hover {
 
       <script>
       // Set the target date to 18th March 2025 at 10:00 AM
-      const targetDate = new Date(2025, 2, 18, 10, 0, 0).getTime();
+      const targetDate = new Date(2026, 3, 10, 10, 0, 0).getTime();
 
       // Countdown function
       let timer = setInterval(function() {

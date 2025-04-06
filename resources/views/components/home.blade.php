@@ -1603,7 +1603,7 @@
       <section class="page-section isuw-countdown">
          <div class="container">
             <div class="section-title">
-               <h2 class="text-black">ISUW 2025 Countdown</h2>
+               <h2 class="text-black">ISUW 2026 Countdown</h2>
             </div>
 	<!--	<div class="elementor-widget-container">
 <div class="elementor-countdown-wrapper" data-date="1615556460">
