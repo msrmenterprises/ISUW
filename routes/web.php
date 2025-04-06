@@ -82,7 +82,7 @@ Route::get('/admin', function () {
   Route::get('/conference-agenda-and-program', function () {
       return view('/components/conference-agenda-and-program');
  });
- Route::get('/conference-agenda-and-program-2025', function () {
+ Route::get('/conference-agenda-and-program', function () {
       return view('/components/conference-agenda-and-program-2025');
  });
   Route::get('/partnership-opportunity-information', function () {

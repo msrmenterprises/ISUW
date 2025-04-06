@@ -79,7 +79,7 @@ color:#EF7B00;
                      <p>Technical Tours, Demonstration and Cultural Tours</p>
                   </div>
 				   <div class="register-now">
-					 <a href="http://www.isuw.in/conference-agenda-and-program-2025" class="button" target="_blank">Program Agenda</a>
+					 <a href="http://www.isuw.in/conference-agenda-and-program" class="button" target="_blank">Program Agenda</a>
 					 </div>
                </div>
                         <div class="col-lg-3">
@@ -162,7 +162,7 @@ color:#EF7B00;
 	
 		 
 	<div class="k_fixed_broo">
-    <a href="https://www.isuw.in/conference-agenda-and-program-2025" class="buttonbrochuree" target="_blank">ISUW Agenda</a>
+    <a href="https://www.isuw.in/conference-agenda-and-program" class="buttonbrochuree" target="_blank">ISUW Agenda</a>
 	</div>
 	<div class="k_fixed_bro">
     <a href="https://isuw.in/public/images/ISUW-2025-BROCHURE.pdf" class="buttonbrochure" target="_blank">Download Brochure</a>

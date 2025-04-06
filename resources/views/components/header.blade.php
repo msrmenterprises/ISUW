@@ -52,7 +52,7 @@
                   <a href="#" class=" " data-bs-toggle="dropdown"><span>PROGRAM</span> <i class="fa fa-chevron-down"></i></a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                      <li><a href="/conference-themes" target="_blank">ISUW Conference Program and Themes</a></li> 
-                      <li><a href="/conference-agenda-and-program-2025" target="_blank">Conference Agenda and Program</a></li>
+                      <li><a href="/conference-agenda-and-program" target="_blank">Conference Agenda and Program</a></li>
                       <li><a href="/technical-paper-isuw" target="_blank">ISUW Technical Papers</a></li>
                       <li><a href="/innovation-awards" target="_blank">Innovation Awards</a></li>
                        <li><a href="/technical-tours" target="_blank">Technical Tours </a></li>
