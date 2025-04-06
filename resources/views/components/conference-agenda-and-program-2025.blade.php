@@ -6,7 +6,7 @@
 <p></p>
 
 <div class="k_cheading">
-		<h1>ISUW 2025<span class="k_greencolor"> Agenda</span> </h1>
+		<h1>ISUW 2026<span class="k_greencolor"> Agenda</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<p> ISUW 2026 Agenda will be updated closer to the event date. For Agenda details, please write to us at <a href="mailto:dum@indiasmartgrid.org">dum@indiasmartgrid.org</a></p>
