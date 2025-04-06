@@ -6,7 +6,7 @@
 <p></p>
 <p></p>		
 <div class="k_cheading">
-		<h1>For ISUW 2025 <span class="k_greencolor">Partnership Opportunity  </span> </h1>
+		<h1>For ISUW 2026 <span class="k_greencolor">Partnership Opportunity  </span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <!--<h4 style="color: #f60;"><b>For ISUW 2022 Partnership Opportunity Information and Special Packages for Participation: </b></h4>
