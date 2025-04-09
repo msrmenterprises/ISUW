@@ -17,7 +17,7 @@
  <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsewinners-2" aria-expanded="false" aria-controls="flush-collapsewinners-2">
-       <H4 style="color: green;"><strong>14th March 2026 - ISUW Technical Tour  </strong></style></H4>
+       <H4 style="color: green;"><strong>14th March 2026 (Saturday) - ISUW Technical Tour  </strong></style></H4>
       </button>
     </h2>
     <!-- <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
