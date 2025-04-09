@@ -31,7 +31,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
-		<td colspan="8" align="center"><h5>
+		<td colspan="8" style="text-align:center !important"><h5>
 		DAY - 1: 18 MARCH 2025 | TUESDAY <br/>
 		SPECIAL WORKSHOPS	<br/>
 		</h5></td>
@@ -202,10 +202,13 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h2>DAY - 2: 19 MARCH 2025 | WEDNESDAY</h2><br/>	
-			<h4>INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION (10:00 ~ 12:30) IST | Venue: Cystal 1 & 2 | Sumit Sharma</h4>
+			<h5>DAY - 2: 19 MARCH 2025 | WEDNESDAY</h5><br/>	
+			
 		</td>
 	</tr>
+	<tr class="session-header">
+        <td colspan="8" bgcolor="#FFF2CC"><b>INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION (10:00 ~ 12:30) IST | Venue: Cystal 1 & 2 | Sumit Sharma</b></td>
+    </tr>
     <tr>
         <th>S. No</th>
         <th>Name</th>
@@ -394,12 +397,16 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
+	
 	<tr class="session-head">
 		<td colspan="8">
-			<h2>DAY - 3: 20 MARCH 2025 | THURSDAY</h2><br/>	
-			<h4>SMART METERING PART A – GLOBAL AND INDIAN LESSONS |CRYSTAL 1 |10:00-13:00 | Jaydeep Sarkar</h4>
+			<h5>DAY - 3: 20 MARCH 2025 | THURSDAY</h5><br/>	
+			
 		</td>
 	</tr>
+	<tr class="session-header">
+        <td colspan="8" bgcolor="#FFF2CC"><b>SMART METERING PART A – GLOBAL AND INDIAN LESSONS |CRYSTAL 1 |10:00-13:00 | Jaydeep Sarkar</b></td>
+    </tr>
     <tr>
         <th>S. No</th>
         <th>Name</th>
@@ -708,12 +715,16 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
+	
 	<tr class="session-head">
 		<td colspan="8">
-			<h2>DAY - 4: 21 MARCH 2025 | FRIDAY</h2><br/>	
-			<h4>DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS| Crystal- 2 | 10:00-12:00 | Shashi Bala</h4>
+			<h5>DAY - 4: 21 MARCH 2025 | FRIDAY</h5><br/>	
+			
 		</td>
 	</tr>
+	<tr class="session-header">
+        <td colspan="8" bgcolor="#FFF2CC"><b>DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS| Crystal- 2 | 10:00-12:00 | Shashi Bala</b></td>
+    </tr>
     <tr>
         <th>S. No</th>
         <th>Name</th>
