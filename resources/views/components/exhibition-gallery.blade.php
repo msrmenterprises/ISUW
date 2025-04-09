@@ -54,6 +54,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
 }
 </style>
 <div class="tab">
+<button class="tablinks" onclick="openCity(event, '2025')">2025</button>
   <button class="tablinks" onclick="openCity(event, '2024')">2024</button>   
   <button class="tablinks" onclick="openCity(event, '2023')">2023</button>    
   <button class="tablinks" onclick="openCity(event, '2022')">2022</button>    
@@ -65,7 +66,18 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
 <div class="container slider_margin1">
 
 <div class="col-md-7">
-<div id="2024" class="tabcontent" style="display: block;">
+  <div id="2025" class="tabcontent" style="display: block;">
+      <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 Exhibition Gallery 
+        </h3>
+        <ul>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324817629/" title="ISUW_2024: Exhibition Booths">
+          <img src="https://live.staticflickr.com/65535/53623833715_2a41809a59_z.jpg" width="640" height="480" alt="ISUW_2024: Exhibition Booths"/></a>
+          <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+        </ul>
+  </div>
+
+  <div id="2024" class="tabcontent" style="display: block;">
     <div class="clearfix"></div>
     <h3 class="p-head">ISUW 2024 Exhibition Gallery 
     </h3>
