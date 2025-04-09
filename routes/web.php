@@ -191,7 +191,7 @@ Route::get('/admin', function () {
 //  Route::get('/master-classes', function () {
 //       return view('/components/master-classes');
 //  });
- Route::get('/raid-olympiad', function () {
+ Route::get('/raid-olympiad-removed', function () {
      return view('/components/raid-olympiad-deleted');
 });
  Route::get('/cultural-tours', function () {

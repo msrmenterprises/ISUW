@@ -36,14 +36,11 @@ huge success that attracted the attention and participation of the whose-who amo
 thinkers and utility leaders from around the globe. Technology Companies, Regulators, Policy
 Makers, Government Officials and Senior Officers from Electricity, Water and Gas Utilities from 50+
 countries participated every year in the past editions.</p>
-<h2 class="headingclass"> <br><strong>11TH EDITION OF INDIA SMART UTILITY WEEK (ISUW 2025) FROM 18 – 22 MARCH 2025 IN NEW
-DELHI</strong> </h2>
+<h2 class="headingclass"> <br><strong>12TH EDITION OF INDIA SMART UTILITY WEEK (ISUW 2026) FROM 10 – 14 MARCH 2026 IN NEW DELHI
+</strong> </h2>
 
-<p style="text-align:justify;">The 11th edition of ISUW is scheduled from 18 - 22 March 2025 in New Delhi, India, as an
-International Conference and Exhibition on Smart Energy and Smart Mobility. ISUW 2025 will include
-plenary sessions, special &amp; bilateral workshops, keynotes, roundtables, technical sessions, technical
-paper presentations, tutorials, and technical tours. Bilateral Smart Grid Workshops with UK, USA, Brazil, and Indonesia are also being planned. The 9th edition of ISGF Innovation Awards will be organized as part of ISUW 2025 on 21 March 2025.</p> 
-    <p style="text-align:justify;"><b>For Partnership, Exhibition and Participation queries, please write to us at  <a href="mailto:isuw@isuw.in">isuw@isuw.in</a>.&nbsp; For more details about ISUW 2025, kindly visit <a href="http://www.isuw.in">www.isuw.in</a>.</b></p>
+<p style="text-align:justify;">The 12th edition of ISUW is scheduled from 10 - 14 March 2026 in New Delhi, India, as an International Conference and Exhibition on Smart Energy and Smart Mobility. ISUW 2026 will include plenary sessions, special & bilateral workshops, keynotes, roundtables, technical sessions, technical paper presentations, tutorials, and technical tours. Bilateral Smart Grid Workshops with UK, USA, Brazil, and Indonesia are also being planned. The 10th edition of ISGF Innovation Awards will be organized as part of ISUW 2025 on 13 March 2026</p> 
+    <p style="text-align:justify;"><b>For Partnership, Exhibition and Participation queries, please write to us at  <a href="mailto:isuw@isuw.in">isuw@isuw.in</a>.&nbsp; For more details about ISUW 2026, kindly visit <a href="http://www.isuw.in">www.isuw.in</a>.</b></p>
 
 <p></p>
 </div>
