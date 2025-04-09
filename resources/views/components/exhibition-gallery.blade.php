@@ -16,7 +16,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
 /* Style the tab */
 .tab {
   overflow: hidden;
-  width: 57%;
+  width: 60%;
     margin: 0 auto;
  /* border: 1px solid #ccc;
   background-color: #f1f1f1; */
@@ -29,7 +29,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 10px 30px;
+  padding: 10px 25px;
   transition: 0.3s;
   font-size: 16px;
 }
@@ -71,8 +71,8 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <h3 class="p-head">ISUW 2025 Exhibition Gallery 
         </h3>
         <ul>
-          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324817629/" title="ISUW_2024: Exhibition Booths">
-          <img src="https://live.staticflickr.com/65535/53623833715_2a41809a59_z.jpg" width="640" height="480" alt="ISUW_2024: Exhibition Booths"/></a>
+          <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://flic.kr/s/aHBqjC7wA2" title="ISUW_2024: Exhibition Booths">
+          <img src="https://live.staticflickr.com/65535/54423587156_7f91a5d51a_c.jpg" width="640" height="480" alt="ISUW_2024: Exhibition Booths"/></a>
           <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
         </ul>
   </div>
