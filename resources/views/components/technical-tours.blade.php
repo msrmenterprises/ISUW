@@ -8,8 +8,8 @@
   
 </style> 
  <div class="k_cheading">
-		<h1>ISUW 2025 <span class="k_greencolor">Technical Tour & Demonstration</span> </h1>
-		<h4 style="text-align:center;">22nd March 2025</h4>
+		<h1>ISUW 2026 <span class="k_greencolor">Technical Tour</span> </h1>
+		<h4 style="text-align:center;">14th March 2026</h4>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<div class="accordion accordion-flush" id="accordionFlushExample">
@@ -17,10 +17,10 @@
  <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsewinners-2" aria-expanded="false" aria-controls="flush-collapsewinners-2">
-       <H4 style="color: green;"><strong>22nd March 2025 ( Saturday )- ISUW Technical Tour  </strong></style></H4>
+       <H4 style="color: green;"><strong>14th March 2026 - ISUW Technical Tour  </strong></style></H4>
       </button>
     </h2>
-    <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+    <!-- <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
         <table border="1" cellpadding="10" cellspacing="0">
       <tr>
@@ -51,16 +51,18 @@
 
             <li>Technical Tour return timing is subject to traffic. Please book your flights at least 4-5 hours after mentioned time</li>
         </ul>
-</p>
+      </p>
 
       <div class="k_cheading">
         <a href="https://www.isuw.in/register">
         <img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center"></img>
         </a>
         <p>*Registration in advance is Mandatory</p>
-    </div>
+      </div>
 
-</div></div></div></div>
+    </div> -->
+  </div>
+</div></div>
 <p></p>
 
 <p></p>
