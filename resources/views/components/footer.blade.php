@@ -16,8 +16,8 @@ color:#EF7B00;
 			<div class="row ">
                <div class="col-lg-3">
                   <div class="widget">
-                     <h6>ISUW 2025 Venue</h6>
-                     <p><i class="fa fa-home" aria-hidden="true"></i> Hotel Lalit, New Delhi, India</p>
+                     <h6>ISUW 2026 Venue</h6>
+                     <p><i class="fa fa-home" aria-hidden="true"></i> New Delhi, India</p>
                       <h6>  For General Queries</h6>
 					 <p><i class="fa fa-phone" aria-hidden="true"></i> Call us at : <a href="tel:011 - 41030398" style="color:white;">011 - 41030398</a><br>
                         <i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:awards@isuw.in" style="color:white;"> isuw@isuw.in</a><br></p>
