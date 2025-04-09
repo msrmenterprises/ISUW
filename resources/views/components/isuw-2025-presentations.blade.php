@@ -31,11 +31,14 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
-		<td colspan="8"><h4>
+		<td colspan="8" align="center"><h5>
 		DAY - 1: 18 MARCH 2025 | TUESDAY <br/>
 		SPECIAL WORKSHOPS	<br/>
-		9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</h4></td>
+		</h5></td>
 	</tr>	
+	<tr class="session-header">
+        <td colspan="8" bgcolor="#FFF2CC"><b>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</b></td>
+    </tr>
     <tr>
         <th>S. No</th>
         <th>Name</th>
