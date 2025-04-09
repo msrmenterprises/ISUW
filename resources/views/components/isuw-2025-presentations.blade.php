@@ -201,7 +201,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
-		<td colspan="8">
+		<td colspan="8" style="text-align:center !important">
 			<h5>DAY - 2: 19 MARCH 2025 | WEDNESDAY</h5><br/>	
 			
 		</td>
@@ -399,7 +399,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	
 	<tr class="session-head">
-		<td colspan="8">
+		<td colspan="8" style="text-align:center !important">
 			<h5>DAY - 3: 20 MARCH 2025 | THURSDAY</h5><br/>	
 			
 		</td>
@@ -717,7 +717,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	
 	<tr class="session-head">
-		<td colspan="8">
+		<td colspan="8" style="text-align:center !important">
 			<h5>DAY - 4: 21 MARCH 2025 | FRIDAY</h5><br/>	
 			
 		</td>
