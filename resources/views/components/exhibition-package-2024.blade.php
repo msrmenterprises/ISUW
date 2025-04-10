@@ -14,7 +14,7 @@
 		<h1>ISUW <span class="k_greencolor">Exhibition</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
-<h4 class="headingclass"><b>EXHIBITION BOOTH AT ISUW 2024</b></h4>
+<h4 class="headingclass"><b>EXHIBITION BOOTH AT ISUW 2026</b></h4>
 
 <UL class="theme">
 	<LI>The Exhibitors of ISUW have the opportunity to meet and network with the potential international and regional buyers and Utilities</li>
@@ -27,7 +27,7 @@
         <img src="http://localhost:8000/uploads/images/exhibition-2022.jpg" alt="">
 		</a>
     </div>
-<H4 class="headingclass"><b>ISUW 2024 EXHIBITION BOOTH BENEFITS</b></H4>
+<H4 class="headingclass"><b>ISUW 2026 EXHIBITION BOOTH BENEFITS</b></H4>
 <UL class="theme">
 	<LI>Complimentary Delegate Passes for entire program access </LI>
 	<LI>Premium Booth Location for early confirmations </LI>

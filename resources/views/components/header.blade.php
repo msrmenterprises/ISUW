@@ -79,7 +79,7 @@
                   <a href="#" class=" " data-bs-toggle="dropdown"><span>EXHIBITION</span> <i class="fa fa-chevron-down"></i></a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                      <li><a href="/exhibition-themes" target="_blank">Exhibition Themes</a></li>
-                      <li><a href="/exhibition-package-2024" target="_blank">Exhibition Packages</a></li>
+                      <li><a href="/exhibition-package" target="_blank">Exhibition Packages</a></li>
                       <li><a href="/exhibition-gallery" target="_blank">Exhibition Gallery</a></li>
                       <li><a href="/confirmed-exhibitors-2024" target="_blank">Confirmed Exhibitors</a></li>
                   </ul>

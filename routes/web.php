@@ -67,7 +67,7 @@ Route::get('/admin', function () {
  Route::get('/exhibition-package-2021', function () {
       return view('/components/exhibition-package-2021');
  });
- Route::get('/exhibition-package-2024', function () {
+ Route::get('/exhibition-package', function () {
       return view('/components/exhibition-package-2024');
  });
  Route::get('/conference-themes-2022', function () {
