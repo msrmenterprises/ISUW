@@ -18,12 +18,11 @@ margin-left:20px;
 </style>
 <!--<img src="http://www.isuw.in/beta/wp-content/uploads/2021/12/AWARDS-BANNER-1.jpeg" class="center" style="width: 90%;"></style>-->
 <div class="k_cheading">
-		<h1>9th ISGF INNOVATION AWARDS 2025<br/>
-		 <span class="k_greencolor">Award Ceremony on 21 March 2025 <br/> As part of <br/>
-		  India Smart Utility Week (ISUW 2025)</span></h1>
+		<h1>10th ISGF INNOVATION AWARDS 2026<br/>
+		 <span class="k_greencolor">Award Ceremony on 13 March 2026<br/> As part of India Smart Utility Week (ISUW 2026)</span></h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
-	<img src="http://www.isuw.in/public/images/awards-banner.jpg" class="center" style="width: 80%;"></img>
+	<img src="http://www.isuw.in/public/images/AwardAwards25.jpg" class="center" style="width: 80%;"></img>
 <!--<h2 style="text-align:center;">At India Smart Utility Week (ISUW 2023)<br/>
  <li style="list-style:none; text-align:center"><a href="https://isuw.in/votenowisgf" target="_blank" class="getstartedd ">Vote For ISGF Innovation Awards</a></li>
 <p></p>
@@ -36,8 +35,9 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <!--<h4 style="text-align:center"><b> ISGF Innovation Awards Knowledge Partner</b></h4>
 <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank"><img src="http://www.isuw.in/public/uploads/partner/UK-Gov.png" class="center" style="width: 30%; height:100px;"></img></a>
 <br/><p></p>-->
-<h4 style="text-align:center;">ISGF Invites you to Submit the Nominations by 28 December 2024 </h4>
-<h4 style="text-align:center;">Nomination Submission Link - <a href="https://forms.gle/XrVQAgjbfTWD5bYeA" target="_blank" >https://forms.gle/XrVQAgjbfTWD5bYeA</a> 
+<h4 style="text-align:center;">ISGF Invites you to Submit the Nominations by 28 December 2025  </h4>
+ <h4 style="text-align:center;">Nomination Submission Link - For ISGF Innovation Awards 2026, Link will be updated soon
+	<!--<a href="https://forms.gle/XrVQAgjbfTWD5bYeA" target="_blank" >https://forms.gle/XrVQAgjbfTWD5bYeA</a>  -->
 </h4>
 </b></style></p>
 
@@ -52,14 +52,14 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 		<!--<img src="http://www.isuw.in/beta/wp-content/uploads/2021/08/awards.png" class="center" style="width: 20%;"></style>-->
 
 <H4 style="color: green;"><strong>Overview of ISGF Innovation Awards</strong></style></H4>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >ISGF Innovation Awards instituted in 2017 is aimed to recognize and to celebrate organizations (utilities and technology companies), projects, products and personalities that have set a new benchmark in Electricity, Gas, Water and E-Mobility domains. Till 2024, ISGF had selected and recognized more than 323 such organizations/ individuals. <b>The 9th Edition of ISGF Innovation Awards 2025 will be conferred to the Winners on 21 March 2024.</b></FONT></P>
-<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT ><b>India Smart Grid Forum (ISGF) invites Public and Private Utilities, Urban Local Bodies, Technology Companies, EPC Contractors, Start-ups, Incubators, Researchers, Municipalities, Funding Agencies and Academia to submit their nominations. </b></FONT></P>
-<!--<p>For more details, Please visit: <a href="https://isuw.in/innovation-awards">https://isuw.in/innovation-awards</a>; Email us at <a href="mailto:awards@isuw.in">awards@isuw.in</a></p>
-<H4 style="color: green;"><strong>Refer important links below for further details: </strong></style></H4> -->
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >ISGF Innovation Awards instituted in 2017 is aimed to recognize and to celebrate organizations (utilities and technology companies), projects, products and personalities that have set a new benchmark in Electricity, Gas, Water and E-Mobility domains. Till 2025, ISGF had selected and recognized more than 373 such organizations/ individuals.</FONT></P>
+<p ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><b>The 10th Edition of ISGF Innovation Awards 2026 will be conferred to the Winners on 13 March 2026.</b></p>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT ><b>India Smart Grid Forum (ISGF) invites Public and Private Utilities, Urban Local Bodies, Technology Companies, EPC Contractors, Start-ups, Incubators, Researchers, Municipalities, Funding Agencies and Academia to submit their nominations.</b></FONT></P>
+<p ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">In year 2025, 282 projects submitted the nominations and out of which 36 projects were conferred with ISGF Innovation Award and 14 projects were awarded with Certificate of Merit. List of winners will be available at following link: <a href="https://isuw.in/winners-innovation-awards-2025">https://isuw.in/winners-innovation-awards-2025</a></p>
 <h4 style="color: green;"><strong>Refer important links below for further details:</h4>
 <p></p><li>About India Smart Grid Forum (ISGF): <a href="https://indiasmartgrid.org/about" target="_blank">https://indiasmartgrid.org/about</a></li>
 <li>About India Smart Utility Week (ISUW) 2024: <a href="http://isuw.in/" target="_blank">http://isuw.in/</a></li>
-<li>Glimpses of Awards Ceremony 2024: <a href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315675305/" target="_blank"> https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315675305/</a> </li></p>
+<li>Glimpses of Awards Ceremony 2025: <a href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324759071/" target="_blank"> https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324759071/</a> </li></p>
 
 <div class="accordion accordion-flush" id="accordionFlushExample"> 
   <div class="accordion-item">
@@ -79,6 +79,14 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 		<TD WIDTH=644 BGCOLOR="#ed7d31" STYLE="border: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
 			<P ALIGN=JUSTIFY><FONT COLOR="#ffffff"><B><FONT >Link to
 			view past winners</FONT></B></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=377  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<P ALIGN=JUSTIFY><B><FONT >2025</FONT></B></P>
+		</TD>
+		<TD WIDTH=644  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<P ALIGN=JUSTIFY><a HREF="https://isuw.in/winners-innovation-awards-2024" target="_blank" rel="noopener noreferrer"><FONT >https://isuw.in/isgf-innovation-awards-2024</FONT></A></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -1614,7 +1622,7 @@ solutions</FONT></FONT></FONT></P>
     </h2>
     <div id="flush-collapseselection" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<P STYLE="margin-bottom: 0in"><IMG SRC="/images/2024/selection.png" style="width:100%"></P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="/images/2025/selection.png" style="width:100%"></P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 </div></div></div></div>
@@ -1671,7 +1679,7 @@ solutions</FONT></FONT></FONT></P>
 			<P ALIGN=JUSTIFY><B><FONT >APPLY BEFORE </FONT></B></P>
 		</TD>
 		<TD WIDTH=644 BGCOLOR="white" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=JUSTIFY><FONT >28 Dec 2024</FONT></P>
+			<P ALIGN=JUSTIFY><FONT >28 Dec 2025</FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -1679,7 +1687,7 @@ solutions</FONT></FONT></FONT></P>
 			<P ALIGN=JUSTIFY><B><FONT >JURY PRESENTATION (ROUND 2)</FONT></B></P>
 		</TD>
 		<TD WIDTH=644 BGCOLOR="white" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=JUSTIFY><FONT >08 – 09 Feb 2025</FONT></P>
+			<P ALIGN=JUSTIFY><FONT >Feb 2025(Exact dates will be sent on email to selected Nominees </FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -1687,7 +1695,7 @@ solutions</FONT></FONT></FONT></P>
 			<P ALIGN=JUSTIFY><B><FONT >AWARD DISTRIBUTION</FONT></B></P>
 		</TD>
 		<TD WIDTH=644 BGCOLOR="white" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=JUSTIFY><FONT >21 March 2025 </FONT></P>
+			<P ALIGN=JUSTIFY><FONT >13 March 2026 </FONT></P>
 		</TD>
 	</TR>
 	
@@ -1829,12 +1837,14 @@ solutions</FONT></FONT></FONT></P>
       </button>
     </h2>
     <div id="flush-collapsetwo" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body"><P><B><FONT >1) ISGF Award Secretariat |
-</B>For more details, Winner selection procedure and to submit Nomination, please visit: 
-<a href="http://www.isuw.in/innovation-awards/">http://www.isuw.in/innovation-awards/</a></font><br/>
-2) Direct link for nomination form:  <a href="https://forms.gle/XrVQAgjbfTWD5bYeA" target="_blank" rel="noopener noreferrer">https://forms.gle/XrVQAgjbfTWD5bYeA</a><br/>
-3) Last date to apply for Online Nominations has been extended to <b>28 Dec 2024</b><br/>
-4) For queries, please write to us at <a href="mailto:awards@isuw.in">awards@isuw.in</a></p>
+      <div class="accordion-body">
+		<p>
+			1) For more details, Winner selection procedure and to submit Nomination, please visit: 
+			<a href="https://isuw.in/innovation-awards/">https://isuw.in/innovation-awards</a><br/>
+			2) Direct link for nomination form: Link will be updated soon<br/>
+			3) Last date to apply for Online Nominations is <b>28 Dec 2025</b><br/>
+			4) For queries, please write to us at <a href="mailto:awards@isuw.in">awards@isuw.in</a>
+		</p>
 	</div>
     </div>
   </div>
