@@ -74,7 +74,7 @@
     </tr>
     <tr><td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td><a href="images/2025/13SubhadipRaychaudhari.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>14</td><td>A K Rajput</td><td>Member (Power Systems)</td><td>CEA</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
-    <tr><td>15</td><td>Miguel Martinez</td><td>Senior Business Manager</td><td>UL Solutions</td><td>Speaker</td><td><a href="images/2025/15. Miguel Martinez- 9th IEEE-IEC-BIS Workshop.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
+    <tr><td>15</td><td>Miguel Martinez</td><td>Senior Business Manager</td><td>UL Solutions</td><td>Speaker</td><td><a href="images/2025/15.MiguelMartinez.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>16</td><td>Gopal Nariya</td><td>Vice President</td><td>BRPL</td><td>Speaker</td><td><a href="images/2025/16. Gopal Nariya- 9th IEEE-IEC-BIS Workshop.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>17</td><td>Kishore Narang</td><td>Founder</td><td>Narnix Technolabs Pvt. Ltd.</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>18</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Chair</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
@@ -121,7 +121,7 @@
             <td>Director</td>
             <td>Open Charge Alliance</td>
             <td>Theme Presentation</td>
-            <td><a href="images/2025/22. Lonneke Drissen - OCPP Technical Session.pdf"  target="_blank">View/Download</a></td>
+            <td><a href="images/2025/22.LonnekeDrissen.pdf"  target="_blank">View/Download</a></td>
             <td>NA</td>
             <td><a href="https://flic.kr/s/aHBqjC6YAo" target="_blank">Link</a></td>
         </tr>
@@ -131,7 +131,7 @@
             <td>General Manager</td>
             <td>ISGF</td>
             <td>Theme Presentation</td>
-            <td><a href="images/2025/23. Anand Kumar Singh - OCPP Technical Session.pdf"  target="_blank">View/Download</a></td>
+            <td><a href="images/2025/23.AnandKumaSingh.pdf"  target="_blank">View/Download</a></td>
             <td>NA</td>
             <td><a href="https://flic.kr/s/aHBqjC6YAo" target="_blank">Link</a></td>
         </tr>
@@ -161,7 +161,7 @@
             <td></td>
             <td>ESKOM, South Africa</td>
             <td>Speaker</td>
-            <td><a href="images/2025/26. Nick Singh_OCPP Technical session.pdf"  target="_blank">View/Download</a></td>
+            <td><a href="images/2025/26.NickSingh.pdf"  target="_blank">View/Download</a></td>
             <td>NA</td>
             <td><a href="https://flic.kr/s/aHBqjC6YAo" target="_blank">Link</a></td>
         </tr>
@@ -472,7 +472,7 @@
     <tr><td>129</td><td>Gopinath Mishra</td><td>Product Manager (Digital Solutions)</td><td>Kimbal</td><td>Speaker</td><td><a href="images/2025/129. Gopinath Mishra_Smart Metering Part B.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77uJ" target="_blank">Link</a></td></tr>
     <tr><td>130</td><td>Lalith Rao</td><td>President</td><td>Eppletone</td><td>Speaker</td><td><a href="images/2025/130. Lalith Rao, President_Smart Metering Part B.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77uJ" target="_blank">Link</a></td></tr>
     <tr><td>131</td><td>Amit Bansal</td><td>DGM – Metering</td><td>NPCL</td><td>Speaker</td><td><a href="images/2025/131. Amit Bansal_Smart Metering Part B.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77uJ" target="_blank">Link</a></td></tr>
-    <tr><td>132</td><td>Rathinasamy K S</td><td>Cofounder</td><td>Enthu Technology</td><td>Speaker</td><td><a href="132. RATHINASAMY K S_Smart Metering Part B.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77uJ" target="_blank">Link</a></td></tr>
+    <tr><td>132</td><td>Rathinasamy K S</td><td>Cofounder</td><td>Enthu Technology</td><td>Speaker</td><td><a href="images/2025/132.RATHINASAM.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC77uJ" target="_blank">Link</a></td></tr>
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
@@ -521,7 +521,7 @@
     <tr><td>142</td><td>SK Chatterjee</td><td>Chief Regulatory Affairs</td><td>CERC</td><td>Chair & Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC781Q" target="_blank">Link</a></td></tr>
     <tr><td>143</td><td>Anirban Sinha</td><td>Sr Associate - Open Markets Innovation</td><td>FIDE</td><td>Theme Presentation</td><td><a href="images/2025/143. Anirban_UEI.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC781Q" target="_blank">Link</a></td></tr>
     <tr><td>144</td><td>Mohit Kumar Sethi</td><td>VP (Technology and Research)</td><td>KrypC</td><td>Theme Presentation</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC781Q" target="_blank">Link</a></td></tr>
-    <tr><td>145</td><td>Laura Sandys</td><td>CEO</td><td>Challenging Ideas.com</td><td>Speaker</td><td><a href="images/2025/145. Laura_UEI.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC781Q" target="_blank">Link</a></td></tr>
+    <tr><td>145</td><td>Laura Sandys</td><td>CEO</td><td>Challenging Ideas.com</td><td>Speaker</td><td><a href="images/2025/145.Laura.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC781Q" target="_blank">Link</a></td></tr>
     <tr><td>146</td><td>Abhishek Ranjan</td><td>CEO</td><td>BRPL</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC781Q" target="_blank">Link</a></td></tr>
     <tr><td>147</td><td>Lydia Jaykumar</td><td>Analyst</td><td>IEA</td><td>Speaker</td><td><a href="images/2025/147. Lydia_UEI.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC781Q" target="_blank">Link</a></td></tr>
     <tr><td>148</td><td>Doug Arent</td><td>Deputy Associate Lab Director</td><td>NREL</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC781Q" target="_blank">Link</a></td></tr>
