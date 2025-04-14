@@ -35,7 +35,7 @@
        <H4 style="color: green;"><strong>Cultural Tours - 14th March 2026 ( Saturday )</strong></style></H4>
       </button>
     </h2>
-    <!-- <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+    <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
       <table border="1" cellpadding="10" cellspacing="0">
       <tr>
@@ -52,10 +52,23 @@
       </tr>
       
       </table>
-      <p>***Cultural Tours can be booked and paid separately. ISUW 2025 venue will have a Travel Desk to book and pay for your cultural tours</p>
-        
+      <!-- <p>***Cultural Tours can be booked and paid separately. ISUW 2025 venue will have a Travel Desk to book and pay for your cultural tours</p> -->
+      <p>Please Note 
+        <ul style="margin-left:21px">
+            <li>Tour Departure and Arrival will be from ISUW 2026 Venue</li>
+
+            <li>Passport and Visa Copy/ Aadhar Card Mandatory</li>
+
+            <li>Advance Registration Mandatory for ISUW Speakers, Partners, Exhibitors and Delegates with Technical Tour </li>
+
+            <li>Cultural Tour return timing is subject to traffic. Please book your flights at least 4-5 hours after mentioned time</li>
+
+            <li>Program Under Finalization*</li>
+
+          </ul>
+      </p> 
       </div>
-    </div> -->
+    </div>
   </div>
   <!-- <div class="k_cheading">
         <a href="https://www.isuw.in/register">
