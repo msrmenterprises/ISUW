@@ -2,9 +2,10 @@
 @section('content')
 
 <style>
-        h1 {
+        h5 {
             text-align: center;
             color: #2c3e50;
+			margin-top: 20px;
         }
         table {
             width: 100%;
@@ -16,6 +17,9 @@
             padding: 8px;
             text-align: left;
         }
+		td{
+			font-size:13px
+		}
         th {
             background-color: #f2f2f2;
             font-weight: bold;
@@ -42,7 +46,7 @@
  <div class="container">
  <div class="justify-content-left ">
 
- <h1>WINNERS OF ISGF INNOVATION AWARDS 2025</h1>
+ <h5>WINNERS OF ISGF INNOVATION AWARDS 2025</h5>
     
     <table>
         <thead>
@@ -310,7 +314,7 @@
         </tbody>
     </table>
 
-    <h2>CERTIFICATE OF MERIT - ISGF INNOVATION AWARDS 2025</h2>
+    <h5>CERTIFICATE OF MERIT - ISGF INNOVATION AWARDS 2025</h5>
     
     <table>
         <thead>
