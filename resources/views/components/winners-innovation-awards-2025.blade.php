@@ -27,7 +27,7 @@
         tr:nth-child(even) {
             background-color: #f9f9f9;
         }
-        .diamond {
+        /* .diamond {
             background-color: #b9f2ff;
         }
         .platinum {
@@ -41,7 +41,7 @@
         }
         .award {
             background-color: #fff3cd;
-        }
+        } */
     </style>
  <div class="container">
  <div class="justify-content-left ">
