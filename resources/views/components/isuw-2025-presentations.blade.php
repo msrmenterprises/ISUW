@@ -72,7 +72,7 @@
     <tr class="session-header">
         <td colspan="8"><b>Session 2: Future Trends and Challenges</b></td>
     </tr>
-    <tr><td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td><a href="images/2025/13. Subhadip Raychaudhari- 9th IEEE-IEC-BIS Workshop.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
+    <tr><td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td><a href="images/2025/13SubhadipRaychaudhari.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>14</td><td>A K Rajput</td><td>Member (Power Systems)</td><td>CEA</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
     <tr><td>15</td><td>Miguel Martinez</td><td>Senior Business Manager</td><td>UL Solutions</td><td>Speaker</td><td><a href="images/2025/15. Miguel Martinez- 9th IEEE-IEC-BIS Workshop.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>16</td><td>Gopal Nariya</td><td>Vice President</td><td>BRPL</td><td>Speaker</td><td><a href="images/2025/16. Gopal Nariya- 9th IEEE-IEC-BIS Workshop.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
