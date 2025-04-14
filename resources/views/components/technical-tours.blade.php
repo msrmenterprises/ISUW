@@ -20,7 +20,7 @@
        <H4 style="color: green;"><strong>14th March 2026 (Saturday) - ISUW Technical Tour  </strong></style></H4>
       </button>
     </h2>
-    <!-- <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+    <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
         <table border="1" cellpadding="10" cellspacing="0">
       <tr>
@@ -29,38 +29,38 @@
       </tr>
       <tr>
       <td>Tour 1</td>
-      <td>NRLDC+REMC and TPDDL LAB + 10 MW BESS</td>
+      <td>Northern Regional Load Dispatch Centre(NRLDC) and REMC and Tata Power DDL Smart Grid Lab and Battery Energy Storage System(BESS), New Delhi*</td>
       </tr>
       <tr>
       <td>Tour 2</td>
-      <td>TPDDL LAB + 10 MW BESS and NRLDC+REMC</td>
+      <td>800 kV HVDC Station IN AGRA + TAJ MAHAL</td>
       </tr>
-      <tr>
-      <td>Tour 3</td>
-      <td>800 kV HVDC STATION IN AGRA + TAJ MAHAL</td>
-      </tr>
+      
       
       </table><br/>
       <p>Please Note 
         <ul style="margin-left:21px">
-            <li>Tour Departure and Arrival will be from ISUW 2025 Venue</li>
+            <li>Tour Departure and Arrival will be from ISUW 2026 Venue</li>
 
             <li>Passport and Visa Copy/ Aadhar Card Mandatory</li>
 
             <li>Advance Registration Mandatory for ISUW Speakers, Partners, Exhibitors and Delegates with Technical Tour </li>
 
             <li>Technical Tour return timing is subject to traffic. Please book your flights at least 4-5 hours after mentioned time</li>
-        </ul>
+
+            <li>Program Under Finalization*</li>
+
+          </ul>
       </p>
 
-      <div class="k_cheading">
+      <!-- <div class="k_cheading">
         <a href="https://www.isuw.in/register">
         <img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center"></img>
         </a>
         <p>*Registration in advance is Mandatory</p>
-      </div>
+      </div> -->
 
-    </div> -->
+    </div>
   </div>
 </div></div>
 <p></p>
