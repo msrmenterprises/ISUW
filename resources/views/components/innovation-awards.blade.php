@@ -86,7 +86,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 			<P ALIGN=JUSTIFY><B><FONT >2025</FONT></B></P>
 		</TD>
 		<TD WIDTH=644  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=JUSTIFY><a HREF="images/2026/WINNERS ISGF INNOVATIONAWARDS2025_website.xlsx" target="_blank" rel="noopener noreferrer"><FONT >Award List</FONT></A></P>
+			<P ALIGN=JUSTIFY><a HREF="https://isuw.in/isgf-innovation-awards-2025" target="_blank" rel="noopener noreferrer"><FONT >https://isuw.in/isgf-innovation-awards-2025</FONT></A></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
