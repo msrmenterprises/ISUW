@@ -33,9 +33,9 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 10px 30px;
+  padding: 7px 25px;
   transition: 0.3s;
-  font-size: 16px;
+  font-size: 15px;
 }
 
 /* Change background color of buttons on hover */
