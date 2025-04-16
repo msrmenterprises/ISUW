@@ -60,6 +60,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
 </style>
 
 <div class="tab">
+<button class="tablinks" onclick="openCity(event, '2025')">2025</button>
 <button class="tablinks" onclick="openCity(event, '2024')">2024</button>
   <button class="tablinks" onclick="openCity(event, '2023')">2023</button>
   <button class="tablinks" onclick="openCity(event, '2022')">2022</button>
@@ -81,6 +82,31 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
 <div id="2017" class="tabcontent">
   <h3><a href="https://www.youtube.com/c/ISGFSMARTGRIDBulletin/playlists" target="_blank">Click here for 2017 photo album</a></h3> 
 </div>-->
+<!-- for 2025 -->
+
+<div id="2025" class="tabcontent" style="display: block;">
+  <div class="container slider_margin1">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024</h3>
+              <ul>
+                  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315606550" title="DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024"><img src="https://live.staticflickr.com/65535/53604344025_109bd088b8_z.jpg" width="580" height="400" alt="ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc"/></a>
+                    <script async src="https://flic.kr/s/aHBqjBSiKz" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">DUM 2024 Exhibition Inaugural
+              14_November 2024 (Thursday)</h3>
+              <ul>
+                  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315606550" title="ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc"><img src="https://live.staticflickr.com/65535/53604344025_109bd088b8_z.jpg" width="580" height="400" alt="ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc"/></a>
+                    <script async src="https://flic.kr/s/aHBqjBSmGK" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+  </div>
+</div>      
 <!-- For 2024 -->
 <div id="2024" class="tabcontent" style="display: block;">
   <div class="container slider_margin1">
