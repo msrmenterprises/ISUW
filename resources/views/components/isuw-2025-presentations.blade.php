@@ -304,7 +304,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 
 	<tr class="session-head">	
-		<td colspan="8"><h4>ROUNDTABLE ON UNLOCKING INDIA'S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government) | Crystal 2 | 16:45 – 18:00 | Anand kumar Singh</h4></td>
+		<td colspan="8"><h4>ROUNDTABLE ON UNLOCKING INDIA'S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government)</h4></td>
 	</tr>
 	
     <tr>
@@ -338,7 +338,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">	
-		<td colspan="8"><h4>11th US - INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE) | REGENCY 1 & 2 |14:30-17:30 | Disha Khosla</h4></td>
+		<td colspan="8"><h4>11th US - INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE)</h4></td>
 	</tr>
     <tr>
         <th>S. No</th>
@@ -368,7 +368,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 <tr class="session-head">	
-		<td colspan="8"><h4>1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA)) | 14:30-17:30| Regency- 5| Aashima</h4></td>
+		<td colspan="8"><h4>1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA))</h4></td>
 	</tr>
     <tr>
         <th>S. No</th>
@@ -405,7 +405,7 @@
 		</td>
 	</tr>
 	<tr class="session-header">
-        <td colspan="8" bgcolor="#FFF2CC"><b>SMART METERING PART A – GLOBAL AND INDIAN LESSONS |CRYSTAL 1 |10:00-13:00 | Jaydeep Sarkar</b></td>
+        <td colspan="8" bgcolor="#FFF2CC"><b>SMART METERING PART A – GLOBAL AND INDIAN LESSONS</b></td>
     </tr>
     <tr>
         <th>S. No</th>
@@ -478,7 +478,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>ROOFTOP PV REVOLUTION IN INDIA AND IMPACT ON DISCOMs- NATIONAL REGISTRY FOR DERs AND SMART INVERTORS | Regency 1&2 |10:00-12:00 | Disha Khosla</h4>
+			<h4>ROOFTOP PV REVOLUTION IN INDIA AND IMPACT ON DISCOMs- NATIONAL REGISTRY FOR DERs AND SMART INVERTORS</h4>
 		</td>
 	</tr>
     <tr>
@@ -505,7 +505,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>Unified Energy Interface (UEI) and the Evolving Era of Energy Internet | Regency 1&2 |12:00-14:00 | Shashi Bala</h4>
+			<h4>Unified Energy Interface (UEI) and the Evolving Era of Energy Internet</h4>
 		</td>
 	</tr>
     <tr>
@@ -532,7 +532,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>NUCLEAR RENAISSANCE AND THE ROLE OF SMR FOR THE NET ZERO POWER SYSTEMS | Crystal 2 |10:00-13:00| Bala Subramanyam</h4>
+			<h4>NUCLEAR RENAISSANCE AND THE ROLE OF SMR FOR THE NET ZERO POWER SYSTEMS</h4>
 		</td>
 	</tr>
     <tr>
@@ -560,7 +560,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>BUILDING RESILIENT UTILITY ASSETS FOR CONGESTED CITIES AND CLIMATE RESILIENCE - SESSION PARTNERS: CDRI | Regency 1&2 | 14:00 – 17:00 | Anand Kumar Singh</h4>
+			<h4>BUILDING RESILIENT UTILITY ASSETS FOR CONGESTED CITIES AND CLIMATE RESILIENCE - SESSION PARTNERS: CDRI</h4>
 		</td>
 	</tr>
     <tr>
@@ -586,7 +586,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>POWER SYSTEM FLEXIBILITY AND DERMS - SESSION PARTNER: ASPENTECH | Crystal 2 | 14:30-17:00 | Bala</h4>
+			<h4>POWER SYSTEM FLEXIBILITY AND DERMS - SESSION PARTNER: ASPENTECH</h4>
 		</td>
 	</tr>
     <tr>
@@ -615,7 +615,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>DEEP DIVE SESSION ON AI, ML AND ROBOTICS USE CASES FOR UTILITIES | Regency 5 | 14:00-16:30 | Disha Khosla</h4>
+			<h4>DEEP DIVE SESSION ON AI, ML AND ROBOTICS USE CASES FOR UTILITIES</h4>
 		</td>
 	</tr>
     <tr>
@@ -646,7 +646,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>1ST JOINT INDONESIA-INDIA SMART ENERGY WORKSHOP | Regency 5 |10:30-13:00 | Aashima Chaney</h4>
+			<h4>1ST JOINT INDONESIA-INDIA SMART ENERGY WORKSHOP</h4>
 		</td>
 	</tr>
     <tr>
@@ -675,7 +675,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>Technical paper presentation | REGENCY 3 | Full day |Aashima Chaney & Rohan Banik</h4>
+			<h4>Technical paper presentation </h4>
 		</td>
 	</tr>
     <tr>
@@ -723,7 +723,7 @@
 		</td>
 	</tr>
 	<tr class="session-header">
-        <td colspan="8" bgcolor="#FFF2CC"><b>DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS| Crystal- 2 | 10:00-12:00 | Shashi Bala</b></td>
+        <td colspan="8" bgcolor="#FFF2CC"><b>DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS</b></td>
     </tr>
     <tr>
         <th>S. No</th>
@@ -785,7 +785,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>INNOVATIONS IN REGULATIONS FOR THE NEXT ROUND OF POWER SECTOR REFORMS | Crystal- 1 |10:00-12:30 | Sumit Sharma</h4>
+			<h4>INNOVATIONS IN REGULATIONS FOR THE NEXT ROUND OF POWER SECTOR REFORMS</h4>
 		</td>
 	</tr>
     <tr>
@@ -809,7 +809,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>GRID INTEGRATED BUILDINGS | Regency 5 |10:00 - 12:00 | Disha Khosla</h4>
+			<h4>GRID INTEGRATED BUILDINGS</h4>
 		</td>
 	</tr>
     <tr>
@@ -834,7 +834,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>POWER MARKETS AND CARBON MARKETS |Regency 1 & 2 |10:30-13:30 |Bala Karnam</h4>
+			<h4>POWER MARKETS AND CARBON MARKETS</h4>
 		</td>
 	</tr>
     <tr>
@@ -864,7 +864,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>Workshop on Immersive Technologies: AR/VR, Digital Twins, Drones, and Assisted Reality for Enhanced Operations and Efficiency. |Regency 1 & 2| 14:30 -17:00| Shashi Bala</h4>
+			<h4>Workshop on Immersive Technologies: AR/VR, Digital Twins, Drones, and Assisted Reality for Enhanced Operations and Efficiency.</h4>
 		</td>
 	</tr>
     <tr>
@@ -890,7 +890,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>EVOLVING TRENDS IN ELECTRIC MOBILITY – V2G DEMO | Crystal 2 | 14:30 -16:30| Anand Kumar Singh</h4>
+			<h4>EVOLVING TRENDS IN ELECTRIC MOBILITY – V2G DEMO</h4>
 		</td>
 	</tr>
     <tr>
@@ -935,7 +935,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
 		<td colspan="8">
-			<h4>CAPACITY BUILDING IN UTILITIES FOR ENERGY TRANSITION (IN COLLABORATION WITH SKILL COUNCIL FOR GREEN JOBS) | Regency 5|14:30 - 17:00| Yashika Maheshwari</h4>
+			<h4>CAPACITY BUILDING IN UTILITIES FOR ENERGY TRANSITION (IN COLLABORATION WITH SKILL COUNCIL FOR GREEN JOBS)</h4>
 		</td>
 	</tr>
     <tr>
