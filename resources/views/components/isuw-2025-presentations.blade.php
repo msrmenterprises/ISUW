@@ -19,11 +19,11 @@
 	text-align: left;
 	}
 	.session-header {
-	background-color: #FFF2CC;
+	background-color: #8cc63e;
 	font-weight: bold;
 	}
 	.session-head{
-	background-color:#8cc63e;
+	background-color:#EF7B00;
 	}
 
 </style>	
@@ -75,7 +75,7 @@
     <tr><td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td><a href="images/2025/13SubhadipRaychaudhari.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>14</td><td>A K Rajput</td><td>Member (Power Systems)</td><td>CEA</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td>NA</td></tr>
     <tr><td>15</td><td>Miguel Martinez</td><td>Senior Business Manager</td><td>UL Solutions</td><td>Speaker</td><td><a href="images/2025/15.MiguelMartinez.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
-    <tr><td>16</td><td>Gopal Nariya</td><td>Vice President</td><td>BRPL</td><td>Speaker</td><td><a href="images/2025/16. Gopal Nariya- 9th IEEE-IEC-BIS Workshop.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
+    <tr><td>16</td><td>Gopal Nariya</td><td>Vice President</td><td>BRPL</td><td>Speaker</td><td><a href="images/2025/16.GopalNariya.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>17</td><td>Kishore Narang</td><td>Founder</td><td>Narnix Technolabs Pvt. Ltd.</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>18</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Chair</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>19</td><td>N. Murugesan</td><td>Former DG</td><td>CPRI</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
@@ -83,7 +83,7 @@
 
     <table>
 	<tr class="session-head">
-		<td colspan="8"><h4>OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE) | REGENCY 5 | 14:00 ~ 17:00 | Anand Kumar Singh</h4></td>
+		<td colspan="8"><h4>OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE)</h4></td>
 	</tr>
         <tr>
             <th>S. No</th>
@@ -207,7 +207,7 @@
 		</td>
 	</tr>
 	<tr class="session-header">
-        <td colspan="8" bgcolor="#FFF2CC"><b>INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION (10:00 ~ 12:30) IST | Venue: Cystal 1 & 2 | Sumit Sharma</b></td>
+        <td colspan="8" bgcolor="#FFF2CC"><b>INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION (10:00 ~ 12:30) IST</b></td>
     </tr>
     <tr>
         <th>S. No</th>
@@ -232,7 +232,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
-		<td colspan="8"><h4>FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA) (14:00 -16:30) - Venue: Cystal-2 | Shashi Bala</h4></td>
+		<td colspan="8"><h4>FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA) </h4></td>
 	</tr>
     <tr>
         <th>S. No</th>
@@ -252,7 +252,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-head">
-		<td colspan="8"><h4>UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government) (14:30 ~ 16:30) - Venue: Cystal-1 | Anand Kumar Singh</h4></td>
+		<td colspan="8"><h4>UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government)</h4></td>
 	</tr>
     <tr>
         <th>S. No</th>
