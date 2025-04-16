@@ -127,7 +127,10 @@
                            <div class="spot-div">
                               <!--<a href="https://calendar.google.com/calendar/u/0/r?sf=true&msg=Could+not+find+the+requested+event.&msgtok=8c0c9622719986994bcfe33cae9e1a5e7e1430ae" target="_blank">-->
                               <!--<a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MmZmNzUxYWUxYmVvMjM0Y3QwZGU2MG5vZGcgYWdhcndhbGp5b3RpMjAxQG0&tmsrc=agarwaljyoti201%40gmail.com" target="_blank">     
-                                --><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWJtbGVua3JpOHQwcHRzbmtraDMxNHU2bmxfMjAyNDAzMTJUMDQzMDAwWiBpc2dmc2didWxsZXRpbkBt&tmsrc=isgfsgbulletin%40gmail.com&scp=ALL" target="_blank">     
+                                -->
+                              <!-- <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWJtbGVua3JpOHQwcHRzbmtraDMxNHU2bmxfMjAyNDAzMTJUMDQzMDAwWiBpc2dmc2didWxsZXRpbkBt&tmsrc=isgfsgbulletin%40gmail.com&scp=ALL" target="_blank">
+                                       -->
+                              <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHYzbjIyZG1qanU1aWprZGJoMDVhNjc5YzVfMjAyNjAzMTBUMDQzMDAwWiBkZXZhakBpbmRpYXNtYXJ0Z3JpZC5vcmc&tmsrc=devaj%40indiasmartgrid.org&scp=ALL" target="_blank">
                               
                                  <img src="images/spot01.png" class="logo-img " alt="...">
                                  <h3>Mark your 
