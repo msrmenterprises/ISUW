@@ -22,7 +22,7 @@ margin-left:20px;
 		 <span class="k_greencolor">Award Ceremony on 13 March 2026<br/> As part of India Smart Utility Week (ISUW 2026)</span></h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
-	<img src="http://www.isuw.in/public/images/AwardAwards25.jpg" class="center" style="width: 80%;"></img>
+	<img src="images/2026/AwardAwards25.jpg" class="center" style="width: 80%;"></img>
 <!--<h2 style="text-align:center;">At India Smart Utility Week (ISUW 2023)<br/>
  <li style="list-style:none; text-align:center"><a href="https://isuw.in/votenowisgf" target="_blank" class="getstartedd ">Vote For ISGF Innovation Awards</a></li>
 <p></p>
