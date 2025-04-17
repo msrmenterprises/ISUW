@@ -36,8 +36,7 @@
         }
 	.sub-session {
     background-color: #FFD580; /* Light Orange */
-    padding: 5px; /* Optional: Adds spacing around the text */
-    display: inline-block; /* Ensures the background wraps only around the text */
+    
   }	
 
 </style>	
@@ -51,7 +50,7 @@
 		</h5></td>
 	</tr>	
 	<tr class="session">
-        <td colspan="8" bgcolor="#FFF2CC"><b>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</b></td>
+        <td colspan="8" ><b>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</b></td>
     </tr>
     <tr>
         <th>S. No</th>
@@ -64,7 +63,7 @@
         <th>Photo Link</th>
     </tr>
     <tr class="session-header">
-        <td colspan="8" bgcolor="#FFF2CC"><b>Inaugural Session</b></td>
+        <td colspan="8" ><b>Inaugural Session</b></td>
     </tr>
     <tr><td>1</td><td>Reji Kumar Pillai</td><td>President</td><td>ISGF</td><td>Welcome Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>2</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
@@ -221,7 +220,7 @@
 		</td>
 	</tr>
 	<tr class="session">
-        <td colspan="8" bgcolor="#FFF2CC"><b>INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION (10:00 ~ 12:30) IST</b></td>
+        <td colspan="8" ><b>INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION (10:00 ~ 12:30) IST</b></td>
     </tr>
     <tr>
         <th>S. No</th>
@@ -279,7 +278,7 @@
         <th>Photo link</th>
     </tr>
     <tr class="session-header">
-        <td colspan="8" bgcolor="#FFF2CC"><b>Inaugural Session</b></td>
+        <td colspan="8" ><b>Inaugural Session</b></td>
     </tr>
     <tr><td>41</td><td>Reena Suri</td><td>Executive Director</td><td>India Smart Grid Forum</td><td>Welcome Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF" target="_blank">Link</a></td></tr>
     <tr><td>42</td><td>Vikas Gaba</td><td>Partner and National Head - Power and Utilities</td><td>KPMG and Programme Lead, ASPIRE</td><td>Context Setting</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF" target="_blank">Link</a></td></tr>
@@ -366,7 +365,7 @@
     </tr>
     <tr><td>80</td><td>V. Manjunath</td><td>Regional Standards Manager</td><td>ULSE</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze" target="_blank">Link</a></td></tr>
     <tr class="session-header">
-        <td colspan="8" bgcolor="#FFF2CC"><b>Theme: Role of International Harmonization of Standards in Driving Safer and Secure Smart Grid</b></td>
+        <td colspan="8" ><b>Theme: Role of International Harmonization of Standards in Driving Safer and Secure Smart Grid</b></td>
     </tr>
     <tr><td>81</td><td>Nathalie Scharf</td><td>Dy Sr Commercial Officer</td><td>US Embassy, India</td><td>Opening Remark</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze" target="_blank">Link</a></td></tr>
     <tr><td>82</td><td>Sonya Bird</td><td>VP International Standards</td><td>ULSE</td><td>Context Setting</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze" target="_blank">Link</a></td></tr>
@@ -419,7 +418,7 @@
 		</td>
 	</tr>
 	<tr class="session"er">
-        <td colspan="8" bgcolor="#FFF2CC"><b>SMART METERING PART A – GLOBAL AND INDIAN LESSONS</b></td>
+        <td colspan="8" ><b>SMART METERING PART A – GLOBAL AND INDIAN LESSONS</b></td>
     </tr>
     <tr>
         <th>S. No</th>
@@ -737,7 +736,7 @@
 		</td>
 	</tr>
 	<tr class="session"er">
-        <td colspan="8" bgcolor="#FFF2CC"><b>DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS</b></td>
+        <td colspan="8" ><b>DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS</b></td>
     </tr>
     <tr>
         <th>S. No</th>
@@ -1138,7 +1137,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBij76">https://flic.kr/s/aHBqjBij76</a></font></u></td>
 	</tr>
 	<tr>
-	<td  colspan=8 align="left" valign=bottom bgcolor="#FFF2CC"><b><font face="Roboto" color="#000000">Session 1: United States (U.S) &amp; Automotive Original Equipment Manufacturer Perspectives of Electric Transportation and Grid Integration</font></b></td>
+	<td  colspan=8 align="left" valign=bottom ><b><font face="Roboto" color="#000000">Session 1: United States (U.S) &amp; Automotive Original Equipment Manufacturer Perspectives of Electric Transportation and Grid Integration</font></b></td>
 
 	</tr>
 	<tr>
@@ -1152,7 +1151,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBij76">https://flic.kr/s/aHBqjBij76</a></font></u></td>
 	</tr>
 	<tr>
-		<td  align="left" colspan=8 valign=bottom bgcolor="#FFF2CC"><b><font face="Roboto" color="#000000">Session 2: Update on Open Charge Point Protocol (OCPP) Standard and Developments for India</font></b></td>
+		<td  align="left" colspan=8 valign=bottom ><b><font face="Roboto" color="#000000">Session 2: Update on Open Charge Point Protocol (OCPP) Standard and Developments for India</font></b></td>
 	</tr>
 	<tr>
 		<td  height="40" align="left" valign=top sdval="8" sdnum="1033;"><font color="#000000">8</font></td>
@@ -1165,7 +1164,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBij76">https://flic.kr/s/aHBqjBij76</a></font></u></td>
 	</tr>
 	<tr>
-		<td  align="left" colspan=8 valign=bottom bgcolor="#FFF2CC"><b><font face="Roboto" color="#000000">Session 3: Panel Discussion on Way Forward </font></b></td>
+		<td  align="left" colspan=8 valign=bottom ><b><font face="Roboto" color="#000000">Session 3: Panel Discussion on Way Forward </font></b></td>
 	
 	</tr>
 	<tr>
@@ -1305,7 +1304,7 @@
 		<td  align="center" valign=top bgcolor="#D0CECE"><b><font color="#000000">Photo link</font></b></td>
 	</tr>
 	<tr>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" colspan=8 align="left" valign=bottom bgcolor="#FFF2CC"><b><font face="Roboto" color="#000000">Inaugural Session</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" colspan=8 align="left" valign=bottom ><b><font face="Roboto" color="#000000">Inaugural Session</font></b></td>
 		</tr>
 	<tr>
 		<td  height="40" align="left" valign=top sdval="20" sdnum="1033;"><font color="#000000">20</font></td>
@@ -1349,7 +1348,7 @@
 	</tr>
 	<tr>
 		<td  height="20" align="center" valign=middle><font color="#000000"><br></font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" colspan=7 align="left" valign=top bgcolor="#FFF2CC"><b><font face="Roboto" color="#000000">Session 1: Emerging Smart Energy Technologies and Standardization Landscape</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" colspan=7 align="left" valign=top ><b><font face="Roboto" color="#000000">Session 1: Emerging Smart Energy Technologies and Standardization Landscape</font></b></td>
 		</tr>
 	<tr>
 		<td  height="40" align="left" valign=top sdval="24" sdnum="1033;"><font color="#000000">24</font></td>
@@ -1433,7 +1432,7 @@
 	</tr>
 	<tr>
 		<td  height="20" align="center" valign=middle><font color="#000000"><br></font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" colspan=7 align="left" valign=middle bgcolor="#FFF2CC"><b><font face="Roboto" color="#000000">Session 2: Future Trends and Challenges</font></b></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000" colspan=7 align="left" valign=middle ><b><font face="Roboto" color="#000000">Session 2: Future Trends and Challenges</font></b></td>
 		</tr>
 	<tr>
 		<td  height="40" align="left" valign=top sdval="32" sdnum="1033;"><font color="#000000">32</font></td>
