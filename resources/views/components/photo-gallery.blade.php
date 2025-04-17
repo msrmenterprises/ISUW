@@ -12,7 +12,7 @@
 	</div>
 <style>
 li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin-bottom:30px;   list-style:none !important; height:240px;} 
-<p>.responsive .content img{ 	height:226px !important; } h3.p-head{ height:100px;	background: #00923f;     color: #FFF;     margin: 45px 32px 15px 0px;     padding: 10px; font-size: 18px; } iframe.flickr-embed-frame {
+<p>.responsive .content img{ 	height:226px !important; } h3.p-head{ height:100px;	background: #00923f;     color: #FFF;     margin: 45px 32px 15px 0px;     padding: 10px; font-size: 16px; } iframe.flickr-embed-frame {
     height: 300px ; min-height: 300px !important; overflow: hidden !important;
 }
 
