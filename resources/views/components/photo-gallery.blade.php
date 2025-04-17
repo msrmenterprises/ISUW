@@ -89,22 +89,259 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
     <div class="row">
         <div class="col-md-6">
             <div class="clearfix"></div>
-              <h3 class="p-head">DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024</h3>
+              <h3 class="p-head">ISUW_2025: 9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP (IN COLLABORATION WITH BIS, IEC AND IEEE)</h3>
               <ul>
-                  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315606550" title="DUM 2024 Inaugural Conference Session 14_NOVEMBER 2024"><img src="https://live.staticflickr.com/65535/53604344025_109bd088b8_z.jpg" width="580" height="400" alt="ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc"/></a>
-                    <script async src="https://flic.kr/s/aHBqjBSiKz" charset="utf-8"></script>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324731404" title="ISUW_2025: 9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP (IN COLLABORATION WITH BIS, IEC AND IEEE)"><img src="https://live.staticflickr.com/65535/54415432050_e1ed408518_c.jpg" width="800" height="600" alt="ISUW_2025: 9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP (IN COLLABORATION WITH BIS, IEC AND IEEE)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
               </ul>
         </div>
         <div class="col-md-6">
             <div class="clearfix"></div>
-              <h3 class="p-head">DUM 2024 Exhibition Inaugural
-              14_November 2024 (Thursday)</h3>
+              <h3 class="p-head">ISUW_2025: OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE)</h3>
               <ul>
-                  <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720315606550" title="ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc"><img src="https://live.staticflickr.com/65535/53604344025_109bd088b8_z.jpg" width="580" height="400" alt="ISUW_2024: Experiential Workshop on Immersive Technologies – Augmented Reality, Virtual Reality, Mixed Reality, Assisted Reality, Metaverse etc"/></a>
-                    <script async src="https://flic.kr/s/aHBqjBSmGK" charset="utf-8"></script>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324710002" title="ISUW_2025: OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE) | REGENCY 5"><img src="https://live.staticflickr.com/65535/54414216407_3f6d26584a_c.jpg" width="800" height="600" alt="ISUW_2025: OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE) | REGENCY 5"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
               </ul>
         </div>
     </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324731974" title="ISUW_2025: INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION"><img src="https://live.staticflickr.com/65535/54415100971_3d56967692_c.jpg" width="800" height="600" alt="ISUW_2025: INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA)</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324740789" title="ISUW_2025: FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA)"><img src="https://live.staticflickr.com/65535/54414958142_eddf5997d1_c.jpg" width="800" height="600" alt="ISUW_2025: FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government)</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324715355" title="ISUW_2025: UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government)"><img src="https://live.staticflickr.com/65535/54414983737_746d4de8f3_c.jpg" width="800" height="600" alt="ISUW_2025: UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: 11th US – INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE)</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324723391" title="ISUW_2025: 11th US – INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE)"><img src="https://live.staticflickr.com/65535/54415901396_c3d74cc467_c.jpg" width="800" height="600" alt="ISUW_2025: 11th US – INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: 1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA))</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324723651" title="ISUW_2025: 1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA))"><img src="https://live.staticflickr.com/65535/54415923511_c81400ca0b_c.jpg" width="800" height="600" alt="ISUW_2025: 1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA))"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: ROUNDTABLE ON UNLOCKING INDIA’S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government)</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324735903" title="ISUW_2025: ROUNDTABLE ON UNLOCKING INDIA’S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government)"><img src="https://live.staticflickr.com/65535/54416127429_2960f6a1bc_c.jpg" width="800" height="600" alt="ISUW_2025: ROUNDTABLE ON UNLOCKING INDIA’S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: Welcome Reception & Cultural Program</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324743004" title="ISUW_2025: Welcome Reception &amp; Cultural Program"><img src="https://live.staticflickr.com/65535/54416378195_22ee0c80ec_c.jpg" width="800" height="600" alt="ISUW_2025: Welcome Reception &amp; Cultural Program"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: SMART METERING PART A – GLOBAL AND INDIAN LESSONS</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324732682" title="ISUW_2025: SMART METERING PART A – GLOBAL AND INDIAN LESSONS"><img src="https://live.staticflickr.com/65535/54417448734_18be1971d2_c.jpg" width="800" height="600" alt="ISUW_2025: SMART METERING PART A – GLOBAL AND INDIAN LESSONS"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: SMART METERING PART B – AMISPs AND DISCOMs OEMS AND SYSTEM INTEGRATOR</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324736586" title="ISUW_2025: SMART METERING PART B – AMISPs AND DISCOMs OEMS AND SYSTEM INTEGRATOR"><img src="https://live.staticflickr.com/65535/54416438722_6c60241153_c.jpg" width="800" height="600" alt="ISUW_2025: SMART METERING PART B – AMISPs AND DISCOMs OEMS AND SYSTEM INTEGRATOR"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: ROOFTOP PV REVOLUTION IN INDIA AND IMPACT ON DISCOMs- NATIONAL REGISTRY FOR DERs AND SMART INVERTORS</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324749153" title="ISUW_2025: ROOFTOP PV REVOLUTION IN INDIA AND IMPACT ON DISCOMs- NATIONAL REGISTRY FOR DERs AND SMART INVERTORS"><img src="https://live.staticflickr.com/65535/54417741925_e0bb302d1f_c.jpg" width="800" height="600" alt="ISUW_2025: ROOFTOP PV REVOLUTION IN INDIA AND IMPACT ON DISCOMs- NATIONAL REGISTRY FOR DERs AND SMART INVERTORS"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: Unified Energy Interface (UEI) and the Evolving Era of Energy Internet</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324738332" title="ISUW_2025: Unified Energy Interface (UEI) and the Evolving Era of Energy Internet"><img src="https://live.staticflickr.com/65535/54418240235_0b8c927d97_c.jpg" width="800" height="600" alt="ISUW_2025: Unified Energy Interface (UEI) and the Evolving Era of Energy Internet"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: NUCLEAR RENAISSANCE AND THE ROLE OF SMR FOR THE NET ZERO POWER SYSTEMS</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324738492" title="ISUW_2025: NUCLEAR RENAISSANCE AND THE ROLE OF SMR FOR THE NET ZERO POWER SYSTEMS"><img src="https://live.staticflickr.com/65535/54418064214_6b93977d16_c.jpg" width="800" height="600" alt="ISUW_2025: NUCLEAR RENAISSANCE AND THE ROLE OF SMR FOR THE NET ZERO POWER SYSTEMS"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: BUILDING RESILIENT UTILITY ASSETS FOR CONGESTED CITIES AND CLIMATE RESILIENCE - SESSION PARTNERS: CDRI</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324738877" title="ISUW_2025: BUILDING RESILIENT UTILITY ASSETS FOR  CONGESTED CITIES AND CLIMATE RESILIENCE - SESSION PARTNERS: CDRI"><img src="https://live.staticflickr.com/65535/54417905011_d474bc9555_c.jpg" width="800" height="600" alt="ISUW_2025: BUILDING RESILIENT UTILITY ASSETS FOR  CONGESTED CITIES AND CLIMATE RESILIENCE - SESSION PARTNERS: CDRI"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: POWER SYSTEM FLEXIBILITY AND DERMS - SESSION PARTNER: ASPENTECH</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324742191" title="ISUW_2025: POWER SYSTEM FLEXIBILITY AND DERMS - SESSION PARTNER: ASPENTECH"><img src="https://live.staticflickr.com/65535/54418103419_ed55d0d256_c.jpg" width="800" height="600" alt="ISUW_2025: POWER SYSTEM FLEXIBILITY AND DERMS - SESSION PARTNER: ASPENTECH"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: DEEP DIVE SESSION ON AI, ML AND ROBOTICS USE CASES FOR UTILITIES</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324742316" title="ISUW_2025: DEEP DIVE SESSION ON AI, ML AND ROBOTICS USE CASES FOR UTILITIES"><img src="https://live.staticflickr.com/65535/54417057132_4c017d579e_c.jpg" width="800" height="600" alt="ISUW_2025: DEEP DIVE SESSION ON AI, ML AND ROBOTICS USE CASES FOR UTILITIES"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: 1ST JOINT INDONESIA-INDIA SMART ENERGY WORKSHOP</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324742371" title="ISUW_2025: 1ST JOINT INDONESIA-INDIA SMART ENERGY WORKSHOP"><img src="https://live.staticflickr.com/65535/54417934946_9f9e587106_c.jpg" width="800" height="600" alt="ISUW_2025: 1ST JOINT INDONESIA-INDIA SMART ENERGY WORKSHOP"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: Presentation of Selected Technical Papers</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324760879" title="ISUW_2025: Presentation of Selected Technical Papers"><img src="https://live.staticflickr.com/65535/54418326435_7be8f10b1a_c.jpg" width="800" height="600" alt="ISUW_2025: Presentation of Selected Technical Papers"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324750370" title="ISUW_2025: DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS"><img src="https://live.staticflickr.com/65535/54418721987_316bfa8903_c.jpg" width="800" height="600" alt="ISUW_2025: DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: EMERGING DIGITAL TECHNOLOGIES FOR UTILITIES - SESSION PARTNERS: DST AND C-DAC</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324769038" title="ISUW_2025: EMERGING DIGITAL TECHNOLOGIES FOR UTILITIES - SESSION PARTNERS: DST AND C-DAC"><img src="https://live.staticflickr.com/65535/54419842093_63889fdc05_c.jpg" width="800" height="600" alt="ISUW_2025: EMERGING DIGITAL TECHNOLOGIES FOR UTILITIES - SESSION PARTNERS: DST AND C-DAC"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: INNOVATIONS IN REGULATIONS FOR THE NEXT ROUND OF POWER SECTOR REFORMS</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324754057" title="ISUW_2025: INNOVATIONS IN REGULATIONS FOR THE NEXT ROUND OF POWER SECTOR REFORMS"><img src="https://live.staticflickr.com/65535/54419799679_6383f1d78b_c.jpg" width="800" height="600" alt="ISUW_2025: INNOVATIONS IN REGULATIONS FOR THE NEXT ROUND OF POWER SECTOR REFORMS"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: GRID INTEGRATED BUILDINGS</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324751765" title="ISUW_2025: GRID INTEGRATED BUILDINGS"><img src="https://live.staticflickr.com/65535/54419928694_3308fb2896_c.jpg" width="800" height="600" alt="ISUW_2025: GRID INTEGRATED BUILDINGS"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: POWER MARKETS AND CARBON MARKETS</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324751945" title="ISUW_2025: POWER MARKETS AND CARBON MARKETS"><img src="https://live.staticflickr.com/65535/54419750921_94198ff895_c.jpg" width="800" height="600" alt="ISUW_2025: POWER MARKETS AND CARBON MARKETS"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: WORKSHOP ON IMMERSIVE TECHNOLOGIES: AR/VR, DIGITAL TWINS, DRONES, AND ASSISTED REALITY FOR ENHANCED OPERATIONS AND EFFICIENCY</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324758621" title="ISUW_2025: WORKSHOP ON IMMERSIVE TECHNOLOGIES: AR/VR, DIGITAL TWINS, DRONES, AND ASSISTED REALITY FOR ENHANCED OPERATIONS AND EFFICIENCY"><img src="https://live.staticflickr.com/65535/54419784146_e672f68424_c.jpg" width="800" height="600" alt="ISUW_2025: WORKSHOP ON IMMERSIVE TECHNOLOGIES: AR/VR, DIGITAL TWINS, DRONES, AND ASSISTED REALITY FOR ENHANCED OPERATIONS AND EFFICIENCY"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: EVOLVING TRENDS IN ELECTRIC MOBILITY – V2G DEMO</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324758836" title="ISUW_2025: EVOLVING TRENDS IN ELECTRIC MOBILITY – V2G DEMO"><img src="https://live.staticflickr.com/65535/54418946597_35082cbbfd_c.jpg" width="800" height="600" alt="ISUW_2025: EVOLVING TRENDS IN ELECTRIC MOBILITY – V2G DEMO"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: CAPACITY BUILDING IN UTILITIES FOR ENERGY TRANSITION (IN COLLABORATION WITH SKILL COUNCIL FOR GREEN JOBS)</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324777699" title="ISUW_2025: CAPACITY BUILDING IN UTILITIES FOR ENERGY TRANSITION (IN COLLABORATION WITH SKILL COUNCIL FOR GREEN JOBS)"><img src="https://live.staticflickr.com/65535/54420208190_df93eff631_c.jpg" width="800" height="600" alt="ISUW_2025: CAPACITY BUILDING IN UTILITIES FOR ENERGY TRANSITION (IN COLLABORATION WITH SKILL COUNCIL FOR GREEN JOBS)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: ISGF INNOVATION AWARDS</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324759071" title="ISUW_2025: ISGF INNOVATION AWARDS"><img src="https://live.staticflickr.com/65535/54420077678_a0775e88ec_z.jpg" width="800" height="600" alt="ISUW_2025: ISGF INNOVATION AWARDS"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: TECHNICAL TOURS AND DEMONSTRATIONS | Tour 1A & 1B: NRLDC+REMC and TPDDL SMART GRID LAB + 10 MW BESS</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324756837" title="ISUW_2025: TECHNICAL TOURS AND DEMONSTRATIONS | Tour 1A &amp; 1B: NRLDC+REMC and TPDDL SMART GRID LAB + 10 MW BESS | 22nd March 2025"><img src="https://live.staticflickr.com/65535/54426016130_8bea81fa00_c.jpg" width="800" height="600" alt="ISUW_2025: TECHNICAL TOURS AND DEMONSTRATIONS | Tour 1A &amp; 1B: NRLDC+REMC and TPDDL SMART GRID LAB + 10 MW BESS | 22nd March 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+        <div class="col-md-6">
+            <div class="clearfix"></div>
+              <h3 class="p-head">ISUW_2025: ISUW_2025: TECHNICAL TOURS AND DEMONSTRATIONS | Tour 2: 800 kV HVDC STATION IN AGRA + TAJ MAHAL</h3>
+              <ul>
+              <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324839264" title="ISUW_2025: ISUW_2025: TECHNICAL TOURS AND DEMONSTRATIONS | Tour 2: 800 kV HVDC STATION IN AGRA + TAJ MAHAL | 22nd March 2025"><img src="https://live.staticflickr.com/65535/54426011265_ba429b7348_c.jpg" width="800" height="600" alt="ISUW_2025: ISUW_2025: TECHNICAL TOURS AND DEMONSTRATIONS | Tour 2: 800 kV HVDC STATION IN AGRA + TAJ MAHAL | 22nd March 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+              </ul>
+        </div>
+    </div>
+
+  
   </div>
 </div>      
 <!-- For 2024 -->
