@@ -25,6 +25,20 @@
 	.session-head{
 	background-color:#EF7B00;
 	}
+	.session {
+            background-color: green;
+            color: white;
+            padding: 10px;
+            margin: 10px 0;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            border-radius: 5px;
+        }
+	.sub-session {
+    background-color: #FFD580; /* Light Orange */
+    padding: 5px; /* Optional: Adds spacing around the text */
+    display: inline-block; /* Ensures the background wraps only around the text */
+  }	
 
 </style>	
 
@@ -36,7 +50,7 @@
 		SPECIAL WORKSHOPS	<br/>
 		</h5></td>
 	</tr>	
-	<tr class="session-header">
+	<tr class="session">
         <td colspan="8" bgcolor="#FFF2CC"><b>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</b></td>
     </tr>
     <tr>
@@ -57,7 +71,7 @@
     <tr><td>3</td><td>Sreekanth Chandrasekharan</td><td>Senior Director</td><td>IEEE</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>4</td><td>BA Sawale</td><td>Director General</td><td>Central Power Research Institute</td><td>Special Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8"><b>Session 1: Emerging Smart Energy Technologies and Standardization Landscape</b></td>
     </tr>
     <tr><td>5</td><td>Lonneke Drissen</td><td>Director</td><td>Open Charge Alliance</td><td>Speaker</td><td><a href="images/2025/5. Lonneke Driessen- 9th IEEE-IEC-BIS Workshop.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
@@ -69,7 +83,7 @@
     <tr><td>11</td><td>Srikanth Chandrasekaran</td><td>Senior Director</td><td>IEEE</td><td>Chair</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     <tr><td>12</td><td>Manjunath V Rao</td><td>Regional Standards Manager – South Asia and Sub-Saharan Africa</td><td>ULSE</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
     
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8"><b>Session 2: Future Trends and Challenges</b></td>
     </tr>
     <tr><td>13</td><td>Subhadip Raychaudhuri</td><td>Head-Engineering, Energy Audit, GIS & AMI Applications</td><td>TPDDL</td><td>Speaker</td><td><a href="images/2025/13SubhadipRaychaudhari.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
@@ -82,7 +96,7 @@
 </table>
 
     <table>
-	<tr class="session-head">
+	<tr class="session">
 		<td colspan="8"><h4>OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE)</h4></td>
 	</tr>
         <tr>
@@ -206,7 +220,7 @@
 			
 		</td>
 	</tr>
-	<tr class="session-header">
+	<tr class="session">
         <td colspan="8" bgcolor="#FFF2CC"><b>INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION (10:00 ~ 12:30) IST</b></td>
     </tr>
     <tr>
@@ -231,7 +245,7 @@
 
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8"><h4>FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA) </h4></td>
 	</tr>
     <tr>
@@ -251,7 +265,7 @@
 
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8"><h4>UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government)</h4></td>
 	</tr>
     <tr>
@@ -277,7 +291,7 @@
     <tr><td>48</td><td>Bhagwan Sahay Bairwa</td><td>Chief Engineer</td><td>CEA</td><td>Speacial Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF" target="_blank">Link</a></td></tr>
     <tr><td>49</td><td>Archana Chauhan</td><td>Head - Energy, Sector Reforms</td><td>Climate and Energy Team, British High Commission</td><td>Vote of Thanks and Closing Remarks</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF" target="_blank">Link</a></td></tr>
     
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8"><b>Session 1: Future-Ready Power Grids: Practical Solutions for Modernization</b></td>
     </tr>
     <tr><td>50</td><td>Cathy Chen</td><td>Associate Director</td><td>KPMG UK</td><td>Theme Presentation</td><td><a href="images/2025/50. Cathy Chen - ASPIRE.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF" target="_blank">Link</a></td></tr>
@@ -287,7 +301,7 @@
     <tr><td>54</td><td>Ashutosh Natraj</td><td>CEO and Co-Founder</td><td>Vidrona Ltd.</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF" target="_blank">Link</a></td></tr>
     <tr><td>55</td><td>Ankur Sharma</td><td>CEO</td><td>Flock Energy</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF" target="_blank">Link</a></td></tr>
     
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8"><b>Session 2: Empowering Women: Driving Change in the Power Sector</b></td>
     </tr>
     <tr><td>56</td><td>Saurabh Gupta</td><td>Partner - Power and Utilities</td><td>KPMG and Smart Power Lead, ASPIRE</td><td>Theme Presentation</td><td><a href="images/2025/56. Saurabh Gupta - ASPIRE.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF" target="_blank">Link</a></td></tr>
@@ -303,7 +317,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 
-	<tr class="session-head">	
+	<tr class="session"">	
 		<td colspan="8"><h4>ROUNDTABLE ON UNLOCKING INDIA'S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government)</h4></td>
 	</tr>
 	
@@ -337,7 +351,7 @@
 
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">	
+	<tr class="session"">	
 		<td colspan="8"><h4>11th US - INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE)</h4></td>
 	</tr>
     <tr>
@@ -357,7 +371,7 @@
     <tr><td>81</td><td>Nathalie Scharf</td><td>Dy Sr Commercial Officer</td><td>US Embassy, India</td><td>Opening Remark</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze" target="_blank">Link</a></td></tr>
     <tr><td>82</td><td>Sonya Bird</td><td>VP International Standards</td><td>ULSE</td><td>Context Setting</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze" target="_blank">Link</a></td></tr>
     <tr><td>83</td><td>A K Rajput</td><td>Former Member (Power Systems)</td><td>CEA</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze" target="_blank">Link</a></td></tr>
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8"><b>Global Experience and Best Practices</b></td>
     </tr>
     <tr><td>84</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze" target="_blank">Link</a></td></tr>
@@ -367,7 +381,7 @@
 
 
 <table border="1" cellspacing="0" cellpadding="5">
-<tr class="session-head">	
+<tr class="session"">	
 		<td colspan="8"><h4>1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA))</h4></td>
 	</tr>
     <tr>
@@ -404,7 +418,7 @@
 			
 		</td>
 	</tr>
-	<tr class="session-header">
+	<tr class="session"er">
         <td colspan="8" bgcolor="#FFF2CC"><b>SMART METERING PART A – GLOBAL AND INDIAN LESSONS</b></td>
     </tr>
     <tr>
@@ -417,7 +431,7 @@
         <th>Video link</th>
         <th>Photo link</th>
     </tr>
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8"><b>Panel 1: International Experiences</b></td>
     </tr>
     <tr><td>101</td><td>Saurav Shah</td><td>ED</td><td>PFC</td><td>Chair & Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC76kq" target="_blank">Link</a></td></tr>
@@ -430,7 +444,7 @@
     <tr><td>108</td><td>Rizwan Murji</td><td>Director of Applications Engineering, Low Power Connectivity Solutions</td><td>Texas Instruments Inc</td><td>Speaker</td><td><a href="images/2025/108. Rizwan_Murji_SMART METERING PART A.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC76kq" target="_blank">Link</a></td></tr>
     <tr><td>109</td><td>Praveen Arora</td><td>IoT BU Head</td><td>Tata Communications</td><td>Speaker</td><td><a href="images/2025/109. Parveen Arora_SMART METERING PART A.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC76kq" target="_blank">Link</a></td></tr>
     <tr><td>110</td><td>Ankur Sharma</td><td>Co-Founder and CEO</td><td>Flock Energy, UK</td><td>Speaker</td><td><a href="images/2025/110. Ankur Sharma_SMART METERING PART A.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC76kq" target="_blank">Link</a></td></tr>
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8"><b>Panel 2: Indian Experiences</b></td>
     </tr>
     <tr><td>111</td><td>Anil Rawal</td><td>Chair & Managing Director</td><td>ISGF Working Group on AMI; IntelliSmart Infrastructure Pvt Ltd</td><td>Chair and Theme Presentation</td><td><a href="images/2025/111. Anil Rawal_SMART METERING PART A.pdf"  target="_blank">View/Download</a></td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC76kq" target="_blank">Link</a></td></tr>
@@ -445,7 +459,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>SMART METERING PART B – AMISPs AND DISCOMs OEMS AND SYSTEM INTEGRATOR| Crystal 1 |14:00-17:00 | Jaydeep Sarkar</h4>
 		</td>
@@ -503,7 +517,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>Unified Energy Interface (UEI) and the Evolving Era of Energy Internet</h4>
 		</td>
@@ -530,7 +544,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>NUCLEAR RENAISSANCE AND THE ROLE OF SMR FOR THE NET ZERO POWER SYSTEMS</h4>
 		</td>
@@ -558,7 +572,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>BUILDING RESILIENT UTILITY ASSETS FOR CONGESTED CITIES AND CLIMATE RESILIENCE - SESSION PARTNERS: CDRI</h4>
 		</td>
@@ -584,7 +598,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>POWER SYSTEM FLEXIBILITY AND DERMS - SESSION PARTNER: ASPENTECH</h4>
 		</td>
@@ -613,7 +627,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>DEEP DIVE SESSION ON AI, ML AND ROBOTICS USE CASES FOR UTILITIES</h4>
 		</td>
@@ -644,7 +658,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>1ST JOINT INDONESIA-INDIA SMART ENERGY WORKSHOP</h4>
 		</td>
@@ -673,7 +687,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>Technical paper presentation </h4>
 		</td>
@@ -722,7 +736,7 @@
 			
 		</td>
 	</tr>
-	<tr class="session-header">
+	<tr class="session"er">
         <td colspan="8" bgcolor="#FFF2CC"><b>DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS</b></td>
     </tr>
     <tr>
@@ -751,7 +765,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>EMERGING DIGITAL TECHNOLOGIES FOR UTILITIES - SESSION PARTNERS: DST AND C-DAC | Crystal-2 | 12:00-14:00 | Shashi Bala</h4>
 		</td>
@@ -783,7 +797,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>INNOVATIONS IN REGULATIONS FOR THE NEXT ROUND OF POWER SECTOR REFORMS</h4>
 		</td>
@@ -807,7 +821,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>GRID INTEGRATED BUILDINGS</h4>
 		</td>
@@ -832,7 +846,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>POWER MARKETS AND CARBON MARKETS</h4>
 		</td>
@@ -862,7 +876,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>Workshop on Immersive Technologies: AR/VR, Digital Twins, Drones, and Assisted Reality for Enhanced Operations and Efficiency.</h4>
 		</td>
@@ -888,7 +902,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>EVOLVING TRENDS IN ELECTRIC MOBILITY – V2G DEMO</h4>
 		</td>
@@ -903,7 +917,7 @@
         <th>Video link</th>
         <th>Photo link</th>
     </tr>
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8"><b>Panel-1: Accelerating EV Adoption – Enabling Policies, Regulations and Programs | 14:00 ~ 15:15</b></td>
     </tr>
     <tr><td>288</td><td>Randhir Singh</td><td>Founder and CEO</td><td>ForeSee Advisors</td><td>Chair & Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7e7m" target="_blank">Link</a></td></tr>
@@ -911,7 +925,7 @@
     <tr><td>290</td><td>N Mohan</td><td>Head (EVCI)</td><td>CESL</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7e7m" target="_blank">Link</a></td></tr>
     <tr><td>291</td><td>T Surya Kiran Reddy</td><td>ED</td><td>ASRTU</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7e7m" target="_blank">Link</a></td></tr>
     <tr><td>292</td><td>Anshu Dewan</td><td>Founder</td><td>IX Energy Private Limited</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7e7m" target="_blank">Link</a></td></tr>
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8"><b>Panel-2: Promotion of Intercity Operations of Electric Buses and Electric Trucks</b></td>
     </tr>
     <tr><td>293</td><td>SJ Sinha</td><td>Advisor</td><td>NITI Aayog</td><td>Chair</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7e7m" target="_blank">Link</a></td></tr>
@@ -921,7 +935,7 @@
     <tr><td>297</td><td>Gopalakrishnan VC</td><td>Director, Automotive and EV Sector</td><td>Industries Department, Government of Telangana</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7e7m" target="_blank">Link</a></td></tr>
     <tr><td>298</td><td>Mukesh Daddich</td><td>Head-Business Development, Sustainability and Clean Technology</td><td>BSES Yamuna Power Limited</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7e7m" target="_blank">Link</a></td></tr>
     <tr><td>299</td><td>Vincent Dewaele</td><td>General Manager</td><td>BusWorld</td><td>Speaker</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7e7m" target="_blank">Link</a></td></tr>
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8"><b>Panel-3: Emerging Technologies in Electric Mobility – New EVs, MW-scale Charging, Wireless and Pantograph Charging, Battery Swapping, V2G and Green Mobility</b></td>
     </tr>
     <tr><td>300</td><td>RK Singh</td><td>Head - Business Operations, EV Charging</td><td>Tata Power Company Ltd</td><td>Chair & Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC7e7m" target="_blank">Link</a></td></tr>
@@ -933,7 +947,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session"">
 		<td colspan="8">
 			<h4>CAPACITY BUILDING IN UTILITIES FOR ENERGY TRANSITION (IN COLLABORATION WITH SKILL COUNCIL FOR GREEN JOBS)</h4>
 		</td>
