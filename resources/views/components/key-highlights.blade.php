@@ -10,9 +10,9 @@
 	</div> 
 
 <h4 style="color:#f60; text-align:center;">India Smart Utility Week (ISUW) 2025</h4> 
-<hr/>
-<p style="text-align:center">ISUW 2025 Key Highlights Shall be uploaded after ISUW 2025</p>	
-<p></p>
+<div class="row justify-content-center">
+<div class="wp-block-image" style="text-align: center;"><figure class="aligncenter"><a href="images/2026/keyhighlights25.jpg"><img class="img-fluid" src="images/2025/2024KeyHighlights.jpg" style="width:840px" alt="" /></a></figure></div>
+</div>
 
 <h4 style="color:#f60; text-align:center;">India Smart Utility Week (ISUW) 2024</h4> 	
 <div class="row justify-content-center">
