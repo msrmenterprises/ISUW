@@ -23,7 +23,7 @@
 	font-weight: bold;
 	}
 	.session-head{
-	background-color:#EF7B00;
+	background-color:#8cc63e;
 	}
 	.session {
             background-color: green;
@@ -244,7 +244,7 @@
 
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8"><h4>FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA) </h4></td>
 	</tr>
     <tr>
@@ -264,7 +264,7 @@
 
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8"><h4>UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government)</h4></td>
 	</tr>
     <tr>
@@ -316,7 +316,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 
-	<tr class="session"">	
+	<tr class="session-header">	
 		<td colspan="8"><h4>ROUNDTABLE ON UNLOCKING INDIA'S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government)</h4></td>
 	</tr>
 	
@@ -350,7 +350,7 @@
 
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">	
+	<tr class="session-header">	
 		<td colspan="8"><h4>11th US - INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE)</h4></td>
 	</tr>
     <tr>
@@ -380,7 +380,7 @@
 
 
 <table border="1" cellspacing="0" cellpadding="5">
-<tr class="session"">	
+<tr class="session-header">	
 		<td colspan="8"><h4>1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA))</h4></td>
 	</tr>
     <tr>
@@ -458,9 +458,9 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
-			<h4>SMART METERING PART B – AMISPs AND DISCOMs OEMS AND SYSTEM INTEGRATOR| Crystal 1 |14:00-17:00 | Jaydeep Sarkar</h4>
+			<h4>SMART METERING PART B – AMISPs AND DISCOMs OEMS AND SYSTEM INTEGRATOR</h4>
 		</td>
 	</tr>
     <tr>
@@ -516,7 +516,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>Unified Energy Interface (UEI) and the Evolving Era of Energy Internet</h4>
 		</td>
@@ -543,7 +543,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>NUCLEAR RENAISSANCE AND THE ROLE OF SMR FOR THE NET ZERO POWER SYSTEMS</h4>
 		</td>
@@ -571,7 +571,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>BUILDING RESILIENT UTILITY ASSETS FOR CONGESTED CITIES AND CLIMATE RESILIENCE - SESSION PARTNERS: CDRI</h4>
 		</td>
@@ -597,7 +597,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>POWER SYSTEM FLEXIBILITY AND DERMS - SESSION PARTNER: ASPENTECH</h4>
 		</td>
@@ -626,7 +626,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>DEEP DIVE SESSION ON AI, ML AND ROBOTICS USE CASES FOR UTILITIES</h4>
 		</td>
@@ -657,7 +657,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>1ST JOINT INDONESIA-INDIA SMART ENERGY WORKSHOP</h4>
 		</td>
@@ -686,7 +686,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>Technical paper presentation </h4>
 		</td>
@@ -764,9 +764,9 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
-			<h4>EMERGING DIGITAL TECHNOLOGIES FOR UTILITIES - SESSION PARTNERS: DST AND C-DAC | Crystal-2 | 12:00-14:00 | Shashi Bala</h4>
+			<h4>EMERGING DIGITAL TECHNOLOGIES FOR UTILITIES - SESSION PARTNERS: DST AND C-DAC</h4>
 		</td>
 	</tr>
     <tr>
@@ -796,7 +796,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>INNOVATIONS IN REGULATIONS FOR THE NEXT ROUND OF POWER SECTOR REFORMS</h4>
 		</td>
@@ -820,7 +820,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>GRID INTEGRATED BUILDINGS</h4>
 		</td>
@@ -845,7 +845,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>POWER MARKETS AND CARBON MARKETS</h4>
 		</td>
@@ -875,7 +875,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>Workshop on Immersive Technologies: AR/VR, Digital Twins, Drones, and Assisted Reality for Enhanced Operations and Efficiency.</h4>
 		</td>
@@ -901,7 +901,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>EVOLVING TRENDS IN ELECTRIC MOBILITY – V2G DEMO</h4>
 		</td>
@@ -946,7 +946,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session"">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>CAPACITY BUILDING IN UTILITIES FOR ENERGY TRANSITION (IN COLLABORATION WITH SKILL COUNCIL FOR GREEN JOBS)</h4>
 		</td>
