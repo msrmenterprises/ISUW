@@ -26,7 +26,7 @@
 	background-color:#8cc63e;
 	}
 	.session {
-            background-color: green;
+            background-color: #8cc63e;
             color: white;
             padding: 10px;
             margin: 10px 0;
