@@ -13,7 +13,77 @@
 		<h1>UTILITIES PARTICIPATED IN  <span class="k_greencolor">PREVIOUS EDITIONS OF ISUW  </span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
-<h5 style="color: green;"><strong><u>Electric Utilities from India</u></strong></h5>
+
+	<h5 style="color: green;"><strong><u>Electric Utilities from India</u></strong></h5>
+<ol class="themepar">
+    <li>Adani Electricity Mumbai Limited</li>
+    <li>Ajmer Vidyut Vitran Nigam Limited</li>
+    <li>Assam Power Distribution Company Limited</li>
+    <li>Bangalore Electricity Supply Company Limited</li>
+    <li>Best Undertaking</li>
+    <li>BSES Rajdhani Power Limited</li>
+    <li>BSES Yamuna Power Limited</li>
+    <li>CESC Kolkata</li>
+    <li>Chamudeshwari Electricity Supply Company Limited</li>
+    <li>Chandigarh Electricity Department</li>
+    <li>Chhattisgarh State Power Distribution Company Limited</li>
+    <li>Dakshin Gujarat Vij Company Limited</li>
+    <li>Dakshin Haryana Bijli Vitran Nigam</li>
+    <li>Dakshinanchal Vidyut Vitran Nigam Limited</li>
+    <li>Damodar Valley Corporation</li>
+    <li>Department of Power – Arunachal Pradesh</li>
+    <li>Eastern Power Distribution Company Of Andhra Pradesh Limited</li>
+    <li>Gujarat Urja Vikas Nigam</li>
+    <li>Gulbarga Electricity Supply Company Limited</li>
+    <li>Himachal Pradesh State Electricity Board</li>
+    <li>Hubli Electricity Supply Co. Limited</li>
+    <li>India Power Corporation Limited</li>
+    <li>Jaipur Vidyut Vitran Nigam Limited</li>
+    <li>Jharkhand Bijli Vitran Nigam Limited</li>
+    <li>Jodhpur Vidyut Vitran Nigam Limited</li>
+    <li>Kanpur Electricity Supply Co. Limited</li>
+    <li>Karnataka Power Corporation Limited</li>
+    <li>Kerala State Electricity Board Limited</li>
+    <li>M.P. Power Management Co. Limited</li>
+    <li>Madhya Gujarat Vij Co. Limited</li>
+    <li>Madhya Pradesh Madhya Kshetra Vidyut Vitaran Company Limited</li>
+    <li>Madhya Pradesh Poorv Kshetra Vidyut Vitaran Company Limited</li>
+    <li>Madhyanchal Vidyut Vitran Nigam Limited</li>
+    <li>Maharashtra State Electricity Distribution Company Limited</li>
+    <li>Maharashtra State Electricity Transmission Company</li>
+    <li>Maharashtra State Power Generation Company</li>
+    <li>Mangalore Electricity Supply Co. Limited</li>
+    <li>New Delhi Municipal Council</li>
+    <li>North Bihar Power Distribution Company Limited</li>
+    <li>North Eastern Electricity Supply Company of Orissa Limited</li>
+    <li>Noida Power Company Limited</li>
+    <li>NTPC Limited</li>
+    <li>Paschim Gujarat Vij. Co. Limited</li>
+    <li>Paschimanchal Vidyut Vitran Nigam Limited</li>
+    <li>Power Grid Corporation of India</li>
+    <li>Power System Operation Corporation Limited</li>
+    <li>Punjab State Power Corporation Limited</li>
+    <li>Purvanchal Vidyut Vitran Nigam Limited</li>
+    <li>Southern Power Distribution Company Limited Of Andhra Pradesh Limited</li>
+    <li>South Bihar Power Distribution Company Limited</li>
+    <li>Tamil Nadu Generation and Distribution Corporation</li>
+    <li>Tata Power Ajmer Distribution Limited</li>
+    <li>Tata Power Central Odisha Distribution Limited</li>
+    <li>Tata Power Delhi Distribution Limited</li>
+    <li>Tata Power Northern Odisha Distribution Limited</li>
+    <li>Tata Power Southern Odisha Distribution Limited</li>
+    <li>Tata Power Western Odisha Distribution Limited</li>
+    <li>Telangana State Southern Power Distribution Company Limited</li>
+    <li>The Tata Power Company Limited</li>
+    <li>Torrent Power</li>
+    <li>Tripura State Power Corporation Limited</li>
+    <li>Uttar Gujarat Vij Co Limited</li>
+    <li>Uttar Haryana Bijli Vitran Nigam</li>
+    <li>Uttarkhand Power Corporation Limited</li>
+    <li>West Bengal State Electricity Distribution Company Limited</li>
+</ol>
+	
+<!-- <h5 style="color: green;"><strong><u>Electric Utilities from India</u></strong></h5>
 <ol class="themepar">
 <li>	Adani Electricity Mumbai Limited 	</li>
 <li>	Ajmer Vidyut Vitran Nigam Limited	</li>
@@ -70,7 +140,7 @@
 <li>	Uttar Haryana Bijli Vitran Nigam	</li>
 <li>	Uttarkhand Power Corporation Limited	</li>
 <li>	West Bengal State Electricity Distribution Company Limited	</li>
-</ol>
+</ol> -->
 <!--<h5 style="color: green;"><strong><u>Regulatory</u></strong></h5>
 <ol class="theme">
 <li>	Central Electricity Regulatory Commission
