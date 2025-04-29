@@ -43,13 +43,13 @@
 
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session-header">
 		<td colspan="8" style="text-align:center !important"><h5>
 		DAY - 1: 18 MARCH 2025 | TUESDAY <br/>
 		SPECIAL WORKSHOPS	<br/>
 		</h5></td>
 	</tr>	
-	<tr class="session">
+	<tr class="session-header">
         <td colspan="8" ><b>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</b></td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@
 </table>
 
     <table>
-	<tr class="session">
+	<tr class="session-header">
 		<td colspan="8"><h4>OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE)</h4></td>
 	</tr>
         <tr>
@@ -213,13 +213,13 @@
 	
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session-header">
 		<td colspan="8" style="text-align:center !important">
 			<h5>DAY - 2: 19 MARCH 2025 | WEDNESDAY</h5><br/>	
 			
 		</td>
 	</tr>
-	<tr class="session">
+	<tr class="session-header">
         <td colspan="8" ><b>INAUGURATION OF ISUW 2025 CONFERENCE AND EXHIBITION (10:00 ~ 12:30) IST</b></td>
     </tr>
     <tr>
@@ -411,13 +411,13 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	
-	<tr class="session-head">
+	<tr class="session-header">
 		<td colspan="8" style="text-align:center !important">
 			<h5>DAY - 3: 20 MARCH 2025 | THURSDAY</h5><br/>	
 			
 		</td>
 	</tr>
-	<tr class="session"er">
+	<tr class="session-header"er">
         <td colspan="8" ><b>SMART METERING PART A – GLOBAL AND INDIAN LESSONS</b></td>
     </tr>
     <tr>
@@ -489,7 +489,7 @@
 </table>
 
 <table border="1" cellspacing="0" cellpadding="5">
-	<tr class="session-head">
+	<tr class="session-header">
 		<td colspan="8">
 			<h4>ROOFTOP PV REVOLUTION IN INDIA AND IMPACT ON DISCOMs- NATIONAL REGISTRY FOR DERs AND SMART INVERTORS</h4>
 		</td>
@@ -729,13 +729,13 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	
-	<tr class="session-head">
+	<tr class="session-header">
 		<td colspan="8" style="text-align:center !important">
 			<h5>DAY - 4: 21 MARCH 2025 | FRIDAY</h5><br/>	
 			
 		</td>
 	</tr>
-	<tr class="session"er">
+	<tr class="session-header"er">
         <td colspan="8" ><b>DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS</b></td>
     </tr>
     <tr>
