@@ -44,10 +44,10 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
-		<td colspan="8" style="text-align:center !important"><h5>
+		<td colspan="8" style="text-align:center !important"><b>
 		DAY - 1: 18 MARCH 2025 | TUESDAY <br/>
 		SPECIAL WORKSHOPS	<br/>
-		</h5></td>
+		</b></td>
 	</tr>	
 	<tr class="session-header">
         <td colspan="8" ><b>9TH IEC-IEEE-BIS SMART ENERGY STANDARDIZATION COORDINATION WORKSHOP</b></td>
@@ -215,7 +215,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8" style="text-align:center !important">
-			<h5>DAY - 2: 19 MARCH 2025 | WEDNESDAY</h5><br/>	
+			<b>DAY - 2: 19 MARCH 2025 | WEDNESDAY</b><br/>	
 			
 		</td>
 	</tr>
@@ -413,11 +413,11 @@
 	
 	<tr class="session-header">
 		<td colspan="8" style="text-align:center !important">
-			<h5>DAY - 3: 20 MARCH 2025 | THURSDAY</h5><br/>	
+			<b>DAY - 3: 20 MARCH 2025 | THURSDAY</b><br/>	
 			
 		</td>
 	</tr>
-	<tr class="session-header"er">
+	<tr class="session-header">
         <td colspan="8" ><b>SMART METERING PART A – GLOBAL AND INDIAN LESSONS</b></td>
     </tr>
     <tr>
@@ -731,11 +731,11 @@
 	
 	<tr class="session-header">
 		<td colspan="8" style="text-align:center !important">
-			<h5>DAY - 4: 21 MARCH 2025 | FRIDAY</h5><br/>	
+			<b>DAY - 4: 21 MARCH 2025 | FRIDAY</b><br/>	
 			
 		</td>
 	</tr>
-	<tr class="session-header"er">
+	<tr class="session-header">
         <td colspan="8" ><b>DIGITALIZATION OF UTILITIES, DIGITALIZATION ROADMAPS; DIGITAL TWINS</b></td>
     </tr>
     <tr>
