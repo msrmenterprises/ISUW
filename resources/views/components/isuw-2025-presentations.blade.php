@@ -21,9 +21,11 @@
 	.session-header {
 	background-color: #8cc63e;
 	font-weight: bold;
+	text-transform: uppercase;
 	}
 	.session-head{
 	background-color:#8cc63e;
+	text-transform: uppercase;
 	}
 	.session {
             background-color: #8cc63e;
@@ -33,9 +35,11 @@
             font-family: Arial, sans-serif;
             font-size: 16px;
             border-radius: 5px;
+			text-transform: uppercase;
         }
 	.sub-session {
     background-color: #FFD580; /* Light Orange */
+	text-transform: uppercase;
     
   }	
 
@@ -62,7 +66,7 @@
         <th>Video Link</th>
         <th>Photo Link</th>
     </tr>
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8" ><b>Inaugural Session</b></td>
     </tr>
     <tr><td>1</td><td>Reji Kumar Pillai</td><td>President</td><td>ISGF</td><td>Welcome Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC75Xo" target="_blank">Link</a></td></tr>
@@ -277,7 +281,7 @@
         <th>Video link</th>
         <th>Photo link</th>
     </tr>
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8" ><b>Inaugural Session</b></td>
     </tr>
     <tr><td>41</td><td>Reena Suri</td><td>Executive Director</td><td>India Smart Grid Forum</td><td>Welcome Address</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC71bF" target="_blank">Link</a></td></tr>
@@ -364,7 +368,7 @@
         <th>Photo link</th>
     </tr>
     <tr><td>80</td><td>V. Manjunath</td><td>Regional Standards Manager</td><td>ULSE</td><td>Moderator</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze" target="_blank">Link</a></td></tr>
-    <tr class="session-header">
+    <tr class="sub-session">
         <td colspan="8" ><b>Theme: Role of International Harmonization of Standards in Driving Safer and Secure Smart Grid</b></td>
     </tr>
     <tr><td>81</td><td>Nathalie Scharf</td><td>Dy Sr Commercial Officer</td><td>US Embassy, India</td><td>Opening Remark</td><td>Speech Only</td><td>NA</td><td><a href="https://flic.kr/s/aHBqjC73ze" target="_blank">Link</a></td></tr>
