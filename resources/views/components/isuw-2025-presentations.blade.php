@@ -96,7 +96,7 @@
 
     <table>
 	<tr class="session-header">
-		<td colspan="8"><h4>OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE)</h4></td>
+		<td colspan="8"><b>OCPP TECHNICAL SESSION (IN COLLABORATION WITH OPEN CHARGE ALLIANCE)</b></td>
 	</tr>
         <tr>
             <th>S. No</th>
@@ -245,7 +245,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
-		<td colspan="8"><h4>FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA) </h4></td>
+		<td colspan="8"><b>FIRST GENERAL BODY MEETING OF ALL INDIA DISCOMS ASSOCIATION (AIDA) </b></td>
 	</tr>
     <tr>
         <th>S. No</th>
@@ -265,7 +265,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
-		<td colspan="8"><h4>UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government)</h4></td>
+		<td colspan="8"><b>UK - INDIA WORKSHOP ON ASPIRE PROGRAM (In Collaboration with the UK Government)</b></td>
 	</tr>
     <tr>
         <th>S. No</th>
@@ -317,7 +317,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 
 	<tr class="session-header">	
-		<td colspan="8"><h4>ROUNDTABLE ON UNLOCKING INDIA'S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government)</h4></td>
+		<td colspan="8"><b>ROUNDTABLE ON UNLOCKING INDIA'S ENERGY STORAGE POTENTIAL WITH INNOVATIVE NEXT GENERATION SOLUTIONS (In Collaboration with the UK Government)</b></td>
 	</tr>
 	
     <tr>
@@ -351,7 +351,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">	
-		<td colspan="8"><h4>11th US - INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE)</h4></td>
+		<td colspan="8"><b>11th US - INDIA SMART ENERGY WORKSHOP (In Collaboration with US COMMERCIAL SERVICES and ULSE)</b></td>
 	</tr>
     <tr>
         <th>S. No</th>
@@ -381,7 +381,7 @@
 
 <table border="1" cellspacing="0" cellpadding="5">
 <tr class="session-header">	
-		<td colspan="8"><h4>1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA))</h4></td>
+		<td colspan="8"><b>1ST AFRICA - INDIA SMART ENERGY ROUNDTABLE (In Collaboration with Association of Power Utilities of Africa (APUA))</b></td>
 	</tr>
     <tr>
         <th>S. No</th>
@@ -460,7 +460,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>SMART METERING PART B – AMISPs AND DISCOMs OEMS AND SYSTEM INTEGRATOR</h4>
+			<b>SMART METERING PART B – AMISPs AND DISCOMs OEMS AND SYSTEM INTEGRATOR</b>
 		</td>
 	</tr>
     <tr>
@@ -491,7 +491,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>ROOFTOP PV REVOLUTION IN INDIA AND IMPACT ON DISCOMs- NATIONAL REGISTRY FOR DERs AND SMART INVERTORS</h4>
+			<b>ROOFTOP PV REVOLUTION IN INDIA AND IMPACT ON DISCOMs- NATIONAL REGISTRY FOR DERs AND SMART INVERTORS</b>
 		</td>
 	</tr>
     <tr>
@@ -518,7 +518,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>Unified Energy Interface (UEI) and the Evolving Era of Energy Internet</h4>
+			<b>Unified Energy Interface (UEI) and the Evolving Era of Energy Internet</b>
 		</td>
 	</tr>
     <tr>
@@ -545,7 +545,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>NUCLEAR RENAISSANCE AND THE ROLE OF SMR FOR THE NET ZERO POWER SYSTEMS</h4>
+			<b>NUCLEAR RENAISSANCE AND THE ROLE OF SMR FOR THE NET ZERO POWER SYSTEMS</b>
 		</td>
 	</tr>
     <tr>
@@ -573,7 +573,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>BUILDING RESILIENT UTILITY ASSETS FOR CONGESTED CITIES AND CLIMATE RESILIENCE - SESSION PARTNERS: CDRI</h4>
+			<b>BUILDING RESILIENT UTILITY ASSETS FOR CONGESTED CITIES AND CLIMATE RESILIENCE - SESSION PARTNERS: CDRI</b>
 		</td>
 	</tr>
     <tr>
@@ -599,7 +599,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>POWER SYSTEM FLEXIBILITY AND DERMS - SESSION PARTNER: ASPENTECH</h4>
+			<b>POWER SYSTEM FLEXIBILITY AND DERMS - SESSION PARTNER: ASPENTECH</b>
 		</td>
 	</tr>
     <tr>
@@ -628,7 +628,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>DEEP DIVE SESSION ON AI, ML AND ROBOTICS USE CASES FOR UTILITIES</h4>
+			<b>DEEP DIVE SESSION ON AI, ML AND ROBOTICS USE CASES FOR UTILITIES</b>
 		</td>
 	</tr>
     <tr>
@@ -659,7 +659,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>1ST JOINT INDONESIA-INDIA SMART ENERGY WORKSHOP</h4>
+			<b>1ST JOINT INDONESIA-INDIA SMART ENERGY WORKSHOP</b>
 		</td>
 	</tr>
     <tr>
@@ -688,7 +688,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>Technical paper presentation </h4>
+			<b>Technical paper presentation </b>
 		</td>
 	</tr>
     <tr>
@@ -766,7 +766,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>EMERGING DIGITAL TECHNOLOGIES FOR UTILITIES - SESSION PARTNERS: DST AND C-DAC</h4>
+			<b>EMERGING DIGITAL TECHNOLOGIES FOR UTILITIES - SESSION PARTNERS: DST AND C-DAC</b>
 		</td>
 	</tr>
     <tr>
@@ -798,7 +798,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>INNOVATIONS IN REGULATIONS FOR THE NEXT ROUND OF POWER SECTOR REFORMS</h4>
+			<b>INNOVATIONS IN REGULATIONS FOR THE NEXT ROUND OF POWER SECTOR REFORMS</b>
 		</td>
 	</tr>
     <tr>
@@ -822,7 +822,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>GRID INTEGRATED BUILDINGS</h4>
+			<b>GRID INTEGRATED BUILDINGS</b>
 		</td>
 	</tr>
     <tr>
@@ -847,7 +847,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>POWER MARKETS AND CARBON MARKETS</h4>
+			<b>POWER MARKETS AND CARBON MARKETS</b>
 		</td>
 	</tr>
     <tr>
@@ -877,7 +877,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>Workshop on Immersive Technologies: AR/VR, Digital Twins, Drones, and Assisted Reality for Enhanced Operations and Efficiency.</h4>
+			<b>Workshop on Immersive Technologies: AR/VR, Digital Twins, Drones, and Assisted Reality for Enhanced Operations and Efficiency.</b>
 		</td>
 	</tr>
     <tr>
@@ -903,7 +903,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>EVOLVING TRENDS IN ELECTRIC MOBILITY – V2G DEMO</h4>
+			<b>EVOLVING TRENDS IN ELECTRIC MOBILITY – V2G DEMO</b>
 		</td>
 	</tr>
     <tr>
@@ -948,7 +948,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>CAPACITY BUILDING IN UTILITIES FOR ENERGY TRANSITION (IN COLLABORATION WITH SKILL COUNCIL FOR GREEN JOBS)</h4>
+			<b>CAPACITY BUILDING IN UTILITIES FOR ENERGY TRANSITION (IN COLLABORATION WITH SKILL COUNCIL FOR GREEN JOBS)</b>
 		</td>
 	</tr>
     <tr>
@@ -973,7 +973,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>ISUW 2025_Awards Innovation Award Ceremony and Gala Dinner</h4>
+			<b>ISUW 2025_Awards Innovation Award Ceremony and Gala Dinner</b>
 		</td>
 	</tr>
     <tr>
@@ -986,7 +986,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>ISUW 2025_Welcome Reception</h4>
+			<b>ISUW 2025_Welcome Reception</b>
 		</td>
 	</tr>
     <tr>
@@ -999,7 +999,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>ISUW 2025_Exhibition</h4>
+			<b>ISUW 2025_Exhibition</b>
 		</td>
 	</tr>
     <tr>
@@ -1012,7 +1012,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>ISUW 2025_Branding</h4>
+			<b>ISUW 2025_Branding</b>
 		</td>
 	</tr>
     <tr>
@@ -1025,7 +1025,7 @@
 <table border="1" cellspacing="0" cellpadding="5">
 	<tr class="session-header">
 		<td colspan="8">
-			<h4>ISUW 2025_Technical Tours and Demonstrations</h4>
+			<b>ISUW 2025_Technical Tours and Demonstrations</b>
 		</td>
 	</tr>
     <tr>
