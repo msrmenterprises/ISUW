@@ -36,7 +36,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank"><img src="http://www.isuw.in/public/uploads/partner/UK-Gov.png" class="center" style="width: 30%; height:100px;"></img></a>
 <br/><p></p>-->
 <h4 style="text-align:center;">ISGF Invites you to Submit the Nominations by 28 December 2025  </h4>
- <h4 style="text-align:center;">Nomination Submission Link - For ISGF Innovation Awards 2026, Link will be updated soon
+ <h4 style="text-align:center;">Nomination Submission Link -  <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7" target="_blank" rel="noopener noreferrer">Register Now</a></h4>
 	<!--<a href="https://forms.gle/XrVQAgjbfTWD5bYeA" target="_blank" >https://forms.gle/XrVQAgjbfTWD5bYeA</a>  -->
 </h4>
 </b></style></p>
@@ -58,7 +58,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <p ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">In year 2025, 282 projects submitted the nominations and out of which 36 projects were conferred with ISGF Innovation Award and 14 projects were awarded with Certificate of Merit. List of winners will be available at following link: <a href="https://isuw.in/winners-innovation-awards-2025">https://isuw.in/winners-innovation-awards-2025</a></p>
 <h4 style="color: green;"><strong>Refer important links below for further details:</h4>
 <p></p><li>About India Smart Grid Forum (ISGF): <a href="https://indiasmartgrid.org/about" target="_blank">https://indiasmartgrid.org/about</a></li>
-<li>About India Smart Utility Week (ISUW) 2024: <a href="http://isuw.in/" target="_blank">http://isuw.in/</a></li>
+<li>About India Smart Utility Week (ISUW) 2026: <a href="http://isuw.in/" target="_blank">http://isuw.in/</a></li>
 <li>Glimpses of Awards Ceremony 2025: <a href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324759071/" target="_blank"> https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324759071/</a> </li></p>
 
 <div class="accordion accordion-flush" id="accordionFlushExample"> 
@@ -1803,7 +1803,7 @@ solutions</FONT></FONT></FONT></P>
 	website: <A HREF="https://www.isuw.in/innovation-awards">https://www.isuw.in/innovation-awards</A></font></P></li>
 	<LI><P><B><FONT >Identify
 	your Category:</B>Read thoroughly the website page and understand the Nomination Categories table with details regarding the award category, eligibility and description. (In case of doubt, please feel free to reach us)</font></P></li>
-	<LI><P><B><FONT >Fill each and every detail as asked by us for evaluation of your Nomination by Juries. Nomination Form Link: <a href="https://forms.gle/XrVQAgjbfTWD5bYeA">https://forms.gle/XrVQAgjbfTWD5bYeA</a></font></P></li>
+	<LI><P><B><FONT >Fill each and every detail as asked by us for evaluation of your Nomination by Juries. Nomination Form Link: <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7">https://forms.gle/qYa4AQHQJV5NHQ5X7</a></font></P></li>
 	<LI><P><B><FONT >Email
 	Us for Queries :</B>Write to us at awards@isuw.in 
 	</font></P></li>
@@ -1841,7 +1841,7 @@ solutions</FONT></FONT></FONT></P>
 		<p>
 			1) For more details, Winner selection procedure and to submit Nomination, please visit: 
 			<a href="https://isuw.in/innovation-awards/">https://isuw.in/innovation-awards</a><br/>
-			2) Direct link for nomination form: Link will be updated soon<br/>
+			2) Direct link for nomination form: <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7">Click Here</a><br/>
 			3) Last date to apply for Online Nominations is <b>28 Dec 2025</b><br/>
 			4) For queries, please write to us at <a href="mailto:awards@isuw.in">awards@isuw.in</a>
 		</p>
