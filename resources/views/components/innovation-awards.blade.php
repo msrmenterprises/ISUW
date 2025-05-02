@@ -36,7 +36,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank"><img src="http://www.isuw.in/public/uploads/partner/UK-Gov.png" class="center" style="width: 30%; height:100px;"></img></a>
 <br/><p></p>-->
 <h4 style="text-align:center;">ISGF Invites you to Submit the Nominations by 28 December 2025  </h4>
- <h4 style="text-align:center;">Nomination Submission Link -  <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7" target="_blank" rel="noopener noreferrer">Register Now</a></h4>
+ <h4 style="text-align:center;">Nomination Submission Link -  <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7" target="_blank" rel="noopener noreferrer">Submit Now</a></h4>
 	<!--<a href="https://forms.gle/XrVQAgjbfTWD5bYeA" target="_blank" >https://forms.gle/XrVQAgjbfTWD5bYeA</a>  -->
 </h4>
 </b></style></p>
@@ -55,7 +55,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >ISGF Innovation Awards instituted in 2017 is aimed to recognize and to celebrate organizations (utilities and technology companies), projects, products and personalities that have set a new benchmark in Electricity, Gas, Water and E-Mobility domains. Till 2025, ISGF had selected and recognized more than 373 such organizations/ individuals.</FONT></P>
 <p ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><b>The 10th Edition of ISGF Innovation Awards 2026 will be conferred to the Winners on 13 March 2026.</b></p>
 <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT ><b>India Smart Grid Forum (ISGF) invites Public and Private Utilities, Urban Local Bodies, Technology Companies, EPC Contractors, Start-ups, Incubators, Researchers, Municipalities, Funding Agencies and Academia to submit their nominations.</b></FONT></P>
-<p ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">In year 2025, 282 projects submitted the nominations and out of which 36 projects were conferred with ISGF Innovation Award and 14 projects were awarded with Certificate of Merit. List of winners will be available at following link: <a href="https://isuw.in/winners-innovation-awards-2025">https://isuw.in/winners-innovation-awards-2025</a></p>
+<p ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">In year 2025, 282 projects submitted the nominations and out of which 36 projects were conferred with ISGF Innovation Award and 14 projects were awarded with Certificate of Merit. List of winners will be available at following link: <a href="https://isuw.in/winners-innovation-awards-2025" target="_blank">https://isuw.in/winners-innovation-awards-2025</a></p>
 <h4 style="color: green;"><strong>Refer important links below for further details:</h4>
 <p></p><li>About India Smart Grid Forum (ISGF): <a href="https://indiasmartgrid.org/about" target="_blank">https://indiasmartgrid.org/about</a></li>
 <li>About India Smart Utility Week (ISUW) 2026: <a href="http://isuw.in/" target="_blank">http://isuw.in/</a></li>
@@ -1167,7 +1167,7 @@ category</b>
 <p>2.	ISGF holds the right to change the category of nomination in case same is proposed by Jury members</p>
 <P><b>3.	All the Project Nominations should be successfully completed projects. Projects at idea/design/implementation stage will not be considered</P>
 <P><b>4.	No Nominations are invited for category: ISGF President’s Award for the Best Contribution towards Energy Transition in India</P>
-<P><b>5.	In case you feel that your project deserves an award, but it is not fitting into any category – please write to us at <a href="awards@isuw.in">awards@isuw.in</a></P>
+<P><b>5.	In case you feel that your project deserves an award, but it is not fitting into any category – please write to us at <a href="mailto:awards@isuw.in">Mail to awards@isuw.in</a></P>
 </div></div></div></div>
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -1800,10 +1800,10 @@ solutions</FONT></FONT></FONT></P>
       <div class="accordion-body">
 	  <UL class="theme">
 	<LI><P><B>Read Details:</B><FONT >Visit our
-	website: <A HREF="https://www.isuw.in/innovation-awards">https://www.isuw.in/innovation-awards</A></font></P></li>
+	website: <A href="https://www.isuw.in/innovation-awards" target="_blank">https://www.isuw.in/innovation-awards</A></font></P></li>
 	<LI><P><B><FONT >Identify
 	your Category:</B>Read thoroughly the website page and understand the Nomination Categories table with details regarding the award category, eligibility and description. (In case of doubt, please feel free to reach us)</font></P></li>
-	<LI><P><B><FONT >Fill each and every detail as asked by us for evaluation of your Nomination by Juries. Nomination Form Link: <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7">https://forms.gle/qYa4AQHQJV5NHQ5X7</a></font></P></li>
+	<LI><P><B><FONT >Fill each and every detail as asked by us for evaluation of your Nomination by Juries. Nomination Form Link: <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7" target="_blank">https://forms.gle/qYa4AQHQJV5NHQ5X7</a></font></P></li>
 	<LI><P><B><FONT >Email
 	Us for Queries :</B>Write to us at awards@isuw.in 
 	</font></P></li>
@@ -1840,8 +1840,8 @@ solutions</FONT></FONT></FONT></P>
       <div class="accordion-body">
 		<p>
 			1) For more details, Winner selection procedure and to submit Nomination, please visit: 
-			<a href="https://isuw.in/innovation-awards/">https://isuw.in/innovation-awards</a><br/>
-			2) Direct link for nomination form: <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7">Click Here</a><br/>
+			<a href="https://isuw.in/innovation-awards/" target="_blank">https://isuw.in/innovation-awards</a><br/>
+			2) Direct link for nomination form: <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7" target="_blank">Click Here</a><br/>
 			3) Last date to apply for Online Nominations is <b>28 Dec 2025</b><br/>
 			4) For queries, please write to us at <a href="mailto:awards@isuw.in">awards@isuw.in</a>
 		</p>
