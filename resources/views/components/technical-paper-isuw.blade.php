@@ -6949,6 +6949,38 @@ Compendium</span></b></p>
 Papers</span></b></p>
   </td>
  </tr>
+
+ <tr style='height:30.0pt'>
+  <td width=73 style='width:54.45pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'><span lang=EN-IN style='color:black'>2024</span></p>
+  </td>
+  <td width=201 style='width:150.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-IN style='color:black'>TECHNICAL PAPERS – ISUW 2024</span></p>
+  </td>
+  <td width=265 style='width:198.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-IN style='color:black'><a href="images/2026/ISUW2024TechnicalPaper.pdf" target="_blank">2024 Shortlisted Papers for Presentation and Publication</a></span></p>
+  </td>
+  <td width=180 style='width:134.65pt;border-top:none;border-left:none
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-IN style='color:black'><a href="https://indiasmartgrid.org/white-papers-technical-reports" target="_blank">Compendium of Technical Papers India Smart Utility Week 2024</a></span></p>
+  </td>
+  <td width=208 nowrap style='width:155.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <a href="https://indiasmartgrid.org/white-papers-technical-reports" target="_blank">2024 Published Technical Paper</a></span></p>
+  </td>
+ </tr>
+
   <tr style='height:30.0pt'>
   <td width=73 style='width:54.45pt;border:solid windowtext 1.0pt;border-top:
   none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
