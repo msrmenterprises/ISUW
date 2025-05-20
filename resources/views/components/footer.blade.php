@@ -38,7 +38,7 @@ color:#EF7B00;
                </div>
               <div class="col-lg-3">
                   <div class="widget"> 
-                     <h6>ISGF Innovation Awards 2025 Test</h6>
+                     <h6>ISGF Innovation Awards 2025</h6>
 					 <p><b style="color: white;">Award Ceremony : 21 March 2025</b></p>
 					 <h6 style="color:#4EBC3C; font-size: 17px;"><b>ISGF Innovation Award Categories</b></h6>
                      <ol class="list-group list-group-numbered">
@@ -85,7 +85,7 @@ color:#EF7B00;
                         <div class="col-lg-3">
                 
                      <!--<h6>Social Media Iframe</h6>-->
-                     <div class="widget iframe">
+                     <div class="widget iframe" style="max-height:666px; width:100%">
                     <!-- <a class="twitter-timeline" href="https://twitter.com/ISUW_India">Tweets by ISUW23</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
                     <a class="twitter-timeline" href="https://www.linkedin.com/company/india-smart-utility-week/posts/?feedView=all">linkedin by @ISUW</a>  
                     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7330453522758402050" height="889" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
