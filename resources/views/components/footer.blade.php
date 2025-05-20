@@ -86,7 +86,9 @@ color:#EF7B00;
                 
                      <!--<h6>Social Media Iframe</h6>-->
                      <div class="widget iframe">
-                    <a class="twitter-timeline" href="https://twitter.com/ISUW_India">Tweets by ISUW23</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    <!-- <a class="twitter-timeline" href="https://twitter.com/ISUW_India">Tweets by ISUW23</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                    <a class="twitter-timeline" href="https://www.linkedin.com/company/india-smart-utility-week/posts/?feedView=all">linkedin by @ISUW</a>  
+                    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7330453522758402050" height="889" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
                   </div>
                </div>
             </div>
