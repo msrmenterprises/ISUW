@@ -82,15 +82,26 @@ color:#EF7B00;
 					 <a href="http://www.isuw.in/conference-agenda-and-program" class="button" target="_blank">Program Agenda</a>
 					 </div>
                </div>
-                        <div class="col-lg-3">
-                
-                     <!--<h6>Social Media Iframe</h6>-->
-                     <div class="widget iframe" style="max-height:666px; width:100%">
-                    <!-- <a class="twitter-timeline" href="https://twitter.com/ISUW_India">Tweets by ISUW23</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
-                    <a class="twitter-timeline" href="https://www.linkedin.com/company/india-smart-utility-week/posts/?feedView=all">linkedin by @ISUW</a>  
-                    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7330453522758402050" height="889" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-                  </div>
-               </div>
+                  <div class="col-lg-3">
+   <div class="widget">
+      <h6>Connect with ISUW</h6>
+      <ul class="social-links" style="list-style:none; padding:0;">
+         <li style="margin-bottom:10px;">
+            <a href="https://www.linkedin.com/company/india-smart-utility-week/posts/?feedView=all" target="_blank" style="color:#0A66C2; text-decoration:none;">
+               <img src="images/linkedin.png" alt="LinkedIn" style="width:24px; vertical-align:middle; margin-right:8px;">
+               Follow us on LinkedIn
+            </a>
+         </li>
+         <li style="margin-bottom:10px;">
+            <a href="https://twitter.com/ISUW_India" target="_blank" style="color:#1DA1F2; text-decoration:none;">
+               <img src="images/WhiteTwitter.png" alt="Twitter" style="width:24px; vertical-align:middle; margin-right:8px;">
+               Follow us on Twitter
+            </a>
+         </li>
+         
+      </ul>
+   </div>
+</div>
             </div>
          </div>
          <hr>

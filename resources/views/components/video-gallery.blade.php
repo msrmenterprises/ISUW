@@ -56,6 +56,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
 }
 </style>
 <div class="tab">
+<button class="tablinks" onclick="openCity(event, '2025')">2025</button>
 <button class="tablinks" onclick="openCity(event, '2024')">2024</button>
       <button class="tablinks" onclick="openCity(event, '2023')">2023</button>
    <button class="tablinks" onclick="openCity(event, '2022')">2022</button>
@@ -65,6 +66,311 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
   <button class="tablinks" ><a href="https://www.youtube.com/c/ISGFSMARTGRIDBulletin/playlists" target="_blank">2018</a></button>
    <button class="tablinks" ><a href="https://www.youtube.com/c/ISGFSMARTGRIDBulletin/playlists" target="_blank">2017</a></button>
 </div>
+
+<!-- 2025 Started  -->
+<div id="2025" class="tabcontent" style="display: block;">
+  <div class="container slider_margin1">
+    <!-- Row 1 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 19 March 2025 | Inauguration of ISUW 2025 Conference and Exhibition</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/C0qWxqpIib8?si=n9dIA3n97Rx28DDf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 19 March 2025 | First General Body Meeting of All India DISCOMs Association (AIDA)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/4VOpZnlpD6I?si=HlrOC-OOEc_vThWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 2 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 19 March 2025 | UK - India Workshop on Aspire Programme - Inaugural Session</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/IUg6v5WOj_4?si=8xxk8w_6UlogVpE4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW25 | 19 Mar'25 | UK-India Workshop | Future Ready Power Grids-Solut's for Grid Modernization</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/FoUpftVCa2U?si=s-ycEMXVVtDxAS39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 3 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 19 March 2025 | UK-India Workshop on ASPIRE Program - Empowering Women in Power Sector</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/D_dpuxUFvsE?si=QXqb87iXaW92MSh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW25 | 19 Mar'25| Roundtable on India's Energy Storage Potential with Innovative Next Gen Solut's</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/-e6DxQnSNjg?si=MiFLNfVssM54-slj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 4 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW25 | 19 Mar'25 | 11th US - India Smart Energy Workshop | US Commercial Services & ULSE</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/7u0mEX8rTVg?si=6Cn1p3VU1Qz5YD1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 19 March 2025 | 1st Africa - India Smart Energy Roundtable (Session Partner: APUA)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/3GkDMBsRk5A?si=2-2ZCqHu5cS1zJ93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 5 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 19 March 2025 | Partners Recognition Ceremony</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/aeOaqUl-Gwc?si=1PBBQim1vLl7AKH-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 25 | 20 Mar'2025 | Session on Smart Metering - Global & India Lesson (International Exp's)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/qS2xjuHgbhQ?si=Koeq1-eh1Sh13M4d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 6 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 20 March 2025 | Session on Smart Metering - Global & India Lesson (Indian Experiences)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/gLnQiEz3Ra4?si=7CmdrKpTJMiu82Uq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 20 March 2025 | Smart Metering Part B – DISCOMs, AMISPs, OEMs and Sis</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/g6WXHiPq6Ho?si=cIoEdL2amp8PhbHn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 7 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 25 | 20 Mar'25 | Rooftop PV Revolution in India & Impact on DISCOMs</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/4NIyuurP81A?si=Yzyqk-WjZxrVtPTV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 20 March 2025 | Unified Energy Interface (UEI) and The Evolving Era of Energy Internet</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/mnCVnOGJwgM?si=DGtamiB-wyEio9Oi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 8 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 25 | 20 Mar'25 | Nuclear Renaissance & The Role of SMR for The Net Zero Power Systems | Part 1</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/eSohmQe9XbQ?si=nJLkuPwJtGo1gZzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 25 | 20 Mar'25 | Nuclear Renaissance & The Role of SMR for The Net Zero Power Systems | Part 2</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/z_GRR2jGqUg?si=Y2VyN1YCG2Kyggzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 9 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 25 | 20 Mar'25 | Building Resilient Utility Assets for Congested Cities & Climate Resilience</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/edTvv1rAQHs?si=aUVblk0iWrnKJkSD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 20 March 2025 | Power System Flexibility and DERMS | Session Partner: AspenTech</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/5eObrFvRy2g?si=H3BSuXZKVjinaa35" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 10 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 20 March 2025 | Deep Dive Session on AI, ML and Robotics use Cases for Utilities</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/pZFg25hbM2k?si=G0_ufuClNl8LW8-T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 20 March 2025 | 1st Joint Indonesia - India Smart Energy Workshop</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/1IWXMSJAlAo?si=EHo3D4aeQ0fneA5B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 11 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 20 March 2025 | Presentation of Selected Technical Papers | Part - 1</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/6Po-bOxH3zw?si=dHUtGxTKautkcJnh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 20 March 2025 | Presentation of Selected Technical Papers | Part - 2</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/FwOB3b-YIFo?si=aXc2hOqlFvfjAIHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 12 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 21 March 2025 | Digitalization of Utilities, Digitalization Roadmaps; Digital Twins</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/sJUMg3xgYHo?si=OM7JsNXG__5V4n-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 21 Mar'25 | Emerging Digital Technologies for Utilities | Session Partner: DST & C-DAC</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/W-H9BsK-p0w?si=o1DyVKWOqOH4pagg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 13 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 21 March 2025 | Innovations in Regulations for the Next Round of Power Sector Reforms</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/8w2ukmZrz7I?si=TnVS6743YPj-qg-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 21 March 2025 | Grid Integrated Buildings</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/NofdyUAZFrs?si=5DXcMLxmeLfFjZUX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 14 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 21 March 2025 | Power Markets and Carbon Markets</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/8hofbRP0v88?si=VSAMQ4BK1DuE9BJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 25 | 21 Mar'25 | Immersive Technologies: AR/VR, Digital Twins, Drones & Assisted Reality</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/O1byors6COU?si=0kv3oMBqpxdrm-wS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 15 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 25 | 21 Mar'25 | Evolving Trends in EM & V2G Demo | Panel 1: Accelerating EV Adoption</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/3ud9lHVc1Kw?si=kaFQsKuL5jwo6WA6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 25 | 21 Mar'25 | Evolving Trends in EM & V2G Demo | Panel 2: Promotion of Intercity Ops of Evs</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/wo5bOmf6Dg8?si=yieV-nckiSjlNf0C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 16 -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 25 | 21 Mar'25 | Evolving Trends in EM & V2G Demo | Panel 3: Emerging Tech in EM</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/PbzwjMhEs2E?si=lVrEXFY4ztYcW5UA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 21 Mar'25 | Capacity Building in Utilities for Energy Transition | Session Partner: SCGJ</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/Y4cOvivRReQ?si=1byWjtE8LdwPpGdV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <!-- Row 17 (single video) -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 21 March 2025 | 9th ISGF Innovation Awards</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/3n7Jf-2mvIo?si=s4G2SJyNLWuWvIou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>   
+<!-- ended -->
 
 <!-- 20204 Started  -->
 <div id="2024" class="tabcontent" style="display: block;">
