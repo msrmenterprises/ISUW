@@ -364,7 +364,40 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <div class="clearfix"></div>
         <h3 class="p-head">ISUW 2025 | 21 March 2025 | 9th ISGF Innovation Awards</h3>
         <ul>
-          <iframe width="488" height="280" src="https://www.youtube.com/embed/3n7Jf-2mvIo?si=s4G2SJyNLWuWvIou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="ISUW 25 | 18 Mar'25 | 9th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part 1 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Row 18 (single video) -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 21 March 2025 | 9th ISGF Innovation Awards</h3>
+        <ul>
+          <iframe width="560" height="315" src="ISUW 25 | 18 Mar'25 | 9th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part 1 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Row 19 (single video) -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 21 March 2025 | 9th ISGF Innovation Awards</h3>
+        <ul>
+          <iframe width="560" height="315" src="ISUW 25 | 18 Mar'25 | 9th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part 2 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Row 20 (single video) -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2025 | 21 March 2025 | 9th ISGF Innovation Awards</h3>
+        <ul>
+          <iframe width="560" height="315" src="ISUW 25 | 18 Mar'25 | 9th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part 3 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
     </div>
