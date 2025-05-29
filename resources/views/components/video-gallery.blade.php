@@ -375,7 +375,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <div class="clearfix"></div>
         <h3 class="p-head">ISUW 25 | 18 Mar'25 | 9th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part 1</h3>
         <ul>
-          <iframe width="560" height="315" src="ISUW 25 | 18 Mar'25 | 9th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part 1 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/cekwi5mSK3g?si=s1npOylJIgZRrGD-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
     </div>
@@ -386,7 +386,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <div class="clearfix"></div>
         <h3 class="p-head">ISUW 25 | 18 Mar'25 | 9th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part 2</h3>
         <ul>
-          <iframe width="560" height="315" src="ISUW 25 | 18 Mar'25 | 9th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part 2 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/JG4UF7dW8z8?si=u_-N8ntudi1d_-9x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
     </div>
@@ -397,7 +397,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
         <div class="clearfix"></div>
         <h3 class="p-head">ISUW 25 | 18 Mar'25 | 9th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part 3</h3>
         <ul>
-          <iframe width="560" height="315" src="ISUW 25 | 18 Mar'25 | 9th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part 3 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJaw1_BTgEA?si=nILJbJYEBrbtJylx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </ul>
       </div>
     </div>
