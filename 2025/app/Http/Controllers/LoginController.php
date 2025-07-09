@@ -105,7 +105,7 @@ class LoginController extends Controller
            session(['presentation2024' => true]);
            return redirect('/isuw-2025-presentations');
       }else{
-          return redirect('/isuw-2025-presentations');
+          return redirect('/isuw-2024-presentations');
       }
      
 
