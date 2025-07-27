@@ -36,12 +36,12 @@
     </h2>
     <div id="flush-collapsewinners" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-          <h3 style="color:green; text-align:center;">Call for Technical Papers Abstracts</h3>
+          <h3 style="color:green; text-align:center;">Call for Technical Papers-Abstracts</h3>
 
- <h4 style="color:green; text-align:center;">India Smart Utility Week (ISUW) 2025</h4>
-	  <h4 style="text-align:center;">Last date for Abstract Submission: 16 August 2024 </h4>
-	  <p style="text-align:center;"><b>Abstract Submission for ISUW 2025 at following link:  <br/>
-	  <a href="https://forms.gle/F12C1inTWREcTcMd9" target="_blank">https://forms.gle/F12C1inTWREcTcMd9</a></b></p>
+ <h4 style="color:green; text-align:center;">India Smart Utility Week (ISUW) 2026</h4>
+	  <h4 style="text-align:center;">Last date for Abstract Submission: 30th August 2025</h4>
+	  <p style="text-align:center;"><b>Abstract Submission for ISUW 2026 at following link:<br/>
+	  <a href="https://bit.ly/4lXLzdd" target="_blank">https://bit.ly/4lXLzdd</a></b></p>
 	  
 	  <p><a href="https://indiasmartgrid.org/" target="_blank">India Smart Grid Forum (ISGF)</a> is pleased to invite the subject matter experts to submit the abstract for Technical Paper on below mentioned themes. The Technical Papers Presentation will be part of India Smart Utility Week (ISUW) 2026, an international conference and exhibition scheduled from 10th -14th March 2026. For details about the event, please visit <a href="https://isuw.in/" target="_blank">www.isuw.in</a></p>
          <TABLE style="width: 100%;">
