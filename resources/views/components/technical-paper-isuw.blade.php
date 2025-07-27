@@ -55,7 +55,7 @@
 	</TR>
 	<TR>
 		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">1</FONT></FONT></P>
+			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">1</FONT></FONT></P>
 		</TD>
 			<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
 			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>INDIA @ 100 in 2047: Vision for the Net Zero Power System in India</b>
@@ -70,7 +70,7 @@
 		</TR>
 		<TR>
 		    	<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">2</FONT></FONT></P>
+			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">2</FONT></FONT></P>
 		</TD>
 		<TD BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
 			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Evolving Architecture of the Green Grid with Two-Way Power Flows</b>
@@ -85,7 +85,7 @@
 	</TR>
 	<TR>
 		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">3</FONT></FONT></P>
+			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">3</FONT></FONT></P>
 		</TD>
 		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
 			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Electric Mobility</b> 
@@ -114,7 +114,7 @@
 	</TR>
 	<TR>
 		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">4</FONT></FONT></P>
+			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">4</FONT></FONT></P>
 		</TD>
 		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
 			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Foundational Blocks for Smart Grids</b>
@@ -137,7 +137,7 @@
 	</TR>
 	<TR>
 		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">5</FONT></FONT></P>
+			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">5</FONT></FONT></P>
 		</TD>
 		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
 			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Disruptive Innovations for Utilities</b>
@@ -159,7 +159,7 @@
 	</TR>
 	<TR>
 		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">6</FONT></FONT></P>
+			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">6</FONT></FONT></P>
 		</TD>
 		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
 			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Smart Grids for Smart Cities and Utility Integration</b>
@@ -176,7 +176,7 @@
 	</TR>
 	<TR>
 		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">7</FONT></FONT></P>
+			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">7</FONT></FONT></P>
 		</TD>
 		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
 			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>New and Emerging Technologies and Trends</b> 
@@ -194,7 +194,7 @@
 	</TR>
 	<TR>
 		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">8</FONT></FONT></P>
+			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">8</FONT></FONT></P>
 		</TD>
 		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
 			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Regulations for the Evolving Smart Energy Systems and Power Markets</b>
@@ -213,7 +213,7 @@
 	</TR>
 	<TR>
 		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">9</FONT></FONT></P>
+			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">9</FONT></FONT></P>
 		</TD>
 		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
 			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Smart Water and Smart City Gas Distribution</b>
