@@ -445,14 +445,17 @@ Portal, Chat-bot, Voice-bot </li>
       <div class="accordion-body">
 		<P STYLE="margin-bottom: 0.11in">
 			<b>Guideline for Abstract Submission</b><br/>
-			1. To submit the Abstract for ISUW 2025, please visit the following link  <A href="https://forms.gle/Xdi6uzQime1LbCck7" target="_blank">https://forms.gle/Xdi6uzQime1LbCck7</A><br/>
+			1. To Submit the Abstract for ISUW 2026, please visit the following 
+link: <A href="https://docs.google.com/forms/d/e/1FAIpQLSev_gnv_Z0pS3fziFg2ywnkiYNaVD908hbLnx-EXM6J9cL62g/viewform?usp=header" target="_blank">https://bit.ly/4lXLzdd</A><br/>
 
 			2. Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers<br/>
-			3. <b>Abstract of paper:</b> Max 250 words to be submitted with this application latest by <b>16 August 2024</b><br/>
-			4. Shortlisted Paper Abstracts will be announced by <b>30th September 2024</b> for Full Paper Submission<br/>
-			5. Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 5th January 2025 |Max: 6 pages / 1200 Words | (Download the format from following link: <a href="https://docs.google.com/document/d/11IJQoLsK9_XN20KCUHlzgsDQRPkJBy0c/edit?usp=sharing&ouid=103484490277585705632&rtpof=true&sd=true" target="_blank">Conference-template-A4 _IEEE.doc </a>)<br/>
-			6. Shortlisted Papers will be announced by <b>21st January 2025</b><br/>
-			7. Papers deemed purely commercial in nature will not be selected<br/>
+			3. <b>Abstract of paper:</b>Max 250 words to be submitted with this application latest by <b>30th August 2025</b><br/>
+			4. Shortlisted Paper Abstracts will be announced by <b>30 September 2025</b> for Full Paper Submission<br/>
+			5. ull Paper: Authors of shortlisted papers will be required to submit the full paper 
+in IEEE paper format by 15 October 2025|Max: 4 pages / 1000 Words | 
+(Download the format from following: link) <a href="https://docs.google.com/document/d/11IJQoLsK9_XN20KCUHlzgsDQRPkJBy0c/edit?tab=t.0" target="_blank">https://docs.google.com/document/d/11IJQoLsK9_XN20KCUHlzgsDQRPkJBy0c/edit?tab=t.0</a><br/>
+			6. hortlisted Papers will be announced by <b>31 November 2025</b><br/>
+			7. apers deemed purely commercial in nature will not be selected<br/>
 			8. For queries email us at: <a href="tp@isuw.in">tp@isuw.in</a>
 		</p>
 		<P STYLE="margin-bottom: 0.11in">
