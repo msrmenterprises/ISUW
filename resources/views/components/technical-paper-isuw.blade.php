@@ -451,11 +451,11 @@ link: <A href="https://docs.google.com/forms/d/e/1FAIpQLSev_gnv_Z0pS3fziFg2ywnki
 			2. Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers<br/>
 			3. <b>Abstract of paper:</b>Max 250 words to be submitted with this application latest by <b>30th August 2025</b><br/>
 			4. Shortlisted Paper Abstracts will be announced by <b>30 September 2025</b> for Full Paper Submission<br/>
-			5. ull Paper: Authors of shortlisted papers will be required to submit the full paper 
+			5. Full Paper: Authors of shortlisted papers will be required to submit the full paper 
 in IEEE paper format by 15 October 2025|Max: 4 pages / 1000 Words | 
 (Download the format from following: link) <a href="https://docs.google.com/document/d/11IJQoLsK9_XN20KCUHlzgsDQRPkJBy0c/edit?tab=t.0" target="_blank">https://docs.google.com/document/d/11IJQoLsK9_XN20KCUHlzgsDQRPkJBy0c/edit?tab=t.0</a><br/>
-			6. hortlisted Papers will be announced by <b>31 November 2025</b><br/>
-			7. apers deemed purely commercial in nature will not be selected<br/>
+			6. Shortlisted Papers will be announced by <b>31 November 2025</b><br/>
+			7. Papers deemed purely commercial in nature will not be selected<br/>
 			8. For queries email us at: <a href="tp@isuw.in">tp@isuw.in</a>
 		</p>
 		<P STYLE="margin-bottom: 0.11in">
