@@ -241,7 +241,7 @@
 	<p></p>
 	<div class="k_cheading">
 	
-	<a href="https://isuw2025.experiencesense.com/" target="_blank"><img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img></a>
+	<a href="#" target="_blank"><img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img></a>
 	
 	</div>
 
