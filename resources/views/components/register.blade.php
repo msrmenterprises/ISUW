@@ -241,7 +241,7 @@
 	<p><img src="images/2026/ISUWReg.jpg" alt=""> </p>
 	<div class="k_cheading">
 	
-	<a href="#" target="_blank"><img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img></a>
+	<a href="https://isuw.in/register" target="_blank"><img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img></a>
 	
 	</div>
 

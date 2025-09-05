@@ -39,7 +39,7 @@
           <h3 style="color:green; text-align:center;">Call for Technical Papers-Abstracts</h3>
 
  <h4 style="color:green; text-align:center;">India Smart Utility Week (ISUW) 2026</h4>
-	  <h4 style="text-align:center;">Last date for Abstract Submission: 30th August 2025</h4>
+	  <h4 style="text-align:center;">Last date for Abstract Submission: 15th September 2025</h4>
 	  <p style="text-align:center;"><b>Abstract Submission for ISUW 2026 at following link:<br/>
 	  <a href="https://bit.ly/4lXLzdd" target="_blank">https://bit.ly/4lXLzdd</a></b></p>
 	  
@@ -449,7 +449,7 @@ Portal, Chat-bot, Voice-bot </li>
 link: <A href="https://docs.google.com/forms/d/e/1FAIpQLSev_gnv_Z0pS3fziFg2ywnkiYNaVD908hbLnx-EXM6J9cL62g/viewform?usp=header" target="_blank">https://bit.ly/4lXLzdd</A><br/>
 
 			2. Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers<br/>
-			3. <b>Abstract of paper:</b>Max 250 words to be submitted with this application latest by <b>30th August 2025</b><br/>
+			3. <b>Abstract of paper:</b>Max 250 words to be submitted with this application latest by <b>15th September 2025</b><br/>
 			4. Shortlisted Paper Abstracts will be announced by <b>30 September 2025</b> for Full Paper Submission<br/>
 			5. Full Paper: Authors of shortlisted papers will be required to submit the full paper 
 in IEEE paper format by 15 October 2025|Max: 4 pages / 1000 Words | 
