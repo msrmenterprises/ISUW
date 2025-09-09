@@ -18,13 +18,13 @@
         }
 
         /* Base reset + consistent font and size for the page */
-        * {
+        /* * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            font-size: 16px; /* base font-size */
-        }
+            font-size: 16px; 
+        } */
 
         body {
             background-color: #f5f5f5;
