@@ -6633,7 +6633,7 @@ separate email)</li>
                 <td>8</td>
                 <td>Disruptive Innovations for Utilities</td>
                 <td>Disruptive Innovations for Utilities: Digitalization, New Services and Revenue Streams : Evolution of Substation Automation System</td>
-                <td>Tushar Kant</td>
+                <td>Tushar Kanti Bag</td>
                 <td>TP Central Odisha Distribution Ltd.</td>
             </tr>
             <tr>
