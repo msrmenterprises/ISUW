@@ -153,7 +153,7 @@
         }
         
         .note {
-            background-color: #fff9e6;
+            
             padding: 15px;
             border-left: 4px solid #ffc107;
             margin: 20px 0;
@@ -190,7 +190,7 @@
         }
         
         .disclaimer {
-            background-color: #f8d7da;
+           
             padding: 20px;
             border-left: 4px solid #dc3545;
             margin: 30px 0;
