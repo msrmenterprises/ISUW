@@ -16,26 +16,28 @@
             --light-gray: #e9ecef;
             --border: #dee2e6;
         }
-        
+
+        /* Base reset + consistent font and size for the page */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 16px; /* base font-size */
         }
-        
+
         body {
             background-color: #f5f5f5;
             color: #333;
             line-height: 1.6;
         }
-        
+
         .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
         }
-        
+
         header {
             text-align: center;
             margin-bottom: 30px;
@@ -44,7 +46,7 @@
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
-        
+
         .logo-container {
             display: flex;
             justify-content: center;
@@ -52,68 +54,84 @@
             margin-bottom: 20px;
             flex-wrap: wrap;
         }
-        
+
         .logo-container img {
             max-height: 100px;
             max-width: 100%;
         }
-        
+
         h1 {
             color: var(--primary);
             margin-bottom: 10px;
             font-size: 2.2rem;
             text-align: center;
         }
-        
+
         h2 {
             color: var(--primary);
             margin: 25px 0 15px;
             padding-bottom: 8px;
             border-bottom: 2px solid var(--primary);
         }
-        
+
         h3 {
             color: var(--secondary);
             margin: 20px 0 10px;
         }
-        
+
         .underline {
             text-decoration: underline;
             text-underline-offset: 3px;
         }
-        
+
         .table-container {
             overflow-x: auto;
             margin: 30px 0;
             box-shadow: 0 0 20px rgba(0,0,0,0.1);
             border-radius: 8px;
         }
-        
+
+        /* TABLES: force white backgrounds, remove hover effects, and enforce consistent font/size */
         table {
             width: 100%;
             border-collapse: collapse;
             background: white;
+            font-family: inherit;
+            font-size: inherit;
+            color: var(--dark);
         }
-        
+
         th, td {
-            padding: 15px;
+            padding: 12px;
             text-align: left;
             border: 1px solid var(--border);
+            background: white !important; /* ensure all cells are white */
+            font-family: inherit;
+            font-size: inherit;
         }
-        
+
+        /* Make header cells white too, with dark text */
         thead th {
-            background-color: var(--primary);
-            color: white;
+            background-color: white !important;
+            color: var(--dark) !important;
             font-weight: 600;
             text-align: center;
         }
-        
-        tbody tr:nth-child(even) {
-            background-color: var(--light-gray);
+
+        /* Remove striped rows and hover effects across all tables */
+        tbody tr:nth-child(even), .discount-table tr:nth-child(even) {
+            background-color: white !important;
         }
-        
-        tbody tr:hover {
-            background-color: rgba(239, 123, 0, 0.05);
+
+        tbody tr:hover, tr:hover {
+            background-color: white !important;
+            cursor: default;
+        }
+
+        /* Override any existing 'highlight' visual to keep rows white but keep bold text */
+        .highlight {
+            background-color: white !important;
+            font-weight: 700;
         }
         
         .package-list {
@@ -128,7 +146,7 @@
         
         .package-list li:before {
             content: "•";
-            color: var(--primary);
+            color: var(--dark); /* neutral dark bullet, no accent colors */
             font-weight: bold;
             position: absolute;
             left: 0;
@@ -156,9 +174,10 @@
         }
         
         .discount-table th {
-            background-color: var(--primary);
-            color: white;
+            background-color: white !important; /* keep headers white */
+            color: var(--dark) !important;
             padding: 12px 15px;
+            text-align: left;
         }
         
         .discount-table td {
@@ -167,7 +186,7 @@
         }
         
         .discount-table tr:nth-child(even) {
-            background-color: var(--light-gray);
+            background-color: white !important;
         }
         
         .disclaimer {
@@ -225,8 +244,8 @@
         }
         
         .highlight {
-            background-color: rgba(255, 215, 0, 0.15);
-            font-weight: bold;
+            background-color: white !important;
+            font-weight: 700;
         }
     </style>
  <div class="row justify-content-left ">     
@@ -234,11 +253,11 @@
 
 <style type="text/css">.diff_ss1{margin-left:30px;}</style>
 <div class="k_cheading"> 
-		<h1>INDIA SMART UTILITY WEEK <span class="k_greencolor">2025 Registration</span> </h1>
+		<h1>INDIA SMART UTILITY WEEK <span class="k_greencolor">2026 Registration</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
-	<p><img src="images/2026/ISUWReg.jpg" alt=""> </p>
+	<p><img src="images/2026/ISUWReg.jpg" alt="" style="width:100%"> </p>
 	<div class="k_cheading">
 	
 	<a href="https://isuw.in/register" target="_blank"><img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img></a>
@@ -248,7 +267,7 @@
 	<p></p>
 <section>
             <h2>Registration Categories & Fees</h2>
-    <p class="note"><strong>Note:</strong> 18% GST will be applicable on all the above-mentioned amounts</p>
+    
             
             <div class="table-container">
                 <table>
@@ -323,7 +342,7 @@
                             <td>
                                 <ul class="package-list">
                                     <li><strong>Package including Master Classes, Conference, Exhibition and Special Workshops.</strong></li>
-                                    <li>Attach/Email your valid ID card to avail the offer at isuw@isuw.in</li>
+                                    <li>Email your valid ID card to avail the offer at isuw@isuw.in</li>
                                     <li>Access to ISUW Conference and Exhibition for 3 days <strong>(11 – 13 March 2026)</strong></li>
                                     <li>1 coupon of the amazing lunch buffet spread for 3 days</li>
                                     <li>High tea and coffee throughout the conference day</li>
@@ -351,7 +370,7 @@
                             <td><strong>Complimentary</strong></td>
                             <td>
                                 <ul class="package-list">
-                                    <li><strong>For Registration of Indian Utility Officials,</strong> Attach/Email your valid ID card at <a href="mailto:yashika@indiasmartgrid.org">yashika@indiasmartgrid.org</a></li>
+                                    <li><strong>For Registration of Indian Utility Officials,</strong> Email your valid ID card at <a href="mailto:yashika@indiasmartgrid.org">yashika@indiasmartgrid.org</a></li>
                                     <li>Valid requests will get access to ISUW Conference and Exhibition for 3 days <strong>(11 – 13 March 2026),</strong> 1 coupon of the amazing lunch buffet spread for 3 days, High tea and coffee throughout the conference day</li>
                                 </ul>
                             </td>
@@ -359,6 +378,7 @@
                     </tbody>
                 </table>
             </div>
+         <p class="note"><strong>Note:</strong> 18% GST will be applicable on all the above-mentioned amounts</p>   
         </section>
 
         <section class="discounts-container">
