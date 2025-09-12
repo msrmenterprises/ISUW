@@ -45,12 +45,9 @@ a:hover {
       <!-- Bootstrap CSS -->
       <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&amp;display=swap" rel="stylesheet">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
-      <!-- <link href="./public/css/bootstrap.min.css" rel="stylesheet">
+      <link href="./public/css/bootstrap.min.css" rel="stylesheet">
       <link href="./public/css/style.css" rel="stylesheet">
-      <link href="./public/css/slider.css" rel="stylesheet"> -->
-      <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
-      <link href="{{ asset('css/slider.css') }}" rel="stylesheet">
-      <link href="{{ asset('css/style.css') }}" rel="stylesheet">
+      <link href="./public/css/slider.css" rel="stylesheet">
       <title>India Smart Utility Week </title>
 	  <link rel="shortcut icon" href="/public/images/ISUW Logo 2022.jpg" type="/public/images/ISUW Logo 2022.jpg"/>
     </head>
