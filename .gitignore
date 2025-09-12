@@ -1,1 +1,15 @@
 .env
+*vendor/
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/.idea
+/.vscode
+Homestead.yaml
+Homestead.json
+npm-debug.log
+yarn-error.log
+/public/css/bootstrap.min.css
+/view/master.blade.php
+
