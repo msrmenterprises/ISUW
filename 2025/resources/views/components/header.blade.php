@@ -87,7 +87,7 @@
               
                <li><a class="nav-link scrollto" href="./speakers">SPEAKERS</a></li>
 			    
-			   <li><a class="nav-link scrollto" href="/isuw-2025-presentations">PRESENTATIONS</a></li>
+			   <li><a class="nav-link scrollto" href="./isuw-2025-presentations">PRESENTATIONS</a></li>
 				   <li class="dropdown">
                   <a href="#" class=" " data-bs-toggle="dropdown"><span>MEDIA</span> <i class="fa fa-chevron-down"></i></a>
                   <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
