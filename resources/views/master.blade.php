@@ -48,6 +48,9 @@ a:hover {
       <link href="./public/css/bootstrap.min.css" rel="stylesheet">
       <link href="./public/css/style.css" rel="stylesheet">
       <link href="./public/css/slider.css" rel="stylesheet">
+      <!-- <link href="/css/bootstrap.min.css" rel="stylesheet">
+      <link href="/css/style.css" rel="stylesheet">
+      <link href="/css/slider.css" rel="stylesheet"> -->
       <title>India Smart Utility Week </title>
 	  <link rel="shortcut icon" href="/public/images/ISUW Logo 2022.jpg" type="/public/images/ISUW Logo 2022.jpg"/>
     </head>
@@ -62,6 +65,9 @@ a:hover {
       <script src="https://kenwheeler.github.io/slick/slick/slick.js"></script>
       <script src="./public/js/bootstrap.bundle.min.js"></script>
       <script src="./public/js/script.js"></script>
+      <!-- <script src="/js/bootstrap.bundle.min.js"></script>
+      <script src="/js/script.js"></script> -->
+
       <!-- <script>
          const year = new Date().getFullYear();
          const tenthOfJuly = new Date(year, 13,4).getTime();
