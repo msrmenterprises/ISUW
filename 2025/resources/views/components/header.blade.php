@@ -85,7 +85,7 @@
                   </ul>
                </li>
               
-               <li><a class="nav-link scrollto" href="/speakers">SPEAKERS</a></li>
+               <li><a class="nav-link scrollto" href="./speakers">SPEAKERS</a></li>
 			    
 			   <li><a class="nav-link scrollto" href="/isuw-2025-presentations">PRESENTATIONS</a></li>
 				   <li class="dropdown">
