@@ -11,5 +11,5 @@ Homestead.json
 npm-debug.log
 yarn-error.log
 /public/css/bootstrap.min.css
-/view/master.blade.php
+/resources/views/master.blade.php
 
