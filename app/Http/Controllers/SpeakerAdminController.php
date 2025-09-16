@@ -14,7 +14,7 @@ class SpeakerAdminController extends Controller
     }
       public function show()
       {
-        $speakers = DB::table('speakers2025')->get();
+        $speakers = DB::table('speakers2026')->get();
        return view('admin.speakers',compact('speakers'));
   
       }
@@ -29,7 +29,7 @@ class SpeakerAdminController extends Controller
         $this->validate($request, [
             'speakerId' => 'required|',
          ]);
-        $banners = DB::table('speakers2025')->where('id',$request->speakerId)->update(['isActive' => 0]);;
+        $banners = DB::table('speakers2026')->where('id',$request->speakerId)->update(['isActive' => 0]);;
         return "Sucessfully updated";
     }
 }
