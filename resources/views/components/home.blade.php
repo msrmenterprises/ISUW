@@ -1160,7 +1160,7 @@
       <section class="page-section isuw-speark">
          <div class="container">
             <div class="section-title pb-0">
-               <h2 class="" style="background-color:lightgray;">ISUW 2025 Speakers</h2>
+               <h2 class="" style="background-color:lightgray;">ISUW 2026 Speakers</h2>
 			     <div class="col-lg-12 mb-4 text-end">
                   <a class="btn btn-light" style="
     margin-top: -25px;
