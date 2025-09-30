@@ -1223,148 +1223,85 @@ and decide upon the winners.</P>
     </h2>
     <div id="flush-collapsefive" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<P  STYLE="margin-bottom: 0.11in"><FONT >The following parameters will be key while evaluating the nominations. It is advised that the
-nominations submitted aim to address these points as clearly as possible with evidence/supporting
-documents:</font></style></P>
+<P STYLE="margin-bottom: 0.11in"><FONT>The following parameters will be key while evaluating the nominations. It is advised that the nominations submitted aim to address these points as clearly as possible with evidence/supporting documents:</FONT></P>
 <TABLE>
 	<COL WIDTH=41>
 	<COL WIDTH=350>
 	<COL WIDTH=600>
 	<TR VALIGN=TOP>
 		<TD WIDTH=41 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT ><B>S.No</B></FONT></FONT></FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT><B>S.No</B></FONT></P>
 		</TD>
 		<TD WIDTH=350 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT ><B>Parameters</B></FONT></FONT></FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT><B>Parameters</B></FONT></P>
 		</TD>
 		<TD WIDTH=600 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT ><B>Parameter
-			Focus</B></FONT></FONT></FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT><B>Parameter Focus</B></FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=41 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >1</FONT></FONT></FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT>1</FONT></P>
 		</TD>
 		<TD WIDTH=350 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT >Scale/Size</FONT></P>
-			<P STYLE="margin-top: 0.19in"><BR>
-			</P>
+			<P STYLE="margin-bottom: 0in"><FONT>Scale/Size</FONT></P>
 		</TD>
 		<TD WIDTH=600 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-		
-				<P STYLE="margin-top: 0.19in; margin-bottom: 0in"><FONT ><FONT ><FONT >i) Mention
-				Project customer size</FONT></FONT></FONT></P>
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >ii) Project
-				should be completed rolled out</FONT></FONT></FONT></P>
-		
+			<P STYLE="margin-top: 0.19in; margin-bottom: 0in"><FONT>- Mention Project size and scale</FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT>- Project should be completed and rolled out</FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=41 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >2</FONT></FONT></FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT>2</FONT></P>
 		</TD>
 		<TD WIDTH=350 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT >Functionality and
-			Features</FONT></P>
-			<P STYLE="margin-top: 0.19in"><BR>
-			</P>
+			<P STYLE="margin-bottom: 0in"><FONT>Functionalities and Features</FONT></P>
 		</TD>
 		<TD WIDTH=600 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P><FONT >Functionality and Features of the Project</FONT></P>
+			<P><FONT>Functionalities and Features of the Project</FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=41 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >3</FONT></FONT></FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT>3</FONT></P>
 		</TD>
 		<TD WIDTH=350 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT >Impact</FONT></P>
-			<P STYLE="margin-top: 0.19in"><BR>
-			</P>
+			<P STYLE="margin-bottom: 0in"><FONT>Impact</FONT></P>
 		</TD>
 		<TD WIDTH=600 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT >Impact of the Project</FONT></P>
-			<P STYLE="margin-top: 0.19in"><BR>
-			</P>
+			<P STYLE="margin-bottom: 0in"><FONT>Impact of the Project</FONT></P>
+			<P STYLE="margin-top: 0.19in; margin-bottom: 0in"><FONT>- Technical Impacts</FONT></P>
+			<P STYLE="margin-top: 0.19in; margin-bottom: 0in"><FONT>- Impact on Users/Society (Attach Testimony, if possible)</FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT>- Commercial Impacts</FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=41 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >4</FONT></FONT></FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT>4</FONT></P>
 		</TD>
 		<TD WIDTH=350 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT >Innovation</FONT></P>
-			<P STYLE="margin-top: 0.19in"><BR>
-			</P>
+			<P STYLE="margin-bottom: 0in"><FONT>Innovation</FONT></P>
 		</TD>
 		<TD WIDTH=600 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			
-				<P STYLE="margin-top: 0.19in; margin-bottom: 0in"><FONT ><FONT ><FONT >i)Specify
-				Alternate Solution</FONT></FONT></FONT></P>
-				<P STYLE="margin-top: 0.19in; margin-bottom: 0in"><FONT ><FONT ><FONT >ii)Comparison of your solution with others / existing
-solutions</FONT></FONT></FONT></P>
-				<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >iii)Competitive
-				Analysis</FONT></FONT></FONT></P>
-			
+			<P STYLE="margin-top: 0.19in; margin-bottom: 0in"><FONT>- Specify Alternate Solution</FONT></P>
+			<P STYLE="margin-top: 0.19in; margin-bottom: 0in"><FONT>- Comparison of your solution with others / existing solutions</FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT>- Competitive Analysis</FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
 		<TD WIDTH=41 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >5</FONT></FONT></FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT>5</FONT></P>
 		</TD>
 		<TD WIDTH=350 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT >Return on Investment
-			and Sustainability </FONT>
-			</P>
-			<P STYLE="margin-top: 0.19in"><BR>
-			</P>
+			<P STYLE="margin-bottom: 0in"><FONT>Scalability</FONT></P>
 		</TD>
 		<TD WIDTH=600 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT >Return on Investment
-			and Sustainability of the Project</FONT></P>
-			<P STYLE="margin-top: 0.19in"><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=41 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >6</FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=350 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT >Scalability</FONT></P>
-			<P STYLE="margin-top: 0.19in"><BR>
-			</P>
-		</TD>
-		<TD WIDTH=600 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >Mention
-			if project is further scalable or confined</FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=41 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >7</FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=350 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P><FONT >Customer Testimony</FONT></P>
-		</TD>
-		<TD WIDTH=600 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >Attach/Add
-			some 5 – 10 testimony from your current customers</FONT></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=41 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >8*</FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=350 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P><FONT >If you are submitting for the nomination category - <b>Smart Start-up of the Year</b></FONT></P>
-		</TD>
-		<TD WIDTH=600 STYLE="border: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-top: 0.19in"><FONT ><FONT ><FONT >Mention the Profile of Team Members in the Nomination Form</FONT></FONT></FONT></P>
+			<P STYLE="margin-top: 0.19in"><FONT>- Indicate whether the solution can be scalable in millions or larger geographies</FONT></P>
 		</TD>
 	</TR>
 </TABLE>
+
 <!--<p>*only for Best Business Growth and Innovation amongst previous years ISGF Innovation Award Winners</p>
 <p>**only for Smart Start-up of the Year Category</p>-->
 </div>
