@@ -1062,7 +1062,7 @@ and decide upon the winners.</P>
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsesix" aria-expanded="false" aria-controls="flush-collapsesix">
-       <H4 style="color: green;"><strong>Jury Panel of ISGF Innovation Awards 2025 </strong></style></H4>
+       <H4 style="color: green;"><strong>Jury Members for ISGF Innovation Awards 2026 </strong></style></H4>
       </button>
     </h2>
     <div id="flush-collapsesix" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
@@ -1082,134 +1082,62 @@ and decide upon the winners.</P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2024/VSubramanian.jpg" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			
-			<P STYLE="margin-bottom: 0.11in"><FONT ><B>Mr. V.
-			Subramanian&nbsp;&nbsp;<BR>Former Secretory<BR>Ministry of New and
-			Renewable Energy (MNRE), Government of India</B></FONT></P>
-			<P ALIGN=JUSTIFY><BR>
-			</P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image2.jpeg" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P STYLE="margin-bottom: 0.11in"><FONT ><B>Mr. P Uma Shankar<br>Former Secretary<br>Ministry of Power, Government of India</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY><FONT >An IAS officer of the 1971 Batch, he was the Secretary of the MNRE (Ministry of New &amp; Renewable
-Energy), Govt of India Mr. Subramanian joined the Premier Indian Administrative Service in 1971
-(West Bengal Cadre). He served in the districts of West Bengal for many years and was also Principal
-Secretary, Labour and Power departments. He was on the boards of WBSEB, WBPDCL, DPL etc in
-West Bengal. Later he served the Ministry of Finance for over six years during which he dealt with
-public sector projects in the areas of transport, steel &amp; mines, fertilizers, welfare, etc., external
-commercial borrowings, exchange control and bilateral aid. In recognition of expertise and
-experience in dealing with foreign exchange management in India, he was appointed Adviser on
-Loan and Grant Management to the Government of Mozambique, Maputo by the Commonwealth
-Secretariat, London for three years. Mr V Subramanian served as the Chairman and Chief Executive
-Officer of the Indian Wind Energy Association from 2008 to 2019. . He was also an Advisor to HST
-Solar where he actively guided the executive team on strategy and regulatory issues.
-<br/>
-He served as Chairman of Indian Renewable Energy Development Agency Limited from February 1,
-2006 to June 26, 2007. He was also the Additional Secretary &amp; Financial Adviser to the Ministries of
-Civil Aviation, Tourism and Culture from 2000 to 2005. As a nominee of the Government, he had
-served on the boards of Air India, Indian Airlines Ltd, Airports Authority of India, Pawanhans
-Helicopter Corporation of India, Tourism Finance Corporation etc. He was a Non-Executive &amp;
-Independent Director of Sundaram-Clayton Ltd. from July 15, 2009 till recently. He serves as an
-Independent Director of GPS Renewables Pvt. Ltd, Adani Enterprises Ltd, Bhoruka Power Corporation
-Ltd and a few other companies. He served as an Independent Director of Mount Everest Mineral
-Water Limited from 2008 till 2018. Mr. Subramanian has a B. Com from University of Madras and
-Certified Associate of Indian Institute of Bankers, Bombay.</FONT></P>
-		</TD>
-	</TR>
-		<TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2024/uma.png" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			<P><FONT ><B>Mr. P Uma Shankar&nbsp;&nbsp;<BR>Former
-			Secretary<BR>Ministry of Power, Government of India</B></FONT></P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY><FONT >Mr P Uma Shankar is an Independent and Non-executive Director at Philips Lighting India Limited. He is a retired senior IAS officer who has held several notable positions in the past including Ex-Secretary of Ministry of Power and Ex-Chairman of Rural Electrification Corporation. He is also an independent director on the boards of Jaypee Infratech Ltd, IMP Powers Ltd and Ravindra Energy Ltd. He served earlier on the boards of ONGC Ltd and Shipping Corporation of India Ltd as independent director. He joined the Indian Administrative Services in 1976 and has more than three decades of leadership experience in the Government of India spanning district administration, rural development, finance, housing and urban development, rural and agro-industries, municipal affair and power. P Uma Shankar holds a master’s degree in Mathematics from IIT, Madras and a master’s degree in Social Policy and Planning in Developing Countries from the London School of Economics. He is currently associated with IIT Chennai in the development of an innovative approach for providing a certain minimum uninterrupted power supply to homes thereby eliminating blackouts.</FONT></P>
+			<P ALIGN=JUSTIFY><FONT >Mr P Uma Shankar is an Independent and Non-executive Director at Philips Lighting India Limited. He is a retired senior IAS officer who has held several notable positions in the past including Ex-Secretary of Ministry of Power and Ex-Chairman of Rural Electrification Corporation. He is also an independent director on the boards of Jaypee Infratech Ltd, IMP Powers Ltd and Ravindra Energy Ltd. He served earlier on the boards of ONGC Ltd and Shipping Corporation of India Ltd as independent director. He joined the Indian Administrative Services in 1976 and has more than three decades of leadership experience in the Government of India spanning district administration, rural development, finance, housing and urban development, rural and agro-industries, municipal affair and power. P Uma Shankar holds a master's degree in Mathematics from IIT, Madras and a master's degree in Social Policy and Planning in Developing Countries from the London School of Economics. He is currently associated with IIT Chennai in the development of an innovative approach for providing a certain minimum uninterrupted power supply to homes thereby eliminating blackouts.</FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/padama.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=180 BORDER=0></P>
-			<P><FONT ><B>Padmaja Ruparel&nbsp;&nbsp;<BR>Co-Founder<BR>Indian Angel Network;<br/>
-Founding Partner, IAN
-Fund</B></FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image3.jpeg" NAME="Picture 5" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P><FONT ><B>Mr. Ajay Mathur<br>Director General<br>International Solar Alliance (ISA)</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Padmaja Ruparel is nationally recognized as a key player in the Indian entrepreneurial ecosystem and has helped co found many of the relevant institutions, besides being an active Angel investor herself. Her operating experience spans large corporates, M&A, and startups/early-stage companies. 
-She has been awarded as one of the 'Top 50 Most Powerful Women in Business' by Fortune India for 2017, 2018 2019, listed in Forbes India’s W- Power Trailblazers and “30 Most Powerful Women in India” by Business Today for 3 years running. The Women Economic Forum recognized her with its “Women of the Decade in Investment Banking” award. 
-She is Co Founder & President of Indian Angel Network (IAN), India's first and now possibly one of the world’s largest group of business angels, comprising the who's who of successful entrepreneurs and dynamic CEOs from India and overseas. She built IAN from inception, making it within 15 years a unique institution globally, with close to 500 investors across 10 countries and a portfolio of 175+ companies in 7 countries, spanning 17 sectors. She has operationalised IAN’s international operations in London – making it the only angel group in the world to set up operations outside of its home country. Padmaja has been nominated as Co Chair of Global Business Angel Network (GBAN). She is a member of the National Expert Advisory Committee on Innovation, Incubation and Technology Entrepreneurship. She is a member of several committees of BIRAC (Dept. of Biotech, Govt. of India), various committees of Ministry of Finance, DPIIT, & SEBI. 
-Padmaja is the Senior Managing Partner of the IAN Fund, a uniquely differentiated Fund which along with IAN, is set to create the largest horizontal platform in India for investing in seed and early-stage ventures. 
-She is a member of the Governing Council of EM3 Services, a nation building venture seeking to create a paradigm shift in the Indian agricultural sector by improving productivity. Padmaja is an Independent Director on the Boards of Avendus Finance Pvt. Ltd. & Ester Industries Ltd. 
-Apart from cofounding IAN, she also set up and operationalised the Delhi chapter of The Indus Entrepreneurs (TIE) the world’s largest organization focused on entrepreneurship with over 16,000 members across more than 60 chapters across 14 countries. She also established a unique model of an incubator, in partnership with the Indian Government, leveraging 400 mentors to provide mentoring & domain expertise to around 50 young fledgling incubatee companies. She played a key role as Executive Director in building the Indian Venture Capital Association, India's oldest and largest association of VC and PE firms. Currently, she is a member of IVCA’s Limited Partners Council. 
-She helped the creation of Lankan Angel Network in Sri Lanka. She contributed actively in the Planning Commission’s Committee on “Angel & Early Stage Investing in India” which resulted in a seminal report: “Creating a Vibrant Entrepreneurial Eco system in India”. 
-In her corporate avatar at Xansa India, (Xansa was a US$800mn company listed on LSE before being acquired by Steria), she led several functions over a 16-year period: handled recruitment operations, built and successfully executed an innovative brand and communication strategy and led the corporate social responsibility initiative which engaged employees, clients as also the government. She was a key member of the corporate strategy and M&A team as the Company went public, forged joint ventures and the final acquisition of the Indian company. 
-Padmaja picked up entrepreneurial strings very early in her career – she revived and grew the family real estate business in Calcutta – growing if from 50,000 sq ft to over 250,000 sq ft over 2 years and turned it around to become a profitable business. 
-A graduate with English Honours, Padmaja then completed her MBA as well as Chartered Accountancy (Intermediate) with her internship with S.R. Batliboi (an E&Y group company).
-
-			</P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Dr. Ajay Mathur is the Director General of the International Solar Alliance (ISA), which is a one of its kind multilateral organisation established to catalyse global solar growth.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Prior to joining ISA, Dr. Mathur was Director General of The Energy and Resources Institute (TERI), and a member of the Prime Minister of India's Council on Climate Change. He was co-chair of the global Energy Transitions Commission, and of the Clean Cooling Initiatives of the One Planet Summit. He earlier headed the Indian Bureau of Energy Efficiency and was responsible for its foundational programmes which mainstreamed energy efficiency through initiatives such as the Star Labelling program for appliances, the Energy Conservation Building Code, and the Perform, Achieve & Trade program for energy-intensive industries. He was a leading climate change negotiator and was the Indian spokesperson at the Paris climate negotiations. He served as the interim Director of the Green Climate Fund during its foundational period.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Dr. Mathur received a bachelor's degree in chemical engineering from the (then) University of Roorkee, and Master's and PhD degrees from the University of Illinois. He has also received the Distinguished Alumnus Awards from both his alma maters. He was appointed a Chevalier de l'Ordre national du Merite by the President of France in recognition of his outstanding commitment to the preservation of the environment and coping with energy-related challenges.</FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2024/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
-			<P><FONT ><B>Mr. BP Singh&nbsp;&nbsp;&nbsp;<BR>Former
-			Member<BR>Delhi Electricity Regulatory Commission (DERC)</B></FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image4.jpeg" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P><FONT ><B>Mr. Arun Goyal<br>Former Member, Central Electricity Regulatory Commission<br>Former Secretary to the Government of India, Cabinet Secretariat<br>Former Special Secretary, GST Council</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Mr BP Singh is a graduate in Mining Engineering from Indian School
-of Mines, Dhanbad and has over 40 years of experience in the
-power &amp; energy sector.</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He was a Former Member in DERC (Delhi Electricity Regulatory
-Commission). He has issued three successive Tariff Orders for the
-period 2014 to 2018, being consumer friendly, were highly
-acclaimed at all levels. As a part of Power sector Reforms,
-formulated progressive Regulations on Tariff, Net Metering and
-Demand Side Management and Modified SOP to make it more
-consumer friendly. Efficacious remedy for redressal of Consumer’s
-Grievance has been enhanced by making the Regulations consumer
-friendly and initiated action for creation of legal aid cell for the
-benefit of the Consumer’s.</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Prior to taking up the assignment as Member DERC, he rose to the
-position of Director (Projects) in NTPC, where he additionally had
-also held assignments viz, Chairman, BRBCL; Chairman NTPC SCCL
-Global Ventures Pvt. Ltd.; whole time Director of NTPC Hydro Ltd.;
-BFSNL Ltd. etc.</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has been part of numerous high-level committees constituted
-by the Government of India for formulation of Plan proposals and
-Policies including Energy Policy, pricing of Coal etc.</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has actively participated in formulation of policies for the
-Regulatory Commissions under the aegis of Forum of India
-Regulators. He has been associated with numerous professional
-institutions, viz</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >1.
-			“Institute Senate Member’ – Dr BR Ambedkar National Institute
-of Technology, Jalandhar;</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >2.
-			Member of General Body &amp; Peer Review Committee of National
-Institute of Rock Mechanics under Ministry of Mines,</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >3
-			Member of the Board of Construction Industry Development
-Council, joint council by Indian Construction industry and Planning
-Commission,</FONT></P>
-			<P ALIGN=JUSTIFY><FONT >He had been adjudged and awarded Best Director Projects
-Corporate Excellence Award 2012-13 – GEOMINTECH; Awarded at
-Brisbane Dadari Project – awarded for project excellence in 25th
-IPMA World Congress at Brisbane in 2011;</FONT></P>
+			<P ALIGN=JUSTIFY><FONT >Shri Arun Goyal, a retired 1985 batch IAS officer of the Union Territories Cadre, has nearly four decades of experience in power, finance, commerce, industry, regulation, and public administration. As a former Member of the Central Electricity Regulatory Commission, he played a key role in shaping critical regulations and adjudicating over 2,200 petitions. He was instrumental in Delhi's power sector reforms, including the unbundling of Delhi Vidyut Board and privatization of distribution. He also contributed to major national reforms like GST rollout and India's Financial Intelligence Unit. He has held key positions in the Cabinet Secretariat, PMO, and the Indian Embassy in Tokyo. An electrical engineer from Delhi College of Engineering, he also holds an MBA from IIM Ahmedabad and advanced degrees in Economics and Development Management.</FONT></P>
 		</TD>
 	</TR>
-
-	<!-- <TR>
+	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="/images/2024/ravinder.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
-			<P><FONT ><B>Mr. Ravinder Singh Dhillon &nbsp;&nbsp;&nbsp;<BR>Former Chairman & Managing
-			Director<BR>Power Finance
-			Corporation (PFC)</B></FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image5.jpeg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P><FONT ><B>Mr. Alok Kumar<br>Director General<br>All India Discoms Association (AIDA)<br>Former Power Secretary, Government of India</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">Ravinder Singh Dhillon is a seasoned expert with over 40 years of diverse experience spanning the power and infrastructure sectors. As the former Chairman and Managing Director of Power Finance Corporation (PFC) - the largest NBFC in the country, he led the organization to achieve its prestigious Maharatna status, ensuring record-breaking profits, facilitating Govt. of India schemes as as RDSS, LPS rules, IPDS etc. and spearheading initiatives such as green bonds and infrastructure diversification. With a strong academic foundation in Power Systems from IIT Delhi, his career includes significant contributions to Power System Planning at CEA, Technical Design at BHEL, and project appraisal and financial innovations at PFC. Currently serving as an Independent Director at GE Power India Ltd., he continues to influence the energy sector with his deep expertise in project financing, renewable energy, energy transition, and policy formulation.</P>
-			
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Mr. Alok Kumar is the presently working as Director General at AIDA and also serving as Director at Delhi with The Lantau Group (Singapore) Pte Ltd. In addition, he is Professor of Practice in the Department of Hydro and Renewable Energy at IIT Roorkee, and chairs the Inter-Ministerial Working Group set up by NITI Aayog to develop the power sector pathway to achieve India's Net Zero commitment.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has had a 35-year-long career in public policy and economic development in India's premier federal civil service (IAS), reaching the distinguished position of Secretary in the National Government with extensive experience in electricity, renewable energy, energy transition, infrastructure development, and skill development domains. He has led several large commercial organisations as CEO, played a key role in the formulation and implementation of several national/state-level policies, programmes, and regulatory interventions, and successfully managed the operations of one of the largest power systems in the world while steering wide-ranging sectoral reforms.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He also has a deep understanding of global energy transition aspects as chair of the G20 Energy Transitions Working Group.</FONT></P>
 		</TD>
-	</TR> -->
-</TABLE> 
+	</TR>
+	<TR>
+		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image6.jpeg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P><FONT ><B>Mr. BP Singh<br>Former Member<br>Delhi Electricity Regulatory Commission (DERC)</B></FONT></P>
+		</TD>
+		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Mr BP Singh is a graduate in Mining Engineering from Indian School of Mines, Dhanbad and has over 40 years of experience in the power & energy sector.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He was a Former Member in DERC (Delhi Electricity Regulatory Commission). He has issued three successive Tariff Orders for the period 2014 to 2018, being consumer friendly, were highly acclaimed at all levels. As a part of Power sector Reforms, formulated progressive Regulations on Tariff, Net Metering and Demand Side Management and Modified SOP to make it more consumer friendly. Efficacious remedy for redressal of Consumer's Grievance has been enhanced by making the Regulations consumer friendly and initiated action for creation of legal aid cell for the benefit of the Consumer's.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Prior to taking up the assignment as Member DERC, he rose to the position of Director (Projects) in NTPC, where he additionally had also held assignments viz, Chairman, BRBCL; Chairman NTPC SCCL Global Ventures Pvt. Ltd.; whole time Director of NTPC Hydro Ltd.; BFSNL Ltd. etc.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has been part of numerous high-level committees constituted by the Government of India for formulation of Plan proposals and Policies including Energy Policy, pricing of Coal etc.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has actively participated in formulation of policies for the Regulatory Commissions under the aegis of Forum of India Regulators. He has been associated with numerous professional institutions, viz</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >1. "Institute Senate Member' -- Dr BR Ambedkar National Institute of Technology, Jalandhar;</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >2. Member of General Body & Peer Review Committee of National Institute of Rock Mechanics under Ministry of Mines,</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >3 Member of the Board of Construction Industry Development Council, joint council by Indian Construction industry and Planning Commission,</FONT></P>
+			<P ALIGN=JUSTIFY><FONT >He had been adjudged and awarded Best Director Projects Corporate Excellence Award 2012-13 -- GEOMINTECH; Awarded at Brisbane Dadari Project -- awarded for project excellence in 25th IPMA World Congress at Brisbane in 2011.</FONT></P>
+		</TD>
+	</TR>
+</TABLE>
 </div>
     </div>
   </div>
