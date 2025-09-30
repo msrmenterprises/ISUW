@@ -1082,7 +1082,7 @@ and decide upon the winners.</P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image2.jpeg" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/PUmashankar.jpg" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
 			<P STYLE="margin-bottom: 0.11in"><FONT ><B>Mr. P Uma Shankar<br>Former Secretary<br>Ministry of Power, Government of India</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
@@ -1091,7 +1091,7 @@ and decide upon the winners.</P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image3.jpeg" NAME="Picture 5" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/AjayMathur.jpg" NAME="Picture 5" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
 			<P><FONT ><B>Mr. Ajay Mathur<br>Director General<br>International Solar Alliance (ISA)</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
@@ -1102,7 +1102,7 @@ and decide upon the winners.</P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image4.jpeg" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/ArunGoyal.jpg" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
 			<P><FONT ><B>Mr. Arun Goyal<br>Former Member, Central Electricity Regulatory Commission<br>Former Secretary to the Government of India, Cabinet Secretariat<br>Former Special Secretary, GST Council</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
@@ -1111,7 +1111,7 @@ and decide upon the winners.</P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image5.jpeg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/AlokKumar.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
 			<P><FONT ><B>Mr. Alok Kumar<br>Director General<br>All India Discoms Association (AIDA)<br>Former Power Secretary, Government of India</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
@@ -1122,7 +1122,7 @@ and decide upon the winners.</P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image6.jpeg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/BPSingh.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
 			<P><FONT ><B>Mr. BP Singh<br>Former Member<br>Delhi Electricity Regulatory Commission (DERC)</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
