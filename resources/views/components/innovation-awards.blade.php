@@ -943,6 +943,58 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
     <div id="flush-collapeight" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
 <!--<H4 style="color: green;"><strong>Important Notes for Nomination Eligibility:<strong></style></H4>-->
+<P>1. <b>One Project can only be submitted in one category (only).</b> Nomination Submitting Party has to decide the best category suitable for winning the award relevant to the project and submit the nomination accordingly. In case of two nominations are received for the same project, the second nomination (as per the date and time) will be considered invalid.</P>
+<p>2. ISGF holds the right to change the category of nomination in case same is proposed by Jury members</p>
+<P>3. <b>All the Project Nominations should be successfully completed projects.</b> Projects at idea/design/implementation stage will not be considered.</P>
+<P>4. <b>Project should be completed within the past 5 years</b></P>
+<P>5. <b>In case you feel that your project deserves an award, but it is not fitting into any category - please write to us at <a href="mailto:awards@isuw.in">awards@isuw.in</a></b></P>
+</div></div></div></div>
+<p></p>
+<div class="accordion accordion-flush" id="accordionFlushExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingOne">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsenine" aria-expanded="false" aria-controls="flush-collapsenine">
+       <H4 style="color: green;"><strong>Who can Participate? </strong></style></H4>
+      </button>
+    </h2>
+    <div id="flush-collapsenine" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+<!--<H4 style="color: green;"><strong>Who can Participate?<strong></style></H4>-->
+<P>1. Individuals or organizations as per details in the above table can apply.</P>
+<p>2. Nominations are invited from Indian Companies/Utilities and Companies/organizations working on Projects in India.</p>
+<p>3. If you do not belong to any of the types of organizations mentioned in the "Who can apply?" list above, but still believe that your project/technology fits the category description then you are encouraged to write to us at <b><a href="mailto:awards@isuw.in">awards@isuw.in</a></b></p>
+</div></div></div></div>
+<p></p>
+<div class="accordion accordion-flush" id="accordionFlushExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingOne">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseten" aria-expanded="false" aria-controls="flush-collapseten">
+       <H4 style="color: green;"><strong>Benefits of Participation? </strong></style></H4>
+      </button>
+    </h2>
+    <div id="flush-collapseten" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+<!--<H4 style="color: green;"><strong>Benefits of Participation?<strong></style></H4>-->
+<OL>
+	<LI>To get your contributions and achievements to the sector recognized on a credible platform</LI>
+	<LI>To share the learnings made by you or your organization for broader industry benefits</LI>
+	<LI>To encourage other individuals and organizations to adopt best practices and learn from peers</LI>
+	<LI>To gain competitive edge and provide a tangible point of difference over competitors</LI>
+	<LI>To strengthen public relations and prompt media to communicate positive message about you and your organization by sharing success stories</LI>
+	<LI>The winners will be felicitated in front of International Experts and Chief Guests from Government, Utility and Industry on 13<sup>th</sup> March 2026 in New Delhi</LI>
+	<LI>Winners will be featured in ISGF Bulletin, India Smart Utility Week Post Event Reports, ISGF Annual Report, ISGF Social Media and India Smart Grid Knowledge Portal (<a href="http://www.indiasmartgrid.org" target="_blank">www.indiasmartgrid.org</a>) which would help them to get recognition nationally and internationally</LI>
+</OL>
+</div></div></div></div>
+<!-- <div class="accordion accordion-flush" id="accordionFlushExample">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingOne">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapeight" aria-expanded="false" aria-controls="flush-collapeight">
+       <H4 style="color: green;"><strong>Important Notes for Nomination Eligibility </strong></style></H4>
+      </button>
+    </h2>
+    <div id="flush-collapeight" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+
 <P>1.	<b>One Project can only be submitted in one category (only).</b> Nomination Submitting Party has to decide the best category suitable for winning the award relevant to the project and submit the nomination accordingly. In case of two nominations are received, second nomination as per the date and time will be considered invalid. </P>
 <p>2.	ISGF holds the right to change the category of nomination in case same is proposed by Jury members</p>
 <P><b>3.	All the Project Nominations should be successfully completed projects. Projects at idea/design/implementation stage will not be considered</P>
@@ -959,7 +1011,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
     </h2>
     <div id="flush-collapsenine" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<!--<H4 style="color: green;"><strong>Who can Participate?<strong></style></H4>-->
+
 <P>1.	Individuals or organizations as per details in the above table can apply</p>
 <p>2.	Nominations are invited from Indian Companies/Utilities and Companies/organizations working on Projects in India</p>
 <p>3.	 If you do not belong to any of the types of organizations mentioned in the “Who can apply?” list above, but still believe that your entry fits the category description then you are encouraged to write to us at <B><a href="awards@isuw.in">awards@isuw.in</a></B></P>
@@ -974,7 +1026,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
     </h2>
     <div id="flush-collapseten" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<!--<H4 style="color: green;"><strong>Benefits of Participation?<strong></style></H4>-->
+
 <OL>
 	<LI>To get your contributions and achievements to the sector recognized on a credible platform</li>
 	<LI>To share the learnings made by you or your organization for broader industry benefits</li>
@@ -989,7 +1041,7 @@ Annual Report, ISGF Social Media and India Smart Grid Knowledge Portal which wou
 them to get recognition nationally and internationally</li>
 
 </OL>
-</div></div></div></div>
+</div></div></div></div> -->
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">
