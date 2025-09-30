@@ -170,8 +170,192 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
       <div class="accordion-body">
 <P STYLE="margin-bottom: 0.11in"><FONT >For ISGF Innovation Awards 2025, the following award categories are open for nomination. Please refer below table for award categories and eligibility:</FONT></P>
 
-
 <TABLE>
+	<TR VALIGN=TOP>
+		<TD WIDTH=7% BGCOLOR="#ed7d31" HEIGHT=26 STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Sr No</FONT></B></FONT></P>
+		</TD>
+		<TD WIDTH=26% BGCOLOR="#ed7d31" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Award Categories</FONT></B></FONT></P>
+		</TD>
+		<TD WIDTH=23% BGCOLOR="#ed7d31" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Who can Apply?</FONT></B></FONT></P>
+		</TD>
+		<TD WIDTH=44% BGCOLOR="#ed7d31" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Category Focus</FONT></B></FONT></P>
+		</TD>
+	</TR>
+ <tr style='height:141.25pt'>
+  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt; border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:141.25pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>1</span></b></p>
+  </td>
+  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:141.25pt'>
+  <p class=Default><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Best Smart Grid Project in a DISCOM in India</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Utility</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Technology Company/Implementing Agency</span></p>
+  </td>
+  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:141.25pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Electricity Distribution Companies (DISCOMs) (Public & Private) OR Implementing Agencies OR Technology Companies</span></p>
+  </td>
+  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:141.25pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Electricity Distribution Companies (DISCOMs) in India have executed several smart grid projects. This category will recognize holistic implementation, integration, and impact coming from successfully deployed solutions, rather than piece meal modules. Nominations will be divided into two categories:</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>a) Utilities<br> b) Technology Company/Implementing Agencies</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Please note: For the ONE project, only ONE nomination will be accepted. Utility and Implementing Agency can submit joint nomination if both are interested</span></b></p>
+  </td>
+ </tr>
+ <tr style='height:91.5pt'>
+  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt; border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:91.5pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>2</span></b></p>
+  </td>
+  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:91.5pt'>
+  <p class=Default><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Most Innovative Renewable Energy Programs/Projects in India including Energy Storage Systems (ESS)</span></p>
+  </td>
+  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:91.5pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Utilities, Project Developers, Implementing Agencies OR Technology Companies</span></p>
+  </td>
+  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:91.5pt'>
+  <p class=Default><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>This award category will recognise the innovative measures adopted for the promotion of Renewable Energy and ESS by any Utility/Project Developer/Technology Company/Implementing Agency in India</span></p>
+  </td>
+ </tr>
+ <tr style='height:70.4pt'>
+  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt; border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>3</span></b></p>
+  </td>
+  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
+  <p class=Default><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Smart Technology</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity – Distribution<br> - Network improvements in both Urban and Rural area;<br> - Behind The Meter (BTM) Innovations/ Projects<br> - Network Operations</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity – Domains other than Distribution<br> - Generation<br> - Transmission,<br> - Energy Storage Systems (ESS)<br> - Others</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>c.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Domains other than Electricity<br> - Smart Gas Distribution<br> - Smart Water Distribution<br> - Others</span></p>
+  </td>
+  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Utilities, Project Developers and Operators, Technology Providers, Start-ups and Entrepreneurs</span></p>
+  </td>
+  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award category will recognise successfully implemented smart technologies by following:</span></p>
+  <p class=Default style='margin-left:33.2pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Projects implemented in Electricity – Distribution Domain -- Network improvement behind the Meter, Network Operators, System Operators Level, Rural Areas Projects</span></p>
+  <p class=Default style='margin-left:33.2pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Successful projects implemented in Domains such as Electricity Generation, Transmission, ESS etc.</span></p>
+  <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom: 0cm;margin-left:33.2pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"'>Projects implemented in Smart Gas Distribution, Smart Water Distribution, etc.</span></p>
+  </td>
+ </tr>
+ <tr style='height:112.95pt'>
+  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt; border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:112.95pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>4</span></b></p>
+  </td>
+  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:112.95pt'>
+  <p class=Default><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Emerging Innovation in Electric Mobility Domain</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electric Vehicle (2/3/4 Wheelers, Buses, Trucks, Tractors, Boats/ Ferries, Drones etc) and Batteries for Electric Mobility</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>EV and EVSE Rollouts including New Business Models, Solar EV Charging Stations etc</span></p>
+  </td>
+  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:112.95pt'>
+  <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm; margin-bottom:0cm;margin-left:22.6pt;margin-bottom:.0001pt;text-indent:-18.0pt; line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Manufacturers of Electric Vehicles (2/3/4 Wheelers, Buses, Trucks, Tractors, Boats/ Ferries, Drones etc) and Battery Manufacturers</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm; margin-bottom:0cm;margin-left:22.6pt;margin-bottom:.0001pt;text-indent:-18.0pt; line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Agencies who have operationalized large fleet of EVs – Buses, Taxis and 3 Wheelers</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm; margin-bottom:0cm;margin-left:22.6pt;margin-bottom:.0001pt;text-indent:-18.0pt; line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Organisations who have rolled out EV Charging Infrastructure</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm; margin-bottom:0cm;margin-left:22.6pt;margin-bottom:.0001pt;text-indent:-18.0pt; line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>d)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Companies who support the rollout of Electric Mobility in India through their innovative solutions, technologies, software platforms etc</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm; margin-bottom:0cm;margin-left:22.6pt;margin-bottom:.0001pt;text-indent:-18.0pt; line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>e)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Companies who have implemented innovative projects in this category including Solar EV Charging Stations</span></p>
+  </td>
+  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:112.95pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This Award category recognizes the most innovative EV and EVSE Design, Manufacture and Rollouts in India</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Please note:</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt; line-height:normal'><span style='font-size:12.0pt;font-family:Symbol'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Only OEMs, Fleet Operators and Public Transport Companies are eligible to submit Nominations in this category</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt; line-height:normal'><span style='font-size:12.0pt;font-family:Symbol'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Nomination of projects at design stage will not be accepted</span></p>
+  </td>
+ </tr>
+ <tr style='height:202.25pt'>
+  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt; border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:202.25pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>5</span></b></p>
+  </td>
+  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:202.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Adoption of Artificial Intelligence, Machine Learning, Virtual Reality (VR)/Augmented Reality (AR) and Robotic Solutions</span></p>
+  <p class="Default" style="margin-left:36.0pt;text-indent:-18.0pt">
+	<span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">a.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">Utility</span></p>
+  <p class="Default" style="margin-left:36.0pt;text-indent:-18.0pt">
+	<span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">b.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">Industry/Technology Provider</span></p>
+  </td>
+  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:202.25pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Utilities (Public & Private) OR Project Developers and Operators, Technology Providers, Start-ups and Entrepreneurs</span></p>
+  </td>
+  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:202.25pt'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height: normal'><span style='font-family:"Calibri Light","sans-serif"'>Utilities in India have adopted and implemented advanced solutions with Artificial Intelligence, Machine Learning, Virtual Reality (VR)/Augmented Reality (AR) and Robotics Technologies</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-family:"Calibri Light","sans-serif"'>This category will recognize holistic implementation, integration, and impact coming from deployed solutions using the above technologies.</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-family:"Calibri Light","sans-serif"'>(Please note: A Video of the technology is requested to attach with the nomination)</span></p>
+  </td>
+ </tr>
+ <tr style='height:101.1pt'>
+  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt; border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:101.1pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>6</span></b></p>
+  </td>
+  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:101.1pt'>
+  <p class=Default><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Smart Start-up and Incubator of the Year</span></p>
+  </td>
+  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:101.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Start – ups with demonstrated solutions for utilities (Electricity, Electric Mobility, Gas and Water) and Incubators, Entrepreneurship Cells (E-Cell) promoting startups in these domains</span></p>
+  </td>
+  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:101.1pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award category recognizes:</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt; line-height:normal'><span style='font-size:12.0pt;font-family:Symbol'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Technology start-ups (less than 5 years old and have revenue less than INR 100 crores in financial year 2024-2025), that have helped solving issues mainly for utilities and have enabled them and their end-customers to become efficient and smarter.</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt; line-height:normal'><span style='font-size:12.0pt;font-family:Symbol'>-<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Incubators in India that are hosted and supported by Government, Academia, Industrial bodies, Corporate and others. They continue to play a strong role in aiding start-up ecosystem and promoting innovation. This award recognizes their contributions to the utility sector.</span></p>
+  </td>
+ </tr>
+ <tr style='height:110.6pt'>
+  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt; border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>7</span></b></p>
+  </td>
+  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Innovative Financing For Energy Transition</span></p>
+  </td>
+  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Angel Investors, Venture Capital Funds, Family Offices, Private Equity Funds, Development Financing Institutions, Philanthropic Funding Institutes, other Funding Agencies/Companies who have financed large RE, EV and other Clean Energy Projects and Technologies</span></p>
+  </td>
+  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award category recognizes funding Agencies and Companies who have funded First of a kind (FOAK), Innovative and large RE, EV and other Clean Energy Projects as well as those funded break-through technologies that have the potential to drive energy transition.</span></p>
+  </td>
+ </tr>
+ <tr style='height:110.6pt'>
+  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt; border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>8</span></b></p>
+  </td>
+  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Waste-to-Energy Projects (W2E)</span></p>
+  </td>
+  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Municipalities and Project Developers who have successfully implemented W2E projects are eligible to apply</span></p>
+  </td>
+  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This Award Category recognizes the Successful and Sustainable W2E projects that are completed and running for a minimum period of 1 year as of <b>31 December 2025</b></span></p>
+  </td>
+ </tr>
+ <tr style='height:110.6pt'>
+  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt; border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>9</span></b></p>
+  </td>
+  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><a name="_Hlk156900601"><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Woman in Energy and Utilities</span></a></p>
+  </td>
+  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Women personalities in the energy and utility sector who have made significant contribution to the growth of the sector</span></p>
+  </td>
+  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award category will recognize individual women who have made substantial contributions in the areas covered under any of the above 8 award categories. i.e. power / utility sector/ technology provider/ implementing agency; OR has built a successful start-up that is growing successfully; OR Has promoted initiatives focused on areas such as policy reform, innovative technology adoption, innovative financing etc. in the power sector.</span></p>
+  </td>
+ </tr>
+ <tr style='height:49.15pt'>
+  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt; border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:49.15pt'>
+  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>10</span></b></p>
+  </td>
+  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:49.15pt'>
+  <p class=Default><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>ISGF President's Award for the Best Contribution towards Energy Transition in India</span></p>
+  </td>
+  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:49.15pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Awardees will be selected by ISGF, nominations not required</span></p>
+  </td>
+  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:49.15pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This Category recognizes the Best Contributions towards growth of Smart Grids, Clean Energy and Electric Mobility in India and Winners are chosen by ISGF</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Please note: Nominations are not invited for this category</span></b></p>
+  </td>
+ </tr>
+</table>
+
+<!-- <TABLE>
 	<TR VALIGN=TOP>
 		<TD WIDTH=7% BGCOLOR="#ed7d31" HEIGHT=26 STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
 			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Sr
@@ -743,414 +927,10 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
   note: Nominations are not invited for this category</span></b></p>
   </td>
  </tr>
-</table>
+</table> -->
 
-<!--<TABLE>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% BGCOLOR="#ed7d31" HEIGHT=26 STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Sr
-			No</FONT></B></FONT></P>
-		</TD>
-		<TD WIDTH=26% BGCOLOR="#ed7d31" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Award
-			Categories</FONT></B></FONT></P>
-		</TD>
-		<TD WIDTH=23% BGCOLOR="#ed7d31" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Who
-			can Apply?</FONT></B></FONT></P>
-		</TD>
-		<TD WIDTH=44% BGCOLOR="#ed7d31" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Category
-			Focus</FONT></B></FONT></P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% HEIGHT=214 BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-bottom: 0in">
-			<B><FONT >1</FONT></B></P>
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><BR>
-			</P>
-		</TD>
-		<TD WIDTH=26% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT COLOR="#000000"><FONT ><FONT ><FONT >Best Smart Grid Project in India  </FONT></FONT></FONT></FONT><br/>
-			a)Utility<br/>
-     		b)Technology
-Company/Implementing
-Agency
-			</P>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><BR>
-			</P>
-		</TD>
-		<TD WIDTH=23% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Utilities
-(Public &amp; Private) OR
-Implementing Agencies
-OR Technology
-Companies/EPC Contractors
-</FONT></P>
-		</TD>
-		<TD WIDTH=44% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-bottom: 0in">
-			<FONT>Electricity Distribution
-Companies (DISCOMs) in
-India have executed several
-smart grid projects. This
-category will recognize
-holistic implementation,
-integration, and impact
-coming from successfully
-deployed solutions, rather
-than piece meal modules.
-Nominations will be divided
-into two categories:</FONT></P>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-bottom: 0in">
-			<FONT >a)&nbsp;Utilities<BR>b) Technology
-Company/Implementing
-Agencies</FONT></P>
-<P STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-bottom: 0in">
-			<FONT >Please note: For the same
-project, only one
-nomination will be
-accepted. Utility and
-Implementing Agency can submit joint nomination if
-both are interested.</FONT></P>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in">&nbsp;</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% HEIGHT=78 STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >2</FONT></B></P>
-		</TD>
-		<TD WIDTH=26% STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT ><FONT ><FONT >Most Innovative Renewable
-Energy Programs/Projects in India </FONT></FONT></FONT></FONT>
-			</P>a. Solar (Utility Scale) <br/>b. Wind (Utility Scale)</p>
-			<p>
-		</TD>
-		<TD WIDTH=23% STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >
-Implementing Agencies
-OR Technology
-Companies</FONT></P>
-		</TD>
-		<TD WIDTH=44% STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT COLOR="#000000"><FONT ><FONT ><FONT >This award category will
-recognise the innovative
-measures adopted for the
-promotion of Solar or Wind
-Energy at Utility Scale by any
-Company/Agency/in
-India</FONT></FONT></FONT></FONT></P>
-			<P><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% HEIGHT=80 BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >3</FONT></B></P>
-		</TD>
-		<TD WIDTH=26% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT >Smart Technology</FONT></P>
-		
-				<P STYLE="margin-bottom: 0in"><FONT >a)	Electricity - Generation<br/>b) Electricity - Transmission<br/>c) Electricity – Distribution<br/>d) Energy Storage Systems
-(ESS) <br/>e) Smart Gas Distribution <br/>f) Smart Water Distribution</FONT></P>
-			
-		</TD>
-		<TD WIDTH=23% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Utilities, Project Developers and Operators, Technology Providers, Start-ups and Entrepreneurs</FONT></P>
-		</TD>
-		<TD WIDTH=44% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-bottom: 0in">
-			<FONT >This award category will recognise successfully implemented smart technologies by following: </FONT></P>
-			<UL>
-				<P STYLE="margin-bottom: 0in"><FONT >a)	Electricity GENCO, TRANSCO, DISCOM, ESS Developers and their Supporting Technology Providers.</FONT></P>
-				<P STYLE="margin-bottom: 0in"><FONT >b)	Gas Distribution Public
-and Private Utilities and
-their Supporting
-Technology/Solution
-Providers. </FONT></P>
-				<P><FONT >c)	Water Distribution Public
-and Private Utilities and
-their Supporting
-Technology/Solution
-Providers. </FONT></P>
-			</UL>
-			Please Note: All the six sub-categories will have 3 levels of winners each called as Diamond, Platinum and Gold
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% HEIGHT=227 STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >4</FONT></B></P>
-		</TD>
-		<TD WIDTH=26% STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT >Emerging Innovation in Electric Mobility Domain</FONT>
-			</P>
-			<OL TYPE=a>
-				<LI><P STYLE="margin-bottom: 0in"><FONT >Electric Vehicle (2/3/4 wheelers and Public Transportation)</FONT></P>
-				<LI><P STYLE="margin-bottom: 0in"><FONT >EV and EVSE Rollouts</FONT></P>
-				<LI><P STYLE="margin-bottom: 0in"><FONT >EV and Charging Technology/Solution Providers
-				</FONT>
-				</P>
-				<LI><P STYLE="margin-bottom: 0in"><FONT >Battery for Electric Mobility</FONT></P>
-				<li><p STYLE="margin-bottom: 0in"><font>Smart Innovations in
-Smart Charging
-Infrastructure (including
-Smart Business Models)</font></p>
-				
-			</OL>
-			<P STYLE="margin-bottom: 0in"><FONT ><BR></FONT><BR>
-			</P>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><BR>
-			</P>
-		</TD>
-		<TD WIDTH=23% STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<OL TYPE=i>
-				<LI><P STYLE="margin-right: 0.1in; margin-bottom: 0in"><FONT >Manufacturers of Electric Vehicle – 2/3/4-Wheeler and Public Transport.</FONT>
-				</P>
-				<LI><P STYLE="margin-right: 0.1in; margin-bottom: 0in"><FONT >Agencies who have operationalized large fleet of EVs – Buses, Taxis and 3 Wheelers  </FONT>
-				</P>
-				<LI><P STYLE="margin-right: 0.1in; margin-bottom: 0in"><FONT >Organisations who have rolled out EV and EV Charging System Infrastructure</FONT></P>
-				<LI><P STYLE="margin-right: 0.1in; margin-bottom: 0in"><FONT >Companies who support the rollout of Electric Mobility in India through their solution, technology, design, manufacturing etc</FONT></P>
-                				
-				<LI><P STYLE="margin-right: 0.1in; margin-bottom: 0in"><FONT >Companies who manufacture batteries for Electric Vehicles</FONT></P>
-			</OL>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><BR>
-			</P>
-		</TD>
-		<TD WIDTH=44% STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >This Award category
-recognizes the most
-innovative EV and EVSE
-Design, Manufacture and
-Rollouts in India under each
-sub- category mentioned.  </FONT>
-			</P>
-			<p STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Please note: <br/>
-			<ul>
-	a) Only OEMs, Fleet
-Operators and Public
-Transport Companies are
-eligible to submit
-Nominations in this
-category <br/>
-    b) This Award Category recognizes the Successful projects that are completed and running for a minimum period of 1 yearas of 31 December 2023<br/>
-	</ul>
-	</FONT></p>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% HEIGHT=256 BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >5</FONT></B></P>
-		</TD>
-		<TD WIDTH=26% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT COLOR="#000000"><FONT ><FONT ><FONT >Adoption of Disruptive Technology/Solution <br/>a) Utility<br/>b) Industry</FONT></FONT></FONT></FONT></P>
-			<P> 
-			</P>
-		</TD>
-		<TD WIDTH=23% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Utilities<BR>(Public
-			&amp; Private) OR
-Project Developers and
-Operators, Technology
-Providers, Start-ups and
-Entrepreneurs</FONT></P>
-		</TD>
-		<TD WIDTH=44% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-bottom: 0in">
-			<FONT >DISCOMs in India have
-adopted and implemented
-projects with several
-disruptive technologies such
-as Blockchain, Artificial
-Intelligence, Virtual Reality,
-Machine Learning, Robotics,
-Big Data, Drones, Internet of
-Things (IoT) etc .  
-<br/><br/>
-This category will recognize
-holistic implementation,
-integration, and impact
-coming from deployed
-solutions using the
-new/disruptive technologies
-such as AI, ML Robotics,
-Blockchain, AR &amp; VR, IoT,
-Big Data, Drones etc.
-</FONT>
-			</P>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% HEIGHT=133  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >6</FONT></B></P>
-		</TD>
-		<TD WIDTH=26%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Smart Start-up of the Year</FONT></P>
-		</TD>
-		<TD WIDTH=23%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Start – ups with
-demonstrated solutions
-for utilities </FONT></P>
-		</TD>
-		<TD WIDTH=44%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-bottom: 0in">
-			<FONT >This award recognizes
-technology start-ups
-(revenue less than 100
-crores in financial year 2022-2023), that have
-helped solving issues mainly
-for utilities and have
-enabled them and their
-end-customers to become
-efficient and smarter.</FONT></P>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"> 
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% BGCOLOR="#fed8b1" HEIGHT=133 STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >7</FONT></B></P>
-		</TD>
-		<TD WIDTH=26% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT COLOR="#000000"><FONT ><FONT ><FONT >Smart Incubator of the Year</FONT></FONT></FONT></FONT></P>
-			<P STYLE="margin-left: 0.25in; margin-bottom: 0in"><FONT COLOR="#000000"><FONT ><FONT ><FONT ><BR></FONT></FONT></FONT></FONT><BR>
-			</P>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><BR>
-			</P>
-		</TD>
-		<TD WIDTH=23% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Incubators,
 
-Entrepreneurship Cells
-(E-Cell)</FONT></P>
-		</TD>
-		<TD WIDTH=44% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT COLOR="#000000"><FONT ><FONT ><FONT COLOR="#2b2a29"><FONT >There are many incubators
-in India that are hosted and
-supported by Government,
-Academia, Industrial bodies,
-Corporate and others. They
-continue to play a strong
-role in aiding start-up
-ecosystem and promoting
-innovation. This award
-recognizes their
-contributions to the
-industry.</FONT></FONT></FONT></FONT></P>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% HEIGHT=83  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >8</FONT></B></P>
-		</TD>
-		<TD WIDTH=26%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT ><FONT ><FONT >Finance For Energy Transition</FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=23%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Angel Investors, Venture Capital Funds, Family Offices, Private Equity Funds, Development Financing Institutions, other Funding Agencies/Companies who have financed large RE, EV and other Clean Energy Projects and Technologies
-</FONT></P>
-		</TD>
-		<TD WIDTH=44%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-right: 0.1in; margin-bottom: 0in"><FONT COLOR="#2b2a29"><FONT >This award category recognizes funding Agencies and Companies who have funded large RE, EV and other Clean Energy Funded Projects as well as those funded break-through technologies that have the potential to drive energy transition. </FONT></FONT>
-			</P>
-		</TD>
-	</TR>
-		<TR VALIGN=TOP>
-		<TD WIDTH=7% BGCOLOR="#fed8b1" HEIGHT=83  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >9</FONT></B></P>
-		</TD>
-		<TD WIDTH=26%  BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT ><FONT ><FONT >Waste-to-Energy Projects (W2E)</FONT></FONT></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=23%  BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Municipalities and Project Developers who have successfully implemented W2E projects are eligible to apply
-</FONT></P>
-		</TD>
-		<TD WIDTH=44%  BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-right: 0.1in; margin-bottom: 0in"><FONT COLOR="#2b2a29"><FONT >This Award Category recognizes the Successful and Sustainable W2E projects that are completed and running for a minimum period of 1 year as of 31 December 2023. </FONT></FONT>
-			</P>
-		</TD>
-	</TR>
 
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% HEIGHT=133 STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >10</FONT></B></P>
-		</TD>
-		<TD WIDTH=26%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-bottom: 0in"><FONT COLOR="#000000"><FONT ><FONT ><FONT >ISGF President’s Award for the
-Best Contribution towards growth
-of Energy Transition in India</FONT></FONT></FONT></FONT></P>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><BR>
-			</P>
-		</TD>
-		<TD WIDTH=23% STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Awardees will be
-selected by ISGF,
-nominations not
-required</FONT></P>
-		</TD>
-		<TD WIDTH=44%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-bottom: 0in">
-			<FONT >This Category recognizes the
-Best Contribution towards
-growth of Smart Grids,
-Clean Energy and Electric
-Mobility in India and Winners are chosen by ISGF 
-<br><br>
-<b>Please note: Nominations
-are not invited for this
-category</b>
-</FONT>
-			</P>
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><BR>
-			</P>
-		</TD>
-	</TR>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% HEIGHT=132 BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >11</FONT></B></P>
-		</TD>
-		<TD WIDTH=26% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#222222"><FONT >Woman in Power</FONT></FONT></P>
-		</TD>
-		<TD WIDTH=23% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Women personalities in the power sector</FONT></P>
-		</TD>
-		<TD WIDTH=44% BGCOLOR="#fed8b1" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >This award category will recognize individual women,
-</FONT></FONT><FONT > </FONT>
-			</P>
-			<ul><li>a)  Who is an entrepreneur having substantially contributed in building a startup based on an innovative product or solution registered not more than 5 years ago;</li>
-		    <p>OR</p>
-			<li>b)  Who has contributed substantially to the growth of a government organization including utilities, working in mid to senior level position;</li>
-		    <p>OR</p>
-			<li>c)   Has promoted initiatives focused on areas such as policy reform, innovative technology adoption, innovative financing etc. in the power sector</li>
-			</ul>
-		</TD>
-	</TR>
-<!--	<TR VALIGN=TOP>
-		<TD WIDTH=7% HEIGHT=132  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><B><FONT >12</FONT></B></P>
-		</TD>
-		<TD WIDTH=26%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#222222"><FONT >ISGF President’s Award for the Best Contribution towards growth of Energy Transition in India</FONT></FONT></P>
-		</TD>
-		<TD WIDTH=23%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >Awardees will be selected by ISGF, nominations not required</FONT></P>
-		</TD>
-		<TD WIDTH=44%  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT >This Category recognizes the Best Contribution towards growth of Smart Grids, Clean Energy and Electric Mobility in India and Winners are chosen by ISGF . 
-<br>
-<b>Please note: Nominations are not invited for this category </b>
-</FONT></FONT><FONT > </FONT>
-			</P>
-		</TD>
-	</TR>-->
-</TABLE>
 </div></div></div></div>  
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
