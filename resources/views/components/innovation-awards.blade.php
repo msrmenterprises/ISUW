@@ -168,7 +168,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
     </h2>
     <div id="flush-collapseseven" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<P STYLE="margin-bottom: 0.11in"><FONT >For 10<sup>th</sup> ISGF Innovation Awards 2026, the following award categories are open for nominations: Please refer below table for award categories and eligibility:</FONT></P>
+<P STYLE="margin-bottom: 0.11in"><FONT >For ISGF Innovation Awards 2025, the following award categories are open for nomination. Please refer below table for award categories and eligibility:</FONT></P>
 
 <TABLE>
 	<TR VALIGN=TOP>
@@ -223,26 +223,16 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
   </td>
   <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
   <p class=Default><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Smart Technology</span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity – Distribution</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Network improvements in both Urban and Rural area;</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Behind The Meter (BTM) Innovations/ Projects</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Network Operations</span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity – Domains other than Distribution</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Generation</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Transmission,</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Energy Storage Systems (ESS)</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Others</span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>c.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Domains other than Electricity</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Smart Gas Distribution</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Smart Water Distribution</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Others</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity – Distribution<br> - Network improvements in both Urban and Rural area;<br> - Behind The Meter (BTM) Innovations/ Projects<br> - Network Operations</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity – Domains other than Distribution<br> - Generation<br> - Transmission,<br> - Energy Storage Systems (ESS)<br> - Others</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>c.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Domains other than Electricity<br> - Smart Gas Distribution<br> - Smart Water Distribution<br> - Others</span></p>
   </td>
   <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Utilities, Project Developers and Operators, Technology Providers, Start-ups and Entrepreneurs</span></p>
   </td>
   <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award category will recognise successfully implemented smart technologies by following:</span></p>
-  <p class=Default style='margin-left:33.2pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Projects implemented in Electricity – Distribution Domain – Network improvement behind the Meter, Network Operators, System Operators Level, Rural Areas Projects</span></p>
+  <p class=Default style='margin-left:33.2pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Projects implemented in Electricity – Distribution Domain -- Network improvement behind the Meter, Network Operators, System Operators Level, Rural Areas Projects</span></p>
   <p class=Default style='margin-left:33.2pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Successful projects implemented in Domains such as Electricity Generation, Transmission, ESS etc.</span></p>
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom: 0cm;margin-left:33.2pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"'>Projects implemented in Smart Gas Distribution, Smart Water Distribution, etc.</span></p>
   </td>
@@ -325,7 +315,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
   <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>8</span></b></p>
   </td>
   <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Waste-to-Energy, including Waste to CNG, Waste to Biogas Projects (W2E)</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Waste-to-Energy Projects (W2E)</span></p>
   </td>
   <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Municipalities and Project Developers who have successfully implemented W2E projects are eligible to apply</span></p>
@@ -342,11 +332,10 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
   <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><a name="_Hlk156900601"><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Woman in Energy and Utilities</span></a></p>
   </td>
   <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Outstanding Women personalities in the energy and utility sector who have made significant contribution to the growth of the sector</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><b><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>(Women Entrepreneurs are encouraged to apply for ISGF Innovation Awards)</span></b></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Women personalities in the energy and utility sector who have made significant contribution to the growth of the sector</span></p>
   </td>
   <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award category will recognize individual women who have made substantial contributions in the areas covered under any of the above 9 award categories. i.e. power / utility sector/ technology provider/ implementing agency; OR has built a successful start-up that is growing successfully; OR Has promoted initiatives focused on areas such as policy reform, innovative technology adoption, innovative financing etc. in the power sector.</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award category will recognize individual women who have made substantial contributions in the areas covered under any of the above 8 award categories. i.e. power / utility sector/ technology provider/ implementing agency; OR has built a successful start-up that is growing successfully; OR Has promoted initiatives focused on areas such as policy reform, innovative technology adoption, innovative financing etc. in the power sector.</span></p>
   </td>
  </tr>
  <tr style='height:49.15pt'>
@@ -382,7 +371,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
     <div id="flush-collapeight" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
 <!--<H4 style="color: green;"><strong>Important Notes for Nomination Eligibility:<strong></style></H4>-->
-<P>1. <b>One Project can only be submitted in one category (only).</b> Nomination Submitting Party has to decide the best category suitable for winning the award relevant to the project and submit the nomination accordingly. In case of two nominations are received for the same project, the second nomination (as per the date and time) will be considered invalid. In case a Utility and Implementing Agency submits the nomination for same project, it will be taken forward as joint Nomination.</P>
+<P>1. <b>One Project can only be submitted in one category (only).</b> Nomination Submitting Party has to decide the best category suitable for winning the award relevant to the project and submit the nomination accordingly. In case of two nominations are received for the same project, the second nomination (as per the date and time) will be considered invalid.</P>
 <p>2. ISGF holds the right to change the category of nomination in case same is proposed by Jury members</p>
 <P>3. <b>All the Project Nominations should be successfully completed projects.</b> Projects at idea/design/implementation stage will not be considered.</P>
 <P>4. <b>Project should be completed within the past 5 years</b></P>
@@ -401,7 +390,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <!--<H4 style="color: green;"><strong>Who can Participate?<strong></style></H4>-->
 <P>1. Individuals or organizations as per details in the above table can apply.</P>
 <p>2. Nominations are invited from Indian Companies/Utilities and Companies/organizations working on Projects in India.</p>
-<p>3. If you do not belong to any of the types of organizations mentioned in the "Who can apply?" list above, but still believe that your entry fits the category description then you are encouraged to write to us at <b><a href="mailto:awards@isuw.in">awards@isuw.in</a></b></p>
+<p>3. If you do not belong to any of the types of organizations mentioned in the "Who can apply?" list above, but still believe that your project/technology fits the category description then you are encouraged to write to us at <b><a href="mailto:awards@isuw.in">awards@isuw.in</a></b></p>
 </div></div></div></div>
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -475,37 +464,32 @@ and decide upon the winners.</P>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2026/AjayMathur.jpg" NAME="Picture 5" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			<P><FONT ><B>Mr. Ajay Mathur<br>Former Director General<br>International Solar Alliance (ISA)</B></FONT></P>
+			<P><FONT ><B>Mr. Ajay Mathur<br>Director General<br>International Solar Alliance (ISA)</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Dr. Ajay Mathur is the Former Director General of the International Solar Alliance (ISA), which is a one of its kind multilateral organisation established to catalyse global solar growth.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Dr. Ajay Mathur is the Director General of the International Solar Alliance (ISA), which is a one of its kind multilateral organisation established to catalyse global solar growth.</FONT></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Prior to joining ISA, Dr. Mathur was Director General of The Energy and Resources Institute (TERI), and a member of the Prime Minister of India's Council on Climate Change. He was co-chair of the global Energy Transitions Commission, and of the Clean Cooling Initiatives of the One Planet Summit. He earlier headed the Indian Bureau of Energy Efficiency and was responsible for its foundational programmes which mainstreamed energy efficiency through initiatives such as the Star Labelling program for appliances, the Energy Conservation Building Code, and the Perform, Achieve & Trade program for energy-intensive industries. He was a leading climate change negotiator and was the Indian spokesperson at the Paris climate negotiations. He served as the interim Director of the Green Climate Fund during its foundational period.</FONT></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Dr. Mathur received a bachelor's degree in chemical engineering from the (then) University of Roorkee, and Master's and PhD degrees from the University of Illinois. He has also received the Distinguished Alumnus Awards from both his alma maters. He was appointed a Chevalier de l'Ordre national du Merite by the President of France in recognition of his outstanding commitment to the preservation of the environment and coping with energy-related challenges.</FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2026/ArunGoyal.jpg" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P><FONT ><B>Mr. Arun Goyal<br>Former Member, Central Electricity Regulatory Commission<br>Former Secretary to the Government of India, Cabinet Secretariat<br>Former Special Secretary, GST Council</B></FONT></P>
+		</TD>
+		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+			<P ALIGN=JUSTIFY><FONT >Shri Arun Goyal, a retired 1985 batch IAS officer of the Union Territories Cadre, has nearly four decades of experience in power, finance, commerce, industry, regulation, and public administration. As a former Member of the Central Electricity Regulatory Commission, he played a key role in shaping critical regulations and adjudicating over 2,200 petitions. He was instrumental in Delhi's power sector reforms, including the unbundling of Delhi Vidyut Board and privatization of distribution. He also contributed to major national reforms like GST rollout and India's Financial Intelligence Unit. He has held key positions in the Cabinet Secretariat, PMO, and the Indian Embassy in Tokyo. An electrical engineer from Delhi College of Engineering, he also holds an MBA from IIM Ahmedabad and advanced degrees in Economics and Development Management.</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2026/AlokKumar.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			<P><FONT ><B>Mr. Alok Kumar<br>Former Secretary - Ministry of Power; and Director General, All India DISCOMs Association (AIDA)</B></FONT></P>
+			<P><FONT ><B>Mr. Alok Kumar<br>Director General<br>All India Discoms Association (AIDA)<br>Former Power Secretary, Government of India</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Mr. Alok Kumar is the presently working as Director General at AIDA and also serving as Director at Delhi with The Lantau Group (Singapore) Pte Ltd. In addition, he is Professor of Practice in the Department of Hydro and Renewable Energy at IIT Roorkee, and chairs the Inter-Ministerial Working Group set up by NITI Aayog to develop the power sector pathway to achieve India's Net Zero commitment.</FONT></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has had a 35-year-long career in public policy and economic development in India's premier federal civil service (IAS), reaching the distinguished position of Secretary in the National Government with extensive experience in electricity, renewable energy, energy transition, infrastructure development, and skill development domains. He has led several large commercial organisations as CEO, played a key role in the formulation and implementation of several national/state-level policies, programmes, and regulatory interventions, and successfully managed the operations of one of the largest power systems in the world while steering wide-ranging sectoral reforms.</FONT></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He also has a deep understanding of global energy transition aspects as chair of the G20 Energy Transitions Working Group.</FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2026/ArunGoyal.jpg" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			<P><FONT ><B>Mr. Arun Goyal<br>Former Secretary, Government of India and Former Member - CERC</B></FONT></P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY><FONT >Mr Arun Goyal is a 1985 batch retired officer of Indian Administrative Service officer belonging to the Union Territories Cadre. He is former Member of the Central Electricity Regulatory Commission and former Secretary to the Government of India.</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >In his last assignment as a Member in the Central Electricity Regulatory Commission, he played a key role in finalising important regulations such as the Grid Code, the 2024 Tariff Regulations, General Network Access Regulations, Power Market Regulations, Deviation Settlement Mechanism Regulations and adjudicated more than 2200 petitions.</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has extensive experience in the power sector and has served three tenures within Delhi's power sector, witnessing its different transformational phases. He played a key part in driving and stabilizing the historic power reforms in Delhi, which resulted in unbundling of the Delhi Vidyut Board and the privatization of the distribution.</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has nearly four decades of experience at the Central, State and Union Territory levels, across crucial domains such as power, finance, commerce, industry, regulatory affairs and public policy. He has contributed significantly to the major reforms and transitions in India including India's transition from GATT to WTO regime, rollout of the Goods and Services Tax (GST) and establishing India's Financial Intelligence Unit.</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Other important positions held by him include Secretary (Coordination) in the Cabinet Secretariat; Additional Secretary in the Prime Minister's Office, where he headed the Project Monitoring Group; Minister (Economic & Commercial) at the Embassy of India in Tokyo; and Secretary to the Lieutenant Governor in the Andaman & Nicobar Administration.</FONT></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He is a graduate in electrical engineering from Delhi College of Engineering, University of Delhi, an MBA (PGDM) from Indian Institute of Management, Ahmedabad. He also has an MA in Economics from HP University and MSc in Development Management from Glasgow Caledonian University, UK.</FONT></P>
 		</TD>
 	</TR>
 	<TR>
@@ -772,7 +756,7 @@ and decide upon the winners.</P>
 			<P ALIGN=JUSTIFY><B><FONT >JURY PRESENTATION (ROUND 2)</FONT></B></P>
 		</TD>
 		<TD WIDTH=644 BGCOLOR="white" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=JUSTIFY><FONT >Feb 2026 (Exact dates will be sent on email to selected Nominees)</FONT></P>
+			<P ALIGN=JUSTIFY><FONT >Feb 2025(Exact dates will be sent on email to selected Nominees </FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -874,7 +858,7 @@ and decide upon the winners.</P>
 	<LI><P><B><FONT >Email
 	Us for Queries :</B>Write to us at awards@isuw.in 
 	</font></P></li>
-	<LI><P><B><FONT >Please note:</B> Any Nomination Form and its Document's in Hard Copy or Email will not be accepted. Online submission is Mandatory. </font></P></li>
+	<LI><P><B><FONT >Please note:</B> Any Nomination Form and its Document’s in Hard Copy or Email will not be accepted. Online submission is Mandatory. </font></P></li>
 </UL>
 	</div>
     </div>
