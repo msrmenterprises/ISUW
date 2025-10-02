@@ -168,7 +168,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
     </h2>
     <div id="flush-collapseseven" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<P STYLE="margin-bottom: 0.11in"><FONT >For ISGF Innovation Awards 2025, the following award categories are open for nomination. Please refer below table for award categories and eligibility:</FONT></P>
+<P STYLE="margin-bottom: 0.11in"><FONT >For 10<sup>th</sup> ISGF Innovation Awards 2026, the following award categories are open for nominations: Please refer below table for award categories and eligibility:</FONT></P>
 
 <TABLE>
 	<TR VALIGN=TOP>
@@ -223,16 +223,26 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
   </td>
   <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
   <p class=Default><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Smart Technology</span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity – Distribution<br> - Network improvements in both Urban and Rural area;<br> - Behind The Meter (BTM) Innovations/ Projects<br> - Network Operations</span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity – Domains other than Distribution<br> - Generation<br> - Transmission,<br> - Energy Storage Systems (ESS)<br> - Others</span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>c.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Domains other than Electricity<br> - Smart Gas Distribution<br> - Smart Water Distribution<br> - Others</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity – Distribution</span></p>
+  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Network improvements in both Urban and Rural area;</span></p>
+  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Behind The Meter (BTM) Innovations/ Projects</span></p>
+  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Network Operations</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>b.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity – Domains other than Distribution</span></p>
+  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Generation</span></p>
+  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Transmission,</span></p>
+  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Energy Storage Systems (ESS)</span></p>
+  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Others</span></p>
+  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>c.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Domains other than Electricity</span></p>
+  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Smart Gas Distribution</span></p>
+  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Smart Water Distribution</span></p>
+  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"; color:windowtext'>Others</span></p>
   </td>
   <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Utilities, Project Developers and Operators, Technology Providers, Start-ups and Entrepreneurs</span></p>
   </td>
   <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award category will recognise successfully implemented smart technologies by following:</span></p>
-  <p class=Default style='margin-left:33.2pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Projects implemented in Electricity – Distribution Domain -- Network improvement behind the Meter, Network Operators, System Operators Level, Rural Areas Projects</span></p>
+  <p class=Default style='margin-left:33.2pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>a)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Projects implemented in Electricity – Distribution Domain – Network improvement behind the Meter, Network Operators, System Operators Level, Rural Areas Projects</span></p>
   <p class=Default style='margin-left:33.2pt;text-indent:-18.0pt'><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>b)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif";color:windowtext'>Successful projects implemented in Domains such as Electricity Generation, Transmission, ESS etc.</span></p>
   <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom: 0cm;margin-left:33.2pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height: normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>c)<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style='font-family:"Calibri Light","sans-serif"'>Projects implemented in Smart Gas Distribution, Smart Water Distribution, etc.</span></p>
   </td>
@@ -315,7 +325,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
   <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt; margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center; line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>8</span></b></p>
   </td>
   <td width="31%" valign=top style='width:31.36%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Waste-to-Energy Projects (W2E)</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Waste-to-Energy, including Waste to CNG, Waste to Biogas Projects (W2E)</span></p>
   </td>
   <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Municipalities and Project Developers who have successfully implemented W2E projects are eligible to apply</span></p>
@@ -332,10 +342,11 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
   <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><a name="_Hlk156900601"><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Woman in Energy and Utilities</span></a></p>
   </td>
   <td width="29%" valign=top style='width:29.06%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Women personalities in the energy and utility sector who have made significant contribution to the growth of the sector</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Outstanding Women personalities in the energy and utility sector who have made significant contribution to the growth of the sector</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><b><span lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>(Women Entrepreneurs are encouraged to apply for ISGF Innovation Awards)</span></b></p>
   </td>
   <td width="31%" valign=top style='width:31.78%;border-top:none;border-left: none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt; background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award category will recognize individual women who have made substantial contributions in the areas covered under any of the above 8 award categories. i.e. power / utility sector/ technology provider/ implementing agency; OR has built a successful start-up that is growing successfully; OR Has promoted initiatives focused on areas such as policy reform, innovative technology adoption, innovative financing etc. in the power sector.</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom: 0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award category will recognize individual women who have made substantial contributions in the areas covered under any of the above 9 award categories. i.e. power / utility sector/ technology provider/ implementing agency; OR has built a successful start-up that is growing successfully; OR Has promoted initiatives focused on areas such as policy reform, innovative technology adoption, innovative financing etc. in the power sector.</span></p>
   </td>
  </tr>
  <tr style='height:49.15pt'>
@@ -355,579 +366,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
  </tr>
 </table>
 
-<!-- <TABLE>
-	<TR VALIGN=TOP>
-		<TD WIDTH=7% BGCOLOR="#ed7d31" HEIGHT=26 STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=CENTER STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Sr
-			No</FONT></B></FONT></P>
-		</TD>
-		<TD WIDTH=26% BGCOLOR="#ed7d31" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Award
-			Categories</FONT></B></FONT></P>
-		</TD>
-		<TD WIDTH=23% BGCOLOR="#ed7d31" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Who
-			can Apply?</FONT></B></FONT></P>
-		</TD>
-		<TD WIDTH=44% BGCOLOR="#ed7d31" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P STYLE="margin-left: 0.1in; margin-right: 0.1in"><FONT COLOR="#ffffff"><B><FONT >Category
-			Focus</FONT></B></FONT></P>
-		</TD>
-	</TR>
- <tr style='height:141.25pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:141.25pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>1</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:141.25pt'>
-  <p class=Default><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Best Smart Grid Project in India </span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>a.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>Utility</span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>b.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>Technology
-  Company/Implementing Agency</span></p>
-  <p class=Default style='margin-left:36.0pt'><b><span style='font-family:"Calibri Light","sans-serif";
-  color:#E48312'>&nbsp;</span></b></p>
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:141.25pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Utilities<br>
-  (Public &amp; Private) OR Implementing Agencies OR Technology Companies</span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:141.25pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Electricity
-  Distribution Companies (DISCOMs) in India have executed several smart grid
-  projects. This category will recognize holistic implementation, integration,
-  and impact coming from successfully deployed solutions, rather than piece
-  meal modules. Nominations will be divided into two categories:</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>a)&nbsp;Utilities<br>
-  b)&nbsp;Technology Company/Implementing Agencies</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><b><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Please
-  note: For the ONE project, only ONE nomination will be accepted. Utility and
-  Implementing Agency can submit joint nomination if both are interested</span></b></p>
-  </td>
- </tr>
- <tr style='height:91.5pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:91.5pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>2</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:91.5pt'>
-  <p class=Default><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Most Innovative Renewable Energy Programs/Projects in India</span></p>
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:91.5pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Implementing
-  Agencies OR Technology Companies</span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:91.5pt'>
-  <p class=Default><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>This award category will recognise the innovative measures
-  adopted for the promotion of Renewable Energy by any Company/Agency in India</span><span
-  style='font-family:"Calibri Light","sans-serif"'> </span></p>
-  </td>
- </tr>
- <tr style='height:70.4pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>3</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
-  <p class=Default><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Smart Technology</span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>a.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity
-  – Distribution<br>
-  <br>
-  </span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>b.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electricity
-  – Domains other than Distribution</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span
-  style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Generation</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span
-  style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Transmission,</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span
-  style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Energy Storage Systems (ESS)</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span
-  style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Others<br>
-  <br>
-  </span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>c.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>Others </span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span
-  style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Smart Gas Distribution</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span
-  style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Smart Water Distribution</span></p>
-  <p class=Default style='margin-left:52.55pt;text-indent:-18.0pt'><span
-  style='font-family:Symbol;color:windowtext'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </span></span><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Others</span></p>
-  <p class=Default style='margin-left:36.0pt'><b><span style='font-family:"Calibri Light","sans-serif";
-  color:#E48312'>&nbsp;</span></b></p>
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Utilities,
-  Project Developers and Operators, Technology Providers, Start-ups and
-  Entrepreneurs</span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:70.4pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award
-  category will recognise successfully implemented smart technologies by following:</span></p>
-  <p class=Default style='margin-left:33.2pt;text-indent:-18.0pt'><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>a)<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>Projects
-  implemented in Electricity – Distribution Domain</span></p>
-  <p class=Default style='margin-left:33.2pt;text-indent:-18.0pt'><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>b)<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>Projects
-  implemented in Domains such as Electricity Generation, Transmission, ESS etc.
-  </span></p>
-  <p class=MsoListParagraph style='margin-top:0cm;margin-right:0cm;margin-bottom:
-  0cm;margin-left:33.2pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>c)<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-family:"Calibri Light","sans-serif"'>Other Projects implemented
-  in Smart Gas Distribution, Smart Water Distribution, etc.</span></p>
-  </td>
- </tr>
- <tr style='height:112.95pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:112.95pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>4</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:112.95pt'>
-  <p class=Default><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Emerging Innovation in Electric Mobility Domain</span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>a.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>Electric
-  Vehicle (2/3/4 Wheelers, Buses, Trucks, Tractors, Boats/ Ferries, Drones etc)
-  and Battery for Electric Mobility</span></p>
-  <p class=Default style='margin-left:36.0pt;text-indent:-18.0pt'><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>b.<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-family:"Calibri Light","sans-serif";color:windowtext'>EV and EVSE
-  Rollouts including New Business Models</span><span style='font-family:"Calibri Light","sans-serif";
-  color:#E48312'> </span></p>
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:112.95pt'>
-  <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:22.6pt;margin-bottom:.0001pt;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>a)<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Manufacturers
-  of Electric Vehicle (2/3/4 Wheelers, Buses, Trucks, Tractors, Boats/ Ferries,
-  Drones etc) and Battery Manufacturers</span></p>
-  <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:22.6pt;margin-bottom:.0001pt;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>b)<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Agencies
-  who have operationalized large fleet of EVs – Buses, Taxis and 3 Wheelers </span></p>
-  <p class=MsoListParagraphCxSpMiddle style='margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:22.6pt;margin-bottom:.0001pt;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>c)<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Organisations
-  who have rolled out EV Charging Infrastructure</span></p>
-  <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:22.6pt;margin-bottom:.0001pt;text-indent:-14.15pt;
-  line-height:normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>d)<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp; </span></span><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Companies
-  who support the rollout of Electric Mobility in India through their innovative
-  solutions, technologies, software platforms etc</span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:112.95pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This Award
-  category recognizes the most innovative EV and EVSE Design, Manufacture and
-  Rollouts in India </span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Please note:
-  </span></p>
-  <p class=MsoListParagraphCxSpFirst style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:12.0pt;font-family:Symbol'>-<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Only OEMs,
-  Fleet Operators and Public Transport Companies are eligible to submit
-  Nominations in this category </span></p>
-  <p class=MsoListParagraphCxSpLast style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:43.5pt;margin-bottom:.0001pt;text-indent:-18.0pt;
-  line-height:normal'><span style='font-size:12.0pt;font-family:Symbol'>-<span
-  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Nomination of
-  projects at design stage will not be accepted</span></p>
-  </td>
- </tr>
- <tr style='height:202.25pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:202.25pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>5</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:202.25pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Adoption
-  of Artificial Intelligence, Machine Learning and Robotic Solutions </span></p>
-  
-  <p class="Default" style="margin-left:36.0pt;text-indent:-18.0pt">
-	<span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">a.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">
-	Utility</span></p>
 
-  <p class="Default" style="margin-left:36.0pt;text-indent:-18.0pt">
-	<span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">b.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family:&quot;Calibri Light&quot;,&quot;sans-serif&quot;;color:windowtext">
-	Industry/Technology Provider</span></p>
- 
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:202.25pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Utilities<br>
-  (Public &amp; Private) OR Project Developers and Operators, Technology
-  Providers, Start-ups and Entrepreneurs</span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:202.25pt'>
-  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Calibri Light","sans-serif"'>DISCOMs in
-  India have adopted and implemented advanced solutions with Artificial
-  Intelligence, Machine Learning and Robotics Technologies</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-family:"Calibri Light","sans-serif"'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-family:"Calibri Light","sans-serif"'>This category will recognize
-  holistic implementation, integration, and impact coming from deployed
-  solutions using the </span><span style='font-family:"Calibri Light","sans-serif"'>Artificial
-  Intelligence, Machine Learning and Robotic technologies</span></p>
-  </td>
- </tr>
- <tr style='height:101.1pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:101.1pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>6</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:101.1pt'>
-  <p class=Default><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Smart Start-up of the Year</span><b><span style='font-family:
-  "Calibri Light","sans-serif";color:#E48312'><br>
-  <br>
-  </span></b></p>
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:101.1pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Start – ups
-  with demonstrated solutions for utilities (Electricity, Electric Mobility,
-  Gas and Water)</span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:101.1pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award
-  category recognizes technology start-ups (revenue less than INR 100 crores in
-  financial year <span style='background:white'>2023-2024)</span>, that have
-  helped solving issues mainly for utilities and have enabled them and their
-  end-customers to become efficient and smarter.</span></p>
-  </td>
- </tr>
- <tr style='height:110.6pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>7</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=Default><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>Smart Incubator of the Year</span></p>
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Incubators,
-  Entrepreneurship Cells (E-Cell)</span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>There are
-  many incubators in India that are hosted and supported by Government,
-  Academia, Industrial bodies, Corporate and others. They continue to play a
-  strong role in aiding start-up ecosystem and promoting innovation. This award
-  recognizes their contributions to the power sector.</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'> </span></p>
-  </td>
- </tr>
- <tr style='height:110.6pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>8</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Innovative
-  Financing For Energy Transition</span></p>
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Angel
-  Investors, Venture Capital Funds, Family Offices, Private Equity Funds,
-  Development Financing Institutions, Philanthropic Funding Institutes, other </span><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Funding
-  Agencies/Companies who have financed </span><span lang=EN-US
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>large RE,
-  EV and other Clean Energy Projects and Technologies</span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This award
-  category recognizes funding Agencies and Companies who have funded First of a
-  kind (FOAK), Innovative and </span><span lang=EN-US style='font-size:12.0pt;
-  font-family:"Calibri Light","sans-serif"'>large RE, EV and other Clean Energy
-  Projects as well as those funded break-through technologies that have the
-  potential to drive energy transition.</span></p>
-  </td>
- </tr>
- <tr style='height:110.6pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>9</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Waste-to-Energy
-  Projects (W2E)</span></p>
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Municipalities
-  and Project Developers who have successfully implemented W2E projects are
-  eligible to apply<br>
-  <span style='color:#222222'><br>
-  <br>
-  </span></span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This Award
-  Category recognizes the </span><span lang=EN-US style='font-size:12.0pt;
-  font-family:"Calibri Light","sans-serif"'>Successful and Sustainable W2E
-  projects that are completed and running for a minimum period of 1 year as of <b>31
-  December 2023</b></span></p>
-  </td>
- </tr>
- <tr style='height:110.6pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>10</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;line-height:normal'><a
-  name="_Hlk156900601"><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Woman
-  in </span></a><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Energy
-  and Utilities</span></p>
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  lang=EN-US style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Women
-  personalities in the energy and utility sector who have made significant
-  contribution to the growth of the sector</span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:110.6pt'>
-  This
-  award category will recognize
-  individual women who
-  have made substantial contributions
-  in the areas covered under any of the above 9 award categories. i.e. power /
-  utility sector/ technology provider/ implementing agency; OR has built a
-  successful start-up that is growing successfully;
-  OR Has
-  promoted initiatives focused on areas such as policy
-  reform, innovative technology
-  adoption, innovative
-  financing etc. in the power sector.
-  </td>
- </tr>
- <tr style='height:49.15pt'>
-  <td width="7%" valign=top style='width:7.8%;border:solid #BFBFBF 1.0pt;
-  border-top:none;background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:49.15pt'>
-  <p class=MsoNormal align=center style='margin-top:0cm;margin-right:7.5pt;
-  margin-bottom:0cm;margin-left:7.5pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal'><b><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>11</span></b></p>
-  </td>
-  <td width="31%" valign=top style='width:31.36%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:49.15pt'>
-  <p class=Default><span style='font-family:"Calibri Light","sans-serif";
-  color:windowtext'>ISGF President’s Award for the Best
-  Contribution&nbsp;towards Energy Transition in India</span></p>
-  </td>
-  <td width="29%" valign=top style='width:29.06%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:49.15pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Awardees
-  will be selected by ISGF, nominations not required</span></p>
-  </td>
-  <td width="31%" valign=top style='width:31.78%;border-top:none;border-left:
-  none;border-bottom:solid #BFBFBF 1.0pt;border-right:solid #BFBFBF 1.0pt;
-  background:#F2F2F2;padding:0cm 5.4pt 0cm 5.4pt;height:49.15pt'>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>This
-  Category recognizes </span><span style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>the
-  Best Contributions&nbsp;towards growth of Smart Grids, Clean Energy and
-  Electric Mobility in India and Winners are chosen by ISGF</span><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'> </span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>&nbsp;</span></p>
-  <p class=MsoNormal style='margin-top:0cm;margin-right:7.5pt;margin-bottom:
-  0cm;margin-left:7.5pt;margin-bottom:.0001pt;line-height:normal'><b><span
-  style='font-size:12.0pt;font-family:"Calibri Light","sans-serif"'>Please
-  note: Nominations are not invited for this category</span></b></p>
-  </td>
- </tr>
-</table> -->
 
 
 
@@ -943,7 +382,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
     <div id="flush-collapeight" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
 <!--<H4 style="color: green;"><strong>Important Notes for Nomination Eligibility:<strong></style></H4>-->
-<P>1. <b>One Project can only be submitted in one category (only).</b> Nomination Submitting Party has to decide the best category suitable for winning the award relevant to the project and submit the nomination accordingly. In case of two nominations are received for the same project, the second nomination (as per the date and time) will be considered invalid.</P>
+<P>1. <b>One Project can only be submitted in one category (only).</b> Nomination Submitting Party has to decide the best category suitable for winning the award relevant to the project and submit the nomination accordingly. In case of two nominations are received for the same project, the second nomination (as per the date and time) will be considered invalid. In case a Utility and Implementing Agency submits the nomination for same project, it will be taken forward as joint Nomination.</P>
 <p>2. ISGF holds the right to change the category of nomination in case same is proposed by Jury members</p>
 <P>3. <b>All the Project Nominations should be successfully completed projects.</b> Projects at idea/design/implementation stage will not be considered.</P>
 <P>4. <b>Project should be completed within the past 5 years</b></P>
@@ -962,7 +401,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <!--<H4 style="color: green;"><strong>Who can Participate?<strong></style></H4>-->
 <P>1. Individuals or organizations as per details in the above table can apply.</P>
 <p>2. Nominations are invited from Indian Companies/Utilities and Companies/organizations working on Projects in India.</p>
-<p>3. If you do not belong to any of the types of organizations mentioned in the "Who can apply?" list above, but still believe that your project/technology fits the category description then you are encouraged to write to us at <b><a href="mailto:awards@isuw.in">awards@isuw.in</a></b></p>
+<p>3. If you do not belong to any of the types of organizations mentioned in the "Who can apply?" list above, but still believe that your entry fits the category description then you are encouraged to write to us at <b><a href="mailto:awards@isuw.in">awards@isuw.in</a></b></p>
 </div></div></div></div>
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -985,63 +424,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 	<LI>Winners will be featured in ISGF Bulletin, India Smart Utility Week Post Event Reports, ISGF Annual Report, ISGF Social Media and India Smart Grid Knowledge Portal (<a href="http://www.indiasmartgrid.org" target="_blank">www.indiasmartgrid.org</a>) which would help them to get recognition nationally and internationally</LI>
 </OL>
 </div></div></div></div>
-<!-- <div class="accordion accordion-flush" id="accordionFlushExample">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="flush-headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapeight" aria-expanded="false" aria-controls="flush-collapeight">
-       <H4 style="color: green;"><strong>Important Notes for Nomination Eligibility </strong></style></H4>
-      </button>
-    </h2>
-    <div id="flush-collapeight" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">
 
-<P>1.	<b>One Project can only be submitted in one category (only).</b> Nomination Submitting Party has to decide the best category suitable for winning the award relevant to the project and submit the nomination accordingly. In case of two nominations are received, second nomination as per the date and time will be considered invalid. </P>
-<p>2.	ISGF holds the right to change the category of nomination in case same is proposed by Jury members</p>
-<P><b>3.	All the Project Nominations should be successfully completed projects. Projects at idea/design/implementation stage will not be considered</P>
-<P><b>4.	No Nominations are invited for category: ISGF President’s Award for the Best Contribution towards Energy Transition in India</P>
-<P><b>5.	In case you feel that your project deserves an award, but it is not fitting into any category – please write to us at <a href="mailto:awards@isuw.in">Mail to awards@isuw.in</a></P>
-</div></div></div></div>
-<p></p>
-<div class="accordion accordion-flush" id="accordionFlushExample">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="flush-headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsenine" aria-expanded="false" aria-controls="flush-collapsenine">
-       <H4 style="color: green;"><strong>Who can Participate? </strong></style></H4>
-      </button>
-    </h2>
-    <div id="flush-collapsenine" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">
-
-<P>1.	Individuals or organizations as per details in the above table can apply</p>
-<p>2.	Nominations are invited from Indian Companies/Utilities and Companies/organizations working on Projects in India</p>
-<p>3.	 If you do not belong to any of the types of organizations mentioned in the “Who can apply?” list above, but still believe that your entry fits the category description then you are encouraged to write to us at <B><a href="awards@isuw.in">awards@isuw.in</a></B></P>
-</div></div></div></div>
-<p></p>
-<div class="accordion accordion-flush" id="accordionFlushExample">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="flush-headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseten" aria-expanded="false" aria-controls="flush-collapseten">
-       <H4 style="color: green;"><strong>Benefits of Participation? </strong></style></H4>
-      </button>
-    </h2>
-    <div id="flush-collapseten" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-      <div class="accordion-body">
-
-<OL>
-	<LI>To get your contributions and achievements to the sector recognized on a credible platform</li>
-	<LI>To share the learnings made by you or your organization for broader industry benefits</li>
-	<LI>To encourage other individuals and organizations to adopt best practices and learn from peers</li>
-	<LI>To gain competitive edge and provide a tangible point of difference over competitors</li>
-	<LI>To strengthen public relations and prompt media to communicate positive message about you
-and your organization by sharing success stories</li>
-	<LI>The winners will be felicitated in front of International Experts and Chief Guests from
-Government, Utility and Industry</li>
-	<LI>Winners will be featured in ISGF Bulletin, India Smart Utility Week Post Event Reports, ISGF
-Annual Report, ISGF Social Media and India Smart Grid Knowledge Portal which would help
-them to get recognition nationally and internationally</li>
-
-</OL>
-</div></div></div></div> -->
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">
@@ -1092,32 +475,37 @@ and decide upon the winners.</P>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2026/AjayMathur.jpg" NAME="Picture 5" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			<P><FONT ><B>Mr. Ajay Mathur<br>Director General<br>International Solar Alliance (ISA)</B></FONT></P>
+			<P><FONT ><B>Mr. Ajay Mathur<br>Former Director General<br>International Solar Alliance (ISA)</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Dr. Ajay Mathur is the Director General of the International Solar Alliance (ISA), which is a one of its kind multilateral organisation established to catalyse global solar growth.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Dr. Ajay Mathur is the Former Director General of the International Solar Alliance (ISA), which is a one of its kind multilateral organisation established to catalyse global solar growth.</FONT></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Prior to joining ISA, Dr. Mathur was Director General of The Energy and Resources Institute (TERI), and a member of the Prime Minister of India's Council on Climate Change. He was co-chair of the global Energy Transitions Commission, and of the Clean Cooling Initiatives of the One Planet Summit. He earlier headed the Indian Bureau of Energy Efficiency and was responsible for its foundational programmes which mainstreamed energy efficiency through initiatives such as the Star Labelling program for appliances, the Energy Conservation Building Code, and the Perform, Achieve & Trade program for energy-intensive industries. He was a leading climate change negotiator and was the Indian spokesperson at the Paris climate negotiations. He served as the interim Director of the Green Climate Fund during its foundational period.</FONT></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Dr. Mathur received a bachelor's degree in chemical engineering from the (then) University of Roorkee, and Master's and PhD degrees from the University of Illinois. He has also received the Distinguished Alumnus Awards from both his alma maters. He was appointed a Chevalier de l'Ordre national du Merite by the President of France in recognition of his outstanding commitment to the preservation of the environment and coping with energy-related challenges.</FONT></P>
 		</TD>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2026/ArunGoyal.jpg" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			<P><FONT ><B>Mr. Arun Goyal<br>Former Member, Central Electricity Regulatory Commission<br>Former Secretary to the Government of India, Cabinet Secretariat<br>Former Special Secretary, GST Council</B></FONT></P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY><FONT >Shri Arun Goyal, a retired 1985 batch IAS officer of the Union Territories Cadre, has nearly four decades of experience in power, finance, commerce, industry, regulation, and public administration. As a former Member of the Central Electricity Regulatory Commission, he played a key role in shaping critical regulations and adjudicating over 2,200 petitions. He was instrumental in Delhi's power sector reforms, including the unbundling of Delhi Vidyut Board and privatization of distribution. He also contributed to major national reforms like GST rollout and India's Financial Intelligence Unit. He has held key positions in the Cabinet Secretariat, PMO, and the Indian Embassy in Tokyo. An electrical engineer from Delhi College of Engineering, he also holds an MBA from IIM Ahmedabad and advanced degrees in Economics and Development Management.</FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2026/AlokKumar.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			<P><FONT ><B>Mr. Alok Kumar<br>Director General<br>All India Discoms Association (AIDA)<br>Former Power Secretary, Government of India</B></FONT></P>
+			<P><FONT ><B>Mr. Alok Kumar<br>Former Secretary - Ministry of Power; and Director General, All India DISCOMs Association (AIDA)</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Mr. Alok Kumar is the presently working as Director General at AIDA and also serving as Director at Delhi with The Lantau Group (Singapore) Pte Ltd. In addition, he is Professor of Practice in the Department of Hydro and Renewable Energy at IIT Roorkee, and chairs the Inter-Ministerial Working Group set up by NITI Aayog to develop the power sector pathway to achieve India's Net Zero commitment.</FONT></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has had a 35-year-long career in public policy and economic development in India's premier federal civil service (IAS), reaching the distinguished position of Secretary in the National Government with extensive experience in electricity, renewable energy, energy transition, infrastructure development, and skill development domains. He has led several large commercial organisations as CEO, played a key role in the formulation and implementation of several national/state-level policies, programmes, and regulatory interventions, and successfully managed the operations of one of the largest power systems in the world while steering wide-ranging sectoral reforms.</FONT></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He also has a deep understanding of global energy transition aspects as chair of the G20 Energy Transitions Working Group.</FONT></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2026/ArunGoyal.jpg" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P><FONT ><B>Mr. Arun Goyal<br>Former Secretary, Government of India and Former Member - CERC</B></FONT></P>
+		</TD>
+		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+			<P ALIGN=JUSTIFY><FONT >Mr Arun Goyal is a 1985 batch retired officer of Indian Administrative Service officer belonging to the Union Territories Cadre. He is former Member of the Central Electricity Regulatory Commission and former Secretary to the Government of India.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >In his last assignment as a Member in the Central Electricity Regulatory Commission, he played a key role in finalising important regulations such as the Grid Code, the 2024 Tariff Regulations, General Network Access Regulations, Power Market Regulations, Deviation Settlement Mechanism Regulations and adjudicated more than 2200 petitions.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has extensive experience in the power sector and has served three tenures within Delhi's power sector, witnessing its different transformational phases. He played a key part in driving and stabilizing the historic power reforms in Delhi, which resulted in unbundling of the Delhi Vidyut Board and the privatization of the distribution.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He has nearly four decades of experience at the Central, State and Union Territory levels, across crucial domains such as power, finance, commerce, industry, regulatory affairs and public policy. He has contributed significantly to the major reforms and transitions in India including India's transition from GATT to WTO regime, rollout of the Goods and Services Tax (GST) and establishing India's Financial Intelligence Unit.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >Other important positions held by him include Secretary (Coordination) in the Cabinet Secretariat; Additional Secretary in the Prime Minister's Office, where he headed the Project Monitoring Group; Minister (Economic & Commercial) at the Embassy of India in Tokyo; and Secretary to the Lieutenant Governor in the Andaman & Nicobar Administration.</FONT></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT >He is a graduate in electrical engineering from Delhi College of Engineering, University of Delhi, an MBA (PGDM) from Indian Institute of Management, Ahmedabad. He also has an MA in Economics from HP University and MSc in Development Management from Glasgow Caledonian University, UK.</FONT></P>
 		</TD>
 	</TR>
 	<TR>
@@ -1384,7 +772,7 @@ and decide upon the winners.</P>
 			<P ALIGN=JUSTIFY><B><FONT >JURY PRESENTATION (ROUND 2)</FONT></B></P>
 		</TD>
 		<TD WIDTH=644 BGCOLOR="white" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=JUSTIFY><FONT >Feb 2025(Exact dates will be sent on email to selected Nominees </FONT></P>
+			<P ALIGN=JUSTIFY><FONT >Feb 2026 (Exact dates will be sent on email to selected Nominees)</FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -1441,25 +829,7 @@ and decide upon the winners.</P>
     </div>
   </div>
   </div>
-<!--<H4 style="color: green;"><strong>Terms &amp; Conditions </strong></style>
-</H4>
-<OL>
-		<LI><P><FONT >Participants can be utilities, individuals or any registered company /organization</font></P></LI>
-		<LI><P><FONT >At the time of submitting the application, please ensure that you have provided all the necessary details. Incomplete applications will not be accepted</font></P></LI>
-		<LI><P><FONT >The submissions will be evaluated on the criteria as specified in the evaluation criterion section</font></P></LI>
-		<LI><P><FONT >All documents submitted shall be used only for evaluation purposes</font></P></LI>
-		<LI><P><FONT >ISGF reserves the right to reject any entry based on its discretion</font></P></LI>
-		<LI><P><FONT >ISGF reserves the right to cancel or amend all or any part of the competition and/ or the rules</font></P></LI>
-		<LI><P><FONT >Any changes to the rules, or cancellation of the competition, will be posted on the contest page on ISGF/ISUW portals. It is the responsibility of the participants to keep themselves informed as to any changes to the rules</font></P></LI>
-		<LI><P><FONT >ISGF team and partners will not be held responsible if the participants are not able to submit their entries on ISGF portal by email before the last date & time of submission for any reason whatsoever</font></P></LI>
-		<LI><P><FONT >ISGF accepts no responsibility for any damage, loss or injury of any kind suffered by any participant in participating in the Award, including as a result of any participant winning or not winning any prize</font></P></LI>
-		<LI><P><FONT >The jury of the ISGF Innovation Award 2021 shall have the final authority in determining the winner of the award in each category. The decision of the Jury shall be final, conclusive and binding, the winner or any other person shall have no legal or any other rights to contest or dispute the decision of the jury</font></P></LI>
-		<LI><P><FONT >In the event that no Participant in a category is found to be worthy of an award by the Jury, the Award category may be cancelled by the Jury</font></P></LI>
-		<LI><P><FONT >The award category nomination selected in the nomination form can be changed to other award category by ISGF based on the information provided in the form. The change in award category nomination will be communicated by the ISGF team to the respective nominees</font></P></LI>
-		<LI><P><FONT >The nominee accepts that content of the nomination form, photography / video recording during and after the event can be used by the ISGF and partners for purpose of producing editorial content and advertising materials</font></P></LI>
-		<LI><P><FONT >All prizes are non-transferable</font></P></LI>
-		<LI><P><FONT >By registering for participation in the Contest, the Participant(s) warrant that:</font></P></LI>
-	</OL>-->
+
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">
@@ -1504,27 +874,13 @@ and decide upon the winners.</P>
 	<LI><P><B><FONT >Email
 	Us for Queries :</B>Write to us at awards@isuw.in 
 	</font></P></li>
-	<LI><P><B><FONT >Please note:</B> Any Nomination Form and its Document’s in Hard Copy or Email will not be accepted. Online submission is Mandatory. </font></P></li>
+	<LI><P><B><FONT >Please note:</B> Any Nomination Form and its Document's in Hard Copy or Email will not be accepted. Online submission is Mandatory. </font></P></li>
 </UL>
 	</div>
     </div>
   </div>
   </div>
-<!--<H4 style="color: green;"><strong>How to Apply? </strong></style></H4>
-<IMG SRC="http://www.isuw.in/beta/wp-content/uploads/2020/11/process2.jpg"></img>
-<br/>-->
-<!--<UL class="theme">
-	<LI><P><B>Read Details:</B><FONT >Visit our
-	website: <A HREF="http://www.isuw.in">www.isuw.in</A></font></P></li>
-	<LI><P><B><FONT >Identify
-	your Category:</B>Read thoroughly the website page and understand the Nomination Categories table with details regarding the award category, eligibility and description. (In case of doubt, please feel free to reach us)</font></P></li>
-	<LI><P><B><FONT >Fill
-	the Nomination Form Online and Submit: </B>Fill each and every detail as asked by us for evaluation of your Nomination by Juries</font></P></li>
-	<LI><P><B><FONT >Email
-	Us for Queries :</B>Write to us at awards@isuw.in 
-	</font></P></li>
-	<LI><P><B><FONT >Please note:</B> Any Nomination Form and its Document’s in Hard Copy or Email will not be accepted. Online submission is Mandatory. </font></P></li>
-</UL>-->
+
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">
@@ -1547,29 +903,7 @@ and decide upon the winners.</P>
   </div>
   </div>
   <p></p>
-  <!--<div class="accordion accordion-flush" id="accordionFlushExample">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="flush-headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsesocial" aria-expanded="false" aria-controls="flush-collapsesocial">
-       <H4 style="color: green;"><strong>Social Media Voting Round for Year 2023</strong></style></H4>
-      </button>
-    </h2>
-    <div id="flush-collapsesocial" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-      <p></p>
-      <h4 style="color: green;"><strong>ISGF Innovation Awards 2023 | Cast your Vote for your Favorite Project   </strong></h4>
-<p></p>
-<p><a href="https://isuw.in/votenowisgf/" class="getstartedd ">VOTE FOR ISGF INNOVATION AWARDS</a>	</p>	
-<p></p>
-    </div>
-  </div>
-  </div>-->
-<!--<H4 style="color: green;"><strong>How to Reach Us?</strong></style></H4>
-<P><B><FONT >ISGF Award Secretariat |
-</B>For more details, Winner selection procedure and to submit Nomination, please visit: 
-<a href="http://www.isuw.in/beta/innovation-awards-2022/">http://www.isuw.in/beta/innovation-awards-2022/</a></font><br/>
-Direct link for nomination form:  <a href="https://forms.gle/b4FUecBSEo41NxoB8" target="_blank" rel="noopener noreferrer">https://forms.gle/b4FUecBSEo41NxoB8</a><br/>
-Last date to apply for Online Nominations is  <b>15 Dec 2022</b><br/>
-For queries, please write to us at <a href="mailto:awards@isuw.in">awards@isuw.in</a></p>-->
+  
 <p></p>
 <h5>To view ISGF Innovation Awards 2024 Winners, please visit  - <a href="https://isuw.in/winners-innovation-awards-2024/" target="_blank" rel="noopener">https://isuw.in/winners-innovation-awards-2024/</a></h4>
 <h5>To view ISGF Innovation Awards 2023 Winners, please visit  - <a href="https://isuw.in/winners-innovation-awards-2023/" target="_blank" rel="noopener">https://isuw.in/winners-innovation-awards-2023/</a></h4>
