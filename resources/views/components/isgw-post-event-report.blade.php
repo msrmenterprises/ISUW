@@ -15,7 +15,7 @@
 <!-- Reports box: two columns -->
 <div class="reports-box" style="max-width:980px;margin:20px auto;padding:18px;border:1px solid #e1e1e1;border-radius:8px;background:#fff;box-shadow:0 2px 8px rgba(0,0,0,0.03);">
 	<div style="display:flex;flex-wrap:wrap;gap:12px;align-items:flex-start;">
-		<div style="flex:1 1 60%;min-width:240px;font-weight:700;">Particulars</div>
+		<div style="flex:1 1 50%;min-width:240px;font-weight:700;">Particulars</div>
 		<div style="flex:0 0 40%;min-width:180px;text-align:right;font-weight:700;">Read / Download Reports</div>
 	</div>
 
