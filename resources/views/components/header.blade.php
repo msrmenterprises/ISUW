@@ -45,7 +45,7 @@
 					 <li><a href="/isuw-2025-brochure" target="_blank">Brochure</a></li>
                      <li><a href="/about-organizer" target="_blank">About Organizer</a></li> 
 					  <!--<li><a href="/isuw-2021">ISUW 2021</a></li>-->
-					  <li><a href="/isgw-post-event-report" target="_blank">Last Edition Post Event Report</a></li>
+					  <li><a href="/isgw-post-event-report" target="_blank">ISUW Post Event report</a></li>
                   </ul>
                </li>
 			     <li class="dropdown">
