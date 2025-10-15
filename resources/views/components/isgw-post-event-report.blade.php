@@ -27,6 +27,9 @@
 .reports-table .row { display:flex; gap:12px; align-items:center; }
 .reports-table .col-left { flex: 1 1 60%; min-width:220px; font-weight:600; }
 .reports-table .col-right { flex: 0 0 260px; text-align:right; }
+.reports-table .row.header { background: #8cc63e; color: #fff; padding: 10px; border-radius: 6px; }
+.reports-table .row.header .col-left,
+.reports-table .row.header .col-right { color: #fff; font-weight:700; }
 .reports-table .divider { margin:12px 0; border-top:1px dashed #e6e6e6; }
 .reports-table a.pdf-link { color:#0a58ca; text-decoration:none; font-weight:600; }
 .reports-table a.pdf-link:hover { text-decoration:underline; }
