@@ -40,7 +40,7 @@
 </style>
 
 <div class="reports-table" role="region" aria-label="ISUW reports">
-	<div class="row" style="margin-bottom:6px;">
+		<div class="row header" style="margin-bottom:6px;">
 		<div class="col-left">Particulars</div>
 		<div class="col-right">Read / Download Reports</div>
 	</div>
