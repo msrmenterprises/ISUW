@@ -42,6 +42,35 @@
                <div class="col-lg-3">
 
                   <div class="card-box">
+
+                     <div class="ministry">
+                        <h2>SUPPORTING <br> 
+                        MINISTRIES 2026
+                        </h2>
+                        <!-- <div class="logo-div">
+                           <p>
+                              <a href="https://powermin.gov.in/">
+                                 <img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MOP Golden.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" />
+                              </a>  
+                           </p>
+                        </div> -->
+                        <div class="logo-div"><a href="https://niti.gov.in/" target="_blank"><img class="aligncenter" src="http://www.isuw.in/public/uploads/ministries/NITI Aayog.jpg" alt="Ministry of Commerce" width="150" height="158"></a></div>
+                        <!-- <div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/CEA PNG.png" alt="Ministry of Power" width="219" max-height="158" /></a></p></div>
+                        <div class="logo-div"><p><a href="https://mnre.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MNRE GOLDEN.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div>
+                        <div class="logo-div"><p><a href="https://dst.gov.in/" target="_blank"><img class="aligncenter  wp-image-38077" src="images/2025/DSTGold.png" alt="Ministry" style="width:219px; max-height:170px;"  /></a></p></div>
+
+                        <br/>
+                        <h2>Conference Session Partners</h2>
+                        <div class="col-lg-12"><div class="logo-div"><a href="https://www.cdri.world/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/CDRI.jpg" alt="TIE"></a></div></div>
+                        <div class="col-lg-12"><div class="logo-div"><a href="https://www.indiabrazilchamber.org/home" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/IBCoC.png" alt="TIE"></a></div></div>
+                        <div class="col-lg-12"><div class="logo-div"><a href="https://www.smartgrid.com.br/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/LATAM.png" alt="TIE"></a></div></div>
+                        <div class="col-lg-12"><div class="logo-div"><a href="https://sscgj.in/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/SCGJ.png" alt="TIE"></a></div></div>
+                        <div class="col-lg-12"><div class="logo-div"><a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/UKGovSTACKRGB.png" alt="TIE"></a></div></div>
+                        <div class="col-lg-12"><div class="logo-div"><a href="https://pjci.idremember.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="https://pjci.idremember.com/wp-content/uploads/2022/05/download__1_-removebg-preview.png" alt="TIE"></a></div></div> -->
+                        
+                     
+                     </div>
+
                      <div class="ministry">
                         <h2>SUPPORTING <br> 
                         MINISTRIES 2025
@@ -172,6 +201,25 @@
                      </div>
                      <h2 class="mt-4">Key Partners 2026
                      </h2>
+                     
+
+                     <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                           <div class="logo-title">
+                              <h4>Platinum Partner</h4>
+                           </div>
+                        </div>
+                        
+                           <div class="col-lg-4">
+                              <a href="https://www.sew.ai/" target="_blank">
+                                 <div class="logo-div"><img src="/uploads/images/sew-water.png" class="logo-img " style="display:inline; height:60px">
+                                 </div>
+                              </a>
+                           </div>
+                        
+                        
+                     </div>
+
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
@@ -202,6 +250,13 @@
                               </div>
                            </a>
                         </div>
+                        <div class="col-lg-5">
+                           <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
+                                 <div class="logo-div">
+                                    <img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:50px">
+                                 </div>
+                              </a>
+                        </div>   
                         
                         
                      </div>
