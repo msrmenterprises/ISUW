@@ -259,7 +259,7 @@ Route::get('/isuw-2023-brochure', function () {
 Route::get('/isuw-2024-brochure', function () {
      return view('/components/isuw-2024-brochure');
 });
-Route::get('/isuw-2025-brochure', function () {
+Route::get('/isuw-brochure', function () {
      return view('/components/isuw-2025-brochure');
 });
 Route::get('/theme-and-session-partners-2021', function () {

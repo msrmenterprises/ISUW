@@ -8,7 +8,7 @@
 
 <!--<h2 style="color: #f60;margin-left: 55px;">ISUW 2021 Brochure</h2>-->
 <div class="k_cheading">
-		<h1>ISUW 2025<span class="k_greencolor"> Brochure</span> </h1>
+		<h1>ISUW 2026<span class="k_greencolor"> Brochure</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	

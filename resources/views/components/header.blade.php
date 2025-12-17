@@ -42,7 +42,7 @@
 				     <li><a href="/introduction" target="_blank">Introduction</a></li>
 					 <li><a href="/key-highlights" target="_blank">Key Highlights</a></li>
 					 <li><a href="/participating-countries" target="_blank">Participating Countries</a></li>
-					 <li><a href="/isuw-2025-brochure" target="_blank">Brochure</a></li>
+					 <li><a href="/isuw-brochure" target="_blank">Brochure</a></li>
                      <li><a href="/about-organizer" target="_blank">About Organizer</a></li> 
 					  <!--<li><a href="/isuw-2021">ISUW 2021</a></li>-->
 					  <li><a href="/isgw-post-event-report" target="_blank">ISUW Post Event Reports</a></li>
