@@ -277,7 +277,7 @@ Route::get('/confirmed-exhibitors-2021', function () {
  Route::get('/confirmed-exhibitors-2023', function () {
       return view('/components/confirmed-exhibitors-2023');
  });
- Route::get('/confirmed-exhibitors-2024', function () {
+ Route::get('/confirmed-exhibitors', function () {
       return view('/components/confirmed-exhibitors-2024');
  });
  Route::get('/innovation-awards-2023', function () {

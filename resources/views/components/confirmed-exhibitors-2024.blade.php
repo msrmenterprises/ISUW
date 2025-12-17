@@ -5,6 +5,36 @@
  <div class="row justify-content-left ">
  <p></p>
 <div class="k_cheading">
+		<h1>ISUW 2026<span class="k_greencolor"> EXHIBITORS </span> </h1>
+		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+</div>
+      <!-- <div class="col-lg-3"><a href="https://sunnetsoftware.com/contact-us/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/sunnet.png" alt="" style="display:inline; height:59px"></a></div></div>
+      <div class="col-lg-3"><a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:59px"></a></div></div> -->
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img  src="http://isuw.in/uploads/images/sew-water.png" alt="" width="213" height="102"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="" style="height:102px;"></div></a></div>
+      <div class="col-lg-3"><a href="https://edx.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:59px"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer"><img  src="images/2025/ISGF.jpg" alt="" width="213" height="102"></a></div></div>
+      <!-- <div class="col-lg-3"><div class="logo-div"><a href="https://www.landisgyr.com/" target="_blank" rel="noopener noreferrer"><img  src="images/2025/Landis.png" alt="" width="213" height="102"></a></div></div> -->
+      <!-- <div class="col-lg-3"><div class="logo-div"><a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/1641569652.png" ></a></div></div> -->
+      <!-- <div class="col-lg-3"><div class="logo-div"> <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a>  </div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img src="images/2025/AspenTech.png" alt="" style="display:inline; height:50px"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Fluentgrid.png" alt="" style="display:inline; height:50px"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569692.png" alt=""  height="102" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/C-DAC.jpg" alt="" width="200" style="display:inline; height:105px"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.exicom.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/exicom.png" alt="" width="200" style="display:inline; height:105px"></a></div></div>
+      <div class="col-lg-3"><a href="https://www.tauruspowertronics.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/TAURUS LOGO (1).jpg" alt=""></div></a></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.phoenixcontact.com/en-in/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/Phoenix Contact.jpg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.impresa.ai/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Impressa.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://lora-alliance.org/" target="_blank" rel="noopener noreferrer"><img src="images/2025/LoRaAlliance.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.powerxchange.io/" target="_blank" rel="noopener noreferrer"><img src="images/2025/PowerXchange.jpeg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.austrade.gov.au/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Austrade.jpeg" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Eppeltone.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://cyanconnode.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/logo_cyanconnode.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://radius.co.in/" target="_blank" rel="noopener noreferrer"><img src="https://radius.co.in/wp-content/uploads/2023/07/radius_logo.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.noidapower.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/NPCL.png" alt="" width="160" height="115" style="display:inline;"></a></div></div> -->
+      <p></p>
+
+ <div class="k_cheading">
 		<h1>ISUW 2025<span class="k_greencolor"> EXHIBITORS </span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 </div>
