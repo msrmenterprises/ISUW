@@ -47,7 +47,7 @@
                 </h2>
                 <div id="innerCollapseThemes" class="accordion-collapse collapse" aria-labelledby="innerHeadingThemes" data-bs-parent="#innerAccordionWE3">
                     <div class="accordion-body">
-                        <ul>
+                        <ul style="margin-left: 19px;">
                             <li>People + AI: Powering Asia's energy and water future</li>
                             <li>CXO Leadership for the next decade of utility transformation</li>
                             <li>The Connected Utility: Customers, workforce, and grid</li>
@@ -68,7 +68,7 @@
                 <div id="innerCollapseWhy" class="accordion-collapse collapse" aria-labelledby="innerHeadingWhy" data-bs-parent="#innerAccordionWE3">
                     <div class="accordion-body">
                         <p>WE3 Asia (Mar 9–10) co-located with ISUW (Mar 10–13) creates a highly impactful week for utilities across India and the wider region, offering a complete view of strategy, innovation, and policy.</p>
-                        <ul>
+                        <ul style="margin-left: 19px;">
                             <li><strong>Leadership dialogue shaped by regional realities</strong> – regulatory needs, service expectations, and operational challenges.</li>
                             <li><strong>People + AI made practical</strong> – real examples of AI improving customer experience, field operations, and grid intelligence.</li>
                             <li><strong>Technology that scales with demand</strong> – DER/eMobility readiness, digital trust, cybersecurity, and connected platforms.</li>
