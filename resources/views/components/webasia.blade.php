@@ -64,52 +64,6 @@
         </div>
 
        
-        <div class="k_cheading">
-            <h1>ISUW 2026 <span class="k_greencolor">Technical Tour</span></h1>
-            <h4 style="text-align:center;">14th March 2026</h4>
-            <img src="/public/uploads/images/kborder_bottom.png" alt="">
-        </div>
-
-        <div class="accordion accordion-flush" id="accordionFlushExample">
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingOne">
-                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsewinners-2" aria-expanded="false" aria-controls="flush-collapsewinners-2">
-                        <h4 style="color: green;"><strong>14th March 2026 (Saturday) - ISUW Technical Tour</strong></h4>
-                    </button>
-                </h2>
-                <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                    <div class="accordion-body">
-                        <table border="1" cellpadding="10" cellspacing="0">
-                            <tr>
-                                <th>Tour</th>
-                                <th>Description</th>
-                            </tr>
-                            <tr>
-                                <td>Tour 1</td>
-                                <td>Northern Regional Load Dispatch Centre (NRLDC) and REMC and Tata Power DDL Smart Grid Lab and Battery Energy Storage System (BESS), New Delhi*</td>
-                            </tr>
-                            <tr>
-                                <td>Tour 2</td>
-                                <td>800 kV HVDC Station IN AGRA + TAJ MAHAL</td>
-                            </tr>
-                        </table>
-                        <br/>
-                        <p>Please Note:</p>
-                        <ul style="margin-left:21px">
-                            <li>Tour Departure and Arrival will be from ISUW 2026 Venue</li>
-                            <li>Passport and Visa Copy/ Aadhar Card Mandatory</li>
-                            <li>Advance Registration Mandatory for ISUW Speakers, Partners, Exhibitors and Delegates with Technical Tour</li>
-                            <li>Technical Tour return timing is subject to traffic. Please book your flights at least 4-5 hours after mentioned time</li>
-                            <li>Program Under Finalization*</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <p></p>
-        <p></p>
-
     </div>
 </div>
 
