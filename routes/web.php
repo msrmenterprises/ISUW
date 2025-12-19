@@ -55,6 +55,9 @@ Route::get('/admin', function () {
   Route::get('/technical-tours', function () {
       return view('/components/technical-tours');
  });
+ Route::get('/WE3ASIA', function () {
+      return view('/components/webasia');
+ });
   Route::get('/brochure', function () {
       return view('/components/brochure');
  });
