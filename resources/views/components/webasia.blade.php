@@ -17,15 +17,27 @@
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingWE3">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWE3" aria-expanded="false" aria-controls="collapseWE3">
-                        <h4 style="color: green;"><strong>WE3 Asia 2026: Pioneering Energy and Water Leaders Unite to Accelerate Digitalization and AI Adoption</strong></h4>
+                        WE3 Asia 2026
                     </button>
                 </h2>
                 <div id="collapseWE3" class="accordion-collapse collapse" aria-labelledby="headingWE3" data-bs-parent="#accordionWE3">
                     <div class="accordion-body">
-                        <p><strong>WE3 Asia 2026:</strong> March 9–10, 2026, The Lalit, New Delhi, India</p>
-                        <p><strong>ISUW 2026:</strong> March 10–13, 2026, The Lalit, New Delhi, India</p>
+                        <div class="mb-3"><strong>Event summary</strong></div>
 
                         <div class="accordion" id="innerAccordionWE3">
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="innerHeadingOverview">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#innerCollapseOverview" aria-expanded="false" aria-controls="innerCollapseOverview">
+                                        WE3 Asia 2026: Pioneering Energy and Water Leaders Unite to Accelerate Digitalization and AI Adoption
+                                    </button>
+                                </h2>
+                                <div id="innerCollapseOverview" class="accordion-collapse collapse" aria-labelledby="innerHeadingOverview" data-bs-parent="#innerAccordionWE3">
+                                    <div class="accordion-body">
+                                        <p><strong>WE3 Asia 2026:</strong> March 9–10, 2026, The Lalit, New Delhi, India</p>
+                                        <p><strong>ISUW 2026:</strong> March 10–13, 2026, The Lalit, New Delhi, India</p>
+                                    </div>
+                                </div>
+                            </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="innerHeadingAbout">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#innerCollapseAbout" aria-expanded="false" aria-controls="innerCollapseAbout">
