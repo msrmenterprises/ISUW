@@ -13,7 +13,7 @@
             <br/>
             <img src="/public/uploads/images/Banneroption.jpg" alt="" class="img-fluid">
             <br/>
-            <div class="banner-text" style="margin-top:10px;font-size:17px">
+            <div class="banner-text" style="margin-top:40px;font-size:17px">
                 <p><strong>WE3 Asia 2026:</strong> March 9–10, 2026, The Lalit, New Delhi, India</p>
                 <p><strong>ISUW 2026:</strong> March 10–13, 2026, The Lalit, New Delhi, India</p>
             </div>
