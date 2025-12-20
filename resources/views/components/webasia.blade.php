@@ -7,11 +7,11 @@
         <div class="k_cheading">
             <h1>WE3 ASIA <span class="k_greencolor">2026</span></h1>
             <h4 style="text-align:center;">09 – 10 MARCH 2026</h4>
-            <img src="/public/uploads/images/kborder_bottom.png" alt="">
+            <img src="{{ asset('uploads/images/kborder_bottom.png') }}" class="img-fluid" alt="">
             <br/>
-            <img src="/public/uploads/images/CROSS.jpg" alt="">
+            <img src="{{ asset('uploads/images/CROSS.jpg') }}" class="img-fluid" alt="">
             <br/>
-            <img src="/public/uploads/images/Banneroption.jpg" alt="">
+            <img src="{{ asset('uploads/images/Banneroption.jpg') }}" class="img-fluid" alt="">
             <div class="banner-text" style="margin-top:10px;">
                 <p><strong>WE3 Asia 2026:</strong> March 9–10, 2026, The Lalit, New Delhi, India</p>
                 <p><strong>ISUW 2026:</strong> March 10–13, 2026, The Lalit, New Delhi, India</p>
