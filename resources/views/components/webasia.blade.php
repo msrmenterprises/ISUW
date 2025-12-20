@@ -12,7 +12,8 @@
             <img src="/public/uploads/images/CROSS.jpg" alt="" class="img-fluid">
             <br/>
             <img src="/public/uploads/images/Banneroption.jpg" alt="" class="img-fluid">
-            <div class="banner-text" style="margin-top:10px;">
+            <br/>
+            <div class="banner-text" style="margin-top:10px;font-size:17px">
                 <p><strong>WE3 Asia 2026:</strong> March 9–10, 2026, The Lalit, New Delhi, India</p>
                 <p><strong>ISUW 2026:</strong> March 10–13, 2026, The Lalit, New Delhi, India</p>
             </div>
@@ -91,7 +92,7 @@
             </div>
 
         </div>
-        <div class="visit-website" style="margin-top:18px;">
+        <div class="visit-website" style="margin-top:18px;text-align:center;font-size:17px;font-weight:bold">
             <p>Visit WE3 ASIA 2026 website for more information such as Event Schedule, Session Themes and Key Speakers at following link: <a href="https://we3summit.com/asia2026" target="_blank">https://we3summit.com/asia2026</a></p>
         </div>
         <p></p>
