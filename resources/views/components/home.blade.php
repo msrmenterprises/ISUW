@@ -269,7 +269,7 @@
                      <h2 class="mt-4">Supporting Organizations 2026
                      </h2>
                      <div class="row justify-content-center">
-                        <div class="col-lg-4"><div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2026/AIDA.png" alt="TIE"></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="public/uploadsimages/2026/AIDA.png" alt="TIE"></a></div></div>
                         <div class="col-lg-4"><div class="logo-div"><a href="http://globalsmartenergy.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/GSEF.png" alt="" width="300" height="104"></a></div></div>
                         <!-- <div class="col-lg-4"><div class="logo-div"><a href="https://www.cbip.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051" style="" src="https://www.isuw.in/public/uploads/organizations/CBIP PNG.png" width="100" height="104"> </a></div></div>
                         <div class="col-lg-4"><div class="logo-div"><a href="https://apua-asea.org/en/" target="_blank" rel="attachment wp-att-5807 noopener noreferrer"><img class="aligncenter size-full wp-image-5807" src="https://www.isuw.in/public/uploads/organizations/LOGO APUA.jpg" alt="CEN" height="193"></a></div></div>
