@@ -16,8 +16,10 @@
 			<h1>ISUW 2026 <span class="k_greencolor">Supporting Organisation </span> </h1>
 			<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 			</div>
+			<div class="col-lg-3"><div class="logo-div"></div></div>
 			<div class="col-lg-3"><div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="public/uploads/images/2026/AIDA.png" alt="TIE"></a></div></div>
 			<div class="col-lg-3"><div class="logo-div"><a href="http://globalsmartenergy.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/GSEF.png" alt="" width="300" height="104"></a></div></div>
+			<div class="col-lg-3"><div class="logo-div"></div></div>
 			<br/><br/>
 
 			<div class="k_cheading">
