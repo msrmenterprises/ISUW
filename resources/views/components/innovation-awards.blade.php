@@ -35,7 +35,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <!--<h4 style="text-align:center"><b> ISGF Innovation Awards Knowledge Partner</b></h4>
 <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank"><img src="http://www.isuw.in/public/uploads/partner/UK-Gov.png" class="center" style="width: 30%; height:100px;"></img></a>
 <br/><p></p>-->
-<h4 style="text-align:center;">ISGF Invites you to Submit the Nominations by 28 December 2025  </h4>
+<h4 style="text-align:center;">ISGF Invites you to Submit the Nomination submission date extended to 04 January 2026</h4>
  <h4 style="text-align:center;">Nomination Submission Link -  <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7" target="_blank" rel="noopener noreferrer">Submit Now</a></h4>
 	<!--<a href="https://forms.gle/XrVQAgjbfTWD5bYeA" target="_blank" >https://forms.gle/XrVQAgjbfTWD5bYeA</a>  -->
 </h4>
@@ -764,7 +764,7 @@ and decide upon the winners.</P>
 			<P ALIGN=JUSTIFY><B><FONT >APPLY BEFORE </FONT></B></P>
 		</TD>
 		<TD WIDTH=644 BGCOLOR="white" STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
-			<P ALIGN=JUSTIFY><FONT >28 Dec 2025</FONT></P>
+			<P ALIGN=JUSTIFY><FONT >04 Jan 2026</FONT></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
@@ -895,7 +895,7 @@ and decide upon the winners.</P>
 			1) For more details, Winner selection procedure and to submit Nomination, please visit: 
 			<a href="https://isuw.in/innovation-awards/" target="_blank">https://isuw.in/innovation-awards</a><br/>
 			2) Direct link for nomination form: <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7" target="_blank">Click Here</a><br/>
-			3) Last date to apply for Online Nominations is <b>28 Dec 2025</b><br/>
+			3) Last date to apply for Online Nominations is <b>04 Jan 2026</b><br/>
 			4) For queries, please write to us at <a href="mailto:awards@isuw.in">awards@isuw.in</a>
 		</p>
 	</div>
