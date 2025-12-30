@@ -11,7 +11,7 @@
             <br/>
             <img src="/public/uploads/images/CROSS.jpg" alt="" class="img-fluid">
             <br/>
-            <img src="/public/uploads/images/Banneroption.jpg" alt="" class="img-fluid">
+            <img src="/public/uploads/images/?id=1" alt="" class="img-fluid">
             <br/>
             <div class="banner-text" style="margin-top:40px;font-size:17px">
                 <p><strong>WE3 Asia 2026:</strong> March 9–10, 2026, The Lalit, New Delhi, India</p>
