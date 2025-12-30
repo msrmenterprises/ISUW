@@ -707,7 +707,7 @@ and decide upon the winners.</P>
     </h2>
     <div id="flush-collapseselection" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<P STYLE="margin-bottom: 0in"><IMG SRC="/images/2026/selection.png" style="width:100%"></P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="/images/2026/selection1.png" style="width:100%"></P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 </div></div></div></div>
