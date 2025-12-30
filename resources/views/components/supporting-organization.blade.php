@@ -14,7 +14,7 @@
 		<div class="k_cheading">
 			<h1>ISUW 2025 <span class="k_greencolor">Supporting Organisation </span> </h1>
 			<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
-			</div>
+		</div>
 			<div class="col-lg-3"><div class="logo-div"><a href="https://energyalliance.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/globalEnergy.png" alt="" width="300" height="104"></a></div></div>
 			<div class="col-lg-3"><div class="logo-div"><a href="http://globalsmartenergy.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/GSEF.png" alt="" width="300" height="104"></a></div></div>
 			<!-- <div class="col-lg-3"><div class="logo-div"><a href="https://aiaiindia.com/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="https://www.isuw.in/public/uploads/organizations/allindia.jpg" alt="Logo" width="150" style="max-height: 130px"></a></div></div> -->
@@ -35,8 +35,8 @@
 			<div class="col-lg-3"><div class="logo-div"><a href="https://energyforum.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/IGEF.svg" alt="Logo"></a></div></div>
 			
 			<div class="col-lg-3"><div class="logo-div"><a href="https://vjti.ac.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/VJTI.jpg" alt="Logo"></a></div></div>
-
-			<br/><br/>
+		<br/><br/>
+			<div class="k_cheading">
 			<h1>ISUW 2026 <span class="k_greencolor">Supporting Organisation </span> </h1>
 			<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 			</div>
