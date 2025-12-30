@@ -508,7 +508,29 @@
                               </div>
                            </a>
                         </div>
-                     </div>   
+                     </div>  
+                     
+                     
+                     <h2 class="mt-4">Supporting Organizations 2026
+                     </h2>
+                     <div class="row justify-content-center">
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/AIDA.png" alt="TIE"></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="http://globalsmartenergy.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/GSEF.png" alt="" width="300" height="104"></a></div></div>
+                        <!-- <div class="col-lg-4"><div class="logo-div"><a href="https://www.cbip.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051" style="" src="https://www.isuw.in/public/uploads/organizations/CBIP PNG.png" width="100" height="104"> </a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://apua-asea.org/en/" target="_blank" rel="attachment wp-att-5807 noopener noreferrer"><img class="aligncenter size-full wp-image-5807" src="https://www.isuw.in/public/uploads/organizations/LOGO APUA.jpg" alt="CEN" height="193"></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://www.cigre.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="https://www.isuw.in/public/uploads/organizations/cigre.jpg" alt="" ></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://www.indiacgd.in/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="https://www.isuw.in/public/uploads/organizations/Indiacgd.jpeg" alt="" width="200" height="104"></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2026/AIDANew.png" alt="" width="300" height="104"></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://www.boci.org.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/BOCI.jpg" alt="BOCI"></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://www.busworld.org/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/LOGOBaseline.png" alt="Bus World"></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://www.cencenelec.eu/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051" style="" src="https://www.isuw.in/public/uploads/exhibitor/cenelec.jpeg" width="120"> </a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://www.cencenelec.eu/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051" style="" src="https://www.isuw.in/public/uploads/exhibitor/cen.jpeg" width="170"> </a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://www.etsi.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="https://www.isuw.in/public/uploads/organizations/ETSI.jpg" alt="" width="200"></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://www.iea-isgan.org/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="https://www.isuw.in/public/uploads/organizations/ISGAN.png" alt="Logo"></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://sscgj.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="https://sscgj.in/wp-content/themes/sscgj/images/scgj.gif" alt="Logo"/></a></div></div>
+                        <div class="col-lg-4"><div class="logo-div"><a href="https://energyforum.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/IGEF.svg" alt="Logo"></a></div></div>                        
+		                  <div class="col-lg-4"><div class="logo-div"><a href="https://vjti.ac.in/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="images/2025/VJTI.jpg" alt="Logo"></a></div></div>    -->
+                     </div>
                      
                      
                      <h2 class="mt-4">Supporting Organizations 2025
@@ -1060,6 +1082,40 @@
                   </div>
                </div>
                <div class="col-lg-3">
+
+                     <div class="card-box utilities">
+                        
+                        <!-- we need to remove below section when supporting utilities 2022 needs to be remove-->
+                        <div class="row justify-content-center">
+                           <div class="col-lg-12">
+                              <h2>Supporting   <br>
+                              Utilities 2026</h2>
+                           </div> 
+                        </div>
+                        <div class="col-lg-12">
+                              <div class="logo-title">
+                                 <h4>Host Utilities</h4>
+                              </div>
+                        </div>
+                        <div class="row justify-content-center">
+                           <div class="col-lg-12">
+                              
+                              <!-- <div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="" width="213" height="102"></a></div> -->
+                              <div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" style="margin-top:-10px;"></a></div>
+                              <div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" style="margin-top:-10px;"></a></div>
+                              <!-- <div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" style="margin-top:-10px;"></a></div>
+                              <div class="col-lg-12">
+                              
+                              <div class="logo-div">
+                                 <a href="https://www.noidapower.com/" target="_blank">
+                                    <img src="images/2025/NPCL1.png" style="height: 120px;"/>
+                                 </a>
+                              </div> -->
+                              
+                        </div>
+                           </div>
+                     </div>
+
                      <div class="card-box utilities">
                         
                         <!-- we need to remove below section when supporting utilities 2022 needs to be remove-->
