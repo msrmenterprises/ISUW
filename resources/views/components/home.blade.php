@@ -1114,10 +1114,7 @@
                               
                         </div>
                            </div>
-                     </div>
 
-                     <div class="card-box utilities">
-                        
                         <!-- we need to remove below section when supporting utilities 2022 needs to be remove-->
                         <div class="row justify-content-center">
                            <div class="col-lg-12">
@@ -1145,10 +1142,11 @@
                                  </a>
                               </div>
                               
-                        </div>
                            </div>
+                        </div>   
                      </div>
 
+                   
                      <!-- <div class="col-lg-12">
                               <div class="logo-title">
                                  <h4>Co-Host Utility</h4>
