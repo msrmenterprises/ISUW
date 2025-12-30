@@ -12,8 +12,8 @@
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
-	  <p style="text-align:center; font-size:16px;"><a href="https://isuw.in/public/images/ISUW-2026-BROCHURE.pdf" class="getstartedd ">Download Brochure</a></p>
-<iframe src="https://www.isuw.in/public/images/India Smart Utility Week 2022_Digital.pdf" height="600" width="150" title="Iframe Example" style="
+	  <p style="text-align:center; font-size:16px;"><a href="https://isuw.in/public/images/ISUW2026BrochureLS.pdf?id=1" class="getstartedd ">Download Brochure</a></p>
+<iframe src="https://www.isuw.in/public/images/ISUW2026BrochureLS.pdf?id=1" height="600" width="150" title="Iframe Example" style="
     width: 800px;
     text-align: center;
 
