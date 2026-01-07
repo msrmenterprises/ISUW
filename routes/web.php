@@ -178,7 +178,7 @@ Route::get('/admin', function () {
  Route::get('/media-and-marketing-partner-2023', function () {
       return view('/components/media-and-marketing-partner-2023');
  });
- Route::get('/media-and-marketing-partner-2024', function () {
+ Route::get('/media-and-marketing-partner', function () {
       return view('/components/media-and-marketing-partner-2024');
  });
  
