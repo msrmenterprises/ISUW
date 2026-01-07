@@ -10,6 +10,36 @@ margin-left: 408px;
 }
 </style>-->
 <p></p>
+
+<div class="k_cheading">
+		<h1>ISUW 2026 <span class="k_greencolor">KEY PARTNERS </span> </h1>
+		<img src="/public/uploads/images/kborder_bottom.png" alt="">
+	</div>
+
+<h5 style="text-align:center;"><b>Host Utilities</b></h5>
+<div class="row justify-content-center">
+    <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="" width="300;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
+    <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="" width="213;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
+</div>
+
+<h5 style="text-align:center;"><b>Platinum Partner</b></h5>
+<div class="row justify-content-center">
+    <div class="col-lg-3"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/images/sew-water.png" alt="" style="display:inline; height:50px"></a></div></div>
+</div>
+
+<h5 style="text-align:center;"><b>Silver Partners</b></h5>
+<div class="row justify-content-center">
+    <div class="col-lg-3"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="" style="height:55px;"></a></div></div>
+    <div class="col-lg-3"><div class="logo-div"><a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a></div></div>
+</div>
+
+<h5 style="text-align:center;"><b>Bronze Partners</b></h5>
+<div class="row justify-content-center">
+    <div class="col-lg-3"><div class="logo-div"><a href="https://edx.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:50px"></a></div></div>
+    <div class="col-lg-3"><div class="logo-div"><a href="https://kimbal.io/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Kimbal.jpeg" alt="" style="display:inline; height:50px"></a></div></div>
+</div>
+
+<p></p>
 <div class="k_cheading">
 		<h1>ISUW 2025 <span class="k_greencolor">KEY PARTNERS </span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
