@@ -12,7 +12,7 @@
 	</div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.renewablemirror.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/Renewable1.jpeg" alt="" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://electricalmirror.net/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/Electrical1.jpeg" alt="" ></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="http://timestech.in" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="http://www.isuw.in/beta/wp-content/uploads/2021/02/TimesTech-Logo.jpg" alt="" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="http://timestech.in" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/TimesTech.png" alt="" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="http://electronicsbuzz.in" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/Electronic1.jpg" alt="" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="http://autoeVtimes.com" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/TIMES EV LOGO.png" alt="" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.thebatterymagazine.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/thebatterymagazine.png" alt="" ></a></div></div>
