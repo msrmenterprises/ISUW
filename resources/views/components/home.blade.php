@@ -223,7 +223,7 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
-                              <h4>Silver Partner</h4>
+                              <h4>Silver Partners</h4>
                            </div>
                         </div>
                         
@@ -244,10 +244,17 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
-                              <h4>Bronze Partner</h4>
+                              <h4>Bronze Partners</h4>
                            </div>
                         </div>
                         
+                        <div class="col-lg-5">
+                           <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
+                                 <div class="logo-div">
+                                    <img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:50px">
+                                 </div>
+                              </a>
+                        </div>
                         <div class="col-lg-5">
                            <a href="https://kimbal.io/" target="_blank" rel="noopener noreferrer">
                               <div class="logo-div">
@@ -255,13 +262,6 @@
                               </div>
                            </a>
                         </div>
-                        <div class="col-lg-5">
-                           <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
-                                 <div class="logo-div">
-                                    <img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:50px">
-                                 </div>
-                              </a>
-                        </div>   
                         
                         
                      </div>
