@@ -28,6 +28,8 @@
 	<div class="col-lg-3"><div class="logo-div"><a href="https://smartenergymagazine.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/Smart Energy Magazine.png" alt="" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="http://www.petrofinder.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/petrofinder_logo (1).jpg" alt="" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://electricalpowerinfo.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/electricalpower.jpeg" alt="" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.oemupdate.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/oem-update.png" alt="OEM Update" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.eprmagazine.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/EPR.png" alt="EPR Magazine" ></a></div></div>
 	
 	
 	<p><br/></p>
