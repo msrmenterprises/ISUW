@@ -33,6 +33,11 @@ margin-left: 408px;
     <div class="col-lg-3"><div class="logo-div"><a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a></div></div>
 </div>
 
+<h5 style="text-align:center;"><b>Delegate Bag Partner</b></h5>
+<div class="row justify-content-center">
+    <div class="col-lg-3"><div class="logo-div"><a href="https://www.wirepas.com/" target="_blank" rel="noopener noreferrer"><img src="images/2026/Wirepas.png" alt="Wirepas" style="height:55px;"></a></div></div>
+</div>
+
 <h5 style="text-align:center;"><b>Bronze Partners</b></h5>
 <div class="row justify-content-center">
     <div class="col-lg-3"><div class="logo-div"><a href="https://edx.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:50px"></a></div></div>
