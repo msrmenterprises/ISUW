@@ -250,7 +250,7 @@
                         
                            <div class="col-lg-4">
                               <a href="https://www.wirepas.com/" target="_blank" rel="noopener noreferrer">
-                                 <div class="logo-div"><img src="images/2026/wirepas-logo.png" alt="Wirepas" style="height:55px;"></div>
+                                 <div class="logo-div"><img src="images/2026/Wirepas.jpeg" alt="Wirepas" style="height:55px;"></div>
                               </a>
                            </div>
                         
