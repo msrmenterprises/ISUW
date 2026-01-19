@@ -191,9 +191,9 @@ Route::get('/admin', function () {
  Route::get('/press-release', function () {
       return view('/components/press-release');
  });
-//  Route::get('/master-classes', function () {
-//       return view('/components/master-classes');
-//  });
+ Route::get('/master-classes', function () {
+      return view('/components/master-classes');
+ });
  Route::get('/raid-olympiad-removed', function () {
      return view('/components/raid-olympiad-deleted');
 });

@@ -8,43 +8,47 @@
   
 </style> 
  <div class="k_cheading">
-		<h1>ISUW 2026 <span class="k_greencolor">Master Classes</span> </h1>
-		<h4 style="text-align:center;">10th March 2026</h4>
+		<h1>ISUW 2025 <span class="k_greencolor">MASTER CLASSES</span> </h1>
+		<h4 style="text-align:center;">18th March 2025 </h4>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<div class="accordion accordion-flush" id="accordionFlushExample">
+ <!-- <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-headingOne">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsewinners-1" aria-expanded="false" aria-controls="flush-collapsewinners-1">
+       <H4 style="color: green;"><strong>14:00 ~ 17:00  -   OCPP Technical Workshop and Training (In Collaboration with Open Charge Alliance) 
+
+       Regency 1 & 2</strong></style></H4>
+      </button>
+    </h2>
+    <div id="flush-collapsewinners-1" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+      <div class="accordion-body">
+	  <p>14:00 ~ 17:00  -   OCPP Technical Workshop and Training (In Collaboration with Open Charge Alliance) 
+
+       Regency 1 & 2</p>
+
+</div></div></div></div>-->
 <p></p>
  <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsewinners-2" aria-expanded="false" aria-controls="flush-collapsewinners-2">
-       <H4 style="color: green;"><strong>10th March 2026 (Tuesday) - ISUW Master Classes  </strong></H4>
+       <H4 style="color: green;"><strong>Digitalization Of Utilities</strong></style></H4>
       </button>
     </h2>
     <div id="flush-collapsewinners-2" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-        <ul style="margin-left:21px">
-            <li>Cyber Security for Digital Utilities</li>
-            <li>Agentic AI: How to Build and Deploy AI Agents</li>
-        </ul><br/>
-      <p>Please Note 
-        <ul style="margin-left:21px">
-            <li>*Registration in Advance is Mandatory</li>
-
-            
-
-          </ul>
-      </p>
-
-      <!-- <div class="k_cheading">
-        <a href="https://www.isuw.in/register">
-        <img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center"></img>
-        </a>
-        <p>*Registration in advance is Mandatory</p>
-      </div> -->
-
+        <p>Regency 3</p>
+        
+      </div>
     </div>
   </div>
-</div></div>
+  <div class="k_cheading">
+        <a href="https://isuw2024.groupthink.events/">
+        <img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
+        </a>
+        <p>*Registration in advance is Mandatory</p>
+    </div>
+</div>
 <p></p>
 
 <p></p>
