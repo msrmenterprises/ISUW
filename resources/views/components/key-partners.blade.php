@@ -21,6 +21,7 @@ margin-left: 408px;
     <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="" width="300;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
     <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="" width="213;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="" width="213;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power Company Limited" width="213;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
 </div>
 
 <h5 style="text-align:center;"><b>Platinum Partner</b></h5>
@@ -32,11 +33,6 @@ margin-left: 408px;
 <div class="row justify-content-center">
     <div class="col-lg-3"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="" style="height:55px;"></a></div></div>
     <div class="col-lg-3"><div class="logo-div"><a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a></div></div>
-</div>
-
-<h5 style="text-align:center;"><b>Delegate Bag Partner</b></h5>
-<div class="row justify-content-center">
-    <div class="col-lg-3"><div class="logo-div"><a href="https://www.wirepas.com/" target="_blank" rel="noopener noreferrer"><img src="images/2026/Wirepas.png" alt="Wirepas" style="height:55px;"></a></div></div>
 </div>
 
 <h5 style="text-align:center;"><b>Bronze Partners</b></h5>
