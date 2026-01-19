@@ -21,7 +21,7 @@ margin-left: 408px;
     <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="" width="300;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
     <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="" width="213;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="" width="213;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power Company Limited" width="213;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="Tata Power Company Limited" width="213;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
 </div>
 
 <h5 style="text-align:center;"><b>Platinum Partner</b></h5>
