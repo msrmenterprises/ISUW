@@ -23,13 +23,14 @@
 	<div class="col-lg-3"><div class="logo-div"><a href="https://electronicsera.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/electronicsera.png" alt="" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://urjadaily.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/urjadaily.png" alt="" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.mojo4industry.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/mojo4industry.png" alt="" ></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="https://netgreenfoundation.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/netgreen.jpeg" alt="" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://netgreenfoundation.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2025/netgreen.png" alt="" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://constructionarchitectureupdate.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/C&AU with Era Fame Media Group (1)_page-0001.jpg" alt="" ></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="https://smartenergymagazine.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/Smart Energy Magazine.png" alt="" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://electricalpowerinfo.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/electrical.png" alt="" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://smartenergymagazine.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/image-20260119-080738.png" alt="Smart Energy Magazine" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="http://www.petrofinder.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/petrofinder_logo (1).jpg" alt="" ></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="https://electricalpowerinfo.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/electricalpower.jpeg" alt="" ></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="https://www.oemupdate.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/oem-update.png" alt="OEM Update" ></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="https://www.eprmagazine.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/EPR.png" alt="EPR Magazine" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.eawater.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/EAWater.png" alt="EA Water" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.energyportal.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/EnergyPortal.png" alt="Energy Portal" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.evolutionautoindia.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/EVolutionAuto.png" alt="EVolution Auto" ></a></div></div>
 	
 	
 	<p><br/></p>
