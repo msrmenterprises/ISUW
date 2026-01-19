@@ -56,7 +56,7 @@
                       <li><a href="/technical-paper-isuw" target="_blank">ISUW Technical Papers</a></li>
                       <li><a href="/innovation-awards" target="_blank">Innovation Awards</a></li>
                        <li><a href="/technical-tours" target="_blank">Technical Tours </a></li>
-                       <!-- <li><a href="/master-classes" target="_blank">Master Classes</a></li> -->
+                       <li><a href="/master-classes" target="_blank">Master Classes</a></li>
                        <!-- <li><a href="/raid-olympiad" target="_blank">Raid Olympiad</a></li> -->
                        <li><a href="/cultural-tours" target="_blank">Cultural Tours</a></li>
                        <li><a href="/WE3ASIA" target="_blank">WE3 Asia 2026 </a></li>
