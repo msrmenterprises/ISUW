@@ -244,6 +244,22 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
+                              <h4>Delegate Bag Partner</h4>
+                           </div>
+                        </div>
+                        
+                           <div class="col-lg-4">
+                              <a href="https://www.wirepas.com/" target="_blank" rel="noopener noreferrer">
+                                 <div class="logo-div"><img src="images/2026/Wirepas.png" alt="Wirepas" style="height:55px;"></div>
+                              </a>
+                           </div>
+                        
+                        
+                     </div>
+
+                     <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                           <div class="logo-title">
                               <h4>Bronze Partners</h4>
                            </div>
                         </div>
@@ -1107,11 +1123,12 @@
                         <div class="row justify-content-center">
                            <div class="col-lg-12">
                               
-                              <!-- <div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="" width="213" height="102"></a></div> -->
+                              
                               
                               <div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" style="margin-top:-10px;"></a></div>
                               <div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" style="margin-top:-10px;"></a></div>
                               <div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" style="margin-top:-10px;"></a></div>
+                              <div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="" width="213" height="102"></a></div>
                               <!-- <div class="col-lg-12">
                               
                               <div class="logo-div">
