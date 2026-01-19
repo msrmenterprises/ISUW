@@ -39,20 +39,12 @@
     </h2> 
     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-     <!-- <p style="color:#ed7d31;">MASTER CLASSES
-     <ul><li>Digitalization Of Utilities</li> -->
-<!--<li>Introductory Course on Transformers and Generative AI: OpenAI GPT-3, ChatGPT and AI
-Tools for Text 2 Text (T2T), Audio 2 Text (A2T), Text 2 Audio (T2A), Text 2 Image (T2I), Image
-2 Text (I2T), Text 2 Video (T2V), Text 2 Motion (T2M), Text 2 Code (T2C), Brain 2 Text (B2T),
-Audio 2 Audio (A2A) etc.</li>
-<li>OCPP Technical Workshop and Training (in collaboration with Open Charge Alliance)</li></ul></p>-->
- <p style="color:#ed7d31;">Special Workshops
-  <!-- <ul><li>OCPP Session (In Collaboration with Open Charge Alliance)</li> 
-  <li>RAID Olympiad ( Robots – AI – Drones)</li>
-  <li>9th IEC - IEEE Smart Energy Standardization Coordination Workshop (In
-  Collaboration with BIS, IEC And IEEE)</li>
-  </ul> -->
-</p>
+        <ul>
+          <li>Cyber Security for Digital Utilities</li>
+          <li>Agentic AI: How to Build and Deploy AI Agents</li>
+          <li>IEC–IEEE Smart Energy Standardization Coordination Workshop (in collaboration with BIS, IEC, and IEEE)</li>
+          <li>WE3 ASIA</li>
+        </ul>
 </div></div></div></div>
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -64,24 +56,20 @@ Audio 2 Audio (A2A) etc.</li>
     </h2>
     <div id="flush-collapsetwo" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-  <p style="color:#ed7d31;">
-      <ul>
-          <!-- <li>First Meeting of All India DISCOMs Association (AIDA)</li> -->
-          <!-- <li>250 Million Smart Meters in India – New Business Opportunities with the
-          Digitalization of DISCOMs</li>
-          <li>Resiliency of Utilities Against Extreme Weather Events</li>
-          <li>RD&D of Emerging/Digital Technologies for Utilities (in collaboration with DST)*</li> -->
-      </ul>
-  </p>
 
-  <p style="color:#ed7d31;">Conference & Exhibition
-      <!-- <ul>
-        <li>UK - India Workshop on ASPIRE Program</li>
-        <li>UK - India Workshop on Energy Storage Systems</li>
-        <li>1th US - India Smart Energy Workshop (In Collaboration with US Commercial Services, and Underwriters Laboratories) Theme: Standardization</li>
-        <li>Africa - India Smart Energy Roundtable</li>
-      </ul> -->
-  </p>
+        <strong>Conference Thematic Session</strong>
+        <ul>
+          <li>Rise of Flexumers and Digital Tools for DER Management and Grid Integration</li>
+          <li>Square-Mile–Scale AI Data Centres Requiring GW-Scale Power Connections</li>
+          <li>Digital Energy Grids on Unified Energy Interface (UEI) Architecture</li>
+          <li>Future of Work: Working with Digital Colleagues and Humanoid Robots</li>
+        </ul>
+        <strong>Workshops/Roundtables/Seminars</strong>
+        <ul>
+          <li>India-US Roundtable</li>
+          <li>UK-India Roundtable</li>
+        </ul>
+        <strong>ISUW 2026 Welcome Reception and Partner Recognition Ceremony</strong>
 
 </div></div></div></div>
 <p></p>
@@ -94,26 +82,29 @@ Audio 2 Audio (A2A) etc.</li>
     </h2>
     <div id="flush-collapsethree" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-        <p style="color:#ed7d31;">Conference & Exhibition
-          <!-- <ul>
-              <li>SMART METERING Part A - Global and Indian Lessons</li>
-              <li>SMART METERING Part B - AMISPs and DISCOMs, OEMs, System Integrators</li>
-              <li>Rooftop PV Revolution in India and Impact on DISCOMs – National Registry of DERs
-              and Smart Inverters</li>
-              <li>Unified Energy Interface (UEI) and the Evolving Era of Energy Internet</li>
-              <li>Nuclear Renaissance and the Role of SMR for the Net Zero Power Systems</li>
-              <li>Building Resilient Utility Assets for Congested Cities and Climate Resilience</li>
-              <li>Power System Flexibility and DERMS</li>
-              <li>Deep Dive Session on AI, ML and Robotics - Use Cases for Utilities</li>
-              </ul> -->
-        </p>
-        <!-- <p style="color:#ed7d31;">WORKSHOPS/ROUNDTABLES/SEMINARS
+
+        <strong>Conference Thematic Session</strong>
+        <ul>
+          <li>10 Million Solar Rooftop Systems and Management of Reverse Power Flows on Distribution Feeders</li>
+          <li>Smart Metering and Smart Meter Data Analytics</li>
+          <li>Digitalization Roadmaps for Utilities</li>
+          <li>Role of Small Modular Reactors (SMR) in the Net Zero Power Systems</li>
+          <li>Data Governance Framework and Data Management in Utilities</li>
+          <li>Emerging Solutions for Power System Flexibility:</li>
           <ul>
-              <li>Indonesia - India Smart Energy Workshop</li>
-              <li>2nd India - Brazil Smart Energy Workshop</li>
-              <li>Presentation of Selected Technical Papers</li>
+            <li>Smart Microgrids</li>
+            <li>Grid Interactive Buildings</li>
+            <li>District Cooling Systems (DCS)</li>
+            <li>Distributed Energy Storage Systems</li>
+            <li>Demand Response (DR)</li>
           </ul>
-        </p> -->
+        </ul>
+        <strong>Workshops/Roundtables/Seminars</strong>
+        <ul>
+          <li>Presentation of Select Technical Papers</li>
+          <li>Brazil-India Roundtable</li>
+          <li>2nd India-Africa Smart Energy Roundtable</li>
+        </ul>
 
 </div></div></div></div>
 <p></p>
@@ -126,25 +117,21 @@ Audio 2 Audio (A2A) etc.</li>
     </h2>
     <div id="flush-collapsefive" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-        <p style="color:#ed7d31;">Conference & Exhibition | ISGF Innovation Awards Ceremony & Valedictory Function
-          <!-- <ul>
-              <li>Digitalization of Utilities, Digitalization Roadmaps; Digital Twins</li>
-              <li>Emerging Digital Technologies for Utilities</li>
-              <li>Innovations in Regulations for the next round of Power Sector Reforms</li>
-              <li>Grid Integrated Buildings</li>
-              <li>Power Markets and Carbon Markets</li>
-              <li>Workshop on Immersive Technologies: AR/VR, Digital Twins, Drones, and Assisted
-              Reality for Enhanced Operations and Efficiency</li>
-              <li>Evolving Trends in Electric Mobility and V2G Demo</li>
-          </ul> -->
-        </p>
-        <!-- <p style="color:#ed7d31;">WORKSHOPS/ROUNDTABLES/SEMINARS
-          <ul>
-            <li>Capacity Building in Utilities for Energy Transition</li>
-          </ul>
-        </p> -->
-<p></p>
-<!-- <p><b>ISGF Innovation Awards Ceremony And Gala Dinner</b></p> -->
+
+        <strong>Conference Thematic Session</strong>
+        <ul>
+          <li>AI–ML–VR–AR and Robotics Applications for Utilities</li>
+          <li>Electric Vehicles – A $200 Billion Opportunity in India to be Unlocked</li>
+          <li>Electrification of Agricultural Sector – Electric Tractors and Solarized Irrigation Pumps</li>
+          <li>Power Markets and Carbon Markets</li>
+          <li>Resiliency of the Power Systems Against Extreme Weather Events</li>
+          <li>Role of Women in Energy and Just Transition</li>
+        </ul>
+        <strong>Workshops/Roundtables/Seminars</strong>
+        <ul>
+          <li>India-Indonesia Roundtable</li>
+        </ul>
+        <strong>ISGF Innovation Awards Ceremony and Gala Dinner</strong>
 </div></div></div></div>
 <p></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -156,27 +143,16 @@ Audio 2 Audio (A2A) etc.</li>
     </h2>
     <div id="flush-collapsesix" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<p></p>
-      <p style="color:#ed7d31;">Technical Tours and Cultural Tours</p>
-        <!-- <ul>
-          <li>TOUR 1A - NRLDC+REMC and TPDDL LAB + 10 MW BESS</li>
-          <li>TOUR 1B - TPDDL LAB + 10 MW BESS and NRLDC+REMC</li>
-          <li>TOUR 2 - 800 kV HVDC STATION IN AGRA + TAJ MAHAL</li>
-        </ul> -->
-      </p>
-<!-- <p></p>
-      <p style="color:#ed7d31;">CULTURAL TOURS (ALL DAY)</p>
+        <strong>Technical Tours</strong>
         <ul>
-          <li>TOUR 3 – TAJ MAHAL</li>
-          <li>TOUR 4 - DELH</li>
-        </ul> 
-      <p>--> 
-<!-- <p></p>
-<p><b>Disclaimer : Tours 1, 2 &amp; 3 are part of ISUW Package; Tours 4&amp;5 are to be paid separately to the
-Travel Agency | for booking technical &amp; Cultural tours visit the registration desk at Hotel during
-#ISUW24</b></p> -->
-<p></p>
-<p></p>
+          <li>Tour 1: National Load Dispatch Centre (NLDC) and Renewable Energy Management Centre (REMC), followed by Tata Power Delhi Distribution Ltd. (TPDDL) Smart Grid Lab and Micro Substation</li>
+          <li>Tour 2: 800 kV HVDC Station, Agra, followed by a visit to the Taj Mahal</li>
+        </ul>
+        <strong>Cultural Tours</strong>
+        <ul>
+          <li>Tour 3: Taj Mahal, Agra</li>
+          <li>Tour 4: Delhi Sightseeing Tour</li>
+        </ul>
 </div></div></div></div>
 <p></p>
 <!--<div class="accordion accordion-flush" id="accordionFlushExample">
