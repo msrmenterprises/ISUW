@@ -18,7 +18,7 @@
                   <div class="sprk-box sprk-detail">
                      <img src="{{$speaker24->imageUrl}}" class="img-fluid " alt="{{$speaker24->imageAlt}}">
                      <h5 style="font-size: 22px;">{{$speaker24->name}}</h5>
-                     <p>{{$speaker24->company}}</p>
+                     <p>{!! preg_replace('/,\s*/', '<br/>', e($speaker24->company)) !!}</p>
                      <p><a  href="/speaker24/{{$speaker24->id}}" class="text-warning">Read bio...</a></p>
                   </div>
 				
