@@ -5,7 +5,7 @@
          <div class="container">
            
 		    <div class="k_cheading">
-		<h1>ISUW 2025 <span class="k_greencolor">Speaker </span> </h1>
+		<h1>ISUW 2026 <span class="k_greencolor">Speaker </span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
             <div class="row justify-content-left ">
@@ -18,7 +18,7 @@
   </div>
   <div class="flex-grow-1 ms-3">
     <b style="font-size:22px; color:green;">{{$speaker24->name}}</b><br>
-	<b style="font-size:18px;">{{$speaker24->company}}</b><br/>
+  	<b style="font-size:18px;">{!! preg_replace('/,\s*/', '<br/>', e($speaker24->company)) !!}</b><br/>
 	<p style="text-align:justify;">
     {{$speaker24->description}}
 	</p>
