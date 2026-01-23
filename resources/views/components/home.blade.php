@@ -244,6 +244,22 @@
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
+                              <h4>Technology Partner</h4>
+                           </div>
+                        </div>
+                        
+                           <div class="col-lg-4">
+                              <a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer">
+                                 <div class="logo-div"><img src="/images/2026/Eppeltone.png" alt="Eppeltone Engineers Limited" style="height:55px;"></div>
+                              </a>
+                           </div>
+                        
+                        
+                     </div>
+
+                     <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                           <div class="logo-title">
                               <h4>Delegate Bag Partner</h4>
                            </div>
                         </div>
