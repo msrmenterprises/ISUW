@@ -37,7 +37,7 @@ margin-left: 408px;
 
 <h5 style="text-align:center;"><b>Technology Partner</b></h5>
 <div class="row justify-content-center">
-    <div class="col-lg-3"><div class="logo-div"><a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer"><img src="/images/2026/Eppeltone.png" alt="Eppeltone Engineers Limited" style="height:55px;"></a></div></div>
+    <div class="col-lg-3"><div class="logo-div"><a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Eppeltone.png" alt="Eppeltone Engineers Limited" style="height:55px;"></a></div></div>
 </div>
 
 <h5 style="text-align:center;"><b>Delegate Bag Partner</b></h5>
