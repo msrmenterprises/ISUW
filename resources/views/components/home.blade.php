@@ -250,7 +250,7 @@
                         
                            <div class="col-lg-4">
                               <a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer">
-                                 <div class="logo-div"><img src="/images/2026/Eppeltone.png" alt="Eppeltone Engineers Limited" style="height:55px;"></div>
+                                 <div class="logo-div"><img src="images/2026/Eppeltone.jpeg" alt="Eppeltone Engineers Limited" style="height:55px;"></div>
                               </a>
                            </div>
                         
