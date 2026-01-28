@@ -31,6 +31,8 @@
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.eawater.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/EAWater.png" alt="EA Water" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.energyportal.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/EnergyPortal.png" alt="Energy Portal" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.evolutionautoindia.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/EVolutionAuto.png" alt="EVolution Auto" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.eprmagazine.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/EPR.png" alt="EPR Magazine" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.oemupdate.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="images/2026/oem-update.png" alt="OEM Update" ></a></div></div>
 	
 	
 	<p><br/></p>
