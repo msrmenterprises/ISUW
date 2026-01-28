@@ -1157,7 +1157,7 @@
 
                         <div class="row justify-content-center">
                               <div class="col-lg-12">
-                                 <h2>Conference Session Partner 2026</h2>
+                                 <h2>Conference Session Partner</h2>
                               </div>
                            </div>
                            <div class="row justify-content-center">
