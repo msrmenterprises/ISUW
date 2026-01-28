@@ -16,10 +16,14 @@
 			<h1>ISUW 2026 <span class="k_greencolor">Supporting Organisation </span> </h1>
 			<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 			</div>
-			<div class="col-lg-3"></div>
+			
 			<div class="col-lg-3"><div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="public/uploads/images/2026/AIDA.png" alt="TIE"></a></div></div>
 			<div class="col-lg-3"><div class="logo-div"><a href="http://globalsmartenergy.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/GSEF.png" alt="" width="300" height="104"></a></div></div>
-			<div class="col-lg-3"></div>
+			<div class="col-lg-3"><div class="logo-div"><a href="https://indiaesa.info/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="/images/2026/IndiaESA.png" alt="India Energy Storage Alliance" width="200"></a></div></div>
+			<div class="col-lg-3"><div class="logo-div"><a href="https://www.cbip.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051" src="https://www.isuw.in/public/uploads/organizations/CBIP PNG.png" alt="Central Board of Irrigation and Power" width="100" height="104"></a></div></div>
+			<div class="col-lg-3"><div class="logo-div"><a href="https://sscgj.in/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5807" src="https://sscgj.in/wp-content/themes/sscgj/images/scgj.gif" alt="Skill Council for Green Jobs"></a></div></div>
+			<div class="col-lg-3"><div class="logo-div"><a href="https://www.netraglobal.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="/images/2026/NETRA.png" alt="Net-zero Energy Transition Association" width="200"></a></div></div>
+			<div class="col-lg-3"><div class="logo-div"><a href="https://apua-asea.org/en/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5807" src="https://www.isuw.in/public/uploads/organizations/LOGO APUA.jpg" alt="Association of Power Utilities of Africa" height="193"></a></div></div>
 			<br/><br/>
 
 			<div class="k_cheading">
