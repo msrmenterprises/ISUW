@@ -1154,6 +1154,18 @@
                               </div> -->
                               
                         </div>
+
+                        <div class="row justify-content-center">
+                              <div class="col-lg-12">
+                                 <h2>Conference Session Partner 2026</h2>
+                              </div>
+                           </div>
+                           <div class="row justify-content-center">
+                              <div class="col-lg-12">
+                                 <div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img src="images/2026/BSCE.png" alt="BSCE Systems, Inc" height="102" style="display:inline;"></a></div>
+                              </div>
+                           </div>
+
                            </div>
 
                         <!-- we need to remove below section when supporting utilities 2022 needs to be remove-->
