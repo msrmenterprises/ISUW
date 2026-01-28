@@ -14,8 +14,12 @@
 	<h1>ISUW 2026 <span class="k_greencolor">Conference Sessions Partner</span> </h1>
 	<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 </div>
+<div class="col-lg-4"></div>
 <div class="col-lg-4"><div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img src="/images/2026/BSCE.png" alt="BSCE Systems, Inc" height="102" style="display:inline;"></a></div></div>
-	
+<div class="col-lg-4"></div>
+
+
+
 <div class="k_cheading">
 		<h1>ISUW 2025 <span class="k_greencolor">Conference Sessions Partner</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
