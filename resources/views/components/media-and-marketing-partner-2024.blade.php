@@ -33,7 +33,7 @@
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.evolutionautoindia.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/EVolutionAuto.png" alt="EVolution Auto" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://electricalpowerinfo.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="images/2026/electricalpower.jpeg" alt="Electrical & Power Info" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.oemupdate.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="images/2026/oem-update.png" alt="OEM Update" ></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="https://www.eprmagazine.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="images/2026/EPR.jpg" alt="EPR Magazine" style="max-height:100%" ></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.eprmagazine.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="images/2026/EPR.jpg" alt="EPR Magazine" ></a></div></div>
 	
 	
 	<p><br/></p>
