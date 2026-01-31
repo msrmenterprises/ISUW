@@ -1354,6 +1354,25 @@
 <section class="page-section isuw-exhibitors">
    <div class="container">
       <div class="section-title">
+         <h2>ISUW 2026 Exhibitors</h2>
+      </div>
+      <div class="row justify-content-center ">
+      <div class="col-lg-3"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="/uploads/images/sew-water.png" alt="Smart Energy Water" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><a href="https://www.oracle.com/in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="Oracle" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran Technologies" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2026/Eppeltone.jpeg" alt="Eppeltone Engineers Limited" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><a href="https://edx.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/edxWireless.jpeg" alt="Edx Wireless" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power Company Limited" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><a href="https://www.eiris.in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2026/EIRIS.jpg" alt="Eiris" width="160" height="115" style="display:inline;"></a></div></div>
+      <div class="col-lg-3"><a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/ISGF.jpg" alt="ISGF" width="160" height="115" style="display:inline;"></a></div></div>
+
+      </div>
+   </div>
+</section>
+
+<section class="page-section isuw-exhibitors">
+   <div class="container">
+      <div class="section-title">
          <h2>ISUW 2025 Exhibitors</h2>
       </div>
       <div class="row justify-content-center ">
