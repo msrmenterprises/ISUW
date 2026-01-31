@@ -584,7 +584,7 @@
                            </div>
                         </div>
                         <div class="col-lg-4"><a href="https://www.g3-plc.com/" target="_blank"><div class="logo-div"><img src="/uploads/partner/1641569652.png" class="logo-img " style="height:59px;"></div></a></div>
-                        <div class="col-lg-4"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="" style="height:55px;"></div></a></div>
+                        <div class="col-lg-4"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt="" style="height:55px;"></div></a></div>
                          <div class="col-lg-4"><a href="https://wi-sun.org/" target="_blank"><div class="logo-div"><img src="/uploads/partner/1641569692.png" class="logo-img "  style="height:59px;"></div></a></div>
                         <div class="col-lg-4"><a href="https://yitran.com/" target="_blank"><div class="logo-div"><img src="/public/uploads/partner/yitran-logo-PNG-250.png" class="logo-img "  style="height:59px;"></div></a></div>
                         </div>
@@ -621,7 +621,7 @@
 
                           div class="col-lg-4"><a href="https://shyamindus.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/exhibitor/1677061891.png" alt="" style="height:42px;"></div></a></div>
                          <div class="col-lg-4"><a href="https://www.visiontek.co.in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/vision.png" alt="" style="height:42px;"></div></a></div>
-                         <div class="col-lg-4"><a href="https://www.oracle.com/in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/Oracle_Energy-and-Water_rgb.png" alt="" style="height:55px;"></div></a></div>
+                         <div class="col-lg-4"><a href="https://www.oracle.com/in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt="" style="height:55px;"></div></a></div>
                        <div class="col-lg-4"><a href="https://www.ey.com/en_in" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/public/uploads/partner/EY-new.png" alt="" style="height:59px; width:105px;"></div></a></div>
                         
                         </div>
