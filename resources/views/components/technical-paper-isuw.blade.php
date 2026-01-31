@@ -810,18 +810,22 @@ papers on variety of topics.
         <div id="TextSection" dir="ltr">
           <p class="western" style="margin-top: 0in; text-decoration: none">
           <b>
-            <h5 class="western">ISUW 2026 Technical Papers Selected for Presentation (Top 32)</h5>
+
 
 <table width="100%" cellpadding="5" cellspacing="0" border="1" style="border-collapse: collapse; margin-bottom: 30px;">
+  
   <thead>
-    <tr style="background: #ec7c30; color: white;">
-      <th width="5%">Sl. No.</th>
-      <th width="20%">Theme</th>
-      <th width="40%">Paper Title</th>
-      <th width="15%">Presenter</th>
-      <th width="20%">Organization</th>
-    </tr>
-  </thead>
+            <tr>
+				<th colspan="5" style="background: #EF7B00;text-align: center;">Top 32 - ISUW 2026 Technical Papers Selected for Presentation</th>
+			</tr>
+			<tr>
+                <th>SL.</th>
+                <th>Theme</th>
+                <th>Paper Title</th>
+                <th>Presenter</th>
+                <th>Organization</th>
+            </tr>
+        </thead>
   <tbody>
     <!-- Row 1 -->
     <tr>
@@ -1082,10 +1086,8 @@ papers on variety of topics.
   </tbody>
 </table>
 
-<h5 class="western" style="margin-top: 40px;">ISUW 2026 Technical Papers Selected for Publication (Top 31)</h5>
-
 <table width="100%" cellpadding="5" cellspacing="0" border="1" style="border-collapse: collapse;">
-  <thead>
+  <!-- <thead>
     <tr style="background: #2c7bb6; color: white;">
       <th width="5%">Sl. No.</th>
       <th width="20%">Theme</th>
@@ -1093,7 +1095,19 @@ papers on variety of topics.
       <th width="15%">Presenter</th>
       <th width="20%">Organization</th>
     </tr>
-  </thead>
+  </thead> -->
+  <thead>
+            <tr>
+				<th colspan="5" style="background: #EF7B00;text-align: center;">Top 31 - ISUW 2026 Technical Papers Selected for Publication</th>
+			</tr>
+			<tr>
+                <th>SL.</th>
+                <th>Theme</th>
+                <th>Paper Title</th>
+                <th>Presenter</th>
+                <th>Organization</th>
+            </tr>
+        </thead>
   <tbody>
     <!-- Row 1 -->
     <tr>
