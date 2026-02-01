@@ -18,7 +18,7 @@
   </div>
   <div class="flex-grow-1 ms-3">
     <b style="font-size:22px; color:green;">{{$speaker24->name}}</b><br>
-  	<b style="font-size:18px;">{!! preg_replace('/,\s*/', '<br/>', e($speaker24->company)) !!}</b><br/>
+  	<p>{!! nl2br(e($speaker24->company)) !!}</p>
 	<p style="text-align:justify;">
     {{$speaker24->description}}
 	</p>
