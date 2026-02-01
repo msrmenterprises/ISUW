@@ -13,7 +13,7 @@
 
 			
 			<div class="k_cheading">
-			<h1>ISUW 2026 <span class="k_greencolor">Supporting Organisation </span> </h1>
+			<h1>ISUW 2026 <span class="k_greencolor">Supporting Organisations </span> </h1>
 			<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 			</div>
 			
@@ -28,7 +28,7 @@
 			<br/><br/>
 
 			<div class="k_cheading">
-				<h1>ISUW 2025 <span class="k_greencolor">Supporting Organisation </span> </h1>
+				<h1>ISUW 2025 <span class="k_greencolor">Supporting Organisations </span> </h1>
 				<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 			</div>
 			<div class="col-lg-3"><div class="logo-div"><a href="https://energyalliance.org/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38056" src="images/2025/globalEnergy.png" alt="" width="300" height="104"></a></div></div>
