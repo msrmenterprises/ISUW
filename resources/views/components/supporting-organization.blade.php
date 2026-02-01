@@ -24,6 +24,7 @@
 			<div class="col-lg-3"><div class="logo-div"><a href="https://sscgj.in/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5807" src="images/2026/SCGJ.png" alt="Skill Council for Green Jobs"></a></div></div>
 			<div class="col-lg-3"><div class="logo-div"><a href="https://www.netraglobal.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2026/NETRA.png" alt="Net-zero Energy Transition Association" width="200"></a></div></div>
 			<div class="col-lg-3"><div class="logo-div"><a href="https://apua-asea.org/en/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5807" src="https://www.isuw.in/public/uploads/organizations/LOGO APUA.jpg" alt="Association of Power Utilities of Africa" height="193"></a></div></div>
+			<div class="col-lg-3"><div class="logo-div"><a href="https://standards.ieee.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5807" src="images/2026/IEEE.jpg" alt="IEEE Standards Association"></a></div></div>
 			<br/><br/>
 
 			<div class="k_cheading">
