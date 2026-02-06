@@ -336,7 +336,7 @@
           </TR>
           
           <!-- BP Singh - Existing jury member (not in 2026 document - kept as-is) -->
-          <TR>
+          <!-- <TR>
             <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
               <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
               <P><FONT ><B>Mr. BP Singh&nbsp;&nbsp;&nbsp;<BR>Former Member<BR>Delhi Electricity Regulatory Commission (DERC)</B></FONT></P>
@@ -359,7 +359,7 @@
             </TD>
           </TR>
           
-          <!-- Rajesh Bansal - Existing jury member (not in 2026 document - kept as-is) -->
+          
           <TR>
             <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
               <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/rajesh.png" alt="Rajesh Bansal" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
@@ -377,7 +377,7 @@
                 </p>
               </FONT></P>
             </TD>
-          </TR>
+          </TR> -->
         </TABLE>
       </div>
     </div>
