@@ -227,210 +227,7 @@
 		</TD>
 	</TR>
 </TABLE>
-<!-- <TABLE style="width: 100%;">
-	<TR>
-		<TD  BGCOLOR="green" STYLE="border-top: 1.00pt solid #00000a; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><B>S.
-			No*</B></FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="green" STYLE="border-top: 1.00pt solid #00000a; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><B>Theme of Technical Paper</B></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">1</FONT></FONT></P>
-		</TD>
-			<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>INDIA @ 100 in 2047: Vision for the Indian Power System</b>
-			<ul>
-			<li>Net Zero Power Sector</li>
-			<li>Digital Technologies for Energy Transition</li>
-			<li>Climate Proofing the Power Systems</li>
-			<li>Affordable and Reliable Green Energy 24x7 for All Citizens</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-		</TR>
-		<TR>
-		    	<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">2</FONT></FONT></P>
-		</TD>
-		<TD BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Evolving Architecture of the 21 st Century Grid with Two Way Power Flows</b>
-			<ul>
-			<li>Planning And Design of Transmission Grid</li>
-			<li>Planning And Design of Distribution Grid with Prosumers and Electric Vehicles and Distributed Energy Resources</li>
-			<li>Communication Systems and Technologies for Fast Response- 1/50 OR 1/60
-Seconds</li>
-            <li>Separate Control Bus for IT and OT Systems</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">3</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Electric Mobility</b> 
-			<ul>
-			<li>North American Charging Standards (NACS)</li>    
-			<li>MW-scale Charging Systems (MCSs</li>
-			<li>School Bus Electrification</li>
-			<li>Vehicle Grid Integration (VGI)</li>
-			<li>Liquid Cooling Technology for the High Power Charges (HPC)</li>
-			<li>Electric Highways and the Electric Grids</li>
-			<li>New Infrastructure Planning with Integrated EVSE</li>
-			<li>EVs as Virtual Power Plants (VPP)</li>
-			<li>Wireless Charging of EVs and Drones </li>
-			<li>Passenger Drones, Delivery Drones and Agricultural Drones, Charging Infrastructure for Drones</li>
-			<li>Battery Swapping</li>
-<li>Destination (Wallbox) DC Charging</li>
-<li>Robotic Charging</li>
-<li>Battery-Buffered Charging</li>
-<li>Off-Grid Charging</li>
-<li>Mobile Charging</li>
-</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">4</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Foundational Blocks for Smart Grids </b>
-			<ul>
-			<li>Learnings from Smart Grid Projects</li>
-			<li>Smart Microgrids for Campuses, Railway Stations, Sea Ports, Airports, Industrial Parks, Military Bases, Hotels, Hospitals, Slums and Commercial Complexes</li>
-			<li>Cyber Physical Security of the Critical Infrastructure</li>
-			<li>Standards and Interoperability of Equipment and Systems</li>
-			<li>Communication Solutions for Smart Grids and Smart Cities</li>
-			<li>Flexibility in Power Systems</li>
-			<li>Energy Storage Systems - Applications and Business Models</li>
-			<li>250 Million Smart Meters in India – Progress and Challenges</li>
-			<li>Digital Tools for Management of DER</li>
-<li>Emerging Technologies for RE Integration</li>
-<li>Smart Inverters confirming to IEEE 1547</li>
-<li>Synthetic Inertia and Grid Forming Inverters</li>
-</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">5</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Disruptive Innovations for Utilities </b>
-			<ul>
-			<li>Artificial Intelligence , Machine Learning and Robotics</li> 
-			<li>Digital Twins</li>
-			<li>Virtual Reality, Augmented Reality, Assisted Reality and Mixed Reality Technologies for the Smart Grids and Smart Cities</li>
-			<li>Web 3.0 and Metaverse for Utilities</li>
-			<li>Wearable Devices</li>
-			<li>Blockchain Applications for Utilities and Local Energy Markets</li>
-			<li>Robotic Process Automation (RPA) for Utilities</li>
-			<li>Digitalization, New Services and Revenue Streams</li>
-			<li>Voice of the Customer - What the Digital Customers Wants?</li>
-			<li>Customer Engagement Strategies and Social Media for Utilities - Customer
-Portal, Chat-bot, Voice-bot </li>
-			<li>5G Rollout and its Impact for Electric Utilities</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">6</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Smart Grids for Smart Cities </b>
-			<ul>
-			<li>Common Automation and IT Layer for Smart City Infrastructure Domains</li>
-			<li>Unlocking the Value of Street Light Poles for Multiple Smart City Applications</li>
-			<li>Smart Home and Smart Appliances</li>
-			<li>Smart Grid as Anchor Infrastructure for Smart Cities-Integration of Utilities: Electricity, Gas and Water</li>
-			<li>Combined Billing and Customer Care Systems for all Utilities in a Smart City</li>
-			<li>Common GIS Map for all Domains in a Smart City</li>
-		
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">7</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>New and Emerging Technologies and Trends</b> 
-			<ul>
-			    <li>DG Set Replacement with Energy Storage Systems (BESS)</li>
-			<li>Green Hydrogen - Production, Transport, Utilization; and Certification </li>
-			<li>District Cooling System</li>
-			<li>Electric Cooking</li>
-			<li>Grid Interactive Buildings and Campuses</li>
-			<li>Urban Air Mobility Systems (UAM)</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">8</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Regulations for the Evolving Smart Energy Systems </b>
-			<ul>
-			<li>100% Renewables</li>
-			<li>Carbon Markets</li>
-			<li>Flexibility Solutions</li>
-			<li>Retail Competition</li>
-			<li>Green Power Markets</li>
-			<li>Ancillary Services</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">9</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Smart Water</b> ​ 
-			<ul>
-			<li>Smart ​Solutions for Water Production, Transmission and Distribution</li>
-			<li>Smart Technologies to Address India’s Urban Water Crisis</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">10</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Smart City Gas Distribution </b>
-			<ul>
-			<li>Solutions for Gas Transmission and City Gas Distribution Networks</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">11</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in">
-			<P><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Cyber Security for the Digitalized Grids </b>
-			
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	</TABLE> -->
+
 	  </div></div></div></div>
 	  
 	  <p align="center" style="line-height: 108%; margin-bottom: 0.11in"></p>
@@ -472,330 +269,153 @@ in IEEE paper format by 15 October 2025|Max: 4 pages / 1000 Words |
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsesix" aria-expanded="false" aria-controls="flush-collapsesix">
-       <H4 style="color: green;"><strong>Esteemed Jury Members of Technical Papers 2025</strong></style></H4>
+        <H4 style="color: green;"><strong>Esteemed Jury Members of Technical Papers 2026</strong></H4>
       </button>
     </h2>
     <div id="flush-collapsesix" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<TABLE>
-	<COL WIDTH=76*>
-	<COL WIDTH=180*>
-	<TR>
-		<TD WIDTH=30% BGCOLOR="#ed7d31"; STYLE="border-top: 1px solid #ed7d31; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0.1in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-top: 0.1in">
-			&nbsp;<FONT COLOR="#ffffff"><FONT ><B>Jury Panel</B></FONT></FONT></P>
-		</TD>
-		<TD WIDTH=70% BGCOLOR="#ed7d31"; STYLE="border-top: 1px solid #ed7d31; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-top: 0.1in">
-			<FONT COLOR="#ffffff"><FONT ><B>Brief Profile of Jury Panel</B></FONT></FONT></P>
-		</TD>
-	</TR>
-		<TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/anjuli.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=200 BORDER=0></P>
-			<P><FONT ><B>Anjuli Chandra, Former Member, Punjab Electricity Regulatory Commission (PERC)</B></FONT></P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
- Anjuli Chandra, former member, Punjab State
-Electricity Regulatory Commission (PSERC), brings to
-the table four decades of experience in the power
-sector. Her areas of expertise include distribution and
-transmission network planning, formulating standards,
-devising regulatory frameworks and load forecasting.
-Prior to joining PSERC, Chandra was principal chief
-engineer at the Central Electricity Authority (CEA),
-where she was responsible for power survey and load
-forecasting, power system monitoring, project
-appraisal and distribution planning and development.
-She has also served as executive director, tariff and
-engineering, at the Delhi Electricity Regulatory
-Commission.			
-		</TD>
-	</TR>
-	<TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/faruk.PNG" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			<P><FONT ><B>Dr. Faruk Kazi
-Chair of ISGF Working Group
-on Digital Architecture and
-Cyber Security Professor and
-Dean of Research and
-Development,
-<BR>VJTI, Mumbai</B></FONT></P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY><FONT >Faruk Kazi received his Ph.D. degree from Systems &amp;
-Control Engineering of Indian Institute of Technology
-(IIT) Bombay, in 2009. He is currently a Professor and
-Dean of Research &amp; Development at VJTI, Mumbai,
-India. He works in the domain of cyber-physical systems
-and critical infrastructure security. His research
-interests include SCADA security, Industrial Control
-System (ICS) and Operational Technology (OT) security.
-He is working as Chair of WG-3 (Digital Architecture and
-Cyber Security) of India Smart Grid Forum (ISGF), PPP
-initiative of Ministry of Power, Government of India. He
-also works as a consultant with Tata Consulting
-Engineers (TCE) for Smart Grid projects. He was invited
-as a visiting research scholar at Swiss Federal Institute
-of Technology, EPFL, Switzerland and Tufts University,
-Boston, USA. He has delivered invited talks and
-presented his research work at MIT USA, SUPELEC,
-CNRS, Paris (France), Budapest (Hungary), Florence
-(Italy) and Japan. He has published more than 90
-research papers in various international journals &amp; conferences. He has received project funding from
-ISRO, BARC, DRDO and DST for his various research
-projects. He has also secured project funding and in-
-kind support from industries like Siemens, Emerson, L
-&amp;T (Electrical &amp; Automation), L &amp; T Infotech and CISCO
-for test-bed on security of cyber physical systems.</FONT></P>
-		</TD>
-	</TR>
-	<!-- <TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/n.murgan.PNG" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><BR><BR>
-			</P>
-			<P STYLE="margin-bottom: 0.11in"><FONT ><B>Mr. N MURUGESAN, Former Director General, CPRI,
-38 Years of experience in
-Power Systems,
-<BR>SCADA, Substation, Distribution Automation and Smart Metering</B></FONT></P>
-			<P ALIGN=JUSTIFY><BR>
-			</P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY><FONT > 
-N.Murugesan holds MSc (Engg) and MBA. He has more
-than 38 years of experience in the area of Smart
-Metering, Smart Grid, Advanced Metering
-Infrastructure (AMI), Power Systems, Transmission &amp;
-Distribution system, SCADA, Substation &amp; Distribution
-Automation, Switchgear testing &amp; Certification (Low &amp;
-High voltage equipment) as per National &amp;
-International standards. Managed one of the largest
-Power Engineering Research Institute in the world as
-Director General. He added many infrastructures to
-carry out Research and for certification of electrical
-equipment from Low Voltage to EHV Class equipment
-to meet International and National standards. Managed
-various laboratories located 7 cities across India
-(Bangalore, Hyderabad, Nagpur, Bhopal, Noida,
-Kolkata, Guwahati). Organised more than 400
-workshop/ Training / Conferences in the area of Power
-Engineering. Supervised varieties of Consulting works
-covering Generation, Transmission and Distribution and
-managed various Research &amp; Development projects in
-the above areas. He established Communication
-Protocol conformance laboratories for the first time in
-Asia in 2003 and 2008 for Energy Meter and Substation
-Automation as per IEC 62056 and 61850 respectively.
-Established other laboratories as per IEC 60870 series,
-Modbus etc. Certified largest number of products as
-per above IEC and helped to produce in India. Played an
-active role in drafting specification under RAPDRP. He
-was the Chairman to bring Smart Meter standard -BIS
-16444 and CBIP Manual for Energy Meter.
-</FONT></P>
-		</TD>
-	</TR> -->
-	<!-- <TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/ravi.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
-			<P><FONT ><B>Mr. Ravi Seethapathy, <BR>Ambassador Americas, Global
-Smart Grid Federation,
-Honorary Member and WG
-Chair,<BR>ISGF and Chairman, Biosirus Inc. Canada</B></FONT></P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in">After 35+ year career in Electric Utilities/Power
-Systems, Ravi Seethapathy is now an Advisor to the
-Utility/Industry, and sits on the Boards of Power
-Transmission &amp; Distribution (IC) Division of Larsen &amp;
-Toubro, India; Biosirus Inc., Canada; Smart Grid Canada,
-and India Smart Grid Forum. His current international
-activities include (1) “Ambassador for the Americas”,
-Global Smart Grid Forum; (2) CIGRE Convener
-WGC6.28-Remote Grids; (3) IEA PVPS Taskforce 14 –
-Large Scale Solar Integration; (4) IEC TC 120 – Energy 
-Storage; (5) IEC SEG4-LVDC; and (6) Chair, India Smart
-Grid Forum WG 5-RE &amp; Micro-grids. He an invited
-speaker internationally and has co-authored over 50
-technical papers in the areas of Smart Grid. He
-Founder/ Executive Chair of Biosirus Inc. in Canada.
-Retired in 2014 after 31-year career in Hydro
-One/Ontario Hydro (a leading utility in Canada), where
-he managed leading portfolios in R&amp;D, Innovation,
-Smart Grid Projects, Energy Storage, Renewable Energy
-Integration, Asset Management, Corporate
-Operations/Technical Audit, M&amp;A (500M$), Field
-Operations, and Relaying and Control. His past
-corporate directorships include Toronto Atmospheric
-Fund, Ryerson University, TV Ontario, Scarborough
-Hospital, Nevaro Capital Corp, Engineers Without
-Borders (Chair), Canadian Club of Toronto (President),
-Indo-Canada Chamber of Commerce (President).
-Ravi has received numerous honours and citations
-including Queen Elizabeth Diamond Jubilee Medal
-(2012), Fellow Canadian Academy of Engineering
-(2012), Hydro One President’s Award (2008), Honour
-Roll of the Shastri Institute (2008), Honorary Fellow,
-Centennial College (2005), and Indo-Canada Chamber
-of Commerce (1996) to name a few. Ravi’s education
-includes a B. Tech (Hons) in Electrical Power from IIT,
-Kharagpur, India; an M. Eng. in Electrical Power from
-the University of Toronto; and an MBA from the
-Schulich School of Business, York University. His
-family/he have endowed an IEEE Award in “Rural
-Electrification Excellence”.<FONT ><B>
-			</P>
-			
-		</TD>
-	</TR> -->
-	<TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
-			<P><FONT ><B>Mr. BP Singh&nbsp;&nbsp;&nbsp;<BR>Former
-			Member<BR>Delhi Electricity Regulatory Commission (DERC)</B></FONT></P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
-Mr. BP Singh   
-Former Member
-Delhi Electricity Regulatory Commission (DERC)	Mr. BP Singh is a graduate in Mining Engineering from Indian School of Mines, Dhanbad and has over 40 years of experience in the power & energy sector.  
-He was a Former Member in DERC (Delhi Electricity Regulatory Commission). He has issued three successive Tariff Orders for the period 2014 to 2018, being consumer friendly, were highly acclaimed at all levels. As a part of Power sector Reforms, formulated progressive Regulations on Tariff, Net Metering and Demand Side Management and Modified SOP to make it more consumer friendly. Efficacious remedy for redressal of Consumer’s Grievance has been enhanced by making the Regulations consumer friendly and initiated action for creation of legal aid cell for the benefit of the Consumer’s.
-Prior to taking up the assignment as Member DERC, he rose to the position of Director (Projects) in NTPC, where he additionally had also held assignments viz, Chairman, BRBCL; Chairman NTPC SCCL Global Ventures Pvt. Ltd.; whole time Director of NTPC Hydro Ltd.; BFSNL Ltd. etc.
-He has been part of numerous high-level committees constituted by the Government of India for formulation of Plan proposals and Policies including Energy Policy, pricing of Coal etc.
-He has actively participated in formulation of policies for the Regulatory Commissions under the aegis of Forum of India Regulators. He has been associated with numerous professional institutions, viz
-<br/>
-1. “Institute Senate Member’ – Dr BR Ambedkar National Institute of Technology, Jalandhar;<br/>
-2. Member of General Body & Peer Review Committee of National Institute of Rock Mechanics under Ministry of Mines,<br/>
-3 Member of the Board of Construction Industry Development Council, joint council by Indian Construction industry and Planning Commission,<br/>
-He had been adjudged and awarded Best Director Projects Corporate Excellence Award 2012-13 – GEOMINTECH; Awarded at Brisbane Dadari Project – awarded for project excellence in 25th IPMA World Congress at Brisbane in 2011
-.</FONT></P>
-			
-		</TD>
-	</TR>
-		<!-- <TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/rish.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
-			<P><FONT ><B>Mr. Rish Ghatikar <br/>
-Fellow, General Motors, US
-Advisor &amp; Board Member,
-India Smart Grid Forum</B></FONT></P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
-Mr. Rish Ghatikar is energy Fellow with General Motors
-(United States) and Advisor for energy technologies
-that enables economy-wide transportation
-electrification and mitigates climate risks. Ghatikar, as
-the Chief Research Officer at Greenlots (now, Shell
-Recharge Solutions), led the development of electric
-vehicle—grid and storage-integrated technical and
-business solutions. Ghatikar, as the Deputy Leader for
-the Grid Integration research, served the U.S.
-Department of Energy&#39;s Lawrence Berkeley National
-Laboratory (LBNL). Here, Ghatikar led the initiative for
-global demand response data standard, OpenADR, and
-to transition California utilities’ into automating
-dynamic pricing strategies. Ghatikar&#39;s work has
-
-appeared in over 100 scientific publications. </FONT></P>
-			
-		</TD>
-	</TR> -->
-
-	<TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/rajesh.png" alt="Rajesh Bansal" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
-			<P><FONT ><B>Mr. Rajesh Bansal
-			<BR>Former CEO of BSES Rajdhani Power Ltd
-			</B></FONT></P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
-			Rajesh Bansal started his career as Scientist in Indian Space Research Organization. Later he was involved in the development of first Single Phase Electronic Meter, in India. He has worked for various energy meter companies including DZG Germany. In 2004, he joined BSES Delhi, Reliance
-			group, as Head of Meter Management and Energy Audit and in 2021 reached to position of CEO.</p>	
-			<p>He has good exposure of world-wide metering, data usage and power distribution technology. He
-			has shared his experience with various international meter manufacturers, Meter ASIC designers,
-			Utilities and service providers to Utilities across the globe. He has written a series of papers about
-			“Role of energy meters and usage of meter data”, Smart Apps – next step to data analytics, How to
-			leverage benefits from smart grid data, validation of smart metering system, addressing utility
-			objectives</p>		
-			<p>Presently he is advising various companies and start Ups, sharing his knowledge and experience at
-			various platform, conduct session on “Fascinating world of power distribution” regularly to enhance
-			interest of student and young professional into core engineering. He is member of various
-			government committees/ task force and Chairman of CBIP Metering manual committee</p>
-		</TD>
-	</TR>
-
-
-	<TR>
-		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/reji.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
-			<P><FONT ><B>Mr. Reji Kumar Pillai,
-<BR>President - ISGF, </br>
-Chairman - GSGF</br></B></FONT></P>
-		</TD>
-		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
-Reji is the President of India Smart Grid Forum
-(www.indiasmartgrid.org) since its inception in 2011
-and is also the Chairman of Global Smart Energy
-Federation since November 2016. He an internationally
-renowned expert with nearly four decades of
-experience in the electricity sector in diverse functions
-covering the entire value chain and across continents.
-He is spearheading a mission to leverage technology to
-transform the electric grids and provide clean and
-reliable electricity to every citizen 24x7 at affordable
-cost. He is actively advocating for the “Right to
-Electricity Act” that will ensure lifeline supply of
-electricity to all; and also advocating for a “Right to
-Sleep Act” to provide climate controlled sleeping pods
-in low income communities. Reji has played pivotal role
-in several ground breaking initiatives related to
-renewable energy, electric grid modernization, electric
-mobility, energy storage and digitalization in India
-during the past two decades. His current areas of
-research and work spans: Grid Integrated Vehicles,
-District Cooling Systems, Electric Cooking, Smart Grids
-as Anchor Infrastructure for Smart Cities, Grid
-Interactive Buildings and Campuses; Artificial
-Intelligence, Robotics, Blockchain, Web 3.0 and
-Metaverse Applications for Utilities; Urban Air Mobility
-(UAM) Systems and the Future of Transportation; and
-Interconnection of Regional Grids in Asia - ASEAN,
-SAARC and GCC grids. In November 2016, Reji was
-unanimously elected as Chairman of Global Smart Grid
-Federation, now renamed as Global Smart Energy
-Federation (GSEF), a global umbrella organization of
-smart energy associations and utilities from 16
-countries and the European Union headquartered in
-Washington DC, USA. Reji is also an advisor to Arab
-Renewable Energy Commission (AREC) since 2017; and
-work closely with the Association of Power Utilities in
-Africa (APUA) and International Smart Grid Action
-Network (ISGAN). As an entrepreneur, Reji has built
-successful enterprises in India and overseas and exited
-them. He has studied Engineering, Finace, Management
-and Law; worked with NTPC and IBM and has been
-senior consultant with ADB, World Bank and USAID. A
-recognized thought leader in renewable energy, smart
-grid technologies, smart cities and electric mobility, Reji
-is a popular key-note speaker at international
-
-symposiums and conferences. He has also contributed
-to several articles, books, research reports and white
-papers on variety of topics.			
-		</TD>
-	</TR>
-</TABLE>
-</div>
+        <TABLE>
+          <COL WIDTH=76*>
+          <COL WIDTH=180*>
+          <TR>
+            <TD WIDTH=30% BGCOLOR="#ed7d31"; STYLE="border-top: 1px solid #ed7d31; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0.1in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+              <P ALIGN=JUSTIFY STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-top: 0.1in">
+                &nbsp;<FONT COLOR="#ffffff"><FONT ><B>Jury Panel</B></FONT></FONT>
+              </P>
+            </TD>
+            <TD WIDTH=70% BGCOLOR="#ed7d31"; STYLE="border-top: 1px solid #ed7d31; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding: 0.1in">
+              <P ALIGN=JUSTIFY STYLE="margin-left: 0.1in; margin-right: 0.1in; margin-top: 0.1in">
+                <FONT COLOR="#ffffff"><FONT ><B>Brief Profile of Jury Panel</B></FONT></FONT>
+              </P>
+            </TD>
+          </TR>
+          
+          <!-- Anjuli Chandra - Updated from 2026 document -->
+          <TR>
+            <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/anjuli.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=200 BORDER=0></P>
+              <P><FONT ><B>Anjuli Chandra, Former Member, Punjab State Electricity Regulatory Commission (PSERC)</B></FONT></P>
+            </TD>
+            <TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
+                Anjuli Chandra, former member, Punjab State Electricity Regulatory Commission (PSERC), brings to the table four decades of experience in the power sector. Her areas of expertise include distribution and transmission network planning, formulating standards, devising regulatory frameworks and load forecasting. Prior to joining PSERC, Chandra was principal chief engineer at the Central Electricity Authority (CEA), where she was responsible for power survey and load forecasting, power system monitoring, project appraisal and distribution planning and development. She has also served as executive director, tariff and engineering, at the Delhi Electricity Regulatory Commission.
+              </FONT></P>
+            </TD>
+          </TR>
+          
+          <!-- Dr. Faruk Kazi - Updated from 2026 document -->
+          <TR>
+            <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/faruk.PNG" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+              <P><FONT ><B>Dr. Faruk Kazi --- Chair, ISGF Working Group on Digital Architecture & Cyber Security; Professor & Dean (R&D), VJTI, Mumbai</B></FONT></P>
+            </TD>
+            <TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+              <P ALIGN=JUSTIFY><FONT >
+                Dr. Faruk Kazi received his Ph.D. in Systems and Control Engineering from IIT Bombay in 2009. He is currently Professor and Dean (R&D) at VJTI, Mumbai. His work focuses on cyber-physical systems, critical infrastructure protection, and cybersecurity for SCADA, Industrial Control Systems (ICS), and Operational Technology (OT). He serves as Chair of Working Group-3 (Digital Architecture and Cyber Security) of the India Smart Grid Forum (ISGF), a PPP initiative of the Ministry of Power, Government of India, and is a consultant with Tata Consulting Engineers for Smart Grid projects. Dr. Kazi has been a visiting scholar at EPFL, Switzerland, and Tufts University, USA, has delivered invited talks globally, and has published over 90 research papers with funding support from ISRO, BARC, DRDO, and DST.
+              </FONT></P>
+            </TD>
+          </TR>
+          
+          <!-- Ravi Seethapathy - New from 2026 document -->
+          <TR>
+            <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/ravi.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+              <P><FONT ><B>Ravi Seethapathy, Executive Chairman of Biosirus Inc., Canada and Advisor, India Smart Grid Forum</B></FONT></P>
+            </TD>
+            <TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
+                Ravi Seethapathy, is Executive Chairman of Biosirus Inc., Canada and a Corporate Director of Larsen & Toubro's - Power Transmission & Distribution (IC), India. He also serves as the "Ambassador for the Americas", for the Global Smart Energy Federation, USA, and as an Advisor to the India Smart Grid Forum. With over 35+ years of experience in the Energy and Power Systems area in Canada, he mentors several utilities and companies in their technology development. His is active in several IEC, CSA, GSEF, ISGF technical committees, in the areas of sustainable energy, transportation, energy storage, microgrid and e-mobility. He is an invited speaker internationally and has co-authored over 50 technical papers and 50 published articles. His former Corporate Directorships include Toronto Atmospheric Fund, Smart Grid Canada, Ryerson University, TV Ontario, Scarborough Hospital, and as Chairs of Engineers Without Borders Canada, Canadian Club of Toronto, and Indo-Canada Chamber of Commerce.
+              </FONT></P>
+            </TD>
+          </TR>
+          
+          <!-- Mr. Reji Kumar Pillai - Updated from 2026 document -->
+          <TR>
+            <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/reji.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+              <P><FONT ><B>Mr. Reji Kumar Pillai, President -- India Smart Grid Forum, Chairman - Global Smart Energy Federation</B></FONT></P>
+            </TD>
+            <TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
+                Reji has been President of the India Smart Grid Forum since its inception in 2011 and Chairman of the Global Smart Energy Federation (GSEF) since November 2016. He is an internationally renowned expert with nearly four decades of experience across the electricity value chain. He leads efforts to modernize electric grids and expand access to clean, reliable, and affordable electricity, while advocating for the "Right to Electricity Act." Reji has played a key role in advancing renewable energy, smart grids, electric mobility, energy storage, and digitalization in India. His current work spans grid-integrated vehicles, smart cities, AI applications for utilities, and regional grid interconnections in Asia. He advises the Arab Renewable Energy Commission and collaborates closely with APUA and ISGAN. He has worked with NTPC, IBM, and as a consultant to ADB, World Bank, and USAID, and is a sought-after international keynote speaker.
+              </FONT></P>
+            </TD>
+          </TR>
+          
+          <!-- Ashok Kumar Rajput - New from 2026 document -->
+          <TR>
+            <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image5.jpeg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+              <P><FONT ><B>Ashok Kumar Rajput, Member (Power System), Central Electricity Authority, GoI</B></FONT></P>
+            </TD>
+            <TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
+                Shri Ashok Kumar Rajput served as Member (Power Systems) and Ex-Officio Additional Secretary to the Government of India at the Central Electricity Authority (CEA), Ministry of Power from 15 November 2022 until his superannuation on 28 February 2025. A 1986-batch officer of the Central Power Engineering Services, he joined CEA in 1988. He holds a B.Tech in Electrical Engineering from GBPUA&T, Pantnagar, and an M.Tech in Power Systems from IIT Delhi. With nearly four decades in the power sector, he made significant contributions to transmission planning, distribution reforms, smart meters, renewable energy integration, and grid modernization. He played a key role in REMCs, transformer quality control orders, e-mobility, hydrogen economy initiatives, and the Great Indian Bustard (GIB) expert committee on underground lines. He has authored several technical papers and publications in English and Hindi.
+              </FONT></P>
+            </TD>
+          </TR>
+          
+          <!-- N Murugesan - New from 2026 document -->
+          <TR>
+            <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image6.jpeg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+              <P><FONT ><B>N Murugesan, Former Director General, Central Power Research Institute</B></FONT></P>
+            </TD>
+            <TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
+                N. Murugesan has over 40 years of experience in Power Systems, Transmission & Distribution, Substation and Distribution Automation, Smart Grids, AMI, Smart Meters, and power system communication protocols, along with testing and certification of low- and high-voltage equipment as per national and international standards. He served as Chief Executive Officer of one of India's largest Power Engineering Research Institutes from March 2010 to March 2015, during which he upgraded its seven laboratories to meet global IEC and BIS standards. Since 2015, he has been working as an Independent Consultant, advising utilities on new technologies, equipment specifications, market studies, and capacity building in areas such as SCADA, AMI, storage systems, safety, and quality assurance of electrical equipment.
+              </FONT></P>
+            </TD>
+          </TR>
+          
+          <!-- BP Singh - Existing jury member (not in 2026 document - kept as-is) -->
+          <TR>
+            <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/BP.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+              <P><FONT ><B>Mr. BP Singh&nbsp;&nbsp;&nbsp;<BR>Former Member<BR>Delhi Electricity Regulatory Commission (DERC)</B></FONT></P>
+            </TD>
+            <TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
+                Mr. BP Singh   
+                Former Member
+                Delhi Electricity Regulatory Commission (DERC) Mr. BP Singh is a graduate in Mining Engineering from Indian School of Mines, Dhanbad and has over 40 years of experience in the power & energy sector.  
+                He was a Former Member in DERC (Delhi Electricity Regulatory Commission). He has issued three successive Tariff Orders for the period 2014 to 2018, being consumer friendly, were highly acclaimed at all levels. As a part of Power sector Reforms, formulated progressive Regulations on Tariff, Net Metering and Demand Side Management and Modified SOP to make it more consumer friendly. Efficacious remedy for redressal of Consumer's Grievance has been enhanced by making the Regulations consumer friendly and initiated action for creation of legal aid cell for the benefit of the Consumer's.
+                Prior to taking up the assignment as Member DERC, he rose to the position of Director (Projects) in NTPC, where he additionally had also held assignments viz, Chairman, BRBCL; Chairman NTPC SCCL Global Ventures Pvt. Ltd.; whole time Director of NTPC Hydro Ltd.; BFSNL Ltd. etc.
+                He has been part of numerous high-level committees constituted by the Government of India for formulation of Plan proposals and Policies including Energy Policy, pricing of Coal etc.
+                He has actively participated in formulation of policies for the Regulatory Commissions under the aegis of Forum of India Regulators. He has been associated with numerous professional institutions, viz
+                <br/>
+                1. "Institute Senate Member' – Dr BR Ambedkar National Institute of Technology, Jalandhar;<br/>
+                2. Member of General Body & Peer Review Committee of National Institute of Rock Mechanics under Ministry of Mines,<br/>
+                3 Member of the Board of Construction Industry Development Council, joint council by Indian Construction industry and Planning Commission,<br/>
+                He had been adjudged and awarded Best Director Projects Corporate Excellence Award 2012-13 – GEOMINTECH; Awarded at Brisbane Dadari Project – awarded for project excellence in 25th IPMA World Congress at Brisbane in 2011.
+              </FONT></P>
+            </TD>
+          </TR>
+          
+          <!-- Rajesh Bansal - Existing jury member (not in 2026 document - kept as-is) -->
+          <TR>
+            <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2025/rajesh.png" alt="Rajesh Bansal" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+              <P><FONT ><B>Mr. Rajesh Bansal
+                <BR>Former CEO of BSES Rajdhani Power Ltd
+              </B></FONT></P>
+            </TD>
+            <TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><FONT > 
+                Rajesh Bansal started his career as Scientist in Indian Space Research Organization. Later he was involved in the development of first Single Phase Electronic Meter, in India. He has worked for various energy meter companies including DZG Germany. In 2004, he joined BSES Delhi, Reliance group, as Head of Meter Management and Energy Audit and in 2021 reached to position of CEO.
+                </p>    
+                <p>He has good exposure of world-wide metering, data usage and power distribution technology. He has shared his experience with various international meter manufacturers, Meter ASIC designers, Utilities and service providers to Utilities across the globe. He has written a series of papers about "Role of energy meters and usage of meter data", Smart Apps – next step to data analytics, How to leverage benefits from smart grid data, validation of smart metering system, addressing utility objectives.
+                </p>        
+                <p>Presently he is advising various companies and start Ups, sharing his knowledge and experience at various platform, conduct session on "Fascinating world of power distribution" regularly to enhance interest of student and young professional into core engineering. He is member of various government committees/ task force and Chairman of CBIP Metering manual committee.
+                </p>
+              </FONT></P>
+            </TD>
+          </TR>
+        </TABLE>
+      </div>
     </div>
   </div>
-  </div>
+</div>
   
   <p align="center" style="line-height: 108%; margin-bottom: 0.11in"></p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
@@ -1087,15 +707,7 @@ papers on variety of topics.
 </table>
 
 <table width="100%" cellpadding="5" cellspacing="0" border="1" style="border-collapse: collapse;">
-  <!-- <thead>
-    <tr style="background: #2c7bb6; color: white;">
-      <th width="5%">Sl. No.</th>
-      <th width="20%">Theme</th>
-      <th width="40%">Paper Title</th>
-      <th width="15%">Presenter</th>
-      <th width="20%">Organization</th>
-    </tr>
-  </thead> -->
+  
   <thead>
             <tr>
 				<th colspan="5" style="background: #EF7B00;text-align: center;">Top 31 - ISUW 2026 Technical Papers Selected for Publication</th>
