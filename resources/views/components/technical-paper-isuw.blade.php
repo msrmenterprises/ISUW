@@ -312,7 +312,7 @@
           <!-- Ashok Kumar Rajput - New from 2026 document -->
           <TR>
             <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image5.jpeg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2026/Ashokrajput.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
               <P><FONT ><B>Ashok Kumar Rajput, Member (Power System), Central Electricity Authority, GoI</B></FONT></P>
             </TD>
             <TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
@@ -325,7 +325,7 @@
           <!-- N Murugesan - New from 2026 document -->
           <TR>
             <TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="media/image6.jpeg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+              <P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="images/2026/NMurugesan.jpg" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
               <P><FONT ><B>N Murugesan, Former Director General, Central Power Research Institute</B></FONT></P>
             </TD>
             <TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
