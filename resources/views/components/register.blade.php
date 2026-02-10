@@ -394,19 +394,19 @@
                 <tbody>
                     <tr>
                         <td><strong>20%</strong></td>
-                        <td>Early Bird offer is valid till <strong>10 Feb 2026</strong>. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with your organisation details</td>
+                        <td>Early Bird offer is valid till <strong>28 Feb 2026</strong>. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with your organisation details</td>
                     </tr>
                     <tr>
                         <td><strong>20%</strong></td>
-                        <td>Only for ISGF Members valid till <strong>20 Feb 2026</strong> - <a href="https://indiasmartgrid.org/members-list" target="_blank">https://indiasmartgrid.org/members-list</a>. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with your organisation details</td>
+                        <td>Only for ISGF Members valid till <strong>28 Feb 2026</strong> - <a href="https://indiasmartgrid.org/members-list" target="_blank">https://indiasmartgrid.org/members-list</a>. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with your organisation details</td>
                     </tr>
                     <tr>
                         <td><strong>20%</strong></td>
-                        <td>This offer is valid for <strong>Delegate group of 4 till 15 Feb 2026</strong>. In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with delegate details such as Name, Email id and Company Name</td>
+                        <td>This offer is valid for <strong>Delegate group of 4 till 28 Feb 2026</strong>. In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with delegate details such as Name, Email id and Company Name</td>
                     </tr>
                     <tr>
                         <td><strong>30%</strong></td>
-                        <td>This offer is valid for <strong>Delegate group of 5 and above till 15 Feb 2026.</strong> In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with Delegate Details such as Name, Email id and Company Name</td>
+                        <td>This offer is valid for <strong>Delegate group of 5 and above till 28 Feb 2026.</strong> In case, after getting the DISCOUNT CODE, registration is not made for the mentioned number of Delegates, ISGF holds the right to cancel your registration. To get this code, please write to us at <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> and <a href="mailto:isuw@isuw.in">isuw@isuw.in</a> with Delegate Details such as Name, Email id and Company Name</td>
                     </tr>
                 </tbody>
             </table>
