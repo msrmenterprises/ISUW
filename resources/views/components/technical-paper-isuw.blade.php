@@ -947,7 +947,7 @@
   </div>
 </div> -->
 
-<table>
+<!-- <table>
         <thead>
             <tr>
 				<th colspan="5" style="background: #EF7B00;text-align: center;">Top 24 - ISUW 2025 Technical Paper Selected for Presentation</th>
@@ -1132,8 +1132,8 @@
             
         </tbody>
     </table>
-	<br/>
-	<table>
+	<br/> -->
+	<!-- <table>
         <thead>
 			<tr>
 			<th colspan="5" style="background: #EF7B00;text-align: center;">Top 44 - ISUW 2025 Technical Paper Selected for Publication</th>
@@ -1458,7 +1458,7 @@
     </tbody>
     </table>
 
-	<br/>
+	<br/> -->
 
 
 
