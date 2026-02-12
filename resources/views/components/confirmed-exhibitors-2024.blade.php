@@ -5,9 +5,10 @@
  <div class="row justify-content-left ">
  <p></p>
 <div class="k_cheading">
-		<h1>ISUW 2026<span class="k_greencolor"> EXHIBITORS </span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+      <h1>ISUW 2026<span class="k_greencolor"> EXHIBITORS </span> </h1>
+      <img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 </div>
+
       <!-- <div class="col-lg-3"><a href="https://sunnetsoftware.com/contact-us/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/sunnet.png" alt="" style="display:inline; height:59px"></a></div></div>
       <div class="col-lg-3"><a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="" style="display:inline; height:59px"></a></div></div> -->
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img  src="http://isuw.in/uploads/images/sew-water.png" alt="" width="213" height="102"></a></div></div>
@@ -36,6 +37,8 @@
       <div class="col-lg-3"><div class="logo-div"><a href="https://cyanconnode.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/logo_cyanconnode.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://radius.co.in/" target="_blank" rel="noopener noreferrer"><img src="https://radius.co.in/wp-content/uploads/2023/07/radius_logo.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.noidapower.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/NPCL.png" alt="" width="160" height="115" style="display:inline;"></a></div></div> -->
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.powerfoundationindia.org/" target="_blank"><img src="images/2026/PowerFoundation.jpeg" alt="Power Foundation of India" width="213" height="102"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.tekuncorked.com/" target="_blank"><img src="images/2026/TekUncorked.png" alt="TekUncorked - outage-free electricity for all." width="213" height="102"></a></div></div>
       <p></p>
 
  <div class="k_cheading">
