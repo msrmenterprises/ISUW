@@ -5,15 +5,28 @@
  <div class="row justify-content-left ">
 <p></p>
 
+
 <div class="k_cheading">
-	<h1>ISUW 2026 <span class="k_greencolor">Supporting Ministries</span> </h1>
+	<h1>Supported By</h1>
 	<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 </div>
 <div class="row justify-content-center">
-  <div class="col-lg-3"><div class="logo-div"><p><a href="https://powermin.gov.in/" target="_blank"><img class="aligncenter wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MOP Golden.png" alt="Goverment of India, Ministry of Power" style="width:219px; max-height:170px;" /></a></p></div></div>
+	<div class="col-lg-3"><div class="logo-div"><p><a href="https://powermin.gov.in/" target="_blank"><img class="aligncenter wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MOP Golden.png" alt="Goverment of India, Ministry of Power" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>
 <div class="row justify-content-center">
-  <div class="col-lg-3"><div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/CEA PNG.png" alt="Central Electricity Authority" style="width:219px; max-height:170px;" /></a></p></div></div>
+	<div class="col-lg-3"><div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/CEA PNG.png" alt="Central Electricity Authority" style="width:219px; max-height:170px;" /></a></p></div></div>
+</div>
+<!-- All India Discoms Association (AIDA) logo -->
+<div class="row justify-content-center">
+	<div class="col-lg-3">
+		<div class="logo-div">
+			<p>
+				<a href="https://www.aidaindia.org/" target="_blank">
+					<img class="aligncenter wp-image-38077" src="images/2026/AIDA.png" alt="All India Discoms Association (AIDA) | Power Distribution Body" style="width:219px; max-height:170px;" />
+				</a>
+			</p>
+		</div>
+	</div>
 </div>
 
 <div class="k_cheading">
