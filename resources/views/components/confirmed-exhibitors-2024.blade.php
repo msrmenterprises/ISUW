@@ -38,7 +38,7 @@
       <div class="col-lg-3"><div class="logo-div"><a href="https://radius.co.in/" target="_blank" rel="noopener noreferrer"><img src="https://radius.co.in/wp-content/uploads/2023/07/radius_logo.png" alt="" width="160" height="115" style="display:inline;"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.noidapower.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/NPCL.png" alt="" width="160" height="115" style="display:inline;"></a></div></div> -->
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.powerfoundationindia.org/" target="_blank"><img src="images/2026/PowerFoundation.jpeg" alt="Power Foundation of India" width="213" height="102"></a></div></div>
-      <div class="col-lg-3"><div class="logo-div"><a href="https://www.tekuncorked.com/" target="_blank"><img src="images/2026/TekUncorked.png" alt="TekUncorked - outage-free electricity for all." width="213" height="102"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.tekuncorked.com/" target="_blank"><img src="images/2026/TekUncorked.png" alt="TekUncorked - outage-free electricity for all."></a></div></div>
       <p></p>
 
  <div class="k_cheading">
