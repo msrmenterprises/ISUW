@@ -44,8 +44,8 @@
                   <div class="card-box">
 
                      <div class="ministry">
-                        <h2>SUPPORTING <br> 
-                        MINISTRIES 2026
+                        <h2>Supporting By <br> 
+      
                         </h2>
                            <div class="logo-div">
                               <p>
