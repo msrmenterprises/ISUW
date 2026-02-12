@@ -203,21 +203,32 @@
                      </h2>
                      
 
+
                      <div class="row justify-content-center">
                         <div class="col-lg-12">
                            <div class="logo-title">
                               <h4>Platinum Partner</h4>
                            </div>
                         </div>
-                        
-                           <div class="col-lg-4">
+                        <div class="col-lg-4">
                               <a href="https://www.sew.ai/" target="_blank">
                                  <div class="logo-div"><img src="/uploads/images/sew-water.png" class="logo-img " style="display:inline; height:60px">
                                  </div>
                               </a>
+                        </div>
+                     </div>
+
+                     <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                           <div class="logo-title">
+                              <h4>Knowledge Partner</h4>
                            </div>
-                        
-                        
+                        </div>
+                        <div class="col-lg-4">
+                              <a href="https://www.powerfoundationindia.org/" target="_blank">
+                                 <div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/power-foundation-india.png" alt="Power Foundation of India" style="height:55px;"></div>
+                              </a>
+                        </div>
                      </div>
 
                      <div class="row justify-content-center">
@@ -364,6 +375,22 @@
                                </div>
                            </a>
                         </div>
+                     </div>
+
+                     <div class="row justify-content-center">
+                        <div class="col-lg-12">
+                           <div class="logo-title">
+                              <h4>Knowledge Partner</h4>
+                           </div>
+                        </div>
+                        <div class="col-lg-5">
+                           <a href="https://www.powerfoundationindia.org/" target="_blank" rel="noopener noreferrer">
+                              <div class="logo-div">
+                                 <img src="images/2026/PowerFoundation.jpeg" alt="Power Foundation of India" style="display:inline; height:50px">
+                               </div>
+                           </a>
+                        </div>
+                        
                      </div>
 
                      <div class="row justify-content-center">

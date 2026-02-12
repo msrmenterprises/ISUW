@@ -29,6 +29,7 @@ margin-left: 408px;
     <div class="col-lg-3"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/images/sew-water.png" alt="" style="display:inline; height:50px"></a></div></div>
 </div>
 
+
 <h5 style="text-align:center;"><b>Knowledge Partner</b></h5>
 <div class="row justify-content-center">
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.powerfoundationindia.org/" target="_blank" rel="noopener noreferrer"><img src="images/2026/PowerFoundation.jpeg" alt="Power Foundation of India" style="height:55px;"></a></div></div>
