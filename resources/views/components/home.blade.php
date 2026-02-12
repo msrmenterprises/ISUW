@@ -44,7 +44,7 @@
                   <div class="card-box">
 
                      <div class="ministry">
-                        <h2>Supporting By <br> 
+                        <h2>SUPPORTING BY <br> 
       
                         </h2>
                            <div class="logo-div">
