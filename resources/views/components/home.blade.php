@@ -226,7 +226,7 @@
                         </div>
                         <div class="col-lg-4">
                               <a href="https://www.powerfoundationindia.org/" target="_blank">
-                                 <div class="logo-div"><img src="images/2026/PowerFoundation.jpeg" alt="Power Foundation of India" style="height:55px;"></div>
+                                 <div class="logo-div"><img src="images/2026/PowerFoundation.jpeg" alt="Power Foundation of India" ></div>
                               </a>
                         </div>
                      </div>
