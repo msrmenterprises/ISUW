@@ -351,7 +351,7 @@
                               
                         </div>
 
-                        <div class="row justify-content-center">
+                        <!-- <div class="row justify-content-center">
                               <div class="col-lg-12">
                                  <h2>Conference Session Partner</h2>
                               </div>
@@ -362,7 +362,7 @@
                               </div>
                            </div>
 
-                           </div>
+                           </div> -->
 
                         
 
