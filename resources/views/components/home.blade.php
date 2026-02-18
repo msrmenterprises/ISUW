@@ -200,7 +200,7 @@
                         </div>
                         <div class="col-lg-4">
                               <a href="https://www.powerfoundation.org.in/" target="_blank">
-                                 <div class="logo-div"><img src="images/2026/PowerFoundation.jpeg" alt="Power Foundation of India" ></div>
+                                 <div class="logo-div"><img src="images/2026/pfi.jpeg" alt="Power Foundation of India" ></div>
                               </a>
                         </div>
                      </div>
