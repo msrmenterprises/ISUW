@@ -32,7 +32,7 @@ margin-left: 408px;
 
 <h5 style="text-align:center;"><b>Knowledge Partner</b></h5>
 <div class="row justify-content-center">
-	<div class="col-lg-3"><div class="logo-div"><a href="https://www.powerfoundationindia.org/" target="_blank" rel="noopener noreferrer"><img src="images/2026/PowerFoundation.jpeg" alt="Power Foundation of India" style="height:55px;"></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.powerfoundationindia.org/" target="_blank" rel="noopener noreferrer"><img src="images/2026/PowerFoundation.jpeg" alt="Power Foundation of India"></a></div></div>
 </div>
 
 <h5 style="text-align:center;"><b>Silver Partners</b></h5>
@@ -55,7 +55,7 @@ margin-left: 408px;
 <div class="row justify-content-center">
     <div class="col-lg-3"><div class="logo-div"><a href="https://edx.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:50px"></a></div></div>
     <div class="col-lg-3"><div class="logo-div"><a href="https://kimbal.io/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Kimbal.jpeg" alt="" style="display:inline; height:50px"></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="https://meshmerise.ai/" target="_blank" rel="noopener noreferrer"><img src="images/2026/Meshmerise.jpeg" alt="" style="display:inline; height:50px"></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://meshmerise.ai/" target="_blank" rel="noopener noreferrer"><img src="images/2026/Meshmerise.jpeg" alt=""></a></div></div>
 </div>
 
 <p></p>
