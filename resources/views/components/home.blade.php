@@ -214,7 +214,7 @@
                         
                            <div class="col-lg-4">
                               <a href="https://www.oracle.com/in/" target="_blank" rel="noopener noreferrer">
-                                 <div class="logo-div"><img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt="" style="height:55px;"></div>
+                                 <div class="logo-div"><img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt=""></div>
                               </a>
                            </div>
                            <div class="col-lg-4">

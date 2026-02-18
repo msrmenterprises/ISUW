@@ -37,7 +37,7 @@ margin-left: 408px;
 
 <h5 style="text-align:center;"><b>Silver Partners</b></h5>
 <div class="row justify-content-center">
-    <div class="col-lg-3"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt="" style="height:55px;"></a></div></div>
+    <div class="col-lg-3"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt=""></a></div></div>
     <div class="col-lg-3"><div class="logo-div"><a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a></div></div>
 </div>
 
@@ -328,7 +328,7 @@ margin-left: 408px;
 		<h5 style="text-align:center;"><b>Silver Partners</b></h5>
 <div class="row justify-content-center">
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.g3-plc.com/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569652.png" alt=""  height="55px;" style="display:inline;"></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt="" style="height:55px;"></div></a></div>
+<div class="col-lg-3"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt="" ></div></a></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569692.png" alt=""  height="102" style="display:inline;"></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="140px"  height="102" style="display:inline;"></a></div></div>
 <h5 style="text-align:center;"><b>Country Partners</b></h5>
