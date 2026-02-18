@@ -32,7 +32,7 @@ margin-left: 408px;
 
 <h5 style="text-align:center;"><b>Knowledge Partner</b></h5>
 <div class="row justify-content-center">
-	<div class="col-lg-3"><div class="logo-div"><a href="https://www.powerfoundation.org.in/" target="_blank" rel="noopener noreferrer"><img src="images/2026/PowerFoundation.jpeg" alt="Power Foundation of India"></a></div></div>
+	<div class="col-lg-3"><div class="logo-div"><a href="https://www.powerfoundation.org.in/" target="_blank" rel="noopener noreferrer"><img src="images/2026/pfi.jpeg" alt="Power Foundation of India"></a></div></div>
 </div>
 
 <h5 style="text-align:center;"><b>Silver Partners</b></h5>
