@@ -2,18 +2,11 @@
 @section('content')
 
 <style>
-/* .partners-grid {
+.partners-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     margin-bottom: 40px;
-} */
-
-.partners-grid {
-display: inline-grid;  /* Only take width it needs */
-margin: 0 auto;        /* Center the grid */
-width: 100%;           /* Respect container width */
-justify-items: center; /* Center items within grid */
 }
 
 .partners-grid.grid-2 {
@@ -136,13 +129,15 @@ justify-items: center; /* Center items within grid */
             </div>
 
             <h5 class="section-heading">Platinum Partner</h5>
-            <div class="partners-grid grid-3">
+            <div class="partners-grid grid-3"></div>
+			<div class="partners-grid grid-3">
                 <div class="logo-card">
                     <a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer">
                         <img src="https://www.isuw.in/uploads/images/sew-water.png" alt="SEW">
                     </a>
                 </div>
             </div>
+			<div class="partners-grid grid-3"></div>
 
             <h5 class="section-heading">Knowledge Partner</h5>
             <div class="partners-grid grid-3">
