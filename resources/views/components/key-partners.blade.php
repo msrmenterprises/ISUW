@@ -7,23 +7,18 @@
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     margin-bottom: 40px;
-    justify-items: center;
-    align-items: center;
 }
 
 .partners-grid.grid-2 {
-    grid-template-columns: repeat(2, minmax(250px, 1fr));
-    justify-items: center;
+    grid-template-columns: repeat(2, 1fr);
 }
 
 .partners-grid.grid-3 {
-    grid-template-columns: repeat(3, minmax(250px, 1fr));
-    justify-items: center;
+    grid-template-columns: repeat(3, 1fr);
 }
 
 .partners-grid.grid-4 {
-    grid-template-columns: repeat(4, minmax(250px, 1fr));
-    justify-items: center;
+    grid-template-columns: repeat(4, 1fr);
 }
 
 .logo-card {
@@ -70,13 +65,11 @@
     .partners-grid {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
         gap: 15px;
-        justify-items: center;
     }
 
     .partners-grid.grid-3,
     .partners-grid.grid-4 {
-        grid-template-columns: repeat(2, minmax(200px, 1fr));
-        justify-items: center;
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .logo-card {
@@ -88,14 +81,12 @@
     .partners-grid {
         grid-template-columns: 1fr;
         gap: 15px;
-        justify-items: center;
     }
 
     .partners-grid.grid-2,
     .partners-grid.grid-3,
     .partners-grid.grid-4 {
         grid-template-columns: 1fr;
-        justify-items: center;
     }
 
     .logo-card {
