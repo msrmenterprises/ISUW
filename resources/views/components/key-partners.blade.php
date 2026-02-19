@@ -2,11 +2,18 @@
 @section('content')
 
 <style>
-.partners-grid {
+/* .partners-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     margin-bottom: 40px;
+} */
+
+.partners-grid {
+display: inline-grid;  /* Only take width it needs */
+margin: 0 auto;        /* Center the grid */
+width: 100%;           /* Respect container width */
+justify-items: center; /* Center items within grid */
 }
 
 .partners-grid.grid-2 {
