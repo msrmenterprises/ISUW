@@ -978,6 +978,9 @@ margin: 0px;
 .logo-div img {
     max-height: none;
 }
+.utilities .logo-div img {
+    max-height: none;
+}
 }
 
 .accordion-button {

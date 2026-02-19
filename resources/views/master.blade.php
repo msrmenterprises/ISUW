@@ -46,7 +46,7 @@ a:hover {
       <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&amp;display=swap" rel="stylesheet">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
       <link href="./public/css/bootstrap.min.css" rel="stylesheet">
-      <link href="./public/css/style.css?id=2" rel="stylesheet">
+      <link href="./public/css/style.css?id=3" rel="stylesheet">
       <link href="./public/css/slider.css" rel="stylesheet">
       <!-- <link href="/css/bootstrap.min.css" rel="stylesheet">
       <link href="/css/style.css" rel="stylesheet">
