@@ -200,7 +200,7 @@
             </div>
 
             <h5 class="section-heading">Bronze Partners</h5>
-            <div class="partners-grid grid-3">
+            <div class="partners-grid grid-4">
                 <div class="logo-card">
                     <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
                         <img src="images/2025/edxWireless.jpeg" alt="EDX">
@@ -431,11 +431,13 @@
 
             <h5 class="section-heading">Co-Host Utility</h5>
             <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://uppcl.org/uppcl/hi/" target="_blank" rel="noopener noreferrer">
                         <img src="https://www.isuw.in/public/uploads/utility/UPPCL.png" alt="UPPCL">
                     </a>
                 </div>
+                <div class="logo-card"></div>
             </div>
 
             <h5 class="section-heading">Platinum Partners</h5>
@@ -454,38 +456,46 @@
 
             <h5 class="section-heading">Gold Partner</h5>
             <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.larsentoubro.com/corporate/products-and-services/construction/power-transmission-distribution/" target="_blank" rel="noopener noreferrer">
                         <img src="http://isuw.in/public/uploads/exhibitor/lt.png" alt="L&T">
                     </a>
                 </div>
+                <div class="logo-card"></div>
             </div>
 
             <h5 class="section-heading">Welcome Reception Partner</h5>
             <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.hitachienergy.com/in/en" target="_blank" rel="noopener noreferrer">
                         <img src="https://www.isuw.in/public/uploads/partner/HITACHI.PNG" alt="Hitachi Energy">
                     </a>
                 </div>
+                <div class="logo-card"></div>
             </div>
 
             <h5 class="section-heading">Lanyard Partner</h5>
             <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://trilliant.com/" target="_blank" rel="noopener noreferrer">
                         <img src="https://www.isuw.in/public/uploads/partner/trilliant.png" alt="Trilliant">
                     </a>
                 </div>
+                <div class="logo-card"></div>
             </div>
 
             <h5 class="section-heading">ISGF Innovation Awards Partner</h5>
             <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.nedo.go.jp/english/" target="_blank" rel="noopener noreferrer">
                         <img src="https://www.isuw.in/public/uploads/images/nedo-logo-2B306DA519-seeklogo.com.png" alt="NEDO">
                     </a>
                 </div>
+                <div class="logo-card"></div>
             </div>
 
             <h5 class="section-heading">Silver Partners</h5>
@@ -592,20 +602,24 @@
 
             <h5 class="section-heading">Knowledge Partner</h5>
             <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://ulse.org/" target="_blank" rel="noopener noreferrer">
                         <img src="http://isuw.in/public/uploads/partner/UL Standards.png" alt="ULSE">
                     </a>
                 </div>
+                <div class="logo-card"></div>
             </div>
 
             <h5 class="section-heading">ISGF Innovation Awards Knowledge Partner</h5>
             <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer">
                         <img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="UK Government">
                     </a>
                 </div>
+                <div class="logo-card"></div>
             </div>
 
             <h5 class="section-heading">Session Partners</h5>
