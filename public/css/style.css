@@ -975,6 +975,9 @@ margin: 0px;
 .navbar a, .navbar a:focus{
     padding: 10px 0 10px 0px;
 }
+.logo-div img {
+    max-height: none;
+}
 }
 
 .accordion-button {
