@@ -7,23 +7,18 @@
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     margin-bottom: 40px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .partners-grid.grid-2 {
-    grid-template-columns: repeat(2, minmax(250px, auto));
-    max-width: 550px;
+    grid-template-columns: repeat(2, 1fr);
 }
 
 .partners-grid.grid-3 {
-    grid-template-columns: repeat(3, minmax(250px, auto));
-    max-width: 850px;
+    grid-template-columns: repeat(3, 1fr);
 }
 
 .partners-grid.grid-4 {
-    grid-template-columns: repeat(4, minmax(250px, auto));
-    max-width: 1100px;
+    grid-template-columns: repeat(4, 1fr);
 }
 
 .logo-card {
@@ -74,8 +69,7 @@
 
     .partners-grid.grid-3,
     .partners-grid.grid-4 {
-        grid-template-columns: repeat(2, minmax(200px, auto));
-        max-width: 450px;
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .logo-card {
@@ -92,8 +86,7 @@
     .partners-grid.grid-2,
     .partners-grid.grid-3,
     .partners-grid.grid-4 {
-        grid-template-columns: minmax(200px, auto);
-        max-width: 100%;
+        grid-template-columns: 1fr;
     }
 
     .logo-card {
