@@ -129,15 +129,15 @@
             </div>
 
             <h5 class="section-heading">Platinum Partner</h5>
-            <div class="partners-grid grid-3"></div>
-			<div class="partners-grid grid-3">
+            <div class="partners-grid grid-3">
+				<div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer">
                         <img src="https://www.isuw.in/uploads/images/sew-water.png" alt="SEW">
                     </a>
                 </div>
+				<div class="logo-card"></div>
             </div>
-			<div class="partners-grid grid-3"></div>
 
             <h5 class="section-heading">Knowledge Partner</h5>
             <div class="partners-grid grid-3">
