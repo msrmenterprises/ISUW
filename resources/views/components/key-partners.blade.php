@@ -708,37 +708,7 @@
     </div>
 </div>
 
-@endsection
 
-<h5 style="text-align:center;"><b>Host Utilities</b></h5>
-<div class="row justify-content-center">
-    <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="" style="margin-top:-6px;display:inline"></a></div></div>
-    <div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="" style="margin-top:-6px;display:inline"></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="" style="margin-top:-6px;display:inline"></a></div></div>
-	<div class="col-lg-3"><div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="Tata Power Company Limited" style="margin-top:-6px;display:inline"></a></div></div>
-</div>
-
-<h5 style="text-align:center;"><b>Platinum Partner</b></h5>
-<div class="row justify-content-center">
-    <div class="col-lg-3"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/images/sew-water.png" alt="" style="display:inline;"></a></div></div>
-</div>
-
-
-<h5 style="text-align:center;"><b>Knowledge Partner</b></h5>
-<div class="row justify-content-center">
-	<div class="col-lg-3"><div class="logo-div"><a href="https://www.powerfoundation.org.in/" target="_blank" rel="noopener noreferrer"><img src="images/2026/pfi.jpeg" alt="Power Foundation of India"></a></div></div>
-</div>
-
-<h5 style="text-align:center;"><b>Silver Partners</b></h5>
-<div class="row justify-content-center">
-    <div class="col-lg-3"><div class="logo-div"><a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt=""></a></div></div>
-    <div class="col-lg-3"><div class="logo-div"><a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a></div></div>
-</div>
-
-<h5 style="text-align:center;"><b>Technology Partner</b></h5>
-<div class="row justify-content-center">
-    <div class="col-lg-3"><div class="logo-div"><a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer"><img src="images/2026/Eppeltone.jpeg?id=1" alt="Eppeltone Engineers Limited"></a></div></div>
-</div>
 
 <h5 style="text-align:center;"><b>Delegate Bag Partner</b></h5>
 <div class="row justify-content-center">
