@@ -38,6 +38,19 @@
     transform: translateY(-5px);
 }
 
+.logo-card:empty {
+    border: none;
+    background: transparent;
+    box-shadow: none;
+    min-height: 0;
+    padding: 0;
+}
+
+.logo-card:empty:hover {
+    transform: none;
+    box-shadow: none;
+}
+
 .logo-card a {
     display: flex;
     width: 100%;
@@ -141,11 +154,13 @@
 
             <h5 class="section-heading">Knowledge Partner</h5>
             <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.powerfoundation.org.in/" target="_blank" rel="noopener noreferrer">
                         <img src="images/2026/pfi.jpeg" alt="Power Foundation of India">
                     </a>
                 </div>
+                <div class="logo-card"></div>
             </div>
 
             <h5 class="section-heading">Silver Partners</h5>
@@ -164,20 +179,24 @@
 
             <h5 class="section-heading">Technology Partner</h5>
             <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer">
                         <img src="images/2026/Eppeltone.jpeg" alt="Eppeltone Engineers Limited">
                     </a>
                 </div>
+                <div class="logo-card"></div>
             </div>
 
             <h5 class="section-heading">Delegate Bag Partner</h5>
             <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.wirepas.com/" target="_blank" rel="noopener noreferrer">
                         <img src="images/2026/Wirepas.png" alt="Wirepas">
                     </a>
                 </div>
+                <div class="logo-card"></div>
             </div>
 
             <h5 class="section-heading">Bronze Partners</h5>
