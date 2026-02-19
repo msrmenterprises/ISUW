@@ -365,7 +365,7 @@
                               </div>
                         </div>
                         
-                        <div class="partners-grid grid-2">
+                        <div class="partners-grid grid-1">
                            <div class="logo-card">
                               <a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noreferrer">
                                  <img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="BRPL">
