@@ -68,11 +68,34 @@
     height: auto;
 }
 
+.section-heading-wrap {
+   position: relative;
+   text-align: center;
+   margin: 40px 0 30px 0;
+}
+
+.section-heading-wrap::before {
+   content: "";
+   position: absolute;
+   left: 0;
+   right: 0;
+   top: 50%;
+   height: 1px;
+   background: #128912;
+   transform: translateY(-50%);
+}
+
 .section-heading {
-    text-align: center;
-    margin: 40px 0 30px 0;
-    font-weight: bold;
-    font-size: 18px;
+   position: relative;
+   display: inline-block;
+   z-index: 1;
+   background: #fff;
+   font-weight: 600;
+   font-size: 14px;
+   border-radius: 15px;
+   border: solid 1px #128912;
+   padding: 7px 18px;
+   margin: 0;
 }
 
 @media (max-width: 991px) {
@@ -222,7 +245,9 @@
                      </div>
                      <h2 class="mt-4">Key Partners 2026</h2>
                      
-                     <h5 class="section-heading">Platinum Partner</h5>
+                     <div class="section-heading-wrap">
+                        <h5 class="section-heading">Platinum Partner</h5>
+                     </div>
                      <div class="partners-grid grid-3">
                         <div class="logo-card"></div>
                         <div class="logo-card">
@@ -233,7 +258,9 @@
                         <div class="logo-card"></div>
                      </div>
 
-                     <h5 class="section-heading">Knowledge Partner</h5>
+                     <div class="section-heading-wrap">
+                        <h5 class="section-heading">Knowledge Partner</h5>
+                     </div>
                      <div class="partners-grid grid-3">
                         <div class="logo-card"></div>
                         <div class="logo-card">
@@ -244,7 +271,9 @@
                         <div class="logo-card"></div>
                      </div>
 
-                     <h5 class="section-heading">Silver Partners</h5>
+                     <div class="section-heading-wrap">
+                        <h5 class="section-heading">Silver Partners</h5>
+                     </div>
                      <div class="partners-grid grid-3">
                         <div class="logo-card">
                            <a href="https://www.oracle.com/in/" target="_blank" rel="noopener noreferrer">
@@ -258,7 +287,9 @@
                         </div>
                      </div>
 
-                     <h5 class="section-heading">Technology Partner</h5>
+                     <div class="section-heading-wrap">
+                        <h5 class="section-heading">Technology Partner</h5>
+                     </div>
                      <div class="partners-grid grid-3">
                         <div class="logo-card"></div>
                         <div class="logo-card">
@@ -269,7 +300,9 @@
                         <div class="logo-card"></div>
                      </div>
 
-                     <h5 class="section-heading">Delegate Bag Partner</h5>
+                     <div class="section-heading-wrap">
+                        <h5 class="section-heading">Delegate Bag Partner</h5>
+                     </div>
                      <div class="partners-grid grid-3">
                         <div class="logo-card"></div>
                         <div class="logo-card">
@@ -280,7 +313,9 @@
                         <div class="logo-card"></div>
                      </div>
 
-                     <h5 class="section-heading">Bronze Partners</h5>
+                     <div class="section-heading-wrap">
+                        <h5 class="section-heading">Bronze Partners</h5>
+                     </div>
                      <div class="partners-grid grid-3">
                         <div class="logo-card">
                            <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
