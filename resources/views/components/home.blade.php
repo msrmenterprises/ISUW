@@ -235,7 +235,7 @@
                         
                            <div class="col-lg-4">
                               <a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer">
-                                 <div class="logo-div"><img src="images/2026/Eppeltone.jpeg?id=1" alt="Eppeltone Engineers Limited" style="height:55px;"></div>
+                                 <div class="logo-div"><img src="images/2026/Eppeltone.jpeg?id=1" alt="Eppeltone Engineers Limited" ></div>
                               </a>
                            </div>
                         
@@ -251,7 +251,7 @@
                         
                            <div class="col-lg-4">
                               <a href="https://www.wirepas.com/" target="_blank" rel="noopener noreferrer">
-                                 <div class="logo-div"><img src="images/2026/Wirepas.png" alt="Wirepas" style="height:55px;"></div>
+                                 <div class="logo-div"><img src="images/2026/Wirepas.png" alt="Wirepas" ></div>
                               </a>
                            </div>
                         
@@ -268,14 +268,14 @@
                         <div class="col-lg-5">
                            <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
                                  <div class="logo-div">
-                                    <img src="images/2025/edxWireless.jpeg" alt="" style="display:inline; height:50px">
+                                    <img src="images/2025/edxWireless.jpeg" alt="">
                                  </div>
                               </a>
                         </div>
                         <div class="col-lg-5">
                            <a href="https://kimbal.io/" target="_blank" rel="noopener noreferrer">
                               <div class="logo-div">
-                                 <img src="images/2025/Kimbal.jpeg" alt="" style="display:inline; height:50px">
+                                 <img src="images/2025/Kimbal.jpeg" alt="">
                               </div>
                            </a>
                         </div>
@@ -552,8 +552,8 @@
       <!-- <div class="col-lg-3"><div class="logo-div"><a href="https://www.landisgyr.com/" target="_blank" rel="noopener noreferrer"><img  src="images/2025/Landis.png" alt="" width="213" height="102"></a></div></div> -->
       <!-- <div class="col-lg-3"><div class="logo-div"><a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/1641569652.png" ></a></div></div> -->
       <div class="col-lg-3"><div class="logo-div"> <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="" width="213" height="115" style="display:inline;"></a>  </div></div>
-      <div class="col-lg-3"><div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img src="images/2025/AspenTech.png" alt="" style="display:inline; height:50px"></a></div></div>
-      <div class="col-lg-3"><div class="logo-div"><a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Fluentgrid.png" alt="" style="display:inline; height:50px"></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer"><img src="images/2025/AspenTech.png" alt=""></a></div></div>
+      <div class="col-lg-3"><div class="logo-div"><a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Fluentgrid.png" alt=""></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://wi-sun.org/" target="_blank" rel="noopener noreferrer"><img src="http://isuw.in/uploads/partner/1641569692.png" alt=""  height="102" style="display:inline;"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/C-DAC.jpg" alt="" width="200" style="display:inline; height:105px"></a></div></div>
       <div class="col-lg-3"><div class="logo-div"><a href="https://www.exicom.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/exicom.png" alt="" width="200" style="display:inline; height:105px"></a></div></div>
