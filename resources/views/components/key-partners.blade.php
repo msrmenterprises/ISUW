@@ -7,6 +7,10 @@
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    max-width: 100%;
 }
 
 .partners-grid.grid-2 {
@@ -81,6 +85,7 @@
     .partners-grid {
         grid-template-columns: 1fr;
         gap: 15px;
+        width: auto;
     }
 
     .partners-grid.grid-2,
