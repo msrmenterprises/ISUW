@@ -139,6 +139,11 @@
                         <img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="Tata Power DDL">
                     </a>
                 </div>
+                <div class="logo-card">
+                    <a href="https://www.noidapower.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="images/2026/NPCL_logo.png" alt="Noida Power Company Limited (NPCL)">
+                    </a>
+                </div>
             </div>
 
             <h5 class="section-heading">Platinum Partner</h5>
