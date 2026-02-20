@@ -185,6 +185,13 @@
                               </p>
                            </div>
                         <div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/CEA PNG.png" alt="Ministry of Power"  /></a></p></div>
+                        <div class="logo-div">
+                           <p>
+                              <a href="https://dst.gov.in/" target="_blank">
+                                 <img class="aligncenter  wp-image-38077" src="images/2026/DSTGolden.png" alt="Department of Science and Technology (DST)" />
+                              </a>
+                           </p>
+                        </div>
                         
                      
                      </div>
@@ -338,7 +345,7 @@
                      <div class="partners-grid grid-4">
                         <div class="logo-card">
                            <a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer">
-                              <img src="public/uploads/images/2026/AIDA.png" alt="AIDA">
+                              <img src="images/2026/AIDA.png" alt="AIDA">
                            </a>
                         </div>
                         <div class="logo-card">
@@ -476,7 +483,7 @@
       </div>
       <div class="logo-card">
          <a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer">
-            <img src="public/uploads/images/2026/AIDA.png" alt="AIDA">
+            <img src="images/2026/AIDA.png" alt="All India Discoms Association (AIDA)">
          </a>
       </div>
       <div class="logo-card">
