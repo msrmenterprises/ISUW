@@ -173,6 +173,26 @@
                    <img src="images/2026/TekUncorked.png" alt="TekUncorked">
                </a>
            </div>
+           <div class="logo-card">
+               <a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer">
+                   <img src="images/2026/G3-Alliance.png" alt="G3 Alliance">
+               </a>
+           </div>
+           <div class="logo-card">
+               <a href="https://apar.com/" target="_blank" rel="noopener noreferrer">
+                   <img src="images/2026/apar.png" alt="Apar Industries">
+               </a>
+           </div>
+           <div class="logo-card">
+               <a href="https://dvc.gov.in/" target="_blank" rel="noopener noreferrer">
+                   <img src="images/2026/DVCLogo.png" alt="Damodar Valley Corporation">
+               </a>
+           </div>
+           <div class="logo-card">
+               <a href="https://www.saien.in/" target="_blank" rel="noopener noreferrer">
+                   <img src="images/2026/SAIEN.png" alt="SAIEN">
+               </a>
+           </div>
        </div>
 
  <div class="k_cheading">
