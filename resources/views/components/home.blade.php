@@ -349,7 +349,7 @@
                      </div>
 
                      <h2 class="mt-4">Supporting Organizations 2026</h2>
-                     <div class="partners-grid grid-4">
+                     <div class="partners-grid grid-3">
                         <div class="logo-card">
                            <a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer">
                               <img src="images/2026/AIDA.png" alt="AIDA">
@@ -546,16 +546,47 @@
       <div class="section-title">
          <h2>ISUW 2026 Exhibitors</h2>
       </div>
-      <div class="row justify-content-center ">
-      <div class="col-lg-3"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="/uploads/images/sew-water.png" alt="Smart Energy Water"  style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><a href="https://www.oracle.com/in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt="Oracle"  style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><a href="https://yitran.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran Technologies"  style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2026/Eppeltone.jpeg?id=1" alt="Eppeltone Engineers Limited"  style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><a href="https://edx.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/edxWireless.jpeg" alt="Edx Wireless"  style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power Company Limited"  style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><a href="https://www.eiris.in/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2026/EIRIS.jpg" alt="Eiris"  style="display:inline;"></a></div></div>
-      <div class="col-lg-3"><a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer"><div class="logo-div"><img src="images/2025/ISGF.jpg" alt="ISGF"  style="display:inline;"></a></div></div>
-
+      <div class="partners-grid grid-4">
+         <div class="logo-card">
+            <a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer">
+               <img src="/uploads/images/sew-water.png" alt="Smart Energy Water">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://www.oracle.com/in/" target="_blank" rel="noopener noreferrer">
+               <img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt="Oracle">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
+               <img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran Technologies">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/Eppeltone.jpeg?id=1" alt="Eppeltone Engineers Limited">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2025/edxWireless.jpeg" alt="EDX Wireless">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer">
+               <img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power Company Limited">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://www.eiris.in/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/EIRIS.jpg" alt="EIRIS">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2025/ISGF.jpg" alt="ISGF">
+            </a>
+         </div>
       </div>
    </div>
 </section>
