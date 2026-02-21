@@ -117,7 +117,7 @@
       <img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 </div>
 
-       <div class="partners-grid grid-5">
+       <div class="partners-grid grid-4">
            <div class="logo-card">
                <a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer">
                    <img src="http://isuw.in/uploads/images/sew-water.png" alt="SEW">
