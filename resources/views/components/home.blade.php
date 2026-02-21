@@ -379,8 +379,18 @@
                            </a>
                         </div>
                         <div class="logo-card">
-                           <a href="https://standards.ieee.org/" target="_blank" rel="noopener noreferrer">
+                           <a href="https://www.apuea.org/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2026/APUEA.png" alt="APUEA">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.apuea.org/" target="_blank" rel="noopener noreferrer">
                               <img src="images/2026/IEEE.jpg" alt="IEEE Standards Association">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://iea-isgan.org/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2026/ISGAN.png" alt="ISGAN">
                            </a>
                         </div>
                      </div>
