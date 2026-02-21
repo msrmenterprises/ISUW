@@ -192,6 +192,13 @@
                               </a>
                            </p>
                         </div>
+                        <div class="logo-div">
+                           <p>
+                              <a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2026/AIDA.png" alt="AIDA">
+                           </a>
+                           </p>
+                        </div>
                         
                      
                      </div>
@@ -446,17 +453,17 @@
       <h4>Conference Session Partners</h4>
    </div>
    <div class="partners-grid grid-2">
-      <div class="logo-card">
+      <!-- <div class="logo-card">
          <a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer">
             <img src="images/2025/AspenTech.png" alt="AspenTech">
          </a>
-      </div>
+      </div> -->
       <div class="logo-card">
          <a href="#" target="_blank" rel="noopener noreferrer">
             <img src="images/2025/BSCE.png" alt="BSCE">
          </a>
       </div>
-      <div class="logo-card">
+      <!-- <div class="logo-card">
          <a href="https://www.ideasmattermost.com/" target="_blank" rel="noopener noreferrer">
             <img src="images/2025/Ideasmatter.png" alt="Ideasmatter">
          </a>
@@ -490,15 +497,15 @@
          <a href="https://ulse.org/" target="_blank" rel="noopener noreferrer">
             <img src="images/2025/ulstandengage.svg" alt="ULSE">
          </a>
-      </div>
+      </div> -->
       <div class="logo-card">
          <a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer">
             <img src="images/2026/AIDA.png" alt="All India Discoms Association (AIDA)">
          </a>
       </div>
       <div class="logo-card">
-         <a href="https://www.bis.gov.in/" target="_blank" rel="noopener noreferrer">
-            <img src="images/2025/BIS.jpg" alt="BIS">
+         <a href="https://dst.gov.in/" target="_blank">
+            <img class="aligncenter  wp-image-38077" src="images/2026/DSTGolden.png" alt="Department of Science and Technology (DST)" />
          </a>
       </div>
    </div>
