@@ -193,6 +193,11 @@
                    <img src="images/2026/SAIEN.png" alt="SAIEN">
                </a>
            </div>
+           <div class="logo-card">
+               <a href="https://ecog.io/" target="_blank" rel="noopener noreferrer">
+                   <img src="images/2026/EcoG.png" alt="SAIEN">
+               </a>
+           </div>
        </div>
 
  <div class="k_cheading">
