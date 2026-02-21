@@ -452,7 +452,7 @@
    <div class="col-lg-12">
       <h4>Conference Session Partners</h4>
    </div>
-   <div class="partners-grid grid-2">
+   <div class="partners-grid grid-1">
       <!-- <div class="logo-card">
          <a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer">
             <img src="images/2025/AspenTech.png" alt="AspenTech">
