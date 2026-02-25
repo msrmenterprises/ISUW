@@ -34,7 +34,7 @@
 		<div class="logo-div">
 			<p>
 				<a href="https://dst.gov.in/" target="_blank">
-					<img class="aligncenter  wp-image-38077" src="images/2026/DSTGolden.png" alt="Department of Science and Technology (DST)" />
+					<img class="aligncenter  wp-image-38077" src="images/2026/DSTGolden.png" alt="Department of Science and Technology (DST)" style="width:219px; max-height:170px;"  />
 				</a>
 			</p>
 		</div>
