@@ -29,6 +29,20 @@
 	</div>
 </div>
 
+<div class="row justify-content-center">
+	<div class="col-lg-3">
+		<div class="logo-div">
+			<p>
+				<a href="https://dst.gov.in/" target="_blank">
+					<img class="aligncenter  wp-image-38077" src="images/2026/DSTGolden.png" alt="Department of Science and Technology (DST)" />
+				</a>
+			</p>
+		</div>
+	</div>
+</div>
+
+
+
 <div class="k_cheading">
 		<h1>ISUW 2025 <span class="k_greencolor">Supporting Ministries</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
