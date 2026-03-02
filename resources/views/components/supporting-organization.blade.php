@@ -153,6 +153,21 @@
 					<img src="images/2026/ISGAN.png" alt="ISGAN">
 				</a>
 			</div>
+			<div class="logo-card">
+				<a href="https://www.cigreindia.org/" target="_blank" rel="noopener noreferrer">
+					<img src="https://www.isuw.in/public/uploads/organizations/cigre.jpg" alt="CIGRE India">
+				</a>
+			</div>
+			<div class="logo-card">
+				<a href="https://www.cencenelec.eu/about-cen/" target="_blank" rel="noopener noreferrer">
+					<img src="https://www.isuw.in/public/uploads/exhibitor/cen.jpeg" alt="CEN">
+				</a>
+			</div>
+			<div class="logo-card">
+				<a href="https://www.cencenelec.eu/about-cenelec/" target="_blank" rel="noopener noreferrer">
+					<img src="https://www.isuw.in/public/uploads/exhibitor/cenelec.jpeg" alt="CENELEC">
+				</a>
+			</div>
 		</div>
 	</section>
 
