@@ -452,7 +452,7 @@
                            </a>
                         </div>
                         <div class="logo-card">
-                           <a href="#" target="_blank" rel="noopener noreferrer">
+                           <a href="https://bscesystemsinc.com/" target="_blank" rel="noopener noreferrer">
                               <img src="images/2025/BSCE.png" alt="BSCE Systems">
                            </a>
                         </div>
@@ -467,8 +467,8 @@
                            </a>
                         </div>
                         <div class="logo-card">
-                           <a href="#" target="_blank" rel="noopener noreferrer">
-                              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="NISE">
+                           <a href="https://nise.res.in/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2026/NISE.png" alt="NISE">
                            </a>
                         </div>
                      </div>
