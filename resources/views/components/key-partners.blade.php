@@ -168,6 +168,17 @@
                 <div class="logo-card"></div>
             </div>
 
+            <h5 class="section-heading">Country Partner</h5>
+            <div class="partners-grid grid-3">
+                <div class="logo-card"></div>
+                <div class="logo-card">
+                    <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer">
+                        <img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
+                    </a>
+                </div>
+                <div class="logo-card"></div>
+            </div>
+
             <h5 class="section-heading">Silver Partners</h5>
             <div class="partners-grid grid-3">
                 <div class="logo-card">
@@ -219,6 +230,11 @@
                 <div class="logo-card">
                     <a href="https://meshmerise.ai/" target="_blank" rel="noopener noreferrer">
                         <img src="images/2026/Meshmerise.jpeg" alt="Meshmerise">
+                    </a>
+                </div>
+                <div class="logo-card">
+                    <a href="https://www.powerxchange.io/" target="_blank" rel="noopener noreferrer">
+                        <img src="images/2025/PowerXchange.jpeg" alt="PowerXchange">
                     </a>
                 </div>
             </div>
