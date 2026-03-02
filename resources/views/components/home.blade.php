@@ -337,7 +337,7 @@
                      <div class="partners-grid grid-3">
                         <div class="logo-card"></div>
                         <div class="logo-card">
-                           <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer">
+                           <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer">
                               <img src="public/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
                            </a>
                         </div>
@@ -412,6 +412,67 @@
                         </div>
                      </div>
 
+                     <div class="section-heading-wrap">
+                        <h5 class="section-heading">Session Partners</h5>
+                     </div>
+                     <div class="partners-grid grid-4">
+                        <div class="logo-card">
+                           <a href="https://www.powerfoundation.org.in/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2026/pfi.jpeg" alt="Power Foundation of India">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.iexindia.com/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2025/IEX.png" alt="Indian Energy Exchange">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer">
+                              <img src="public/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.bis.gov.in/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2025/BIS.jpg" alt="Bureau of India Standards">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.iec.ch/homepage" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2025/IEC.png" alt="IEC">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.ieee.org/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2025/IEEE.png" alt="IEEE">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2026/AIDA.png" alt="AIDA">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="#" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2025/BSCE.png" alt="BSCE Systems">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.apuea.org/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2026/APUEA.png" alt="APUEA">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://dst.gov.in/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2026/DSTGolden.png" alt="Department of Science and Technology">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="#" target="_blank" rel="noopener noreferrer">
+                              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="NISE">
+                           </a>
+                        </div>
+                     </div>
+
                      <h2 class="mt-4">Supporting Organizations 2026</h2>
                      <div class="partners-grid grid-3">
                         <div class="logo-card">
@@ -462,6 +523,21 @@
                         <div class="logo-card">
                            <a href="https://iea-isgan.org/" target="_blank" rel="noopener noreferrer">
                               <img src="images/2026/ISGAN.png" alt="ISGAN">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.cigreindia.org/" target="_blank" rel="noopener noreferrer">
+                              <img src="https://www.isuw.in/public/uploads/organizations/cigre.jpg" alt="CIGRE India">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.cencenelec.eu/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2025/CEN.jpg" alt="CEN">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.cenelec.eu/" target="_blank" rel="noopener noreferrer">
+                              <img src="public/uploads/organizations/CENELEC.jpg" alt="CENELEC">
                            </a>
                         </div>
                      </div>
@@ -516,70 +592,6 @@
                            </div>
                         </div>
 
-                       
-<div class="thematic">
-   <div class="col-lg-12">
-      <h4>Conference Session Partners</h4>
-   </div>
-   <div class="partners-grid grid-1">
-      <!-- <div class="logo-card">
-         <a href="https://www.aspentech.com/en" target="_blank" rel="noopener noreferrer">
-            <img src="images/2025/AspenTech.png" alt="AspenTech">
-         </a>
-      </div> -->
-      <div class="logo-card">
-         <a href="#" target="_blank" rel="noopener noreferrer">
-            <img src="images/2025/BSCE.png" alt="BSCE">
-         </a>
-      </div>
-      <!-- <div class="logo-card">
-         <a href="https://www.ideasmattermost.com/" target="_blank" rel="noopener noreferrer">
-            <img src="images/2025/Ideasmatter.png" alt="Ideasmatter">
-         </a>
-      </div>
-      <div class="logo-card">
-         <a href="https://www.iec.ch/homepage" target="_blank" rel="noopener noreferrer">
-            <img src="images/2025/IEC.png" alt="IEC">
-         </a>
-      </div>
-      <div class="logo-card">
-         <a href="https://www.ieee.org/" target="_blank" rel="noopener noreferrer">
-            <img src="images/2025/IEEE.png" alt="IEEE">
-         </a>
-      </div>
-      <div class="logo-card">
-         <a href="https://apua-asea.org/en/" target="_blank" rel="noopener noreferrer">
-            <img src="images/2025/APUA.jpg" alt="APUA">
-         </a>
-      </div>
-      <div class="logo-card">
-         <a href="https://openchargealliance.org/" target="_blank" rel="noopener noreferrer">
-            <img src="images/2025/OpenChargeAlliance.jpg" alt="Open Charge Alliance">
-         </a>
-      </div>
-      <div class="logo-card">
-         <a href="https://www.trade.gov/us-commercial-service" target="_blank" rel="noopener noreferrer">
-            <img src="images/2025/UScommercial.png" alt="US Commercial">
-         </a>
-      </div>
-      <div class="logo-card">
-         <a href="https://ulse.org/" target="_blank" rel="noopener noreferrer">
-            <img src="images/2025/ulstandengage.svg" alt="ULSE">
-         </a>
-      </div> -->
-      <div class="logo-card">
-         <a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer">
-            <img src="images/2026/AIDA.png" alt="All India Discoms Association (AIDA)">
-         </a>
-      </div>
-      <div class="logo-card">
-         <a href="https://dst.gov.in/" target="_blank">
-            <img class="aligncenter  wp-image-38077" src="images/2026/DSTGolden.png" alt="Department of Science and Technology (DST)" />
-         </a>
-      </div>
-   </div>
-   <a class="btn btn-light-section" style="border: 2px solid #EF7B00; width: 100%; margin-top: 10px;" href="/theme-and-session-partners-2025">View All</a>
-</div>
              
          </div>
       </section>
