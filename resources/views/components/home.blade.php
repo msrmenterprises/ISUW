@@ -668,21 +668,6 @@
                <img src="images/2025/ISGF.jpg" alt="ISGF">
             </a>
          </div>
-         <div class="logo-card">
-            <a href="https://gna.energy/" target="_blank" rel="noopener noreferrer">
-               <img src="https://logo.clearbit.com/gnaenergy.com" alt="GNA Energy">
-            </a>
-         </div>
-         <div class="logo-card">
-            <a href="https://www.citilight.co/" target="_blank" rel="noopener noreferrer">
-               <img src="https://logo.clearbit.com/citilight.in" alt="CITiLIGHT">
-            </a>
-         </div>
-         <div class="logo-card">
-            <a href="https://www.powerxchange.io/" target="_blank" rel="noopener noreferrer">
-               <img src="images/2025/PowerXchange.jpeg" alt="Power Xchange">
-            </a>
-         </div>
       </div>
    </div>
 </section>
