@@ -98,37 +98,6 @@
    margin: 0;
 }
 
-   .isuw-speark .responsive .sprk-box {
-      min-height: 360px;
-      display: flex !important;
-      flex-direction: column;
-      border: 1px solid #e6e6e6;
-   }
-
-   .isuw-speark .responsive .sprk-box.slick-slide {
-      height: auto !important;
-   }
-
-   .isuw-speark .responsive .sprk-box img,
-   .isuw-speark .responsive .sprk-box.slick-slide img {
-      width: 100% !important;
-      height: auto !important;
-      aspect-ratio: 3 / 4;
-      object-fit: cover;
-      object-position: top center;
-      border-radius: 10px;
-      margin-bottom: 12px;
-   }
-
-   .isuw-speark .responsive .sprk-box h5 {
-      margin-bottom: 8px;
-      min-height: 48px;
-   }
-
-   .isuw-speark .responsive .sprk-box p:last-child {
-      margin-top: auto;
-   }
-
 @media (max-width: 991px) {
     .partners-grid {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -143,10 +112,6 @@
     .logo-card {
         min-height: 140px;
     }
-
-   .isuw-speark .responsive .sprk-box {
-      min-height: 330px;
-   }
 }
 
 @media (max-width: 576px) {
@@ -164,10 +129,6 @@
     .logo-card {
         min-height: 120px;
     }
-
-   .isuw-speark .responsive .sprk-box {
-      min-height: 300px;
-   }
 }
 </style>
 
@@ -568,7 +529,7 @@
                @foreach ($speakersr24 as $speaker24)
                    @if ($speaker24->isActive==1)
                   <div class="sprk-box">
-                     <img src="{{$speaker24->imageUrl}}" class="img-fluid" alt="{{$speaker24->name}}" loading="lazy">
+                     <img src="{{$speaker24->imageUrl}}" class="img-fluid " alt="...">
                      <h5>{{$speaker24->name}}</h5>
                      <p>{!! nl2br(e($speaker24->company)) !!}</p>
                      <p><a href="speaker24/{{$speaker24->id}}" class="text-warning">Read bio...</a></p>
