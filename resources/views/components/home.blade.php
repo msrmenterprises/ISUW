@@ -213,7 +213,7 @@
                   <div class="card-box">
 
                      <div class="ministry">
-                        <h2>SUPPORTED BY <br> 
+                        <h2>Supported By <br> 
       
                         </h2>
                            <div class="logo-div">
@@ -228,6 +228,13 @@
                            <p>
                               <a href="https://dst.gov.in/" target="_blank">
                                  <img class="aligncenter  wp-image-38077" src="images/2026/DSTGolden.png" alt="Department of Science and Technology (DST)" />
+                              </a>
+                           </p>
+                        </div>
+                        <div class="logo-div">
+                           <p>
+                              <a href="https://www.niti.gov.in/" target="_blank" rel="noopener noreferrer">
+                                 <img class="aligncenter wp-image-38077" src="public/uploads/ministries/NITI Aayog.jpg" alt="NITI Aayog, India" />
                               </a>
                            </p>
                         </div>
@@ -325,6 +332,19 @@
                      </div>
 
                      <div class="section-heading-wrap">
+                        <h5 class="section-heading">Country Partner</h5>
+                     </div>
+                     <div class="partners-grid grid-3">
+                        <div class="logo-card"></div>
+                        <div class="logo-card">
+                           <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer">
+                              <img src="public/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
+                           </a>
+                        </div>
+                        <div class="logo-card"></div>
+                     </div>
+
+                     <div class="section-heading-wrap">
                         <h5 class="section-heading">Silver Partners</h5>
                      </div>
                      <div class="partners-grid grid-3">
@@ -369,7 +389,7 @@
                      <div class="section-heading-wrap">
                         <h5 class="section-heading">Bronze Partners</h5>
                      </div>
-                     <div class="partners-grid grid-3">
+                     <div class="partners-grid grid-4">
                         <div class="logo-card">
                            <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
                               <img src="images/2025/edxWireless.jpeg" alt="EDX">
@@ -383,6 +403,11 @@
                         <div class="logo-card">
                            <a href="https://meshmerise.ai/" target="_blank" rel="noopener noreferrer">
                               <img src="images/2026/Meshmerise.jpeg" alt="Meshmerise">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.powerxchange.io/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2025/PowerXchange.jpeg" alt="Power Xchange">
                            </a>
                         </div>
                      </div>
@@ -482,6 +507,11 @@
                            <div class="logo-card">
                               <a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer">
                                  <img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="Tata Power DDL">
+                              </a>
+                           </div>
+                           <div class="logo-card">
+                              <a href="https://www.noidapower.com/" target="_blank" rel="noopener noreferrer">
+                                 <img src="images/2026/NPCL_logo.png" alt="Noida Power Company Limited (NPCL)">
                               </a>
                            </div>
                         </div>
