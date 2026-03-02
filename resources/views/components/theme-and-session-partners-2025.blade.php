@@ -11,12 +11,19 @@
 
 
 <div class="k_cheading">
-	<h1>ISUW 2026 <span class="k_greencolor">Conference Sessions Partner</span> </h1>
+	<h1>ISUW 2026 <span class="k_greencolor">SESSION PARTNERS</span> </h1>
 	<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 </div>
-<div class="col-lg-4"></div>
-<div class="col-lg-4"><div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img src="/images/2026/BSCE.png" alt="BSCE Systems, Inc" height="102" style="display:inline;"></a></div></div>
-<div class="col-lg-4"></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://www.powerfoundation.org.in/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2026/pfi.jpeg" alt="Power Foundation of India"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://www.iexindia.com/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/IEX.png" alt="Indian Energy Exchange"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="FCDO UK Government"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://www.bis.gov.in/?lang=en" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/BIS.jpg" alt="Bureau of India Standards"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://www.iec.ch/homepage" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/IEC.png" alt="IEC"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://www.ieee.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2025/IEEE.png" alt="IEEE"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://aida-india.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="public/uploads/images/2026/AIDA.png" alt="AIDA"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://www.apuea.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2026/APUEA.png" alt="APUEA"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="https://dst.gov.in/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="images/2026/DSTGolden.png" alt="Department of Science and Technology"></a></div></div>
+<div class="col-lg-4"><div class="logo-div"><a href="#" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="NISE"></a></div></div>
 
 
 
