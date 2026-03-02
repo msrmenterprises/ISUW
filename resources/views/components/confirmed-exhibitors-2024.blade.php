@@ -198,6 +198,21 @@
                    <img src="images/2026/EcoG.png" alt="SAIEN">
                </a>
            </div>
+           <div class="logo-card">
+               <a href="https://www.gnaenergy.com/" target="_blank" rel="noopener noreferrer">
+                   <img src="https://logo.clearbit.com/gnaenergy.com" alt="GNA Energy">
+               </a>
+           </div>
+           <div class="logo-card">
+               <a href="https://www.citilight.in/" target="_blank" rel="noopener noreferrer">
+                   <img src="https://logo.clearbit.com/citilight.in" alt="CITiLIGHT">
+               </a>
+           </div>
+           <div class="logo-card">
+               <a href="https://www.powerxchange.io/" target="_blank" rel="noopener noreferrer">
+                   <img src="images/2025/PowerXchange.jpeg" alt="Power Xchange">
+               </a>
+           </div>
        </div>
 
  <div class="k_cheading">
