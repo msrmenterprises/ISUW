@@ -200,12 +200,12 @@
            </div>
            <div class="logo-card">
                <a href="https://www.gnaenergy.com/" target="_blank" rel="noopener noreferrer">
-                   <img src="https://logo.clearbit.com/gnaenergy.com" alt="GNA Energy">
+                   <img src="images/2026/GNA.png" alt="GNA Energy">
                </a>
            </div>
            <div class="logo-card">
                <a href="https://www.citilight.in/" target="_blank" rel="noopener noreferrer">
-                   <img src="https://logo.clearbit.com/citilight.in" alt="CITiLIGHT">
+                   <img src="images/2026/Citilight.png" alt="CITiLIGHT">
                </a>
            </div>
            <div class="logo-card">
