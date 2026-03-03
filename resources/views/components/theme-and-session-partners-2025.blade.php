@@ -149,6 +149,11 @@
 			<img src="images/2026/NISE.png" alt="NISE">
 		</a>
 	</div>
+	<div class="logo-card">
+		<a href="https://bscesystemsinc.com/" target="_blank" rel="noopener noreferrer">
+			<img src="images/2025/BSCE.png" alt="BSCE Systems">
+		</a>
+	</div>
 </div>
 
 
