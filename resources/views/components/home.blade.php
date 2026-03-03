@@ -472,7 +472,7 @@
                            </a>
                         </div>
                            <div class="logo-card">
-                              <a href="https://ulprospects.com/" target="_blank" rel="noopener noreferrer">
+                              <a href="https://ulse.org/" target="_blank" rel="noopener noreferrer">
                                  <img src="public/uploads/partner/UL Standards.png" alt="UL Standards & Engagement">
                               </a>
                            </div>
