@@ -168,6 +168,11 @@
 					<img src="https://www.isuw.in/public/uploads/exhibitor/cenelec.jpeg" alt="CENELEC">
 				</a>
 			</div>
+			<div class="logo-card">
+				<a href="https://www.epri.com/" target="_blank" rel="noopener noreferrer">
+					<img src="images/2025/EPRI.png" alt="EPRI">
+				</a>
+			</div>
 		</div>
 	</section>
 
