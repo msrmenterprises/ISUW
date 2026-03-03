@@ -16,18 +16,7 @@
 <div class="row justify-content-center">
 	<div class="col-lg-3"><div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/CEA PNG.png" alt="Central Electricity Authority" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>
-<!-- All India Discoms Association (AIDA) logo -->
-<div class="row justify-content-center">
-	<div class="col-lg-3">
-		<div class="logo-div">
-			<p>
-				<a href="https://www.aidaindia.org/" target="_blank">
-					<img class="aligncenter wp-image-38077" src="images/2026/AIDA.png" alt="All India Discoms Association (AIDA) | Power Distribution Body" style="width:219px; max-height:170px;" />
-				</a>
-			</p>
-		</div>
-	</div>
-</div>
+
 
 <div class="row justify-content-center">
 	<div class="col-lg-3">
@@ -46,6 +35,19 @@
 			<p>
 				<a href="https://niti.gov.in/" target="_blank">
 					<img class="aligncenter wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/NITI Aayog.jpg" alt="NITI AAYOG, India" style="width:219px; max-height:170px;" />
+				</a>
+			</p>
+		</div>
+	</div>
+</div>
+
+<!-- All India Discoms Association (AIDA) logo -->
+<div class="row justify-content-center">
+	<div class="col-lg-3">
+		<div class="logo-div">
+			<p>
+				<a href="https://www.aidaindia.org/" target="_blank">
+					<img class="aligncenter wp-image-38077" src="images/2026/AIDA.png" alt="All India Discoms Association (AIDA) | Power Distribution Body" style="width:219px; max-height:170px;" />
 				</a>
 			</p>
 		</div>
