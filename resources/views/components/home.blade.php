@@ -740,12 +740,12 @@
          </div>
          <div class="logo-card">
             <a href="https://www.impresa.ai/" target="_blank" rel="noopener noreferrer">
-               <img src="images/2025/Impressa.png" alt="Impresa.ai">
+               <img src="images/2026/Impresa.png" alt="Impresa.ai">
             </a>
          </div>
          <div class="logo-card">
             <a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer">
-               <img src="images/2025/C-DAC.jpg" alt="C-DAC">
+               <img src="images/2026/C-DAC.png" alt="C-DAC">
             </a>
          </div>
       </div>
