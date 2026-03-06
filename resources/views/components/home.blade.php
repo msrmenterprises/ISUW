@@ -637,7 +637,7 @@
       <div class="section-title">
          <h2>ISUW 2026 Exhibitors</h2>
       </div>
-      <div class="partners-grid grid-4">
+      <div class="partners-grid grid-5">
          <div class="logo-card">
             <a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer">
                <img src="http://isuw.in/uploads/images/sew-water.png" alt="SEW">
@@ -742,7 +742,7 @@
       <div class="section-title">
          <h2>ISUW 2025 Exhibitors</h2>
       </div>
-      <div class="partners-grid grid-4">
+      <div class="partners-grid grid-5">
          <div class="logo-card">
             <a href="https://sunnetsoftware.com/contact-us/" target="_blank" rel="noopener noreferrer">
                <img src="images/2025/sunnet.png" alt="Sunnet">
@@ -852,7 +852,7 @@
       <div class="section-title">
          <h2>ISUW 2025 Participating Utilities</h2>
       </div>
-      <div class="partners-grid grid-4">
+      <div class="partners-grid grid-5">
          <div class="logo-card">
             <a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer">
                <img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="BYPL">
@@ -915,7 +915,7 @@
 <!-- Additional Utilities Section -->
 <section class="page-section">
    <div class="container">
-      <div class="partners-grid grid-4">
+      <div class="partners-grid grid-5">
          <div class="logo-card">
             <a href="https://dgvcl.com/" target="_blank" rel="noopener noreferrer">
                <img src="images/2025/DGVCL.png" alt="DGVCL">
