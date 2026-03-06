@@ -669,7 +669,7 @@
             </a>
          </div>
          <div class="logo-card">
-            <a href="https://www.eiris.in/" target="_blank" rel="noopener noreferrer">
+            <a href="https://eiris.com/" target="_blank" rel="noopener noreferrer">
                <img src="images/2026/EIRIS.jpg" alt="EIRIS">
             </a>
          </div>
