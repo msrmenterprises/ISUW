@@ -640,32 +640,27 @@
       <div class="partners-grid grid-4">
          <div class="logo-card">
             <a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer">
-               <img src="/uploads/images/sew-water.png" alt="Smart Energy Water">
+               <img src="http://isuw.in/uploads/images/sew-water.png" alt="SEW">
             </a>
          </div>
          <div class="logo-card">
-            <a href="https://www.oracle.com/in/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.oracle.com/in/utilities/" target="_blank" rel="noopener noreferrer">
                <img src="http://isuw.in/images/2026/Oracle_Energy-and-Water_rgb.png" alt="Oracle">
             </a>
          </div>
          <div class="logo-card">
-            <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
-               <img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran Technologies">
+            <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2025/edxWireless.jpeg" alt="EDX">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2025/ISGF.jpg" alt="ISGF">
             </a>
          </div>
          <div class="logo-card">
             <a href="https://eppeltone.in/" target="_blank" rel="noopener noreferrer">
-               <img src="images/2026/Eppeltone.jpeg?id=1" alt="Eppeltone Engineers Limited">
-            </a>
-         </div>
-         <div class="logo-card">
-            <a href="https://edx.com/" target="_blank" rel="noopener noreferrer">
-               <img src="images/2025/edxWireless.jpeg" alt="EDX Wireless">
-            </a>
-         </div>
-         <div class="logo-card">
-            <a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer">
-               <img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power Company Limited">
+               <img src="images/2026/eppeltone.png?id=1" alt="Eppeltone">
             </a>
          </div>
          <div class="logo-card">
@@ -674,8 +669,68 @@
             </a>
          </div>
          <div class="logo-card">
-            <a href="https://indiasmartgrid.org/" target="_blank" rel="noopener noreferrer">
-               <img src="images/2025/ISGF.jpg" alt="ISGF">
+            <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
+               <img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer">
+               <img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://meshmerise.ai/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/Meshmerise.jpeg" alt="Meshmerise">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://www.powerfoundation.org.in/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/pfi.jpeg" alt="Power Foundation of India">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://www.tekuncorked.com/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/TekUncorked.png" alt="TekUncorked">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://g3-alliance.com/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/G3-Alliance.png" alt="G3 Alliance">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://apar.com/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/apar.png" alt="Apar Industries">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://dvc.gov.in/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/DVCLogo.png" alt="Damodar Valley Corporation">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://www.saien.in/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/SAIEN.png" alt="SAIEN">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://ecog.io/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/EcoG.png" alt="EcoG">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://www.gnaenergy.com/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/GNA.png" alt="GNA Energy">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://www.citilight.in/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2026/Citilight.png" alt="CITiLIGHT">
+            </a>
+         </div>
+         <div class="logo-card">
+            <a href="https://www.powerxchange.io/" target="_blank" rel="noopener noreferrer">
+               <img src="images/2025/PowerXchange.jpeg" alt="Power Xchange">
             </a>
          </div>
       </div>
