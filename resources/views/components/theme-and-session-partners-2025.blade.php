@@ -154,6 +154,11 @@
 			<img src="images/2025/BSCE.png" alt="BSCE Systems">
 		</a>
 	</div>
+	<div class="logo-card">
+		<a href="https://ulse.org/" target="_blank" rel="noopener noreferrer">
+			<img src="engege.png" alt="UL Standards & Engagement">
+		</a>
+	</div>
 </div>
 
 
