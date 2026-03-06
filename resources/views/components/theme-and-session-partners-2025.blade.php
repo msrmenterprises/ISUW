@@ -156,7 +156,7 @@
 	</div>
 	<div class="logo-card">
 		<a href="https://ulse.org/" target="_blank" rel="noopener noreferrer">
-			<img src="engege.png" alt="UL Standards & Engagement">
+			<img src="images/2026/ulse.svg" alt="UL Standards & Engagement">
 		</a>
 	</div>
 </div>
