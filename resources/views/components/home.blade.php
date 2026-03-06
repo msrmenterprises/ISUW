@@ -552,7 +552,7 @@
                            </div>
                         <div class="logo-card">
                            <a href="https://www.boci.org.in/" target="_blank" rel="noopener noreferrer">
-                              <img src="images/2025/BOCI.jpg" alt="BOCI">
+                              <img src="images/2026/boci.jpeg" alt="BOCI">
                            </a>
                         </div>
                      </div>
