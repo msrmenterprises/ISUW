@@ -9,7 +9,7 @@
 
 <style type="text/css">.diff_ss1{margin-left:30px;}</style>
 <div class="k_cheading">
-		<h1>ISUW <span class="k_greencolor"> CONFERENCE PROGRAM AND THEMES</span> </h1>
+    <h1>ISUW 2026 <span class="k_greencolor"> PROGRAM DETAILS</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<!--<div class="k_cheading">
@@ -40,7 +40,6 @@
     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
         <ul>
-          <li>Cyber Security for Digital Utilities</li>
           <li>Agentic AI: How to Build and Deploy AI Agents</li>
           <li>IEC–IEEE Smart Energy Standardization Coordination Workshop (in collaboration with BIS, IEC, and IEEE)</li>
           <li>WE3 ASIA</li>
@@ -59,15 +58,18 @@
 
         <strong>Conference Thematic Session</strong>
         <ul>
-          <li>Rise of Flexumers and Digital Tools for DER Management and Grid Integration</li>
-          <li>Square-Mile–Scale AI Data Centres Requiring GW-Scale Power Connections</li>
-          <li>Digital Energy Grids on Unified Energy Interface (UEI) Architecture</li>
-          <li>Future of Work: Working with Digital Colleagues and Humanoid Robots</li>
+          <li>10 million Solar Rooftop Systems and Management of Reverse Power Flows on Distribution Feeders (In Partnership with AIDA and NISE)</li>
+          <li>Regulations for Digital Grids (In Partnership with Power Foundation of India (PFI))</li>
+          <li>Digital Grids on Unified Energy Interface (UEI) Architecture (In Partnership with REC*)</li>
+          <li>Square-Mile-Size AI Data Centres Requiring GW-scale Power Connections (In Partnership with MEITY*)</li>
         </ul>
         <strong>Workshops/Roundtables/Seminars</strong>
         <ul>
-          <li>India-US Roundtable</li>
-          <li>UK-India Roundtable</li>
+          <li>India – UK CEO Roundtable on Smart Energy (In Partnership with FCDO, UK)</li>
+          <li>Theme: Digitalizing the Future Energy Ecosystem</li>
+          <li>12th India - US Smart Energy Workshop (In Partnership with US Commercial Services and UL Standards & Engagement)</li>
+          <li>Theme: Rollout of Smart Inverters</li>
+          <li>AIDA General Body Meeting (for AIDA Members only)</li>
         </ul>
         <strong>ISUW 2026 Welcome Reception and Partner Recognition Ceremony</strong>
 
@@ -85,25 +87,17 @@
 
         <strong>Conference Thematic Session</strong>
         <ul>
-          <li>10 Million Solar Rooftop Systems and Management of Reverse Power Flows on Distribution Feeders</li>
+          <li>Rise of “Flexumers” and Digital Tools for DER Management and Grid Integration</li>
           <li>Smart Metering and Smart Meter Data Analytics</li>
-          <li>Digitalization Roadmaps for Utilities</li>
-          <li>Role of Small Modular Reactors (SMR) in the Net Zero Power Systems</li>
-          <li>Data Governance Framework and Data Management in Utilities</li>
-          <li>Emerging Solutions for Power System Flexibility:</li>
-          <ul>
-            <li>Smart Microgrids</li>
-            <li>Grid Interactive Buildings</li>
-            <li>District Cooling Systems (DCS)</li>
-            <li>Distributed Energy Storage Systems</li>
-            <li>Demand Response (DR)</li>
-          </ul>
+          <li>Digitalization Roadmaps for Utilities (In Partnership with AIDA)</li>
+          <li>Role of Small Modular Reactors (SMR) in the Net Zero Power Systems (In Partnership with BSCE Systems)</li>
+          <li>The Cooling Challenge: Accelerating District Cooling System (DCS) Adoption in India (In Partnership with APUEA)</li>
+          <li>Resiliency of the Power Systems Against Extreme Weather Events (In Partnership with Power Foundation of India (PFI) and CDRI)</li>
+          <li>Data Governance Framework and Data Management in Utilities (In Partnership with AIDA)</li>
         </ul>
         <strong>Workshops/Roundtables/Seminars</strong>
         <ul>
-          <li>Presentation of Select Technical Papers</li>
-          <li>Brazil-India Roundtable</li>
-          <li>2nd India-Africa Smart Energy Roundtable</li>
+          <li>3rd India – Brazil Smart Energy Roundtable</li>
         </ul>
 
 </div></div></div></div>
@@ -120,15 +114,16 @@
 
         <strong>Conference Thematic Session</strong>
         <ul>
-          <li>AI–ML–VR–AR and Robotics Applications for Utilities</li>
-          <li>Electric Vehicles – A $200 Billion Opportunity in India to be Unlocked</li>
-          <li>Electrification of Agricultural Sector – Electric Tractors and Solarized Irrigation Pumps</li>
-          <li>Power Markets and Carbon Markets</li>
-          <li>Resiliency of the Power Systems Against Extreme Weather Events</li>
-          <li>Role of Women in Energy and Just Transition</li>
+          <li>New Technologies: AI–ML–VR–AR and Robotics Applications and Reliable Communications for Utilities (In Partnership with DST)</li>
+          <li>Electric Vehicles – A $200 Billion Opportunity in India to be Unlocked (In Partnership with Power Foundation of India (PFI))</li>
+          <li>Power Markets and Carbon Markets (In partnership with IEX)</li>
+          <li>Emerging Solutions for Power System Flexibility</li>
+          <li>Future of Work: Working with Digital Colleagues and Humanoid Robots</li>
+          <li>Gender Balance in the Energy Sector</li>
         </ul>
         <strong>Workshops/Roundtables/Seminars</strong>
         <ul>
+          <li>Presentation of Select Technical Papers</li>
           <li>India-Indonesia Roundtable</li>
         </ul>
         <strong>ISGF Innovation Awards Ceremony and Gala Dinner</strong>
@@ -145,8 +140,8 @@
       <div class="accordion-body">
         <strong>Technical Tours</strong>
         <ul>
-          <li>Tour 1: National Load Dispatch Centre (NLDC) and Renewable Energy Management Centre (REMC), followed by Tata Power Delhi Distribution Ltd. (TPDDL) Smart Grid Lab and Micro Substation</li>
-          <li>Tour 2: 800 kV HVDC Station, Agra, followed by a visit to the Taj Mahal</li>
+          <li>Tour 1: 20MW / 40MWh BESS at BRPL and Smart Grid Lab + Micro Substation of TPDDL</li>
+          <li>Tour 2: 800 kV HVDC Station in AGRA + TAJ MAHAL</li>
         </ul>
         <strong>Cultural Tours</strong>
         <ul>
