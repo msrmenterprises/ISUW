@@ -340,11 +340,11 @@
                               <img src="images/2026/PJCI_Logo.jpeg" alt="PJCI">
                            </a>
                         </div>
-                        <!-- <div class="logo-card">
+                        <div class="logo-card">
                            <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer">
                               <img src="public/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
                            </a>
-                        </div> -->
+                        </div>
                         <div class="logo-card">
                            <a href="https://www.smartgrid.com.br/" target="_blank" rel="noopener noreferrer">
                               <img src="images/2025/LATAM.png" alt="Latam Smart Grid Forum">
@@ -444,11 +444,11 @@
                               <img src="images/2025/IEX.png" alt="Indian Energy Exchange">
                            </a>
                         </div>
-                        <div class="logo-card">
+                        <!-- <div class="logo-card">
                            <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer">
                               <img src="public/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
                            </a>
-                        </div>
+                        </div> -->
                         <div class="logo-card">
                            <a href="https://www.bis.gov.in/" target="_blank" rel="noopener noreferrer">
                               <img src="images/2025/BIS.jpg" alt="Bureau of India Standards">
