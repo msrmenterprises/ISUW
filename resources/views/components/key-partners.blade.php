@@ -168,15 +168,23 @@
                 <div class="logo-card"></div>
             </div>
 
-            <h5 class="section-heading">Country Partner</h5>
+            <h5 class="section-heading">Country Partners</h5>
             <div class="partners-grid grid-3">
-                <div class="logo-card"></div>
+                <div class="logo-card">
+                    <a href="https://pjci.or.id/" target="_blank" rel="noopener noreferrer">
+                        <img src="images/2025/PJCI.png" alt="PJCI">
+                    </a>
+                </div>
                 <div class="logo-card">
                     <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer">
                         <img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
                     </a>
                 </div>
-                <div class="logo-card"></div>
+                <div class="logo-card">
+                    <a href="https://www.smartgrid.com.br/" target="_blank" rel="noopener noreferrer">
+                        <img src="images/2025/LATAM.png" alt="Latam Smart Grid Forum">
+                    </a>
+                </div>
             </div>
 
             <h5 class="section-heading">Silver Partners</h5>
@@ -235,6 +243,16 @@
                 <div class="logo-card">
                     <a href="https://www.powerxchange.io/" target="_blank" rel="noopener noreferrer">
                         <img src="images/2025/PowerXchange.jpeg" alt="PowerXchange">
+                    </a>
+                </div>
+                <div class="logo-card">
+                    <a href="https://www.aewindia.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="images/2026/AEW_logo.png" alt="Allied Engineering Works Limited">
+                    </a>
+                </div>
+                <div class="logo-card">
+                    <a href="https://www.phoenixcontact.com/en-in/" target="_blank" rel="noopener noreferrer">
+                        <img src="https://www.isuw.in/public/uploads/partner/Phoenix Contact.jpg" alt="Phoenix Contact India">
                     </a>
                 </div>
             </div>
