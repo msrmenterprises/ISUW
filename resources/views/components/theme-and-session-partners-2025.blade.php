@@ -159,6 +159,11 @@
 			<img src="images/2026/ulse.svg" alt="UL Standards & Engagement">
 		</a>
 	</div>
+	<div class="logo-card">
+		<a href="https://www.cdri.world/" target="_blank" rel="noopener noreferrer">
+			<img src="images/2025/CDRI.jpg" alt="CDRI">
+		</a>
+	</div>
 </div>
 
 
