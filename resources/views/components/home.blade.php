@@ -773,7 +773,7 @@
          </div>
          <div class="logo-card">
             <a href="https://www.bentecindia.com/" target="_blank" rel="noopener noreferrer">
-               <img src="https://logo.clearbit.com/bentecindia.com" alt="BENTEC India Ltd">
+               <img src="images/2026/bentec.png" alt="BENTEC India Ltd">
             </a>
          </div>
          <div class="logo-card">
