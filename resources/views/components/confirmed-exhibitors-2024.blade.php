@@ -223,6 +223,16 @@
                    <img src="images/2026/C-DAC.png?id=1" alt="C-DAC">
                </a>
            </div>
+           <div class="logo-card">
+               <a href="https://www.bentecindia.com/" target="_blank" rel="noopener noreferrer">
+                   <img src="https://logo.clearbit.com/bentecindia.com" alt="BENTEC India Ltd">
+               </a>
+           </div>
+           <div class="logo-card">
+               <a href="https://www.tauruspowertronics.com/" target="_blank" rel="noopener noreferrer">
+                   <img src="http://isuw.in/public/uploads/partner/TAURUS LOGO (1).jpg" alt="Taurus Powertronics">
+               </a>
+           </div>
        </div>
 
  <div class="k_cheading">
