@@ -358,7 +358,7 @@
                     </a>
                 </div>
                 <div class="logo-card">
-                    <a href="#" target="_blank" rel="noopener noreferrer">
+                    <a href="https://pjci.or.id/" target="_blank" rel="noopener noreferrer">
                         <img src="images/2026/PJCI_Logo.jpeg" alt="PJCI">
                     </a>
                 </div>
