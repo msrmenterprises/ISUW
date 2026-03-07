@@ -332,16 +332,24 @@
                      </div>
 
                      <div class="section-heading-wrap">
-                        <h5 class="section-heading">Country Partner</h5>
+                        <h5 class="section-heading">Country Partners</h5>
                      </div>
                      <div class="partners-grid grid-3">
-                        <div class="logo-card"></div>
+                        <div class="logo-card">
+                           <a href="https://pjci.or.id/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2025/PJCI.png" alt="PJCI">
+                           </a>
+                        </div>
                         <div class="logo-card">
                            <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer">
                               <img src="public/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
                            </a>
                         </div>
-                        <div class="logo-card"></div>
+                        <div class="logo-card">
+                           <a href="https://www.smartgrid.com.br/" target="_blank" rel="noopener noreferrer">
+                              <img src="images/2025/LATAM.png" alt="Latam Smart Grid Forum">
+                           </a>
+                        </div>
                      </div>
 
                      <div class="section-heading-wrap">
@@ -410,6 +418,16 @@
                               <img src="images/2025/PowerXchange.jpeg" alt="Power Xchange">
                            </a>
                         </div>
+                        <div class="logo-card">
+                           <a href="https://www.aewindia.com/" target="_blank" rel="noopener noreferrer">
+                              <img src="https://logo.clearbit.com/aewindia.com" alt="Allied Engineering Works Limited">
+                           </a>
+                        </div>
+                        <div class="logo-card">
+                           <a href="https://www.phoenixcontact.com/en-in/" target="_blank" rel="noopener noreferrer">
+                              <img src="https://www.isuw.in/public/uploads/partner/Phoenix Contact.jpg" alt="Phoenix Contact India">
+                           </a>
+                        </div>
                      </div>
 
                      <div class="section-heading-wrap">
@@ -474,6 +492,11 @@
                            <div class="logo-card">
                               <a href="https://ulse.org/" target="_blank" rel="noopener noreferrer">
                                  <img src="public/uploads/partner/UL Standards.png" alt="UL Standards & Engagement">
+                              </a>
+                           </div>
+                           <div class="logo-card">
+                              <a href="https://www.cdri.world/" target="_blank" rel="noopener noreferrer">
+                                 <img src="images/2025/CDRI.jpg" alt="CDRI">
                               </a>
                            </div>
                      </div>
