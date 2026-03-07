@@ -359,7 +359,7 @@
                 </div>
                 <div class="logo-card">
                     <a href="#" target="_blank" rel="noopener noreferrer">
-                        <img src="images/2025/pjci.png" alt="PJCI">
+                        <img src="images/2026/PJCI_Logo.jpeg" alt="PJCI">
                     </a>
                 </div>
             </div>
