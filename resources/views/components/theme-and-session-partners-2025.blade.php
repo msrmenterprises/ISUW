@@ -109,11 +109,11 @@
 			<img src="images/2025/IEX.png" alt="Indian Energy Exchange">
 		</a>
 	</div>
-	<div class="logo-card">
+	<!-- <div class="logo-card">
 		<a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer">
 			<img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
 		</a>
-	</div>
+	</div> -->
 	<div class="logo-card">
 		<a href="https://www.bis.gov.in/?lang=en" target="_blank" rel="noopener noreferrer">
 			<img src="images/2025/BIS.jpg" alt="Bureau of India Standards">
