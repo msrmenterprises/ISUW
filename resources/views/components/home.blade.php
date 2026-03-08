@@ -965,14 +965,7 @@
                <img src="images/2025/GUVNL.png" alt="GUVNL">
             </a>
          </div>
-      </div>
-   </div>
-</section>
-
-<!-- Additional Utilities Section -->
-<section class="page-section">
-   <div class="container">
-      <div class="partners-grid grid-5">
+      
          <div class="logo-card">
             <a href="https://dgvcl.com/" target="_blank" rel="noopener noreferrer">
                <img src="images/2025/DGVCL.png" alt="DGVCL">
