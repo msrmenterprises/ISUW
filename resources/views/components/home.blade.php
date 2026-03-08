@@ -22,6 +22,10 @@
     grid-template-columns: repeat(4, 1fr);
 }
 
+.partners-grid.grid-5 {
+   grid-template-columns: repeat(5, 1fr);
+}
+
 .logo-card {
     display: flex;
     align-items: center;
@@ -136,9 +140,13 @@
     }
 
     .partners-grid.grid-3,
-    .partners-grid.grid-4 {
+   .partners-grid.grid-4 {
         grid-template-columns: repeat(2, 1fr);
     }
+
+   .partners-grid.grid-5 {
+      grid-template-columns: repeat(3, 1fr);
+   }
 
     .logo-card {
         min-height: 140px;
@@ -157,7 +165,8 @@
 
     .partners-grid.grid-2,
     .partners-grid.grid-3,
-    .partners-grid.grid-4 {
+   .partners-grid.grid-4,
+   .partners-grid.grid-5 {
         grid-template-columns: 1fr;
     }
 
