@@ -9,7 +9,6 @@
 		<h1>ISUW 2026<span class="k_greencolor"> Agenda</span> </h1>
 		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
-	<p>ISUW 2026 At A Glance</p>
 <!--<h4 style="color: green;margin-left: 58px;"><a href="https://events.firstviewgroup.com/AfricaRooftopSolarCongress2021#/agenda?lang=en" target="_blank">For Agenda Click here </a></h4>-->
 
 <p style="text-align:center; font-size:16px;"><a href="images/2026/ISUW2026ATAGLANCE08MARCH.pdf" target="_blank" class="getstartedd ">Download Agenda</a></p>
