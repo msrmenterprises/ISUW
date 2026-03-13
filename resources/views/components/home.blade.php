@@ -428,7 +428,7 @@
                            </a>
                         </div>
                         <div class="logo-card">
-                           <a href="https://www.aewindia.com/" target="_blank" rel="noopener noreferrer">
+                           <a href="https://aewinfra.com/" target="_blank" rel="noopener noreferrer">
                               <img src="images/2026/AEW_logo.png" alt="Allied Engineering Works Limited">
                            </a>
                         </div>
