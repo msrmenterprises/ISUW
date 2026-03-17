@@ -31,6 +31,7 @@ Route::get('/', [homeController::class, 'show']);
 Route::get('/isuw-2022-presentations', [homeController::class, 'presentation']);
 Route::get('/isuw-2023-presentations', [homeController::class, 'presentation2023']);
 Route::get('/isuw-2025-presentations', [homeController::class, 'presentation2024']);
+Route::get('/isuw-2026-presentations', [homeController::class, 'presentation2026']);
 
 Route::get('/speakers',[Speakers::class, 'show']);
 Route::get('/speakers-2023',[Speakers::class, 'showspeaker']);
@@ -308,6 +309,8 @@ Route::get('/presentation2023',[LoginController::class,'presentation2023']);
 Route::post('/presentation2023', [LoginController::class,'presentationauthenticate2023'])->name('loginpresentation');
 Route::get('/presentation2024',[LoginController::class,'presentation2024']);
 Route::post('/presentation2024', [LoginController::class,'presentationauthenticate2024'])->name('loginpresentation');
+Route::get('/presentation2026',[LoginController::class,'presentation2026']);
+Route::post('/presentation2026', [LoginController::class,'presentationauthenticate2026'])->name('loginpresentation');
 Route::get('/admin',[admincontroller::class, 'show']);
 Route::get('/admin/speakers',[SpeakerAdminController::class, 'show']);
 Route::get('/admin/utility',[UtilityController::class, 'show']);

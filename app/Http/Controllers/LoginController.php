@@ -47,6 +47,11 @@ class LoginController extends Controller
       {
         return view('components.presentation-alert-2024');
       }
+      
+      public function presentation2026()
+      {
+        return view('components.presentation-alert-2026');
+      }
     
     public function presentationauthenticate(Request $request)
         {         
@@ -106,6 +111,27 @@ class LoginController extends Controller
            return redirect('/isuw-2025-presentations');
       }else{
           return redirect('/isuw-2025-presentations');
+      }
+     
+
+           }
+           
+           public function presentationauthenticate2026(Request $request)
+        {         
+          $this->validate($request,[
+            
+            'password' => 'required'
+          ]);
+        $credentials = $request->validate([
+         
+          'password' => ['required'],
+      ]);
+
+      if($request->password=='ISUW20261014$%'){
+           session(['presentation2026' => true]);
+           return redirect('/isuw-2026-presentations');
+      }else{
+          return redirect('/isuw-2026-presentations');
       }
      
 

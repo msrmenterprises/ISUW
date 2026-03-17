@@ -48,6 +48,16 @@ class homeController extends Controller
           return view('components.presentation-alert-2024');
       }
     }
+    
+    public function presentation2026(Request $request)
+    {
+        $value = $request->session()->get('presentation2026');
+      if( $value==true ) {
+              return view('components.isuw-2026-presentations');
+      }else{
+          return view('components.presentation-alert-2026');
+      }
+    }
 
 
 }
