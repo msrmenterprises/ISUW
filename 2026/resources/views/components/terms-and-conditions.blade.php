@@ -12,7 +12,7 @@ color:#f93;
 </style>
 <div class="k_cheading">
 		<h1>Website and e-Learning<span class="k_greencolor"> Terms and Conditions</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <div class="welcome-content">
 <p style"text-align:justify"="">By continuing to browse and use this website you are agreeing to comply with and be bound by its terms and conditions of use, which together with our privacy policy govern India Smart Grid Forum (ISGF)’s relationship with you with regards to this website.</p>

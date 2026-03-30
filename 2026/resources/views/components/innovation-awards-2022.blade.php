@@ -20,7 +20,7 @@ margin-left:20px;
 <div class="k_cheading">
 		<h1>ISGF INNOVATION AWARD 2022 <br/>
 		 <span class="k_greencolor">Date: 04 MARCH 2022</span></h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 <!--<h2 style="color: #f60; text-align:center;">ISGF INNOVATION AWARD 2022<br/>
 At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>-->
@@ -968,7 +968,7 @@ as clearly as possible with evidence/supporting documents:</font></style></P>
     </h2>
     <div id="flush-collapseselection" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-<P STYLE="margin-bottom: 0in"><IMG SRC="http://www.isuw.in/public/uploads/images/selection-process.jpeg"></P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="http://www.isuw.in/uploads/images/selection-process.jpeg"></P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
 </div></div></div></div>

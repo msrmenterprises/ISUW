@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW<span class="k_greencolor"> 2022 Presentations</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 
     <table cellspacing="0" border="0">
@@ -260,7 +260,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Gideon Friedmann</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Acting Chief Scientist, Ministry of Energy, Israel</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/17. Gideon Friedmann_DIGITALIZATION OF UTILITIES.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/17. Gideon Friedmann_DIGITALIZATION OF UTILITIES.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/SBIPxCRKRNw">https://youtu.be/SBIPxCRKRNw</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzF9gq">https://flic.kr/s/aHBqjzF9gq</a></font></u></td>
@@ -284,7 +284,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Robert Denda</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF"> Chief Executive Officer, Gridpertise - Enel, Italy</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/19. Robert Denda_DIGITALIZATION OF UTILITIES.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/19. Robert Denda_DIGITALIZATION OF UTILITIES.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/SBIPxCRKRNw">https://youtu.be/SBIPxCRKRNw</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzF9gq">https://flic.kr/s/aHBqjzF9gq</a></font></u></td>
@@ -308,7 +308,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Avinash Haware</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Chief General Manager – IT, MSEDCL</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/21. Avinash Haware_DIGITALIZATION OF UTILITIES.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/21. Avinash Haware_DIGITALIZATION OF UTILITIES.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/SBIPxCRKRNw">https://youtu.be/SBIPxCRKRNw</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzF9gq">https://flic.kr/s/aHBqjzF9gq</a></font></u></td>
@@ -356,7 +356,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">George Hunt</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Chief Strategy Officer, Smart Energy Water</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/25. George Hunt_DIGITALIZATION OF UTILITIES.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/25. George Hunt_DIGITALIZATION OF UTILITIES.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/SBIPxCRKRNw">https://youtu.be/SBIPxCRKRNw</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzF9gq">https://flic.kr/s/aHBqjzF9gq</a></font></u></td>
@@ -452,7 +452,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Ganesh Srinivasan</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Chief Executive Officer, Tata Power DDL</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/32. GaneshSrinivasan_Regulations for Green Grid.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/32. GaneshSrinivasan_Regulations for Green Grid.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/xTXbm82Wito">https://youtu.be/xTXbm82Wito</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFcef">https://flic.kr/s/aHBqjzFcef</a></font></u></td>
@@ -710,7 +710,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Swetha Ravi Kumar</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Head of FSR Global, Florence School of Regulation</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/50. Swetha Ravi Kumar_11th EU India Smart Grid Workshop.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/50. Swetha Ravi Kumar_11th EU India Smart Grid Workshop.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/kkQlD8UXD88</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFizJ">https://flic.kr/s/aHBqjzFhho</a></font></u></td>
@@ -722,7 +722,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Tomas Gomez San Roman</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Professor, Comillas University</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/51. Tomas Gomez San Roman_11th EU India Smart Grid Workshop.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/51. Tomas Gomez San Roman_11th EU India Smart Grid Workshop.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/kkQlD8UXD88</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFizJ">https://flic.kr/s/aHBqjzFhho</a></font></u></td>
@@ -734,7 +734,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Suddhasatta Kundu</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Senior Manager,  India Smart Grid Forum</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/52. Suddhasatta Kundu_11th EU India Smart Grid Workshop.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/52. Suddhasatta Kundu_11th EU India Smart Grid Workshop.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/kkQlD8UXD88</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFizJ">https://flic.kr/s/aHBqjzFhho</a></font></u></td>
@@ -911,7 +911,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Marcus Merkel</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Senior Strategy Manager, EWE AG, Germany</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/64. Marcus Merkel_ 1ST GERMANY- INDIA SMART ENERGY WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/64. Marcus Merkel_ 1ST GERMANY- INDIA SMART ENERGY WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/BVX8zt0WIT4">https://youtu.be/BVX8zt0WIT4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFizJ">https://flic.kr/s/aHBqjzFizJ</a></font></u></td>
@@ -947,7 +947,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Sebastian Lehnhoff</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Chairman of the Board, OFFIS Institute for IT</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/66. Sebastian Lehnhoff_ 1ST GERMANY- INDIA SMART ENERGY WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/66. Sebastian Lehnhoff_ 1ST GERMANY- INDIA SMART ENERGY WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/BVX8zt0WIT4">https://youtu.be/BVX8zt0WIT4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFizJ">https://flic.kr/s/aHBqjzFizJ</a></font></u></td>
@@ -971,7 +971,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Eckehard Tröster</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">CEO, Energynautics GmbH</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/67. Eckehard Tröster_ 1ST GERMANY- INDIA SMART ENERGY WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/67. Eckehard Tröster_ 1ST GERMANY- INDIA SMART ENERGY WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/BVX8zt0WIT4">https://youtu.be/BVX8zt0WIT4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFizJ">https://flic.kr/s/aHBqjzFizJ</a></font></u></td>
@@ -983,7 +983,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Tobias Winter</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Director, Indo – German Energy Forum    </font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/68. Tobias Winter-1ST GERMANY- INDIA SMART ENERGY WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/68. Tobias Winter-1ST GERMANY- INDIA SMART ENERGY WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/BVX8zt0WIT4">https://youtu.be/BVX8zt0WIT4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFizJ">https://flic.kr/s/aHBqjzFizJ</a></font></u></td>
@@ -1225,7 +1225,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Rajesh Bansal</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">BRPL</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/84. Rajesh Bansal_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/84. Rajesh Bansal_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1237,7 +1237,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Varun Thakur</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Tata Power Delhi Distribution Limited</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/85. Varun Thakur_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/85. Varun Thakur_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1249,7 +1249,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Loganathan Raman</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">L&amp;T Construction</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/86. Loganathan Raman_ Presentation Of Select Technical Papers PART - 1 - Copy.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/86. Loganathan Raman_ Presentation Of Select Technical Papers PART - 1 - Copy.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1261,7 +1261,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">R Suresh </font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">L&amp;T Construction</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/87. R Suresh_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/87. R Suresh_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1273,7 +1273,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Nirvik Biswas</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">CESC LIMITED</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/88. Nirvik Biswas_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/88. Nirvik Biswas_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1285,7 +1285,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Nishant Singh</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Tata Power Delhi Distribution Limited</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/89. Nishant Singh_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/89. Nishant Singh_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1297,7 +1297,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Mousam Dutta</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">CESC LIMITED</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/90. MOUSAM DUTTA_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/90. MOUSAM DUTTA_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1309,7 +1309,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">François Cazals</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF"> Schneider Electric</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/91. François Cazals_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/91. François Cazals_ Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1321,7 +1321,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">M L Sachdeva</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Central Electricity Authority (CEA)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/92.  ML Sachdeva_Presentation Of Select Technical Papers PART - 1 - Copy.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/92.  ML Sachdeva_Presentation Of Select Technical Papers PART - 1 - Copy.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1333,7 +1333,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">NS Sodha</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Central Electricity Authority (CEA)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/93.  NS Sodha_Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/93.  NS Sodha_Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1366,7 +1366,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Ashwani Arora</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Council on Energy, Environment and Water (CEEW)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/95. Ashwani Arora_Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/95. Ashwani Arora_Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1378,7 +1378,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Surekha Deshmukh </font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">IEEE Pune Section</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/96. Surekha Deshmukh _Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/96. Surekha Deshmukh _Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1390,7 +1390,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Krishna Porwal </font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">TATA Power DDL</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/97. Krishna Porwal  _Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/97. Krishna Porwal  _Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1423,7 +1423,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Shalu Agrawal</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Council on Energy, Environment and Water (CEEW)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/99. Shalu Agrawal_Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/99. Shalu Agrawal_Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1435,7 +1435,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Kumar Skandh</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF"> NTPC Ltd.</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/100. Kumar Skandh_Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/100. Kumar Skandh_Presentation Of Select Technical Papers PART - 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6fRRRXYx-j0">https://youtu.be/AYQ13p122-k</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiNL</a></font></u></td>
@@ -1812,7 +1812,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Sainath Bandhakavi</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF"> Senior Solutions Architect – Utilities, AWS</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Theme Presentations</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/125. Sainath Bandhakavi_CYBER SECURITY FOR THE DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/125. Sainath Bandhakavi_CYBER SECURITY FOR THE DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ob-1Hm2iLXE">https://youtu.be/ob-1Hm2iLXE</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiQX</a></font></u></td>
@@ -1824,7 +1824,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Andrew Ginter</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Vice President- Industrial Security, Waterfall Security Solutions</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/126. Andrew Ginter_CYBER SECURITY FOR THE DIGITALIZED GRIDS 1.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/126. Andrew Ginter_CYBER SECURITY FOR THE DIGITALIZED GRIDS 1.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ob-1Hm2iLXE">https://youtu.be/ob-1Hm2iLXE</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiQX</a></font></u></td>
@@ -1836,7 +1836,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">AB Sengupta</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">CISO, POSOCO</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/127. AB Sengupta_CYBER SECURITY FOR THE DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/127. AB Sengupta_CYBER SECURITY FOR THE DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ob-1Hm2iLXE">https://youtu.be/ob-1Hm2iLXE</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiQX</a></font></u></td>
@@ -1848,7 +1848,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Yosi Shneck</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Cyber Entrepreneurship &amp; Business Development, Israel Electric Corp (IEC)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/128. Yosi Shneck_CYBER SECURITY FOR THE DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/128. Yosi Shneck_CYBER SECURITY FOR THE DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ob-1Hm2iLXE">https://youtu.be/ob-1Hm2iLXE</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiQX</a></font></u></td>
@@ -1860,7 +1860,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">PK Agarwal</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Former Director and CISO, POSOCO Ltd</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/129. PK Agarwal_CYBER SECURITY FOR THE DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/129. PK Agarwal_CYBER SECURITY FOR THE DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ob-1Hm2iLXE">https://youtu.be/ob-1Hm2iLXE</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiQX</a></font></u></td>
@@ -1872,7 +1872,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Shaleen Khetarpaul</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Assistant Vice President, BSES Rajdhani Power Limited</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/130. Shaleen Khetarpaul_CYBER SECURITY FOR DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/130. Shaleen Khetarpaul_CYBER SECURITY FOR DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ob-1Hm2iLXE">https://youtu.be/ob-1Hm2iLXE</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiQX</a></font></u></td>
@@ -1896,7 +1896,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Ahmad Khan</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Senior Vice President, Grid Automation, Hitachi Energy India Limited</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/132. Ahmad Khan_CYBER SECURITY FOR DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/132. Ahmad Khan_CYBER SECURITY FOR DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ob-1Hm2iLXE">https://youtu.be/ob-1Hm2iLXE</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiQX</a></font></u></td>
@@ -1908,7 +1908,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Aswini Vadapalli</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Associate Product Manager, Fluentgrid Ltd</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/133. Aswini Vadapalli_CYBER SECURITY FOR DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/133. Aswini Vadapalli_CYBER SECURITY FOR DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ob-1Hm2iLXE">https://youtu.be/ob-1Hm2iLXE</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiQX</a></font></u></td>
@@ -1920,7 +1920,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Kishore Narang</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Founder, Narnix</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/134. Kishore Narang_ CYBER SECURITY.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/134. Kishore Narang_ CYBER SECURITY.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ob-1Hm2iLXE">https://youtu.be/ob-1Hm2iLXE</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiQX</a></font></u></td>
@@ -1932,7 +1932,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Alina Kuzmich</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Technical Analyst and Head -EV Solutions, Power Transition Ltd</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/135. Alina Kuzmich_CYBER SECURITY FOR DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/135. Alina Kuzmich_CYBER SECURITY FOR DIGITALIZED GRIDS.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ob-1Hm2iLXE">https://youtu.be/ob-1Hm2iLXE</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFiQX">https://flic.kr/s/aHBqjzFiQX</a></font></u></td>
@@ -1992,7 +1992,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Pablo Hevia-Koch</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Energy Analyst - Renewables Integration and Secure Electricity (RISE), International Energy Agency</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Theme Presentations</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/139. Pablo Hevia-Koch_Power System Flexibility.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/139. Pablo Hevia-Koch_Power System Flexibility.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/IdtN8ZjsreY">https://youtu.be/IdtN8ZjsreY</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFpHG">https://flic.kr/s/aHBqjzFpHG</a></font></u></td>
@@ -2004,7 +2004,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Mark McGranaghan</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">EPRI Fellow and VP – Power Delivery and Utilization, Electric Power Research Institute (EPRI)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/140. Power System Flexibility - Mark McGranaghan.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/140. Power System Flexibility - Mark McGranaghan.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/IdtN8ZjsreY">https://youtu.be/IdtN8ZjsreY</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFpHG">https://flic.kr/s/aHBqjzFpHG</a></font></u></td>
@@ -2028,7 +2028,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Yves Barlier</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Head-Smart Grids Division, Enedis and Luc Wanniarichhi, Director, EDF International Networks India</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/142. Power System Flexibility - Yves Barlier and Luc Wanniarachchi.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/142. Power System Flexibility - Yves Barlier and Luc Wanniarachchi.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/IdtN8ZjsreY">https://youtu.be/IdtN8ZjsreY</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFpHG">https://flic.kr/s/aHBqjzFpHG</a></font></u></td>
@@ -2052,7 +2052,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Saji S</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Senior Vice President, HVDC, Hitachi Energy India Limited </font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/144. Power System Flexibility - Saji S.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/144. Power System Flexibility - Saji S.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/IdtN8ZjsreY">https://youtu.be/IdtN8ZjsreY</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFpHG">https://flic.kr/s/aHBqjzFpHG</a></font></u></td>
@@ -2064,7 +2064,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Klaus Känsälä</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Principal Scientist, VTT, Finland</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/145. Power System Flexibility - Klaus Känsälä.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/145. Power System Flexibility - Klaus Känsälä.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/IdtN8ZjsreY">https://youtu.be/IdtN8ZjsreY</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFpHG">https://flic.kr/s/aHBqjzFpHG</a></font></u></td>
@@ -2088,7 +2088,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Gerhard Gamperl</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Director - Corporate Development, VERBUND AG, Austria</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/147. Power System Flexibility - Gamperl Verbund.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/147. Power System Flexibility - Gamperl Verbund.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/IdtN8ZjsreY">https://youtu.be/IdtN8ZjsreY</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFpHG">https://flic.kr/s/aHBqjzFpHG</a></font></u></td>
@@ -2100,7 +2100,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Saul Matthews</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Commercial Director, Synaptec, UK</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/148. Power System Flexibility - Saul Matthews.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/148. Power System Flexibility - Saul Matthews.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/IdtN8ZjsreY">https://youtu.be/IdtN8ZjsreY</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFpHG">https://flic.kr/s/aHBqjzFpHG</a></font></u></td>
@@ -2124,7 +2124,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">BB Mehta</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Director, OPTCL</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/150. Power System Flexibility - BB Mehta.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/150. Power System Flexibility - BB Mehta.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/IdtN8ZjsreY">https://youtu.be/IdtN8ZjsreY</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFpHG">https://flic.kr/s/aHBqjzFpHG</a></font></u></td>
@@ -2136,7 +2136,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Alan Gooding</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Executive Vice President, SmarterGrid Solutions, UK</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/151. Power System Flexibility - Alan Gooding.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/151. Power System Flexibility - Alan Gooding.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/IdtN8ZjsreY">https://youtu.be/IdtN8ZjsreY</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFpHG">https://flic.kr/s/aHBqjzFpHG</a></font></u></td>
@@ -2208,7 +2208,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF">Makoto Dave Yoshida</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Secretary General, CHAdeMO Association</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/156. Makoto Dave Yoshida_ELECTRIC VEHICLES AND THE ELECTRIC GRID.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/156. Makoto Dave Yoshida_ELECTRIC VEHICLES AND THE ELECTRIC GRID.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/9UBTIiP39cc">https://youtu.be/9UBTIiP39cc</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFijL">https://flic.kr/s/aHBqjzFijL</a></font></u></td>
@@ -2220,7 +2220,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF">Sameer Pandita</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Director, Bureau of Energy Efficiency</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/157. Sameer Pandita_ ELECTRIC VEHICLES AND THE ELECTRIC GRID.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/157. Sameer Pandita_ ELECTRIC VEHICLES AND THE ELECTRIC GRID.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/9UBTIiP39cc">https://youtu.be/9UBTIiP39cc</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFijL">https://flic.kr/s/aHBqjzFijL</a></font></u></td>
@@ -2244,7 +2244,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">George Hunt</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Chief Strategy Officer, Smart Energy Water</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/159. George Hunt_ ELECTRIC VEHICLES AND THE ELECTRIC GRID.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/159. George Hunt_ ELECTRIC VEHICLES AND THE ELECTRIC GRID.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/9UBTIiP39cc">https://youtu.be/9UBTIiP39cc</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFijL">https://flic.kr/s/aHBqjzFijL</a></font></u></td>
@@ -2280,7 +2280,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Prabir Neogi</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Chief Advisor, Corporate Affairs, ‎RP-Sanjiv Goenka Group</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Chair and Moderator</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/161. Prabir Neogi_OPTIMIZATION OF LEVELIZED COST OF GREEN ENERGY.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/161. Prabir Neogi_OPTIMIZATION OF LEVELIZED COST OF GREEN ENERGY.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/jL8URSAovSY</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFku5">https://flic.kr/s/aHBqjzFiLV</a></font></u></td>
@@ -2304,7 +2304,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Srinivas Jampani</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Senior VP- Strategy, Greenko Group</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/163. Srinivas Jampani_OPTIMIZATION OF LEVELIZED COST OF GREEN ENERGY.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/163. Srinivas Jampani_OPTIMIZATION OF LEVELIZED COST OF GREEN ENERGY.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/jL8URSAovSY</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFku5">https://flic.kr/s/aHBqjzFiLV</a></font></u></td>
@@ -2328,7 +2328,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Abhishek Ranjan</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Sr VP Strategy -Utilities and Retail, Renew Power </font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/165. Abhishek Ranjan_OPTIMIZATION OF LEVELIZED COST OF GREEN ENERGY.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/165. Abhishek Ranjan_OPTIMIZATION OF LEVELIZED COST OF GREEN ENERGY.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/jL8URSAovSY</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFku5">https://flic.kr/s/aHBqjzFiLV</a></font></u></td>
@@ -2340,7 +2340,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Ketan Dave</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Head-Engineering, Adani Green Energy Ltd</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/166. Ketan Dave_OPTIMIZATION OF LEVELIZED COST OF GREEN ENERGY.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/166. Ketan Dave_OPTIMIZATION OF LEVELIZED COST OF GREEN ENERGY.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/jL8URSAovSY</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFku5">https://flic.kr/s/aHBqjzFiLV</a></font></u></td>
@@ -2452,7 +2452,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Minna Kuivalainen</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Behavioural Scientist, Smart Innovation Norway (Auroville)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Project Presentations</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/174. Minna Kuivalainen_11th EU INDIA PART B.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/174. Minna Kuivalainen_11th EU INDIA PART B.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/He1u72QL0t8">https://youtu.be/He1u72QL0t8</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFku5">https://flic.kr/s/aHBqjzFku5</a></font></u></td>
@@ -2564,7 +2564,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Pierre-Jacques le Quellec</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Project Director, Enedis (iElectrix )</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/182. Pierre Jaques_11th EU INDIA PART B.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/182. Pierre Jaques_11th EU INDIA PART B.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/He1u72QL0t8">https://youtu.be/He1u72QL0t8</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFku5">https://flic.kr/s/aHBqjzFku5</a></font></u></td>
@@ -2576,7 +2576,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Sabrina Hastings Mela</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Communications Officer, EASE (Musegrid)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/183. Sabrina Hastings Mela_11th EU INDIA PART B.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/183. Sabrina Hastings Mela_11th EU INDIA PART B.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/He1u72QL0t8">https://youtu.be/He1u72QL0t8</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFku5">https://flic.kr/s/aHBqjzFku5</a></font></u></td>
@@ -2600,7 +2600,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Nikos Hatziargyriou</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Professor, National Technical University of Athens (Re-Empower)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/185. Nikos Hatziargyriou_11th EU INDIA PART B.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/185. Nikos Hatziargyriou_11th EU INDIA PART B.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/He1u72QL0t8">https://youtu.be/He1u72QL0t8</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFku5">https://flic.kr/s/aHBqjzFku5</a></font></u></td>
@@ -2656,7 +2656,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Isabelle Gerkens</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Head Regulatory, Market Design &amp; Contract Management, Elia Grid International</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/189. Isabelle Gerkens_11th EU INDIA PART B.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/189. Isabelle Gerkens_11th EU INDIA PART B.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/He1u72QL0t8">https://youtu.be/He1u72QL0t8</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFku5">https://flic.kr/s/aHBqjzFku5</a></font></u></td>
@@ -2817,7 +2817,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Anil Rawal</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">MD and CEO, IntelliSmart</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/200. Anil Rawal_8th US INDIA SMART GRID WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/200. Anil Rawal_8th US INDIA SMART GRID WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/eyfkjRByh64</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFnFq">https://flic.kr/s/aHBqjzFjN6</a></font></u></td>
@@ -2829,7 +2829,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Greg Myers</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Vice President - Product Development, Trilliant Networks</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/201. Greg Myers_8th US INDIA SMARTGRID WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/201. Greg Myers_8th US INDIA SMARTGRID WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/eyfkjRByh64</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFnFq">https://flic.kr/s/aHBqjzFjN6</a></font></u></td>
@@ -2841,7 +2841,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Vish Ganti</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Vice President - Product Management, AutoGrid</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/202. Vish Ganti_8th US INDIA SMARTGRID WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/202. Vish Ganti_8th US INDIA SMARTGRID WORKSHOP.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/eyfkjRByh64</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFnFq">https://flic.kr/s/aHBqjzFjN6</a></font></u></td>
@@ -3086,7 +3086,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Amitabh Ranjan</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Deputy General Manager, Gail (India) Limited</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/220. Amitabh Ranjan_SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/220. Amitabh Ranjan_SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/0azaRSoW7pU">https://youtu.be/0azaRSoW7pU</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFnFq">https://flic.kr/s/aHBqjzFnFq</a></font></u></td>
@@ -3098,7 +3098,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Deepak Mehta</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Head- BD, Indian Gas Exchange</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/221. Deepak Mehta_SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/221. Deepak Mehta_SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/0azaRSoW7pU">https://youtu.be/0azaRSoW7pU</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFnFq">https://flic.kr/s/aHBqjzFnFq</a></font></u></td>
@@ -3155,7 +3155,7 @@
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Debraj Bose</font></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Regional Sales Leader, Smart Energy Water (SEW)  </font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/225. Debraj_ SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/225. Debraj_ SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/0azaRSoW7pU">https://youtu.be/0azaRSoW7pU</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFnFq">https://flic.kr/s/aHBqjzFnFq</a></font></u></td>
@@ -3179,7 +3179,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Mandar Patil</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Manager, Solutions Architect, AWS India (AISPL)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/227. Mandar Patil_SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/227. Mandar Patil_SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/0azaRSoW7pU">https://youtu.be/0azaRSoW7pU</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFnFq">https://flic.kr/s/aHBqjzFnFq</a></font></u></td>
@@ -3191,7 +3191,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Anuradha Beri</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Managing Director, KIGG Systems India Pvt Ltd</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/228. Anuradha Beri_SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/228. Anuradha Beri_SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/0azaRSoW7pU">https://youtu.be/0azaRSoW7pU</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFnFq">https://flic.kr/s/aHBqjzFnFq</a></font></u></td>
@@ -3224,7 +3224,7 @@
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Dharmendra Tomar</font></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Associate Director- New Ventures-IoT Business Tata Communications</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/230. Dharemender Tomar_SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/230. Dharemender Tomar_SMART CITY GAS DISTRIBUTION.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/0azaRSoW7pU">https://youtu.be/0azaRSoW7pU</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFnFq">https://flic.kr/s/aHBqjzFnFq</a></font></u></td>
@@ -3329,7 +3329,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Ashok Kumar</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Director – NTIPRIT, DoT</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/237. Ashok Kumar_SMART COMMUNICATION SOLUTIONS.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/237. Ashok Kumar_SMART COMMUNICATION SOLUTIONS.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/0tbAm_xRlyo">https://youtu.be/0tbAm_xRlyo</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFrtT">https://flic.kr/s/aHBqjzFrtT</a></font></u></td>
@@ -3353,7 +3353,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Sanjeev Rana</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Head of Group - IT Infra &amp; Smart Grid Communications, TPDDL</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/239. Sanjeev Rana_SMART COMMUNICATION SOLUTIONS.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/239. Sanjeev Rana_SMART COMMUNICATION SOLUTIONS.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/0tbAm_xRlyo">https://youtu.be/0tbAm_xRlyo</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFrtT">https://flic.kr/s/aHBqjzFrtT</a></font></u></td>
@@ -3812,7 +3812,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Sanjay Kumar</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Honorary Advisor, Climate Parliament and Former Director General of Forests and Special Secretary to the Government of India </font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Special Address</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/272. Sanjay Kumar_Roundtable 3_Electric Cooking.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/272. Sanjay Kumar_Roundtable 3_Electric Cooking.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6dWWeRzyT4U">https://youtu.be/6dWWeRzyT4U</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFBed">https://flic.kr/s/aHBqjzFBed</a></font></u></td>
@@ -3836,7 +3836,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Simon Batchelor</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Modern Energy Cooking Services</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Theme Presentations</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/274. S Batchelor_ Roundtable 3_Electric Cooking.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/274. S Batchelor_ Roundtable 3_Electric Cooking.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6dWWeRzyT4U">https://youtu.be/6dWWeRzyT4U</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFBed">https://flic.kr/s/aHBqjzFBed</a></font></u></td>
@@ -3848,7 +3848,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Shalu Agrawal</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Senior Program Lead, CEEW</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Theme Presentations</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/275. Shalu Agarwal_Roundtable 3_Electric Cooking.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/275. Shalu Agarwal_Roundtable 3_Electric Cooking.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6dWWeRzyT4U">https://youtu.be/6dWWeRzyT4U</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFBed">https://flic.kr/s/aHBqjzFBed</a></font></u></td>
@@ -3920,7 +3920,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Vimal Kumar</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Modern Energy Cooking Services</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/281. Vimal Kumar_Roundtable 3_Electric Cooking.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/281. Vimal Kumar_Roundtable 3_Electric Cooking.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/6dWWeRzyT4U">https://youtu.be/6dWWeRzyT4U</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFBed">https://flic.kr/s/aHBqjzFBed</a></font></u></td>
@@ -4008,7 +4008,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Samer El Sayary</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Architect and Researcher on Outer Space Architecture</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/285. INSPIRATIONAL TALK _ Samer El Sayary.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/285. INSPIRATIONAL TALK _ Samer El Sayary.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/tNkJG5iI_d0">https://youtu.be/tNkJG5iI_d0</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFMdN">https://flic.kr/s/aHBqjzFMdN</a></font></u></td>
@@ -4044,7 +4044,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">KR Jyothilal</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Principal Secretary, Transport, Kerala</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Special Address</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/287. KR Jyothilal_ Green Hydrogen.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/287. KR Jyothilal_ Green Hydrogen.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/leFXysUvPjU">https://youtu.be/leFXysUvPjU</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFBPD">https://flic.kr/s/aHBqjzFBPD</a></font></u></td>
@@ -4068,7 +4068,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Praveen Cheekatmarla</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Senior Research Scientist, Oak Ridge National Laboratory, USA</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/289. Praveen Cheekatmarla_ Green Hydrogen.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/289. Praveen Cheekatmarla_ Green Hydrogen.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/leFXysUvPjU">https://youtu.be/leFXysUvPjU</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFBPD">https://flic.kr/s/aHBqjzFBPD</a></font></u></td>
@@ -4200,7 +4200,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Mirco Kildani</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Head of Global Commercial Support, ROW, Gridspertise (ENEL)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/299. Mirco Kildani_THEMATIC Session 7 DISRUPTIVE TECHNOLOGIES.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/299. Mirco Kildani_THEMATIC Session 7 DISRUPTIVE TECHNOLOGIES.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/VASp-5OyxCQ">https://youtu.be/VASp-5OyxCQ</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFBrc">https://flic.kr/s/aHBqjzFBrc</a></font></u></td>
@@ -4272,7 +4272,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Dharmendra Sharma</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Research Scientist, VTT, Finland</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/305. Dharmendra Sharma_THEMATIC Session 7 DISRUPTIVE TECHNOLOGIES.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/305. Dharmendra Sharma_THEMATIC Session 7 DISRUPTIVE TECHNOLOGIES.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/VASp-5OyxCQ">https://youtu.be/VASp-5OyxCQ</a></font></u></td>
 		
 		<td  align="left" valign=top><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFBrc">https://flic.kr/s/aHBqjzFBrc</a></font></u></td>
@@ -4380,7 +4380,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">NK Shrivastava</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Director, HLTC </font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Chair &amp; Moderator</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/312. Liveline Maintanance - NK Shrivastava.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/312. Liveline Maintanance - NK Shrivastava.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/SJTgEeS-aRA</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFFhj">https://flic.kr/s/aHBqjzFEmf</a></font></u></td>
@@ -4392,7 +4392,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Timothy Dean Self</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Vice President, ALTEC, USA</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Theme Presentations</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/313. Liveline Maintanance - Timothy Dean Self.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/313. Liveline Maintanance - Timothy Dean Self.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/SJTgEeS-aRA</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFFhj">https://flic.kr/s/aHBqjzFEmf</a></font></u></td>
@@ -4404,7 +4404,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Umesh Kumar Gupta</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Vice President, Protection, BRPL</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/314. Liveline Maintanace - Umesh Gupta.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/314. Liveline Maintanace - Umesh Gupta.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/SJTgEeS-aRA</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFFhj">https://flic.kr/s/aHBqjzFEmf</a></font></u></td>
@@ -4416,7 +4416,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">BN Krishnamurthy</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">General Manager- DAS and TIC, BESCOM</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/315. Liveline Maintanance - BN Krishnamurthy.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/315. Liveline Maintanance - BN Krishnamurthy.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1">https://youtu.be/SJTgEeS-aRA</font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFFhj">https://flic.kr/s/aHBqjzFEmf</a></font></u></td>
@@ -4498,7 +4498,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Bhupesh Chowdary</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">President, JMC Projects</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/320. Bhupesh Chowdhary_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/320. Bhupesh Chowdhary_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/OuFDCp8n2xw">https://youtu.be/OuFDCp8n2xw</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFFhj">https://flic.kr/s/aHBqjzFFhj</a></font></u></td>
@@ -4510,7 +4510,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Jayesh Suratwala</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Lead Digital Initiatives, Forbes Marshal Pvt Ltd</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/321. Jayesh Suratwala_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/321. Jayesh Suratwala_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/OuFDCp8n2xw">https://youtu.be/OuFDCp8n2xw</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFFhj">https://flic.kr/s/aHBqjzFFhj</a></font></u></td>
@@ -4534,7 +4534,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Amit Rajput</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Business Development Manager, Nanostone Water  </font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/323. Amit Rajput_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/323. Amit Rajput_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/OuFDCp8n2xw">https://youtu.be/OuFDCp8n2xw</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFFhj">https://flic.kr/s/aHBqjzFFhj</a></font></u></td>
@@ -4568,7 +4568,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Venkatesh Jayaraman</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Chief Operating Officer, Bioxgreen Technologies Pvt Ltd</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/325. Venkatesh.J_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/325. Venkatesh.J_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/OuFDCp8n2xw">https://youtu.be/OuFDCp8n2xw</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFFhj">https://flic.kr/s/aHBqjzFFhj</a></font></u></td>
@@ -4580,7 +4580,7 @@
 		<td  align="left" valign=middle><font bgcolor="#FFFFFF">Nitin Bassi</font></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Program Lead, (Water) Council on Energy Environment and Water (CEEW)</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/326. Nitin Bassi_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/326. Nitin Bassi_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/OuFDCp8n2xw">https://youtu.be/OuFDCp8n2xw</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFFhj">https://flic.kr/s/aHBqjzFFhj</a></font></u></td>
@@ -4592,7 +4592,7 @@
 		<td  align="left" valign=bottom><b><font bgcolor="#FFFFFF">Aabha Sargaonkar</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Sr Principal Scientist, National Environmental Engineering Research Institute</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/327. Aabha_Presentation_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/327. Aabha_Presentation_Smart Water Distribution.pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/OuFDCp8n2xw">https://youtu.be/OuFDCp8n2xw</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFFhj">https://flic.kr/s/aHBqjzFFhj</a></font></u></td>
@@ -4695,7 +4695,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Lalit Wasan </font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Tata Power Delhi Distribution Limited</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/333. Lalit Wasan _Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/333. Lalit Wasan _Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4707,7 +4707,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Ritu </font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">TATA POWER – DDL</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/334. Ritu _Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/334. Ritu _Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4719,7 +4719,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Robin Giri </font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">The Tata Power Company Ltd.</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/335. Robin Giri  _Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/335. Robin Giri  _Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4731,7 +4731,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Mahesh Patankar </font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">MP Ensystems</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/336. Mahesh Patankar _Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/336. Mahesh Patankar _Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4743,7 +4743,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Amberish Amolraj Gaekwad</font></b></td>
 		<td  align="left" valign=middle><font bgcolor="#FFFFFF">Tata Power Company Ltd.</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/337. Amberish Amolraj Gaekwad_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/337. Amberish Amolraj Gaekwad_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4755,7 +4755,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Laxmi Patel</font></b></td>
 		<td  align="left" valign=middle><font bgcolor="#FFFFFF">Tata Power Company Ltd.</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/338. Laxmi Patel_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/338. Laxmi Patel_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4767,7 +4767,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Swapnil Rao</font></b></td>
 		<td  align="left" valign=middle><font bgcolor="#FFFFFF">TATA POWER</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/339. Swapnil Rao_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/339. Swapnil Rao_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4779,7 +4779,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Nishant Singh</font></b></td>
 		<td  align="left" valign=middle><font bgcolor="#FFFFFF">Tata Power Delhi Distribution Limited</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/340. Nishant Singh_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/340. Nishant Singh_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4791,7 +4791,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Vinod Kumar Agrawal</font></b></td>
 		<td  align="left" valign=middle><font bgcolor="#FFFFFF">Integrated Research and Action for Development</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/341. Vinod Kumar Agrawal_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/341. Vinod Kumar Agrawal_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4824,7 +4824,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Evaneet Kaur</font></b></td>
 		<td  align="left" valign=middle><font bgcolor="#FFFFFF">Sterlite Power Transmission Ltd.</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/343. Evaneet Kaur_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/343. Evaneet Kaur_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4836,7 +4836,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Mohnish Makwana</font></b></td>
 		<td  align="left" valign=middle><font bgcolor="#FFFFFF">IRADe</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/344. Mohnish Makwana_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/344. Mohnish Makwana_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4869,7 +4869,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Florian Kind</font></b></td>
 		<td  align="left" valign=middle><font bgcolor="#FFFFFF">Panitek Power Private Limited</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/346. Florian Kind_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/346. Florian Kind_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -4902,7 +4902,7 @@
 		<td  align="left" valign=middle><b><font bgcolor="#FFFFFF">Rabindra Nath Sen</font></b></td>
 		<td  align="left" valign=middle><font bgcolor="#FFFFFF">Former Chairman WBERC</font></td>
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/348. Rabindra Nath Sen_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/348. Rabindra Nath Sen_Presentation on Technical Paper Part 2.pdf" target="_blank">View/Download</a></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://youtu.be/ii0KdvOVWu4">https://youtu.be/ii0KdvOVWu4</a></font></u></td>
 		
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFErf">https://flic.kr/s/aHBqjzFErf</a></font></u></td>
@@ -5048,7 +5048,7 @@
 		<td  align="left" valign=top><b><font bgcolor="#FFFFFF">OD Naidu</font></b></td>
 		<td  align="left" valign=top><font bgcolor="#FFFFFF">Global R&amp;D - APTSPLU, Hitachi Energy India Limited</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF">Speaker</font></b></td>
-		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/public/uploads/presentations/358. OD Naidu_URBAN AIR MOBILITY SYSTEMS (UAM).pdf" target="_blank">View/Download</a></font></b></td>
+		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><a href="http://isuw.in/uploads/presentations/358. OD Naidu_URBAN AIR MOBILITY SYSTEMS (UAM).pdf" target="_blank">View/Download</a></font></b></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><b><font bgcolor="#FFFFFF"><br></font></b></td>
 	
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjzFGnd">https://flic.kr/s/aHBqjzFGnd</a></font></u></td>

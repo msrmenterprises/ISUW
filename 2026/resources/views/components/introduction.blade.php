@@ -7,7 +7,7 @@
 <!--<h2 style="color:#f60;"> <br><strong>About ISUW</strong> </h2>-->
 <div class="k_cheading">
 		<h1>About <span class="k_greencolor">India Smart Utility Week (ISUW)</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <p style="text-align:justify;">India has set the Net Zero target for 2070. Electrification being the key strategy for decarbonization,
 for India to be Net Aero by 2070, the power sector in India should target to become Net Zero by

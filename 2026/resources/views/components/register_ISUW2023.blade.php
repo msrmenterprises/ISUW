@@ -8,15 +8,15 @@
 <style type="text/css">.diff_ss1{margin-left:30px;}</style>
 <div class="k_cheading"> 
 		<h1>INDIA SMART UTILITY WEEK <span class="k_greencolor">2023 Registration</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<!--<marquee>	Due to technical error in the server,  we are unable to process your registration at the moment.  Please check this page again in a few hours for registration. You may also write an email to us on email id <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> for offline registration and payment. Thank you for your patience and we regret the inconvenience.</marquee>
 -->
-	<img src="https://isuw.in/public/uploads/images/ISUW 2023 New Banner a.jpg" height="500px;"></img>
+	<img src="https://isuw.in/uploads/images/ISUW 2023 New Banner a.jpg" height="500px;"></img>
 	<p></p>
 	<!--<div class="k_cheading">
 	<a href="https://forms.gle/d5quZr9qPrd5CnXw5">
-	<img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
+	<img src="https://isuw.in/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
 	</a>
 	</div>-->
 <li style="list-style:none; text-align:center"><a href="https://indiattitude.eventsair.com/isuw-2023---indian/indian-registrations" target="_blank" class="getstartedd ">Indian Registration</a></li>

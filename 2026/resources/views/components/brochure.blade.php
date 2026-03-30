@@ -9,7 +9,7 @@
 <!--<h2 style="color: #f60;margin-left: 55px;">ISUW 2021 Brochure</h2>-->
 <div class="k_cheading">
 		<h1>ISUW 2022<span class="k_greencolor"> Brochure</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
 	  <p style="text-align:center; font-size:16px;"><a href="https://isuw.in/public/images/ISUW2026Brochure.pdf?id=2" class="getstartedd ">Download Brochure</a></p>

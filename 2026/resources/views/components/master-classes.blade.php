@@ -10,7 +10,7 @@
  <div class="k_cheading">
 		<h1>ISUW 2026 <span class="k_greencolor">Master Classes</span> </h1>
 		<h4 style="text-align:center;">10th March 2026</h4>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<div class="accordion accordion-flush" id="accordionFlushExample">
 <p></p>
@@ -37,7 +37,7 @@
 
       <!-- <div class="k_cheading">
         <a href="https://www.isuw.in/register">
-        <img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center"></img>
+        <img src="https://isuw.in/uploads/images/register-now.PNG" class="center"></img>
         </a>
         <p>*Registration in advance is Mandatory</p>
       </div> -->
@@ -54,7 +54,7 @@
 <!-- <div class="k_cheading">
 		<h1>ISUW 2023 <span class="k_greencolor">MASTER CLASSES</span> </h1>
 		<h4 style="text-align:center;">28 FEBRUARY 2023 (TUESDAY) </h4>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">

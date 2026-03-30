@@ -8,29 +8,29 @@
 
 				 <div class="k_cheading">
 		<h1>Media and<span class="k_greencolor"> Marketing Partners</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
 <div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><a href="http://www.powerline.net.in" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/powerline.png" alt=""  ></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="http://www.powerline.net.in" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/uploads/partner/powerline.png" alt=""  ></a></div></div>
 </div>
 
 				 <div class="k_cheading">
 		<h1>Supporting Media<span class="k_greencolor"> Partner of ISUW 2021</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
 
 <div class="col-lg-3"><div class="logo-div"><a href="https://plugvolt.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="http://www.isuw.in/beta/wp-content/uploads/2021/01/PlugvoltRounded-scaled.jpg" alt=""  ></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.eletimes.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="http://www.isuw.in/beta/wp-content/uploads/2021/02/ET-10-Yrs-Logo-New-1.png" alt=""  height="63"></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.devdiscourse.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="http://www.isuw.in/beta/wp-content/uploads/2020/02/devdiscourse_logo.jpg" alt=""  ></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="http://www.energetica-india.net/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/energetica.png" alt=""  ></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="http://www.energetica-india.net/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/uploads/partner/energetica.png" alt=""  ></a></div></div>
 
 
 <div class="col-lg-3"><div class="logo-div"><a href="https://solarquarter.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="http://www.isuw.in/beta/wp-content/uploads/2021/02/SolarQuarter_LogoVertical_HighRes-1-1.png" alt="" ></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="https://www.constructionworld.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/cw.jpg" alt="" ></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="https://mercomindia.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/Mercom-India-Logo.jpg" alt=""  ></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="http://infrastructuretoday.co.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/public/uploads/partner/infra.jpg" alt=""  ></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="https://www.constructionworld.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/uploads/partner/cw.jpg" alt="" ></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="https://mercomindia.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/uploads/partner/Mercom-India-Logo.jpg" alt=""  ></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="http://infrastructuretoday.co.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/uploads/partner/infra.jpg" alt=""  ></a></div></div>
 
 
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.mojo4industry.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="http://www.isuw.in/beta/wp-content/uploads/2021/02/mojo-indusry.jpg" alt="" ></a></div></div>

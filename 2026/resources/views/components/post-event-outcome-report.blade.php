@@ -9,7 +9,7 @@
 <!--<h2 style="color: #f60;margin-left: 55px;">ISUW 2021 Brochure</h2>-->
 <div class="k_cheading">
 		<h1>DUM<span class="k_greencolor"> Post Event Reports</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
 	  <p style="text-align:center; font-size:16px;"><a href="/public/images/India Smart Utility Week 2022_Digital.pdf" class="getstartedd ">DUM 2023 Post Event Report</a></p>

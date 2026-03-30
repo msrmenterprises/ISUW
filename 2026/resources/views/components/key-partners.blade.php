@@ -114,29 +114,29 @@
 
             <div class="k_cheading">
                 <h1>ISUW 2026 <span class="k_greencolor">KEY PARTNERS</span></h1>
-                <img src="/public/uploads/images/kborder_bottom.png" alt="">
+                <img src="/uploads/images/kborder_bottom.png" alt="">
             </div>
 
             <h5 class="section-heading">Host Utilities</h5>
             <div class="partners-grid grid-4">
                 <div class="logo-card">
                     <a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="BRPL">
+                        <img src="https://www.isuw.in/uploads/utility/1641110129.png" alt="BRPL">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="BYPL">
+                        <img src="https://www.isuw.in/uploads/utility/1641110101.png" alt="BYPL">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power">
+                        <img src="https://www.isuw.in/uploads/utility/1641110147.png" alt="Tata Power">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="Tata Power DDL">
+                        <img src="https://www.isuw.in/uploads/utility/1641110211.png" alt="Tata Power DDL">
                     </a>
                 </div>
                 <div class="logo-card">
@@ -177,7 +177,7 @@
                 </div>
                 <div class="logo-card">
                     <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
+                        <img src="http://isuw.in/uploads/partner/UK-Gov.png" alt="FCDO UK Government">
                     </a>
                 </div>
                 <div class="logo-card">
@@ -196,7 +196,7 @@
                 </div>
                 <div class="logo-card">
                     <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
+                        <img src="https://www.isuw.in/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
                     </a>
                 </div>
             </div>
@@ -252,7 +252,7 @@
                 </div>
                 <div class="logo-card">
                     <a href="https://www.phoenixcontact.com/en-in/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/Phoenix Contact.jpg" alt="Phoenix Contact India">
+                        <img src="https://www.isuw.in/uploads/partner/Phoenix Contact.jpg" alt="Phoenix Contact India">
                     </a>
                 </div>
             </div>
@@ -261,24 +261,24 @@
 
             <div class="k_cheading">
                 <h1>ISUW 2025 <span class="k_greencolor">KEY PARTNERS</span></h1>
-                <img src="/public/uploads/images/kborder_bottom.png" alt="">
+                <img src="/uploads/images/kborder_bottom.png" alt="">
             </div>
 
             <h5 class="section-heading">Host Utilities</h5>
             <div class="partners-grid grid-4">
                 <div class="logo-card">
                     <a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="BYPL">
+                        <img src="https://www.isuw.in/uploads/utility/1641110101.png" alt="BYPL">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="BRPL">
+                        <img src="https://www.isuw.in/uploads/utility/1641110129.png" alt="BRPL">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power">
+                        <img src="https://www.isuw.in/uploads/utility/1641110147.png" alt="Tata Power">
                     </a>
                 </div>
                 <div class="logo-card">
@@ -292,7 +292,7 @@
             <div class="partners-grid grid-3">
                 <div class="logo-card">
                     <a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="GE Vernova">
+                        <img src="https://www.isuw.in/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="GE Vernova">
                     </a>
                 </div>
                 <div class="logo-card">
@@ -311,7 +311,7 @@
                 </div>
                 <div class="logo-card">
                     <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
+                        <img src="https://www.isuw.in/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
                     </a>
                 </div>
             </div>
@@ -339,7 +339,7 @@
             <div class="partners-grid grid-3">
                 <div class="logo-card">
                     <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="UK Government">
+                        <img src="http://isuw.in/uploads/partner/UK-Gov.png" alt="UK Government">
                     </a>
                 </div>
                 <div class="logo-card">
@@ -441,29 +441,29 @@
 
             <div class="k_cheading">
                 <h1>ISUW 2024 <span class="k_greencolor">KEY PARTNERS</span></h1>
-                <img src="/public/uploads/images/kborder_bottom.png" alt="">
+                <img src="/uploads/images/kborder_bottom.png" alt="">
             </div>
 
             <h5 class="section-heading">Host Utilities</h5>
             <div class="partners-grid grid-4">
                 <div class="logo-card">
                     <a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power">
+                        <img src="https://www.isuw.in/uploads/utility/1641110147.png" alt="Tata Power">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="Tata Power DDL">
+                        <img src="https://www.isuw.in/uploads/utility/1641110211.png" alt="Tata Power DDL">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="BYPL">
+                        <img src="https://www.isuw.in/uploads/utility/1641110101.png" alt="BYPL">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="BRPL">
+                        <img src="https://www.isuw.in/uploads/utility/1641110129.png" alt="BRPL">
                     </a>
                 </div>
             </div>
@@ -473,7 +473,7 @@
                 <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://uppcl.org/uppcl/hi/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/utility/UPPCL.png" alt="UPPCL">
+                        <img src="https://www.isuw.in/uploads/utility/UPPCL.png" alt="UPPCL">
                     </a>
                 </div>
                 <div class="logo-card"></div>
@@ -488,7 +488,7 @@
                 </div>
                 <div class="logo-card">
                     <a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="GE Vernova">
+                        <img src="https://www.isuw.in/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="GE Vernova">
                     </a>
                 </div>
             </div>
@@ -498,7 +498,7 @@
                 <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.larsentoubro.com/corporate/products-and-services/construction/power-transmission-distribution/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/exhibitor/lt.png" alt="L&T">
+                        <img src="http://isuw.in/uploads/exhibitor/lt.png" alt="L&T">
                     </a>
                 </div>
                 <div class="logo-card"></div>
@@ -509,7 +509,7 @@
                 <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.hitachienergy.com/in/en" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/HITACHI.PNG" alt="Hitachi Energy">
+                        <img src="https://www.isuw.in/uploads/partner/HITACHI.PNG" alt="Hitachi Energy">
                     </a>
                 </div>
                 <div class="logo-card"></div>
@@ -520,7 +520,7 @@
                 <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://trilliant.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/trilliant.png" alt="Trilliant">
+                        <img src="https://www.isuw.in/uploads/partner/trilliant.png" alt="Trilliant">
                     </a>
                 </div>
                 <div class="logo-card"></div>
@@ -531,7 +531,7 @@
                 <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.nedo.go.jp/english/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/images/nedo-logo-2B306DA519-seeklogo.com.png" alt="NEDO">
+                        <img src="https://www.isuw.in/uploads/images/nedo-logo-2B306DA519-seeklogo.com.png" alt="NEDO">
                     </a>
                 </div>
                 <div class="logo-card"></div>
@@ -556,7 +556,7 @@
                 </div>
                 <div class="logo-card">
                     <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
+                        <img src="http://isuw.in/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
                     </a>
                 </div>
             </div>
@@ -565,37 +565,37 @@
             <div class="partners-grid grid-3">
                 <div class="logo-card">
                     <a href="https://www.giz.de/en/worldwide/368.html" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/exhibitor/giz.png" alt="GIZ">
+                        <img src="http://isuw.in/uploads/exhibitor/giz.png" alt="GIZ">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.cecp-eu.in/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/EU-FIRST.PNG" alt="EU">
+                        <img src="http://isuw.in/uploads/partner/EU-FIRST.PNG" alt="EU">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.cecp-eu.in/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/EU-SECOND.jpg" alt="EU">
+                        <img src="http://isuw.in/uploads/partner/EU-SECOND.jpg" alt="EU">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="UK Government">
+                        <img src="http://isuw.in/uploads/partner/UK-Gov.png" alt="UK Government">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.indiabrazilchamber.org/home" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/I-B CoC.png" alt="India Brazil">
+                        <img src="http://isuw.in/uploads/partner/I-B CoC.png" alt="India Brazil">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.smartgrid.com.br/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/LATAM.png" alt="Smart Grid">
+                        <img src="http://isuw.in/uploads/partner/LATAM.png" alt="Smart Grid">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://sarepenergy.net/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/usaid.png" alt="USAID">
+                        <img src="http://isuw.in/uploads/partner/usaid.png" alt="USAID">
                     </a>
                 </div>
             </div>
@@ -604,37 +604,37 @@
             <div class="partners-grid grid-3">
                 <div class="logo-card">
                     <a href="https://www.itron.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/itron.png" alt="Itron">
+                        <img src="http://isuw.in/uploads/partner/itron.png" alt="Itron">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.auto-grid.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/autogrid.png" alt="AutoGrid">
+                        <img src="http://isuw.in/uploads/partner/autogrid.png" alt="AutoGrid">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.wirepas.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/wirepas.png" alt="Wirepas">
+                        <img src="http://isuw.in/uploads/partner/wirepas.png" alt="Wirepas">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.cuculus.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/exhibitor/1676736585.png" alt="Cuculus">
+                        <img src="http://isuw.in/uploads/exhibitor/1676736585.png" alt="Cuculus">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.tekuncorked.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/Tekuncorked.jpg" alt="Tekuncorked">
+                        <img src="http://isuw.in/uploads/partner/Tekuncorked.jpg" alt="Tekuncorked">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.trillectric.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/exhibitor/Trillectric.png" alt="Trillectric">
+                        <img src="http://isuw.in/uploads/exhibitor/Trillectric.png" alt="Trillectric">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://kimbal.io/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/Tagline logo.png" alt="Kimbal">
+                        <img src="http://isuw.in/uploads/partner/Tagline logo.png" alt="Kimbal">
                     </a>
                 </div>
             </div>
@@ -644,7 +644,7 @@
                 <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://ulse.org/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/UL Standards.png" alt="ULSE">
+                        <img src="http://isuw.in/uploads/partner/UL Standards.png" alt="ULSE">
                     </a>
                 </div>
                 <div class="logo-card"></div>
@@ -655,7 +655,7 @@
                 <div class="logo-card"></div>
                 <div class="logo-card">
                     <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="UK Government">
+                        <img src="http://isuw.in/uploads/partner/UK-Gov.png" alt="UK Government">
                     </a>
                 </div>
                 <div class="logo-card"></div>
@@ -665,87 +665,87 @@
             <div class="partners-grid grid-3">
                 <div class="logo-card">
                     <a href="https://recindia.nic.in/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/recindia.png" alt="REC India">
+                        <img src="https://www.isuw.in/uploads/partner/recindia.png" alt="REC India">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.cdac.in/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/CDAC.jpg" alt="C-DAC">
+                        <img src="https://www.isuw.in/uploads/partner/CDAC.jpg" alt="C-DAC">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.giz.de/en/worldwide/368.html" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/exhibitor/giz.png" alt="GIZ">
+                        <img src="http://isuw.in/uploads/exhibitor/giz.png" alt="GIZ">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.iexindia.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://isuw.in/public/uploads/partner/el.png" alt="Ministry of Power">
+                        <img src="https://isuw.in/uploads/partner/el.png" alt="Ministry of Power">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.cecp-eu.in/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/EU-FIRST.PNG" alt="EU">
+                        <img src="http://isuw.in/uploads/partner/EU-FIRST.PNG" alt="EU">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.cecp-eu.in/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/EU-SECOND.jpg" alt="EU">
+                        <img src="http://isuw.in/uploads/partner/EU-SECOND.jpg" alt="EU">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://sarepenergy.net/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/usaid.png" alt="USAID">
+                        <img src="http://isuw.in/uploads/partner/usaid.png" alt="USAID">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.intellismartinfra.in/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/intellismart.PNG" alt="IntelliSmart">
+                        <img src="http://isuw.in/uploads/partner/intellismart.PNG" alt="IntelliSmart">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.seci.co.in/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/download.png" alt="SECI">
+                        <img src="http://isuw.in/uploads/partner/download.png" alt="SECI">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.go15.org/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/GO15_LOGO-copie.png" alt="GO15">
+                        <img src="http://isuw.in/uploads/partner/GO15_LOGO-copie.png" alt="GO15">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.hitachienergy.com/in/en" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/HITACHI.PNG" alt="Hitachi">
+                        <img src="https://www.isuw.in/uploads/partner/HITACHI.PNG" alt="Hitachi">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://cercind.gov.in/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/cerc.PNG" alt="CERC">
+                        <img src="http://isuw.in/uploads/partner/cerc.PNG" alt="CERC">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://beeindia.gov.in/en" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/bureo-new.png" alt="BEE">
+                        <img src="http://isuw.in/uploads/partner/bureo-new.png" alt="BEE">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.apuea.org/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/exhibitor/e-notes_p5_apuea-logo_may17.png" alt="APUEA">
+                        <img src="https://www.isuw.in/uploads/exhibitor/e-notes_p5_apuea-logo_may17.png" alt="APUEA">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/UK-Gov.png" alt="UK Government">
+                        <img src="http://isuw.in/uploads/partner/UK-Gov.png" alt="UK Government">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://cdri.world/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/CDRI_Logo.jpg" alt="CDRI">
+                        <img src="http://isuw.in/uploads/partner/CDRI_Logo.jpg" alt="CDRI">
                     </a>
                 </div>
                 <div class="logo-card">
                     <a href="https://www.pfcindia.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="http://isuw.in/public/uploads/partner/1200px-Power_Finance_Corporation_Logo.svg (1).png" alt="PFC">
+                        <img src="http://isuw.in/uploads/partner/1200px-Power_Finance_Corporation_Logo.svg (1).png" alt="PFC">
                     </a>
                 </div>
             </div>
@@ -759,7 +759,7 @@
                 </div>
                 <div class="logo-card">
                     <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
-                        <img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
+                        <img src="https://www.isuw.in/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
                     </a>
                 </div>
             </div>

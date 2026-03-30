@@ -13,7 +13,7 @@
 <div class="k_cheading">
 		<h1>Call for Technical <span class="k_greencolor">Papers Abstracts</span><br/>
 		India Smart Utility<span class="k_greencolor"> Week (ISUW) 2021</span></h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <!--<h2 style="color: #f60; text-align: center;">Call for Technical Papers Abstracts</h2>
 <h2 style="color: #f60; text-align: center;">India Smart Utility Week (ISUW) 2022</h2>-->

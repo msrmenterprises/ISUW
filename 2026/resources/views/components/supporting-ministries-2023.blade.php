@@ -7,33 +7,33 @@
 
 <div class="k_cheading">
 		<h1>ISUW 2023 <span class="k_greencolor">Supporting Ministries</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 	<div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><p><a href="https://mnre.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MNRE (1).jpg" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div></div>
+<div class="col-lg-3"><div class="logo-div"><p><a href="https://mnre.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/uploads/ministries/MNRE (1).jpg" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div></div>
 <div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><p><a href="https://niti.gov.in/" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/NITI Aayog.jpg" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
+<div class="col-lg-3"><div class="logo-div"><p><a href="https://niti.gov.in/" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/uploads/ministries/NITI Aayog.jpg" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>
 <div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><p><a href="https://mea.gov.in/index.htm" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/mea 1.jpg" alt="Ministry of Power" style="width:219px; max-height:170px;"  /></a></p></div></div>
+<div class="col-lg-3"><div class="logo-div"><p><a href="https://mea.gov.in/index.htm" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/uploads/ministries/mea 1.jpg" alt="Ministry of Power" style="width:219px; max-height:170px;"  /></a></p></div></div>
 </div>
 <div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/cea 1.jpg" alt="Ministry of Power" style="width:219px; max-height:170px;"  /></a></p></div></div>
+<div class="col-lg-3"><div class="logo-div"><p><a href="https://cea.nic.in/?lang=en" target="_blank"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/uploads/ministries/cea 1.jpg" alt="Ministry of Power" style="width:219px; max-height:170px;"  /></a></p></div></div>
 </div>
 <div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><p><a href="http://mowr.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/Jal Shakti.jpg" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
+<div class="col-lg-3"><div class="logo-div"><p><a href="http://mowr.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/uploads/ministries/Jal Shakti.jpg" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>
 <div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><p><a href="https://www.meity.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/ministry of electronics.jpg" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
+<div class="col-lg-3"><div class="logo-div"><p><a href="https://www.meity.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/uploads/ministries/ministry of electronics.jpg" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>
 <div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><p><a href="https://moef.gov.in/en/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/MOEFC SIZE.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
+<div class="col-lg-3"><div class="logo-div"><p><a href="https://moef.gov.in/en/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/uploads/ministries/MOEFC SIZE.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>
 <div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><p><a href="https://heavyindustries.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/Ministryof Heavy Industries.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
+<div class="col-lg-3"><div class="logo-div"><p><a href="https://heavyindustries.gov.in/"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/uploads/ministries/Ministryof Heavy Industries.png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>
 <div class="row justify-content-center">
-<div class="col-lg-3"><div class="logo-div"><p><a href="https://smartnet.niua.org/39-9cc9844b-1b5e-4ea6-9303-719caa5017d8"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/public/uploads/ministries/Smart-City (1).png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
+<div class="col-lg-3"><div class="logo-div"><p><a href="https://smartnet.niua.org/39-9cc9844b-1b5e-4ea6-9303-719caa5017d8"><img class="aligncenter  wp-image-38077" src="http://www.isuw.in/uploads/ministries/Smart-City (1).png" alt="Ministry of Commerce" style="width:219px; max-height:170px;" /></a></p></div></div>
 </div>
 </div>
 <!--<div class="key-con"> </div>

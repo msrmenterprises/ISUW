@@ -7,7 +7,7 @@
 
 <div class="k_cheading">
 		<h1>ISUW<span class="k_greencolor"> PRESS RELEASE</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <table cellspacing="0" border="0">
 	<colgroup width="84"></colgroup>
@@ -29,16 +29,16 @@
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="120" align="center" valign=top sdval="1" sdnum="1033;"><font size=4 color="#000000">1</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000">ISGF announces the 10th edition of India Smart Utility Week 2024, an International Conference and Exhibition on Smart Energy and Smart Mobility from 12 - 16 March 2024</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=top sdval="44215" sdnum="1033;1033;M/D/YYYY"><font color="#000000">06/02/2024</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="http://www.isuw.in/public/uploads/images/ABOUT ISUW24.pdf" target="_blank">PRESS RELEASE ISUW MARCH 2024</a></font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="http://www.isuw.in/public/uploads/images/ABOUT ISUW24.pdf" target="_blank">View/</a><a href="http://www.isuw.in/public/uploads/images/ABOUT ISUW24.pdf" target="_blank">Download</a></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="http://www.isuw.in/uploads/images/ABOUT ISUW24.pdf" target="_blank">PRESS RELEASE ISUW MARCH 2024</a></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="http://www.isuw.in/uploads/images/ABOUT ISUW24.pdf" target="_blank">View/</a><a href="http://www.isuw.in/uploads/images/ABOUT ISUW24.pdf" target="_blank">Download</a></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=top><font color="#000000">English</font></td>
 	</tr>
 	<tr>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="120" align="center" valign=top sdval="1" sdnum="1033;"><font size=4 color="#000000">2</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000">8th India Smart Utility Week 2023 – An Outstanding International Conference and Exhibition held virtually with Participants from Sixty-One Countries </font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=top sdval="44215" sdnum="1033;1033;M/D/YYYY"><font color="#000000">14/03/2023</font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="http://www.isuw.in/public/uploads/images/PRESS RELEASE _ISUW MARCH 2022 Final.pdf" target="_blank">PRESS RELEASE ISUW MARCH 2023</a></font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="http://www.isuw.in/public/uploads/images/PRESS RELEASE _ISUW MARCH 2022 Final.pdf" target="_blank">View/</a><a href="http://www.isuw.in/public/uploads/images/PRESS RELEASE _ISUW MARCH 2022 Final.pdf" target="_blank">Download</a></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="http://www.isuw.in/uploads/images/PRESS RELEASE _ISUW MARCH 2022 Final.pdf" target="_blank">PRESS RELEASE ISUW MARCH 2023</a></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="http://www.isuw.in/uploads/images/PRESS RELEASE _ISUW MARCH 2022 Final.pdf" target="_blank">View/</a><a href="http://www.isuw.in/uploads/images/PRESS RELEASE _ISUW MARCH 2022 Final.pdf" target="_blank">Download</a></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=top><font color="#000000">English</font></td>
 	</tr>
 	<tr>
@@ -46,7 +46,7 @@
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000">Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th edition of India Smart Utility Week 2022 </font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=top sdval="44215" sdnum="1033;1033;M/D/YYYY"><font color="#000000">2/02/2022</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="https://ians.in/prnewswiredetail/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-/prn-1153336.html" target="_blank">https://ians.in/prnewswiredetail/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-/prn-1153336.html</a></font></td>
-		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="http://www.isuw.in/public/uploads/images/PRESS RELEASE _ISUW FEB 2022.pdf" target="_blank">View/</a><a href="http://www.isuw.in/public/uploads/images/PRESS RELEASE _ISUW FEB 2022.pdf" target="_blank">Download</a></font></td>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=top><font color="#000000"><a href="http://www.isuw.in/uploads/images/PRESS RELEASE _ISUW FEB 2022.pdf" target="_blank">View/</a><a href="http://www.isuw.in/uploads/images/PRESS RELEASE _ISUW FEB 2022.pdf" target="_blank">Download</a></font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" align="center" valign=top><font color="#000000">English</font></td>
 	</tr>
 	<tr>

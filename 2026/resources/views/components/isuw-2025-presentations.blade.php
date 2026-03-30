@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW<span class="k_greencolor"> 2025 Presentations</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <style type="text/css">
 	table {
@@ -1150,7 +1150,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">OCA Ambassador and Advisor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ISGF</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/7. Girish Ghatikar - OCPP Technical Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/7. Girish Ghatikar - OCPP Technical Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/7. Girish Ghatikar - OCPP Technical Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/7. Girish Ghatikar - OCPP Technical Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBij76">https://flic.kr/s/aHBqjBij76</a></font></u></td>
 	</tr>
@@ -1163,7 +1163,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Open Charge Alliance (OCA)</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/8. Lonneke - OCPP Technical Workshop and Training.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/8. Lonneke - OCPP Technical Workshop and Training.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/8. Lonneke - OCPP Technical Workshop and Training.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/8. Lonneke - OCPP Technical Workshop and Training.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBij76">https://flic.kr/s/aHBqjBij76</a></font></u></td>
 	</tr>
@@ -1207,7 +1207,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Deputy General Manager - AED</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ARAI</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/12. Sreekumar U - OCPP Technical Workshop and Training.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/12. Sreekumar U - OCPP Technical Workshop and Training.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/12. Sreekumar U - OCPP Technical Workshop and Training.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/12. Sreekumar U - OCPP Technical Workshop and Training.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBij76">https://flic.kr/s/aHBqjBij76</a></font></u></td>
 	</tr>
@@ -1250,7 +1250,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Founder and President</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Modern Grid Solutions</font></td>
 		<td  align="left" valign=top><font color="#000000">Tutor</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/15. Mani Vadari_Master Class on Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/15. Mani Vadari_Master Class on Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/15. Mani Vadari_Master Class on Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/15. Mani Vadari_Master Class on Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBimtp">https://flic.kr/s/aHBqjBimtp</a></font></u></td>
 	</tr>
@@ -1270,7 +1270,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Fellow- CSEP</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Founding Advisor-ISGF</font></td>
 		<td  align="left" valign=top><font color="#000000">Tutor</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/17. Rahul Tongia_Master Class on Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/17. Rahul Tongia_Master Class on Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/17. Rahul Tongia_Master Class on Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/17. Rahul Tongia_Master Class on Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBimtp">https://flic.kr/s/aHBqjBimtp</a></font></u></td>
 	</tr>
@@ -1290,7 +1290,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Manager-Advanced Grid Operations &amp; Technology</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">PECO, an Exelon Company, USA</font></td>
 		<td  align="left" valign=top><font color="#000000">Tutor</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/19. Glenn Pritchard_Master Class on Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/19. Glenn Pritchard_Master Class on Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/19. Glenn Pritchard_Master Class on Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/19. Glenn Pritchard_Master Class on Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBimtp">https://flic.kr/s/aHBqjBimtp</a></font></u></td>
 	</tr>
@@ -1390,7 +1390,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Director – Standardization, Policy and Regulation</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">SESEI</font></td>
 		<td  align="left" valign=top><font color="#000000"><br></font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/27. Dinesh Sharma_8th IEC - IEEE Smart Energy Standardization.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/27. Dinesh Sharma_8th IEC - IEEE Smart Energy Standardization.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/27. Dinesh Sharma_8th IEC - IEEE Smart Energy Standardization.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/27. Dinesh Sharma_8th IEC - IEEE Smart Energy Standardization.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBiqQD">https://flic.kr/s/aHBqjBiqQD</a></font></u></td>
 	</tr>
@@ -1400,7 +1400,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Standards &amp; Programs Manager</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Underwriters Laboratories Inc.</font></td>
 		<td  align="left" valign=top><font color="#000000"><br></font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/28. V. Manjunath_8th IEC - IEEE Smart Energy Standardization.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/28. V. Manjunath_8th IEC - IEEE Smart Energy Standardization.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/28. V. Manjunath_8th IEC - IEEE Smart Energy Standardization.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/28. V. Manjunath_8th IEC - IEEE Smart Energy Standardization.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBiqQD">https://flic.kr/s/aHBqjBiqQD</a></font></u></td>
 	</tr>
@@ -1420,7 +1420,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Partner - Energy Transition &amp; Decarbonization </font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">EY Parthenon</font></td>
 		<td  align="left" valign=top><font color="#000000"><br></font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/30. Abhishek Ranjan_8th IEC - IEEE Smart Energy Standardization.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/30. Abhishek Ranjan_8th IEC - IEEE Smart Energy Standardization.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/30. Abhishek Ranjan_8th IEC - IEEE Smart Energy Standardization.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/30. Abhishek Ranjan_8th IEC - IEEE Smart Energy Standardization.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBiqQD">https://flic.kr/s/aHBqjBiqQD</a></font></u></td>
 	</tr>
@@ -1693,7 +1693,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">CEO and Founder</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">CMG Consulting LLC</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/54.  Andres Carvallo_Digitalization of Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/54.  Andres Carvallo_Digitalization of Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/54.  Andres Carvallo_Digitalization of Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/54.  Andres Carvallo_Digitalization of Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBibSk">https://flic.kr/s/aHBqjBibSk</a></font></u></td>
 	</tr>
@@ -1703,7 +1703,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Vice President-Product Engineering</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">SEW</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/55. Vijay Panpalia _Digitalization of Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/55. Vijay Panpalia _Digitalization of Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/55. Vijay Panpalia _Digitalization of Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/55. Vijay Panpalia _Digitalization of Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBibSk">https://flic.kr/s/aHBqjBibSk</a></font></u></td>
 	</tr>
@@ -1723,7 +1723,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Laboratory Program Manager - Grid Integration Energy Systems Integration</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">National Renewable Energy Laboratory</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/57. Murali Baggu_Digitalization of Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/57. Murali Baggu_Digitalization of Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/57. Murali Baggu_Digitalization of Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/57. Murali Baggu_Digitalization of Utilities.pdf" download>Download</a></td>
 	   <td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBibSk">https://flic.kr/s/aHBqjBibSk</a></font></u></td>
 	</tr>
@@ -1733,7 +1733,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Vice President-Grid Automation</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Hitachi Energy India Limited</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/58. Ajith Kumar_Digitalization of Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/58. Ajith Kumar_Digitalization of Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/58. Ajith Kumar_Digitalization of Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/58. Ajith Kumar_Digitalization of Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBibSk">https://flic.kr/s/aHBqjBibSk</a></font></u></td>
 	</tr>
@@ -1753,7 +1753,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Head (IT)<br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power Company</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/60. Tarun Batra_Digitalization of Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/60. Tarun Batra_Digitalization of Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/60. Tarun Batra_Digitalization of Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/60. Tarun Batra_Digitalization of Utilities.pdf" download>Download</a></td>
 	    <td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBibSk">https://flic.kr/s/aHBqjBibSk</a></font></u></td>
 	</tr>
@@ -1809,7 +1809,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">IIT Kanpur-La Trobe University Research Academy</font></td>
 		<td  align="left" valign=top><font color="#000000">Chair</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/64. S.C. Srivastava_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/64. S.C. Srivastava_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/64. S.C. Srivastava_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/64. S.C. Srivastava_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1819,7 +1819,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Head-Quantum Mission</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Department of Science and Technology</font></td>
 		<td  align="left" valign=top><font color="#000000">Moderator</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/65. JBV Reddy_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/65. JBV Reddy_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/65. JBV Reddy_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/65. JBV Reddy_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1829,7 +1829,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Co-Founder &amp; CEO</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Power ledger</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/66. Jemma Green_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/66. Jemma Green_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/66. Jemma Green_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/66. Jemma Green_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1839,7 +1839,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"> Vice President Industry Strategy</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Oracle Utilities</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/67. Nick Birrell_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/67. Nick Birrell_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/67. Nick Birrell_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/67. Nick Birrell_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1859,7 +1859,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Scientist</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">GoI</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/69. Om Krishna Singh_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/69. Om Krishna Singh_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/69. Om Krishna Singh_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/69. Om Krishna Singh_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1869,7 +1869,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Department of Science and Technology</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/70. Suresh Babu_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/70. Suresh Babu_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/70. Suresh Babu_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/70. Suresh Babu_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1879,7 +1879,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">CEO</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Urban Morph</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/71. Sathyanarayanan_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/71. Sathyanarayanan_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/71. Sathyanarayanan_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/71. Sathyanarayanan_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1912,7 +1912,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">MNIT Jaipur</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/74. NP Padhy_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/74. NP Padhy_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/74. NP Padhy_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/74. NP Padhy_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1922,7 +1922,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Sr Vice President</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">BSES Rajdhani Power Ltd</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/75. Sreedhar Venkat_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/75. Sreedhar Venkat_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/75. Sreedhar Venkat_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/75. Sreedhar Venkat_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1942,7 +1942,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Chair Professor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">IIT Delhi</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/77-78. Abhijit & AK Saxena_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/77-78. Abhijit & AK Saxena_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/77-78. Abhijit & AK Saxena_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/77-78. Abhijit & AK Saxena_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1952,7 +1952,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Fellow and Senior Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">TERI</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/77-78. Abhijit & AK Saxena_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/77-78. Abhijit & AK Saxena_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/77-78. Abhijit & AK Saxena_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/77-78. Abhijit & AK Saxena_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1962,7 +1962,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">IIT Bombay</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/79. Zakir Hussain_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/79. Zakir Hussain_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/79. Zakir Hussain_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/79. Zakir Hussain_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1972,7 +1972,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">IIT Bhubaneswar</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/80. Srinivas Bhaskar_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/80. Srinivas Bhaskar_Emerging Technologies for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/80. Srinivas Bhaskar_Emerging Technologies for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/80. Srinivas Bhaskar_Emerging Technologies for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -1982,7 +1982,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Chief - Collaboration &amp; Innovation</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">TPCL, PSCC</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/81. Ganesh Das_Emerging Technology for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/81. Ganesh Das_Emerging Technology for Utilities.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/81. Ganesh Das_Emerging Technology for Utilities.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/81. Ganesh Das_Emerging Technology for Utilities.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBidrV">https://flic.kr/s/aHBqjBidrV</a></font></u></td>
 	</tr>
@@ -2061,7 +2061,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">General Manager</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Atlas Copco-India</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/87. Alexander Pavlov_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/87. Alexander Pavlov_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/87. Alexander Pavlov_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/87. Alexander Pavlov_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBi9UU">https://flic.kr/s/aHBqjBi9UU</a></font></u></td>
 	</tr>
@@ -2071,7 +2071,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Diplomat, Economic and Commercial Affairs</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Ministry of Foreign Affairs, Netherlands</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/88.  Paulina Chromik_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/88.  Paulina Chromik_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/88.  Paulina Chromik_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/88.  Paulina Chromik_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBi9UU">https://flic.kr/s/aHBqjBi9UU</a></font></u></td>
 	</tr>
@@ -2091,7 +2091,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Advisor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">International Solar Alliance</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/90. Mridula Bharadwaj_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/90. Mridula Bharadwaj_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/90. Mridula Bharadwaj_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/90. Mridula Bharadwaj_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBi9UU">https://flic.kr/s/aHBqjBi9UU</a></font></u></td>
 	</tr>
@@ -2121,7 +2121,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Chairman &amp; Managing Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">pManifold Business Solutions Pvt. Ltd</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/93. Ragul Bagdia_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/93. Ragul Bagdia_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/93. Ragul Bagdia_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/93. Ragul Bagdia_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBi9UU">https://flic.kr/s/aHBqjBi9UU</a></font></u></td>
 	</tr>
@@ -2164,7 +2164,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Executive Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">IRADe</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/97. Jyoti Parikh_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/97. Jyoti Parikh_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/97. Jyoti Parikh_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/97. Jyoti Parikh_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBi9UU">https://flic.kr/s/aHBqjBi9UU</a></font></u></td>
 	</tr>
@@ -2174,7 +2174,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Former Chairperson</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">CEA</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/98. Pankaj Batra_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/98. Pankaj Batra_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/98. Pankaj Batra_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/98. Pankaj Batra_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBi9UU">https://flic.kr/s/aHBqjBi9UU</a></font></u></td>
 	</tr>
@@ -2224,7 +2224,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Research Fellow</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">FSR Global – Energy</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/103. Parul Bakshi_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/103. Parul Bakshi_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/103. Parul Bakshi_13th EU - India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/103. Parul Bakshi_13th EU - India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBi9UU">https://flic.kr/s/aHBqjBi9UU</a></font></u></td>
 	</tr>
@@ -2293,7 +2293,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Presidente </font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ECOee &amp; L.A. Smart Grid Forum</font></td>
 		<td  align="left" valign=top><font color="#000000">Special Address</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/108. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/108. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/108. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/108. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBiafd">https://flic.kr/s/aHBqjBiafd</a></font></u></td>
 	</tr>
@@ -2336,7 +2336,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Advisor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ISGF</font></td>
 		<td  align="left" valign=top><font color="#000000">Moderator</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/112. Ravi Seethapathy_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/112. Ravi Seethapathy_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/112. Ravi Seethapathy_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/112. Ravi Seethapathy_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBiafd">https://flic.kr/s/aHBqjBiafd</a></font></u></td>
 	</tr>
@@ -2346,7 +2346,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Additional General Manager</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power-DDL</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/113. Subhadip Ray Chaudhary_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/113. Subhadip Ray Chaudhary_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/113. Subhadip Ray Chaudhary_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/113. Subhadip Ray Chaudhary_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBiafd">https://flic.kr/s/aHBqjBiafd</a></font></u></td>
 	</tr>
@@ -2356,7 +2356,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Presidente </font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ECOee &amp; L.A. Smart Grid Forum</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/114. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/114. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/114. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/114. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBiafd">https://flic.kr/s/aHBqjBiafd</a></font></u></td>
 	</tr>
@@ -2366,7 +2366,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Deputy-Regulation</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Light, Rio de Janeiro</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/115. Felipe Tenorio_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/115. Felipe Tenorio_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/115. Felipe Tenorio_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/115. Felipe Tenorio_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBiafd">https://flic.kr/s/aHBqjBiafd</a></font></u></td>
 	</tr>
@@ -2399,7 +2399,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Director, Corporate Affairs</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">PRESPL</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/118. Ankur Naik_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/118. Ankur Naik_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/118. Ankur Naik_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/118. Ankur Naik_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBiafd">https://flic.kr/s/aHBqjBiafd</a></font></u></td>
 	</tr>
@@ -2419,7 +2419,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Presidente </font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ECOee &amp; L.A. Smart Grid Forum</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/120. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/120. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/120. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/120. Cyro Boccuzzi_1ST INDIA - BRAZIL Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBiafd">https://flic.kr/s/aHBqjBiafd</a></font></u></td>
 	</tr>
@@ -2539,7 +2539,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Former Member</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NY State Public Service Commission</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/130. Raj Addepalli_10th US  India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/130. Raj Addepalli_10th US  India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/130. Raj Addepalli_10th US  India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/130. Raj Addepalli_10th US  India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBigPx">https://flic.kr/s/aHBqjBigPx</a></font></u></td>
 	</tr>
@@ -2549,7 +2549,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Head - Digital Energy Solutions</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"> L&amp;T PTD Digital Energy Solutions</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/131. Jayant Kumar_10th US  India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/131. Jayant Kumar_10th US  India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/131. Jayant Kumar_10th US  India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/131. Jayant Kumar_10th US  India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBigPx">https://flic.kr/s/aHBqjBigPx</a></font></u></td>
 	</tr>
@@ -2623,7 +2623,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Govt &amp; Grants Growth Leader (Area Vice President)</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">L&amp;T PTD Digital Energy Solutions</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/138. Arindam Maitra_10th US  India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/138. Arindam Maitra_10th US  India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/138. Arindam Maitra_10th US  India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/138. Arindam Maitra_10th US  India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBigPx">https://flic.kr/s/aHBqjBigPx</a></font></u></td>
 	</tr>
@@ -2633,7 +2633,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Chief (Technical Services, BD, PSC, PMG &amp; Sustainability)</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power Delhi Distribution Ltd</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/139. HC Sharma_10th US  India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/139. HC Sharma_10th US  India Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/139. HC Sharma_10th US  India Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/139. HC Sharma_10th US  India Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0563C1"><a href="https://flic.kr/s/aHBqjBigPx">https://flic.kr/s/aHBqjBigPx</a></font></u></td>
 	</tr>
@@ -2696,7 +2696,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Founder</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">The Future is Electric</font></td>
 		<td  align="left" valign=top><font color="#000000">Plenary Presentation</font></td>
-			<td><a href="https://isuw.in/public/uploads/presentations-2023/144. Michael Barnard_SPECIAL PLENARY 1 The short List of Climate Actions that will Work.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/144. Michael Barnard_SPECIAL PLENARY 1 The short List of Climate Actions that will Work.pdf" download>Download</a></td>
+			<td><a href="https://isuw.in/uploads/presentations-2023/144. Michael Barnard_SPECIAL PLENARY 1 The short List of Climate Actions that will Work.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/144. Michael Barnard_SPECIAL PLENARY 1 The short List of Climate Actions that will Work.pdf" download>Download</a></td>
 	<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 	</tr>
@@ -2745,7 +2745,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Manager-Advanced Grid Operations &amp; Technology</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">PECO</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/147. Glenn Pritchard_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/147. Glenn Pritchard_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/147. Glenn Pritchard_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/147. Glenn Pritchard_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 	</tr>
@@ -2755,7 +2755,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Director-Advanced Network Technologies</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ENEDIS</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/148. Marc DELANDRE_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/148. Marc DELANDRE_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/148. Marc DELANDRE_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/148. Marc DELANDRE_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 	</tr>
@@ -2765,7 +2765,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Additional General Manager</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power-DDL</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/149. Subhadip Raychaudhuri_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/149. Subhadip Raychaudhuri_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/149. Subhadip Raychaudhuri_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/149. Subhadip Raychaudhuri_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 	</tr>
@@ -2828,7 +2828,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">MD</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Intellismart Infrastructure</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/155. Anil Rawal_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/155. Anil Rawal_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/155. Anil Rawal_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/155. Anil Rawal_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 	</tr>
@@ -2848,7 +2848,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">VP-Energy Transition</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Oracle Utilities</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/157. Matt Gleeson_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/157. Matt Gleeson_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/157. Matt Gleeson_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/157. Matt Gleeson_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 	</tr>
@@ -2868,7 +2868,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Vice President- APAC</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">SEW</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/159. RP Singh_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/159. RP Singh_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/159. RP Singh_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/159. RP Singh_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 	</tr>
@@ -2878,7 +2878,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Vice President, Sales for CCE, APAC</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Itron</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/160. Paul Nelsen_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/160. Paul Nelsen_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/160. Paul Nelsen_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/160. Paul Nelsen_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 	</tr>
@@ -2898,7 +2898,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">General Secretary</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">G3 Alliance</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/162. Leon Vergeer_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/162. Leon Vergeer_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/162. Leon Vergeer_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/162. Leon Vergeer_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 	</tr>
@@ -2951,7 +2951,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Clean Energy Specialist</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">USAID/India</font></td>
 		<td  align="left" valign=top><font color="#000000">Special Remarks</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/167. Apurva Chaturvedi_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/167. Apurva Chaturvedi_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/167. Apurva Chaturvedi_GLOBAL LESSONS ON SMART METERING.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/167. Apurva Chaturvedi_GLOBAL LESSONS ON SMART METERING.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 	</tr>
@@ -3037,7 +3037,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">USAID/I</font></td>
 		<td  align="left" valign=top><font color="#000000">Special Remark</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/174. Apurva Chaturvedi_Energy Positive Smart Buildings and Campuses.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/174. Apurva Chaturvedi_Energy Positive Smart Buildings and Campuses.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/174. Apurva Chaturvedi_Energy Positive Smart Buildings and Campuses.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/174. Apurva Chaturvedi_Energy Positive Smart Buildings and Campuses.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBigwj">https://flic.kr/s/aHBqjBigwj</a></font></u></td>
 	</tr>
@@ -3090,7 +3090,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Advisor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ISGF</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/179. Girish Ghatikar_Energy Positive Smart Buildings and Campuses.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/179. Girish Ghatikar_Energy Positive Smart Buildings and Campuses.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/179. Girish Ghatikar_Energy Positive Smart Buildings and Campuses.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/179. Girish Ghatikar_Energy Positive Smart Buildings and Campuses.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBigwj">https://flic.kr/s/aHBqjBigwj</a></font></u></td>
 	</tr>
@@ -3113,7 +3113,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Electrical Engineer</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Nalanda University</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/181. Manoj Kumar_Energy Positive Smart Buildings and Campuses.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/181. Manoj Kumar_Energy Positive Smart Buildings and Campuses.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/181. Manoj Kumar_Energy Positive Smart Buildings and Campuses.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/181. Manoj Kumar_Energy Positive Smart Buildings and Campuses.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBigwj">https://flic.kr/s/aHBqjBigwj</a></font></u></td>
 	</tr>
@@ -3143,7 +3143,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">AVP</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">BSES Rajdhani Power Ltd</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/184. Munish Sharma_Energy Positive Smart Buildings and Campuses.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/184. Munish Sharma_Energy Positive Smart Buildings and Campuses.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/184. Munish Sharma_Energy Positive Smart Buildings and Campuses.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/184. Munish Sharma_Energy Positive Smart Buildings and Campuses.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBigwj">https://flic.kr/s/aHBqjBigwj</a></font></u></td>
 	</tr>
@@ -3202,7 +3202,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Executive Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Grant Thornton Bharat LLP</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/188. Samved Patil_3rd India - Germany Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/188. Samved Patil_3rd India - Germany Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/188. Samved Patil_3rd India - Germany Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/188. Samved Patil_3rd India - Germany Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBikSB">https://flic.kr/s/aHBqjBikSB</a></font></u></td>
 	</tr>
@@ -3212,7 +3212,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Head of Programme Energy</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">adelphi consult GmbH</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/189. Anton Adelphi_3rd India - Germany Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/189. Anton Adelphi_3rd India - Germany Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/189. Anton Adelphi_3rd India - Germany Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/189. Anton Adelphi_3rd India - Germany Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBikSB">https://flic.kr/s/aHBqjBikSB</a></font></u></td>
 	</tr>
@@ -3222,7 +3222,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Head-Innovation and R&amp;D</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power Company Limited</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/190. Ganesh Das_3rd India - Germany Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/190. Ganesh Das_3rd India - Germany Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/190. Ganesh Das_3rd India - Germany Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/190. Ganesh Das_3rd India - Germany Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBikSB">https://flic.kr/s/aHBqjBikSB</a></font></u></td>
 	</tr>
@@ -3245,7 +3245,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Partner</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Grant Thornton Bharat LLP</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/192. Kulbhushan Kumar_3rd India - Germany Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/192. Kulbhushan Kumar_3rd India - Germany Smart Energy Workshop.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/192. Kulbhushan Kumar_3rd India - Germany Smart Energy Workshop.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/192. Kulbhushan Kumar_3rd India - Germany Smart Energy Workshop.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBikSB">https://flic.kr/s/aHBqjBikSB</a></font></u></td>
 	</tr>
@@ -3414,7 +3414,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Executive Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ISGF</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/207. Reena Suri_Workshop on Innovative Technologies for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/207. Reena Suri_Workshop on Innovative Technologies for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/207. Reena Suri_Workshop on Innovative Technologies for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/207. Reena Suri_Workshop on Innovative Technologies for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikUk">https://flic.kr/s/aHBqjBikUk</a></font></u></td>
 	</tr>
@@ -3434,7 +3434,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Business Development, India and GCC</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Synaptec Ltd.</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/209. Nitin Mahajan_Workshop on Innovative Technologies for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/209. Nitin Mahajan_Workshop on Innovative Technologies for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/209. Nitin Mahajan_Workshop on Innovative Technologies for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/209. Nitin Mahajan_Workshop on Innovative Technologies for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikUk">https://flic.kr/s/aHBqjBikUk</a></font></u></td>
 	</tr>
@@ -3457,7 +3457,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Economist</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">KPMG</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/211. Eshita Gupta_Workshop on Innovative Technologies for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/211. Eshita Gupta_Workshop on Innovative Technologies for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/211. Eshita Gupta_Workshop on Innovative Technologies for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/211. Eshita Gupta_Workshop on Innovative Technologies for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikUk">https://flic.kr/s/aHBqjBikUk</a></font></u></td>
 	</tr>
@@ -3467,7 +3467,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Founder &amp; CEO</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">GreenEnco UK</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/212. Jyoti Roy_Workshop on Innovative Technologies for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/212. Jyoti Roy_Workshop on Innovative Technologies for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/212. Jyoti Roy_Workshop on Innovative Technologies for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/212. Jyoti Roy_Workshop on Innovative Technologies for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikUk">https://flic.kr/s/aHBqjBikUk</a></font></u></td>
 	</tr>
@@ -3477,7 +3477,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Co-Founder &amp; COO</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Flock Energy</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/213. Matt Reizenstein_Workshop on Innovative Technologies for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/213. Matt Reizenstein_Workshop on Innovative Technologies for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/213. Matt Reizenstein_Workshop on Innovative Technologies for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/213. Matt Reizenstein_Workshop on Innovative Technologies for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikUk">https://flic.kr/s/aHBqjBikUk</a></font></u></td>
 	</tr>
@@ -3520,7 +3520,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Laboratory Program Manager - Grid Integration Energy Systems Integration</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">National Renewable Energy Laboratory</font></td>
 		<td  align="left" valign=top><font color="#000000">Moderator</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/216. Murali Baggu_Virtual Power Plants and Power System Flexibilty.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/216. Murali Baggu_Virtual Power Plants and Power System Flexibilty.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/216. Murali Baggu_Virtual Power Plants and Power System Flexibilty.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/216. Murali Baggu_Virtual Power Plants and Power System Flexibilty.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijtc">https://flic.kr/s/aHBqjBijtc</a></font></u></td>
 	</tr>
@@ -3530,7 +3530,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Manager, Industry Solutions (APAC)</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Autogrid Part of Uplight</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/217. Vishwajeet Singh_Virtual Power Plants and Power System Flexibility.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/217. Vishwajeet Singh_Virtual Power Plants and Power System Flexibility.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/217. Vishwajeet Singh_Virtual Power Plants and Power System Flexibility.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/217. Vishwajeet Singh_Virtual Power Plants and Power System Flexibility.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijtc">https://flic.kr/s/aHBqjBijtc</a></font></u></td>
 	</tr>
@@ -3550,7 +3550,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">DGM</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">BSES Yamuna Power Limited</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/219. Abhishek Vashistha_Virtual Power Plants and Power System Flexibilty.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/219. Abhishek Vashistha_Virtual Power Plants and Power System Flexibilty.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/219. Abhishek Vashistha_Virtual Power Plants and Power System Flexibilty.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/219. Abhishek Vashistha_Virtual Power Plants and Power System Flexibilty.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijtc">https://flic.kr/s/aHBqjBijtc</a></font></u></td>
 	</tr>
@@ -3570,7 +3570,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Co-founder and CEO</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">TekUncorked</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/221. Meenakshi Vashist_Virtual Power Plants and Power System Flexibility.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/221. Meenakshi Vashist_Virtual Power Plants and Power System Flexibility.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/221. Meenakshi Vashist_Virtual Power Plants and Power System Flexibility.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/221. Meenakshi Vashist_Virtual Power Plants and Power System Flexibility.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijtc">https://flic.kr/s/aHBqjBijtc</a></font></u></td>
 	</tr>
@@ -3580,7 +3580,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Chief - PSCC &amp; Tech Services (T&amp;D, MO)</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power Company Ltd</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/222. Devanand Pallikuth_Virtual Power Plants and Power System Flexibility.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/222. Devanand Pallikuth_Virtual Power Plants and Power System Flexibility.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/222. Devanand Pallikuth_Virtual Power Plants and Power System Flexibility.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/222. Devanand Pallikuth_Virtual Power Plants and Power System Flexibility.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijtc">https://flic.kr/s/aHBqjBijtc</a></font></u></td>
 	</tr>
@@ -3590,7 +3590,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Govt &amp; Grants Growth Leader (Area Vice President)</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">L&amp;T PTD Digital Energy Solutions</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/223. Arindam Maitra_Virtual Power Plants and Power System Flexibilty.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/223. Arindam Maitra_Virtual Power Plants and Power System Flexibilty.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/223. Arindam Maitra_Virtual Power Plants and Power System Flexibilty.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/223. Arindam Maitra_Virtual Power Plants and Power System Flexibilty.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijtc">https://flic.kr/s/aHBqjBijtc</a></font></u></td>
 	</tr>
@@ -3669,7 +3669,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Managing Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ICF India</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/229. Gurpreet Chugh_ The Cooling Challenge (DCS).pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/229. Gurpreet Chugh_ The Cooling Challenge (DCS).pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/229. Gurpreet Chugh_ The Cooling Challenge (DCS).pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/229. Gurpreet Chugh_ The Cooling Challenge (DCS).pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBijvG">https://flic.kr/s/aHBqjBijvG</a></font></u></td>
 	</tr>
@@ -3679,7 +3679,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Expert - Cooling and Refrigeration</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">AEEE</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/230. Sandeep Kachhawa_The Cooling Challenge (DCS).pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/230. Sandeep Kachhawa_The Cooling Challenge (DCS).pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/230. Sandeep Kachhawa_The Cooling Challenge (DCS).pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/230. Sandeep Kachhawa_The Cooling Challenge (DCS).pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBijvG">https://flic.kr/s/aHBqjBijvG</a></font></u></td>
 	</tr>
@@ -3692,7 +3692,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Fellow</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">AEEE</font></td>
 		<td  align="left" valign=top><font color="#000000">Moderator</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/231. Bhaskar Natrajan_The Cooling Challenge (DCS).pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/231. Bhaskar Natrajan_The Cooling Challenge (DCS).pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/231. Bhaskar Natrajan_The Cooling Challenge (DCS).pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/231. Bhaskar Natrajan_The Cooling Challenge (DCS).pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBijvG">https://flic.kr/s/aHBqjBijvG</a></font></u></td>
 	</tr>
@@ -3765,7 +3765,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Former Chairman</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Odisha Electricity Regulatory Commission</font></td>
 		<td  align="left" valign=top><font color="#000000">Chair</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/237. U N Behera_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/237. U N Behera_Climate Resilience of Future Grids.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/237. U N Behera_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/237. U N Behera_Climate Resilience of Future Grids.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihgY">https://flic.kr/s/aHBqjBihgY</a></font></u></td>
 	</tr>
@@ -3775,7 +3775,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Advisor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ISGF</font></td>
 		<td  align="left" valign=top><font color="#000000">Moderator</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/238. Ravi Seethapathy_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/238. Ravi Seethapathy_Climate Resilience of Future Grids.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/238. Ravi Seethapathy_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/238. Ravi Seethapathy_Climate Resilience of Future Grids.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihgY">https://flic.kr/s/aHBqjBihgY</a></font></u></td>
 	</tr>
@@ -3785,7 +3785,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Advisor-Power Sector</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Coalition for Disaster Resilient Infrastructure</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/239. Amit Tripathi_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/239. Amit Tripathi_Climate Resilience of Future Grids.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/239. Amit Tripathi_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/239. Amit Tripathi_Climate Resilience of Future Grids.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihgY">https://flic.kr/s/aHBqjBihgY</a></font></u></td>
 	</tr>
@@ -3795,7 +3795,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Vice President IT Business Partner Corporate</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">PT PLN (Persero)</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/240. Daniel Tampubolon_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/240. Daniel Tampubolon_Climate Resilience of Future Grids.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/240. Daniel Tampubolon_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/240. Daniel Tampubolon_Climate Resilience of Future Grids.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihgY">https://flic.kr/s/aHBqjBihgY</a></font></u></td>
 	</tr>
@@ -3805,7 +3805,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Former Mentor and Advisor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Reliance Infrastructure</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/241. RR Mehta_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/241. RR Mehta_Climate Resilience of Future Grids.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/241. RR Mehta_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/241. RR Mehta_Climate Resilience of Future Grids.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihgY">https://flic.kr/s/aHBqjBihgY</a></font></u></td>
 	</tr>
@@ -3825,7 +3825,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Chief Technology</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">TPCODL</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/243. Chintamani Chitnisn_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/243. Chintamani Chitnisn_Climate Resilience of Future Grids.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/243. Chintamani Chitnisn_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/243. Chintamani Chitnisn_Climate Resilience of Future Grids.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihgY">https://flic.kr/s/aHBqjBihgY</a></font></u></td>
 	</tr>
@@ -3835,7 +3835,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Head - Sales &amp; Commercial Services (EMEA &amp; IAPAC REGIONS)</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">L&amp;T</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/244. Suvendra Kumar Senapati_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/244. Suvendra Kumar Senapati_Climate Resilience of Future Grids.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/244. Suvendra Kumar Senapati_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/244. Suvendra Kumar Senapati_Climate Resilience of Future Grids.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihgY">https://flic.kr/s/aHBqjBihgY</a></font></u></td>
 	</tr>
@@ -3845,7 +3845,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Sr. GM</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Grid India</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/245. Vivek Pandey_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/245. Vivek Pandey_Climate Resilience of Future Grids.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/245. Vivek Pandey_Climate Resilience of Future Grids.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/245. Vivek Pandey_Climate Resilience of Future Grids.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihgY">https://flic.kr/s/aHBqjBihgY</a></font></u></td>
 	</tr>
@@ -3868,7 +3868,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Co-founder</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">BSCE Systems Inc.</font></td>
 		<td  align="left" valign=top><font color="#000000">Chair &amp; Moderator</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/246. Ganpati Myneni_Nuclear Renaissance and the Role of SMR.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/246. Ganpati Myneni_Nuclear Renaissance and the Role of SMR.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/246. Ganpati Myneni_Nuclear Renaissance and the Role of SMR.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/246. Ganpati Myneni_Nuclear Renaissance and the Role of SMR.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBim8g">https://flic.kr/s/aHBqjBim8g</a></font></u></td>
 	</tr>
@@ -3898,7 +3898,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Nuclear Counsellor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Embassy of France in India</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/249. Thomas MIEUSSET_Nuclear Renaissance and the Role of SMR.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/249. Thomas MIEUSSET_Nuclear Renaissance and the Role of SMR.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/249. Thomas MIEUSSET_Nuclear Renaissance and the Role of SMR.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/249. Thomas MIEUSSET_Nuclear Renaissance and the Role of SMR.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBim8g">https://flic.kr/s/aHBqjBim8g</a></font></u></td>
 	</tr>
@@ -3908,7 +3908,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">GM-Nuclear</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NTPC</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/250. Anand Prasad_Nuclear Renaissance and the Role of SMR.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/250. Anand Prasad_Nuclear Renaissance and the Role of SMR.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/250. Anand Prasad_Nuclear Renaissance and the Role of SMR.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/250. Anand Prasad_Nuclear Renaissance and the Role of SMR.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBim8g">https://flic.kr/s/aHBqjBim8g</a></font></u></td>
 	</tr>
@@ -3918,7 +3918,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Head Technology &amp; Process Engineering</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/251. CP Tiwari_Nuclear Renaissance and the Role of SMR.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/251. CP Tiwari_Nuclear Renaissance and the Role of SMR.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/251. CP Tiwari_Nuclear Renaissance and the Role of SMR.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/251. CP Tiwari_Nuclear Renaissance and the Role of SMR.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBim8g">https://flic.kr/s/aHBqjBim8g</a></font></u></td>
 	</tr>
@@ -3951,7 +3951,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">GarudaUAV Soft Solutions</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/253. Saroj Chelluri_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/253. Saroj Chelluri_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/253. Saroj Chelluri_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/253. Saroj Chelluri_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -3961,7 +3961,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">BSES Rajdhani Power Ltd.</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-	<td><a href="https://isuw.in/public/uploads/presentations-2023/254. Devesh Verma_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/254. Devesh Verma_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+	<td><a href="https://isuw.in/uploads/presentations-2023/254. Devesh Verma_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/254. Devesh Verma_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 			<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -3971,7 +3971,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/255. ML sachdeva & NS Sodha_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/255. ML sachdeva & NS Sodha_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/255. ML sachdeva & NS Sodha_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/255. ML sachdeva & NS Sodha_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 	    <td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -3981,7 +3981,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">INDIGRID, MUMBAI, INDIA</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-	<td><a href="https://isuw.in/public/uploads/presentations-2023/256. Kuldip Raj Suri_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/256. Kuldip Raj Suri_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+	<td><a href="https://isuw.in/uploads/presentations-2023/256. Kuldip Raj Suri_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/256. Kuldip Raj Suri_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -3991,7 +3991,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Silver Oak University</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/257. Mansoori Nasreenbanu Nazirbhai_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/257. Mansoori Nasreenbanu Nazirbhai_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/257. Mansoori Nasreenbanu Nazirbhai_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/257. Mansoori Nasreenbanu Nazirbhai_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4001,7 +4001,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">TPWODL</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-	<td><a href="https://isuw.in/public/uploads/presentations-2023/258. Aditya Kumar Pati_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/258. Aditya Kumar Pati_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+	<td><a href="https://isuw.in/uploads/presentations-2023/258. Aditya Kumar Pati_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/258. Aditya Kumar Pati_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4011,7 +4011,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Vellore Institute of Technology, Chennai</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/259. Meera PS_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/259. Meera PS_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/259. Meera PS_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/259. Meera PS_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4021,7 +4021,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">MAHATRANSCO</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/260. Amit R. Kulkarni_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/260. Amit R. Kulkarni_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/260. Amit R. Kulkarni_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/260. Amit R. Kulkarni_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4031,7 +4031,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power - DDL</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/261. Ravi Ranjan_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/261. Ravi Ranjan_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/261. Ravi Ranjan_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/261. Ravi Ranjan_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4041,7 +4041,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Vellore Institute of Technology, Chennai</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/262. V Lavanya_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/262. V Lavanya_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/262. V Lavanya_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/262. V Lavanya_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4051,7 +4051,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Hitachi Energy</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/263. Gurujith A_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/263. Gurujith A_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/263. Gurujith A_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/263. Gurujith A_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4061,7 +4061,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">The TATA Power Co.Ltd</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/264. Swapnil Rao_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/264. Swapnil Rao_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/264. Swapnil Rao_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/264. Swapnil Rao_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4081,7 +4081,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Silver Oak University</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/266. Manan Pathak_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/266. Manan Pathak_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/266. Manan Pathak_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/266. Manan Pathak_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4091,7 +4091,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">GE Digital</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/267. Rakesh Kadu_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/267. Rakesh Kadu_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/267. Rakesh Kadu_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/267. Rakesh Kadu_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4101,7 +4101,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">The Tata Power Company</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/268. Moreshwar Salpekar_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/268. Moreshwar Salpekar_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/268. Moreshwar Salpekar_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/268. Moreshwar Salpekar_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4111,7 +4111,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Sevya Multimedia Pvt Ltd</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/269. Gufran Basit_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/269. Gufran Basit_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/269. Gufran Basit_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/269. Gufran Basit_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4121,7 +4121,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Siemens Technology and Services Private Limited</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/270. Sairam Kumar_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/270. Sairam Kumar_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/270. Sairam Kumar_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/270. Sairam Kumar_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4131,7 +4131,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Accenture</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/271. Ankit Jain_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/271. Ankit Jain_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/271. Ankit Jain_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/271. Ankit Jain_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4141,7 +4141,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Hitachi Energy</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/272. Aarthi V_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/272. Aarthi V_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/272. Aarthi V_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/272. Aarthi V_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4151,7 +4151,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Hitachi Energy</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/273. Chunendra Kumar Singh Chaudhary_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/273. Chunendra Kumar Singh Chaudhary_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/273. Chunendra Kumar Singh Chaudhary_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/273. Chunendra Kumar Singh Chaudhary_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4161,7 +4161,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">IIT Roorkee</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/274. Raghuvir Singh_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/274. Raghuvir Singh_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/274. Raghuvir Singh_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/274. Raghuvir Singh_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4171,7 +4171,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power Delhi Distribution Limited</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/275. Abhinav Mogha_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/275. Abhinav Mogha_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/275. Abhinav Mogha_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/275. Abhinav Mogha_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4181,7 +4181,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power Delhi Distribution Limited</font></td>
 		<td  align="left" valign=top><font color="#000000">Author</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/276. Surekha Deshmukh_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/276. Surekha Deshmukh_Presentation of Select Technical Papers.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/276. Surekha Deshmukh_Presentation of Select Technical Papers.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/276. Surekha Deshmukh_Presentation of Select Technical Papers.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBijJH">https://flic.kr/s/aHBqjBijJH</a></font></u></td>
 	</tr>
@@ -4234,7 +4234,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Secretary General</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">GO15</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/280. Bruno Meyer_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/280. Bruno Meyer_Super Grids for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/280. Bruno Meyer_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/280. Bruno Meyer_Super Grids for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBii4c">https://flic.kr/s/aHBqjBii4c</a></font></u></td>
 	</tr>
@@ -4244,7 +4244,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">CTO</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Hitachi Energy</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/281. Akilur Rahman_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/281. Akilur Rahman_Super Grids for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/281. Akilur Rahman_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/281. Akilur Rahman_Super Grids for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBii4c">https://flic.kr/s/aHBqjBii4c</a></font></u></td>
 	</tr>
@@ -4264,7 +4264,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Project Manager of ASEAN Power Interconnection</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ASEAN Centre for Energy </font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/283. Prihastya Wiratama_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/283. Prihastya Wiratama_Super Grids for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/283. Prihastya Wiratama_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/283. Prihastya Wiratama_Super Grids for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBii4c">https://flic.kr/s/aHBqjBii4c</a></font></u></td>
 	</tr>
@@ -4274,7 +4274,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Operational and Control Department</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">GCCIA</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/284. Talal Alshaikh_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/284. Talal Alshaikh_Super Grids for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/284. Talal Alshaikh_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/284. Talal Alshaikh_Super Grids for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBii4c">https://flic.kr/s/aHBqjBii4c</a></font></u></td>
 	</tr>
@@ -4284,7 +4284,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Advisor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">SAREP</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/285. Vinod Kumar Agarwal_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/285. Vinod Kumar Agarwal_Super Grids for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/285. Vinod Kumar Agarwal_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/285. Vinod Kumar Agarwal_Super Grids for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBii4c">https://flic.kr/s/aHBqjBii4c</a></font></u></td>
 	</tr>
@@ -4294,7 +4294,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Director- Sales for GEV Electrification Software Business- South Asia</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">GE Vernova</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/286. Mukesh Wadhwa_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/286. Mukesh Wadhwa_Super Grids for Energy Transition.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/286. Mukesh Wadhwa_Super Grids for Energy Transition.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/286. Mukesh Wadhwa_Super Grids for Energy Transition.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBii4c">https://flic.kr/s/aHBqjBii4c</a></font></u></td>
 	</tr>
@@ -4340,7 +4340,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Professor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">IIT Roorkee</font></td>
 		<td  align="left" valign=top><font color="#000000">Chair</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBihJ6">https://flic.kr/s/aHBqjBihJ6</a></font></u></td>
 	</tr>
@@ -4350,7 +4350,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Govt &amp; Grants Growth Leader (Area Vice President)</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">L&amp;T PTD Digital Energy Solutions</font></td>
 		<td  align="left" valign=top><font color="#000000">Moderator</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBihJ6">https://flic.kr/s/aHBqjBihJ6</a></font></u></td>
 	</tr>
@@ -4360,7 +4360,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Laboratory Program Manager - Grid Integration Energy Systems Integration</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">National Renewable Energy Laboratory</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/291. Murali Baggu_Long Duration Energy Storage Systems.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/291. Murali Baggu_Long Duration Energy Storage Systems.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/291. Murali Baggu_Long Duration Energy Storage Systems.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/291. Murali Baggu_Long Duration Energy Storage Systems.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBihJ6">https://flic.kr/s/aHBqjBihJ6</a></font></u></td>
 	</tr>
@@ -4380,7 +4380,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Advisor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">International Solar Alliance</font></td>
 		<td  align="left" valign=top><font color="#000000">speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/293. Mridula Bharadwaj_Long Duration Energy Storage Systems.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/293. Mridula Bharadwaj_Long Duration Energy Storage Systems.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/293. Mridula Bharadwaj_Long Duration Energy Storage Systems.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/293. Mridula Bharadwaj_Long Duration Energy Storage Systems.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBihJ6">https://flic.kr/s/aHBqjBihJ6</a></font></u></td>
 	</tr>
@@ -4390,7 +4390,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Head of Engineering</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Hero Future Energies</font></td>
 		<td  align="left" valign=top><font color="#000000">speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/294. Sudhir Pathak_Long Duration Energy Storage Systems.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/294. Sudhir Pathak_Long Duration Energy Storage Systems.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/294. Sudhir Pathak_Long Duration Energy Storage Systems.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/294. Sudhir Pathak_Long Duration Energy Storage Systems.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBihJ6">https://flic.kr/s/aHBqjBihJ6</a></font></u></td>
 	</tr>
@@ -4400,7 +4400,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Director-Market Development</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Sumitomo SHI FW</font></td>
 		<td  align="left" valign=top><font color="#000000">speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/295. Saurav Mitra_Long Duration Energy Storage Systems.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/295. Saurav Mitra_Long Duration Energy Storage Systems.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/295. Saurav Mitra_Long Duration Energy Storage Systems.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/295. Saurav Mitra_Long Duration Energy Storage Systems.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBihJ6">https://flic.kr/s/aHBqjBihJ6</a></font></u></td>
 	</tr>
@@ -4410,7 +4410,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Head Engg – GC, BESS and Wind</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Power Solar</font></td>
 		<td  align="left" valign=top><font color="#000000">speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/296. Lakhpati_Long Duration Energy Storage Systems.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/296. Lakhpati_Long Duration Energy Storage Systems.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/296. Lakhpati_Long Duration Energy Storage Systems.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/296. Lakhpati_Long Duration Energy Storage Systems.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBihJ6">https://flic.kr/s/aHBqjBihJ6</a></font></u></td>
 	</tr>
@@ -4509,7 +4509,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Chief Product Officer, </font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Smartemobility</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/303. PiyushAwadhesh_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/303. PiyushAwadhesh_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/303. PiyushAwadhesh_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/303. PiyushAwadhesh_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihVP">https://flic.kr/s/aHBqjBihVP</a></font></u></td>
 	</tr>
@@ -4549,7 +4549,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Global Head – Marketing, Strategy &amp;amp; Policy</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">L&amp;T Semi- Conductor Technology</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/307. Anamika Bhargava_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/307. Anamika Bhargava_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/307. Anamika Bhargava_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/307. Anamika Bhargava_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihVP">https://flic.kr/s/aHBqjBihVP</a></font></u></td>
 	</tr>
@@ -4572,7 +4572,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Assistant General Manager</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ISGF</font></td>
 		<td  align="left" valign=top><font color="#000000">Moderator &amp; Theme PResentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/309. Anand Singh_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/309. Anand Singh_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/309. Anand Singh_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/309. Anand Singh_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihVP">https://flic.kr/s/aHBqjBihVP</a></font></u></td>
 	</tr>
@@ -4582,7 +4582,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Ambassador</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Bus World Foundation</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/310. Sridhar Chari_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/310. Sridhar Chari_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/310. Sridhar Chari_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/310. Sridhar Chari_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihVP">https://flic.kr/s/aHBqjBihVP</a></font></u></td>
 	</tr>
@@ -4602,7 +4602,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Head - Idea &amp; Incubation Office(EMEA &amp; IAPAC REGIONS), </font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">L&amp;T</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/312. Biju Puthalath_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/312. Biju Puthalath_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/312. Biju Puthalath_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/312. Biju Puthalath_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihVP">https://flic.kr/s/aHBqjBihVP</a></font></u></td>
 	</tr>
@@ -4612,7 +4612,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">AVP (Head Distribution Planning)</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">BSES Rajdhani Power Limited</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/313. Pramod Kumar Mishra_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/313. Pramod Kumar Mishra_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/313. Pramod Kumar Mishra_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/313. Pramod Kumar Mishra_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihVP">https://flic.kr/s/aHBqjBihVP</a></font></u></td>
 	</tr>
@@ -4622,7 +4622,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">CEO &amp; Co-founder, FIDE and Genesis Co-author &amp; Steward </font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Beckn Protocol</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/314. Sujith Nair_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/314. Sujith Nair_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/314. Sujith Nair_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/314. Sujith Nair_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihVP">https://flic.kr/s/aHBqjBihVP</a></font></u></td>
 	</tr>
@@ -4632,7 +4632,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ED</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">BOCI</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/315. Vijay Shankar_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/315. Vijay Shankar_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/315. Vijay Shankar_Evolving Trends in Electric Mobility MW-scale.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/315. Vijay Shankar_Evolving Trends in Electric Mobility MW-scale.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBihVP">https://flic.kr/s/aHBqjBihVP</a></font></u></td>
 	</tr>
@@ -4665,7 +4665,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">AGM</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ISGF</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/317. Anand Singh_Digital Tools for DER Management.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/317. Anand Singh_Digital Tools for DER Management.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/317. Anand Singh_Digital Tools for DER Management.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/317. Anand Singh_Digital Tools for DER Management.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBimVD">https://flic.kr/s/aHBqjBimVD</a></font></u></td>
 	</tr>
@@ -4695,7 +4695,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">DG</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">APUA</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/320. Abel Tella_Digital Tools for DER Management.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/320. Abel Tella_Digital Tools for DER Management.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/320. Abel Tella_Digital Tools for DER Management.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/320. Abel Tella_Digital Tools for DER Management.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBimVD">https://flic.kr/s/aHBqjBimVD</a></font></u></td>
 	</tr>
@@ -4715,7 +4715,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000"><br></font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Auroville Consulting</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/322. Frano D'Silva_Digital Tools for DER Management.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/322. Frano D'Silva_Digital Tools for DER Management.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/322. Frano D'Silva_Digital Tools for DER Management.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/322. Frano D'Silva_Digital Tools for DER Management.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBimVD">https://flic.kr/s/aHBqjBimVD</a></font></u></td>
 	</tr>
@@ -4725,7 +4725,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Co-founder</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Trillectric</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/323. Arshi Chadha_Digital Tools for DER Management.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/323. Arshi Chadha_Digital Tools for DER Management.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/323. Arshi Chadha_Digital Tools for DER Management.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/323. Arshi Chadha_Digital Tools for DER Management.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBimVD">https://flic.kr/s/aHBqjBimVD</a></font></u></td>
 	</tr>
@@ -4874,7 +4874,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">CEO, IGL Genesis Technologies Ltd</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">(JV of Indraprastha Gas Ltd. and Genesis Gas Solutions Pvt Ltd.)</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/336. Anshumali Bhushan_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/336. Anshumali Bhushan_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/336. Anshumali Bhushan_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/336. Anshumali Bhushan_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikEq">https://flic.kr/s/aHBqjBikEq</a></font></u></td>
 	</tr>
@@ -4884,7 +4884,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">President</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Blue Desal</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/337. Tania Sole_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/337. Tania Sole_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/337. Tania Sole_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/337. Tania Sole_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikEq">https://flic.kr/s/aHBqjBikEq</a></font></u></td>
 	</tr>
@@ -4907,7 +4907,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">CEO</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Asset Plus</font></td>
 		<td  align="left" valign=top><font color="#000000">Moderator</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/339. Sumit Gupta_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/339. Sumit Gupta_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/339. Sumit Gupta_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/339. Sumit Gupta_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikEq">https://flic.kr/s/aHBqjBikEq</a></font></u></td>
 	</tr>
@@ -4917,7 +4917,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Managing Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Swach Environment Private Limited</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/340. Sourav Daspatnaik_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/340. Sourav Daspatnaik_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/340. Sourav Daspatnaik_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/340. Sourav Daspatnaik_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikEq">https://flic.kr/s/aHBqjBikEq</a></font></u></td>
 	</tr>
@@ -4927,7 +4927,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Associate Director - IoT BU</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Tata Communications</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/341. Dharmendra Tomar_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/341. Dharmendra Tomar_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/341. Dharmendra Tomar_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/341. Dharmendra Tomar_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikEq">https://flic.kr/s/aHBqjBikEq</a></font></u></td>
 	</tr>
@@ -4937,7 +4937,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Vice PresidentRegulatory, Corporate Affairs &amp; Risk Management</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">IGL</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/342. Raman Srivastava_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/342. Raman Srivastava_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/342. Raman Srivastava_Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/342. Raman Srivastava_Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikEq">https://flic.kr/s/aHBqjBikEq</a></font></u></td>
 	</tr>
@@ -4947,7 +4947,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Chief Information Officer</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Jindal Water Infra</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/343. Presentjit Mukherjee__Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/343. Presentjit Mukherjee__Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/343. Presentjit Mukherjee__Smart Utilities Integration-Electricity+City Gas+Water.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/343. Presentjit Mukherjee__Smart Utilities Integration-Electricity+City Gas+Water.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBikEq">https://flic.kr/s/aHBqjBikEq</a></font></u></td>
 	</tr>
@@ -5003,7 +5003,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Executive Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Climate Action Data Trust</font></td>
 		<td  align="left" valign=top><font color="#000000">Theme Presentation</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/347. Nithyanandam Yuvaraj Dinesh Babu_Power Markets and Carbon Markets.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/347. Nithyanandam Yuvaraj Dinesh Babu_Power Markets and Carbon Markets.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/347. Nithyanandam Yuvaraj Dinesh Babu_Power Markets and Carbon Markets.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/347. Nithyanandam Yuvaraj Dinesh Babu_Power Markets and Carbon Markets.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBikNM">https://flic.kr/s/aHBqjBikNM</a></font></u></td>
 	</tr>
@@ -5053,7 +5053,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Regional Representative for Central and South Asia</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Verra</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/352. Ashok Kumar_Power Markets and Carbon Markets.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/352. Ashok Kumar_Power Markets and Carbon Markets.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/352. Ashok Kumar_Power Markets and Carbon Markets.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/352. Ashok Kumar_Power Markets and Carbon Markets.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBikNM">https://flic.kr/s/aHBqjBikNM</a></font></u></td>
 	</tr>
@@ -5063,7 +5063,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Secretary General</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Carbon Markets Association of India</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/353. Rohit Kumar_Power Markets and Carbon Markets.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/353. Rohit Kumar_Power Markets and Carbon Markets.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/353. Rohit Kumar_Power Markets and Carbon Markets.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/353. Rohit Kumar_Power Markets and Carbon Markets.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBikNM">https://flic.kr/s/aHBqjBikNM</a></font></u></td>
 	</tr>
@@ -5086,7 +5086,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Chair- FICCI Power Committee</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Advisor-GMR Energy</font></td>
 		<td  align="left" valign=top><font color="#000000">Moderator</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/355. Prabir Neogi_Power Markets and Carbon Markets.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/355. Prabir Neogi_Power Markets and Carbon Markets.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/355. Prabir Neogi_Power Markets and Carbon Markets.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/355. Prabir Neogi_Power Markets and Carbon Markets.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#0000FF"><a href="https://flic.kr/s/aHBqjBikNM">https://flic.kr/s/aHBqjBikNM</a></font></u></td>
 	</tr>
@@ -5159,7 +5159,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Sr. Director &amp; Chief Investigator</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NaMPET C-DAC</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/361. Renji V. Chacko_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/361. Renji V. Chacko_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/361. Renji V. Chacko_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/361. Renji V. Chacko_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBijjo">https://flic.kr/s/aHBqjBijjo</a></font></u></td>
 	</tr>
@@ -5169,7 +5169,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Scientist G/Sr. Director</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">C-DAC-Thiruvananthapuram</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/362. Aby Joseph_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/362. Aby Joseph_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/362. Aby Joseph_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/362. Aby Joseph_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBijjo">https://flic.kr/s/aHBqjBijjo</a></font></u></td>
 	</tr>
@@ -5179,7 +5179,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">ScientistD </font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Ministry of Electronics and Information Technology</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/363. Om Krishan Singh_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/363. Om Krishan Singh_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/363. Om Krishan Singh_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/363. Om Krishan Singh_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBijjo">https://flic.kr/s/aHBqjBijjo</a></font></u></td>
 	</tr>
@@ -5189,7 +5189,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Associate Professor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">IISc Bangalore</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/364. Gurunath Gurala_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/364. Gurunath Gurala_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/364. Gurunath Gurala_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/364. Gurunath Gurala_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBijjo">https://flic.kr/s/aHBqjBijjo</a></font></u></td>
 	</tr>
@@ -5199,7 +5199,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Associate Professor</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">VNIT Nagpur</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/365. Ritesh Kumar Keshri_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/365. Ritesh Kumar Keshri_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/365. Ritesh Kumar Keshri_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/365. Ritesh Kumar Keshri_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBijjo">https://flic.kr/s/aHBqjBijjo</a></font></u></td>
 	</tr>
@@ -5209,7 +5209,7 @@
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Senior Manager, Industry Solutions (APAC)</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">Autogrid part of Uplight</font></td>
 		<td  align="left" valign=top><font color="#000000">Speaker</font></td>
-		<td><a href="https://isuw.in/public/uploads/presentations-2023/366. Vishwajeet Singh_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/public/uploads/presentations-2023/366. Vishwajeet Singh_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
+		<td><a href="https://isuw.in/uploads/presentations-2023/366. Vishwajeet Singh_Evolving Trends in Utility Automation.pdf" target="_blank">View/</a><a href="https://isuw.in/uploads/presentations-2023/366. Vishwajeet Singh_Evolving Trends in Utility Automation.pdf" download>Download</a></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><font color="#000000">NA</font></td>
 		<td  align="left" valign=top bgcolor="#FFFFFF"><u><font color="#000000"><a href="https://flic.kr/s/aHBqjBijjo">https://flic.kr/s/aHBqjBijjo</a></font></u></td>
 	</tr>

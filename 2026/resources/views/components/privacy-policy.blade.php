@@ -12,7 +12,7 @@ color:#F60;
 </style>
 <div class="k_cheading">
 		<h1>ISUW <span class="k_greencolor">Privacy Policy</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <div class="welcome-content">
 <p style="text-align:justify;">This privacy policy sets the terms of use and protection of information provided by any user to ISGF. ISGF is committed to protecting the privacy of its users. All information required for use of this site, that can identify a user, will be used in accordance with this privacy statement.</p>

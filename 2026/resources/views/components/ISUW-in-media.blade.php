@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW<span class="k_greencolor"> Media Coverage</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 <table align="left" cellspacing="0" border="0" style="width:100%">
 			
@@ -23,7 +23,7 @@
 		<td>ISUW 2022 Media Coverage</td>
 		<td>WindowtoNews</font></td>
 		<td>Online</font></td>
-		<td><a href="http://windowtonews.com/pr-newswire-english.php?rkey=20220222EN67904&amp;filter=19687"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://windowtonews.com/pr-newswire-english.php?rkey=20220222EN67904&amp;filter=19687"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2022</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -32,7 +32,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Webindia123.com</font></td>
 		<td>Online</font></td>
-		<td><a href="https://news.webindia123.com/news/press_showdetailsPR.asp?id=1237073"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://news.webindia123.com/news/press_showdetailsPR.asp?id=1237073"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2023</font></td>
 		<td>Trade Publications</font></td>
 		<td>Financial</font></td>
@@ -41,7 +41,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Web-scale Networking</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.webscalenetworking.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.webscalenetworking.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2024</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -50,7 +50,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>VAR India</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.varindia.com/news/press--pr-news-wire?rkey=20220222EN67904&amp;filter=537" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.varindia.com/news/press--pr-news-wire?rkey=20220222EN67904&amp;filter=537" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2025</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -59,7 +59,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Uttarakhand News Network</font></td>
 		<td>Online</font></td>
-		<td><a href="https://uttarakhandnewsnetwork.com/press-release-pr-news-wire/?rkey=20220222EN67904&amp;filter=14497" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://uttarakhandnewsnetwork.com/press-release-pr-news-wire/?rkey=20220222EN67904&amp;filter=14497" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2026</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -68,7 +68,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>United News of India [UNI]</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.uniindia.net/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/prnewswire/news/2660976.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.uniindia.net/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/prnewswire/news/2660976.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2027</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -77,7 +77,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Unified Communications</font></td>
 		<td>Online</font></td>
-		<td><a href="http://unified-communications.tmcnet.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://unified-communications.tmcnet.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2028</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -86,7 +86,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Tripuraindia</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.tripuraindia.in/press-release?rkey=20220222EN67904&amp;filter=18753" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.tripuraindia.in/press-release?rkey=20220222EN67904&amp;filter=18753" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2029</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -95,7 +95,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>TripCast360</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.tripcast360.com/global-travel/?rkey=20220222EN67904&amp;filter=22577" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.tripcast360.com/global-travel/?rkey=20220222EN67904&amp;filter=22577" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2030</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Travel &amp; Leisure</font></td>
@@ -104,7 +104,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Travel Trends Today</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.traveltrendstoday.in/resource-center/pr-news-wire?rkey=20220222EN67904&amp;filter=19655" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.traveltrendstoday.in/resource-center/pr-news-wire?rkey=20220222EN67904&amp;filter=19655" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2031</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Travel &amp; Leisure</font></td>
@@ -113,7 +113,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Tourism Interface</font></td>
 		<td>Online</font></td>
-		<td><a href="http://tourisminterface.com/pr-newswire/?rkey=20220222EN67904&amp;filter=1689" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://tourisminterface.com/pr-newswire/?rkey=20220222EN67904&amp;filter=1689" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2032</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Travel &amp; Leisure</font></td>
@@ -122,7 +122,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.tmcnet.com/usubmit/2022/02/22/9550246.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.tmcnet.com/usubmit/2022/02/22/9550246.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2033</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -131,7 +131,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Times Tech</font></td>
 		<td>Online</font></td>
-		<td><a href="http://timestech.in/trends-forecast/?rkey=20220222EN67904&amp;filter=15939" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://timestech.in/trends-forecast/?rkey=20220222EN67904&amp;filter=15939" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2034</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -140,7 +140,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Thinking Tech</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.thinkingtech.in/pr-newswire/?rkey=20220222EN67904&amp;filter=17106" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.thinkingtech.in/pr-newswire/?rkey=20220222EN67904&amp;filter=17106" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2035</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -149,7 +149,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>TheIndiaBizz</font></td>
 		<td>Online</font></td>
-		<td><a href="https://theindiabizz.com/pr-newswire/?rkey=20220222EN67904&amp;filter=22970" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://theindiabizz.com/pr-newswire/?rkey=20220222EN67904&amp;filter=22970" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2036</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -158,7 +158,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>The-Good News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://the-good.in/pr-newswire/?rkey=20220222EN67904&amp;filter=22019" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://the-good.in/pr-newswire/?rkey=20220222EN67904&amp;filter=22019" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2037</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -167,7 +167,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>The Tech Shied</font></td>
 		<td>Online</font></td>
-		<td><a href="https://thetechshield.com/pr-newswire/?rkey=20220222EN67904&amp;filter=23184" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://thetechshield.com/pr-newswire/?rkey=20220222EN67904&amp;filter=23184" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2038</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -176,7 +176,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>The Tech Portal</font></td>
 		<td>Online</font></td>
-		<td><a href="https://thetechportal.com/press-releases-pr-newswire/?rkey=20220222EN67904&amp;filter=1985" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://thetechportal.com/press-releases-pr-newswire/?rkey=20220222EN67904&amp;filter=1985" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2039</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -185,7 +185,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>The Reporting Today</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.thereportingtoday.com/newswire/?rkey=20220222EN67904&amp;filter=20784" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.thereportingtoday.com/newswire/?rkey=20220222EN67904&amp;filter=20784" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2040</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -194,7 +194,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>The News Watch</font></td>
 		<td>Online</font></td>
-		<td><a href="http://thenewswatch.co.in/wp/pr-newswire/?rkey=20220222EN67904&amp;filter=20254" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://thenewswatch.co.in/wp/pr-newswire/?rkey=20220222EN67904&amp;filter=20254" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2041</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -203,7 +203,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>The Luxury Chronicle</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.theluxurychronicle.com/pr-newswire?rkey=20220222EN67904&amp;filter=21435" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.theluxurychronicle.com/pr-newswire?rkey=20220222EN67904&amp;filter=21435" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2042</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Retail &amp; Consumer</font></td>
@@ -212,7 +212,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>The Hotel Times</font></td>
 		<td>Online</font></td>
-		<td><a href="http://thehoteltimes.in/international/?rkey=20220222EN67904&amp;filter=2043" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://thehoteltimes.in/international/?rkey=20220222EN67904&amp;filter=2043" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2043</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Travel &amp; Leisure</font></td>
@@ -221,7 +221,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>The Crypto 9</font></td>
 		<td>Online</font></td>
-		<td><a href="https://thecrypto9.com/prnw/?rkey=20220222EN67904&amp;filter=23534" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://thecrypto9.com/prnw/?rkey=20220222EN67904&amp;filter=23534" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2044</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Financial</font></td>
@@ -230,7 +230,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Technology News @ TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="http://technews.tmcnet.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://technews.tmcnet.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2045</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -239,7 +239,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>TechGenYZ</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.techgenyz.com/pr-newswire/?rkey=20220222EN67904&amp;filter=6463" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.techgenyz.com/pr-newswire/?rkey=20220222EN67904&amp;filter=6463" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2046</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -248,7 +248,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Startup Reporter</font></td>
 		<td>Online</font></td>
-		<td><a href="https://startupreporter.in/breaking-news/press-releases/?rkey=20220222EN67904&amp;filter=21583" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://startupreporter.in/breaking-news/press-releases/?rkey=20220222EN67904&amp;filter=21583" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2047</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -257,7 +257,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Startagist</font></td>
 		<td>Online</font></td>
-		<td><a href="https://startagist.com/pr-newswire/?rkey=20220222EN67904&amp;filter=20995" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://startagist.com/pr-newswire/?rkey=20220222EN67904&amp;filter=20995" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2048</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Business Services</font></td>
@@ -266,7 +266,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>SP Times</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.sptimes.in/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23469" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.sptimes.in/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23469" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2049</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -275,7 +275,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Solar Times</font></td>
 		<td>Online</font></td>
-		<td><a href="https://solartimes.in/pr-newswire/?rkey=20220222EN67904&amp;filter=20804" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://solartimes.in/pr-newswire/?rkey=20220222EN67904&amp;filter=20804" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2050</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Energy and Natural Resources</font></td>
@@ -284,7 +284,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Solar Surge</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.solarsurge.in/pr-newswire/?rkey=20220222EN67904&amp;filter=17110" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.solarsurge.in/pr-newswire/?rkey=20220222EN67904&amp;filter=17110" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2051</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Energy and Natural Resources</font></td>
@@ -293,7 +293,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Social News XYZ</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.socialnews.xyz/pr-newswire/?rkey=20220222EN67904&amp;filter=15405" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.socialnews.xyz/pr-newswire/?rkey=20220222EN67904&amp;filter=15405" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2052</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -302,7 +302,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>SME Street</font></td>
 		<td>Online</font></td>
-		<td><a href="https://smestreet.in/infocus/prnewswireindia/?rkey=20220222EN67904&amp;filter=15935" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://smestreet.in/infocus/prnewswireindia/?rkey=20220222EN67904&amp;filter=15935" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2053</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -311,7 +311,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>SKAL International</font></td>
 		<td>Online</font></td>
-		<td><a href="https://skal.org/pr-newswire?rkey=20220222EN67904&amp;filter=21003" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://skal.org/pr-newswire?rkey=20220222EN67904&amp;filter=21003" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2054</font></td>
 		<td>Industry Association Sites</font></td>
 		<td>Travel &amp; Leisure</font></td>
@@ -320,7 +320,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Satellite @ TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="http://satellite.tmcnet.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://satellite.tmcnet.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2055</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -329,7 +329,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Sangri Today</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.sangritoday.com/prnewswire?rkey=20220222EN67904&amp;filter=22762" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.sangritoday.com/prnewswire?rkey=20220222EN67904&amp;filter=22762" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2056</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -338,7 +338,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Sangri Times</font></td>
 		<td>Online</font></td>
-		<td><a href="https://en.sangritimes.com/prnewswire?rkey=20220222EN67904&amp;filter=21009" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://en.sangritimes.com/prnewswire?rkey=20220222EN67904&amp;filter=21009" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2057</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -347,7 +347,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Sambad English</font></td>
 		<td>Online</font></td>
-		<td><a href="https://sambadenglish.com/prnews/?rkey=20220222EN67904&amp;filter=4968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://sambadenglish.com/prnews/?rkey=20220222EN67904&amp;filter=4968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2058</font></td>
 		<td>Newspaper</font></td>
 		<td>Media &amp; Information</font></td>
@@ -356,7 +356,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Samachar Live</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.samacharlive.com/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.samacharlive.com/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2059</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -365,7 +365,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Review Street</font></td>
 		<td>Online</font></td>
-		<td><a href="https://reviewstreet.in/news-reviews-mobiles-gadgets-pcs-automobile/prnewswireindia/?rkey=20220222EN67904&amp;filter=15937" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://reviewstreet.in/news-reviews-mobiles-gadgets-pcs-automobile/prnewswireindia/?rkey=20220222EN67904&amp;filter=15937" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2060</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -374,7 +374,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Reporters Today</font></td>
 		<td>Online</font></td>
-		<td><a href="https://englishnews.reporterstoday.com/pr-newswire/?rkey=20220222EN67904&amp;filter=20068" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://englishnews.reporterstoday.com/pr-newswire/?rkey=20220222EN67904&amp;filter=20068" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2061</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -383,7 +383,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Report Story</font></td>
 		<td>Online</font></td>
-		<td><a href="https://reportstory.com/pr-newswire/?rkey=20220222EN67904&amp;filter=19806" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://reportstory.com/pr-newswire/?rkey=20220222EN67904&amp;filter=19806" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2062</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -392,7 +392,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Report Odisha</font></td>
 		<td>Online</font></td>
-		<td><a href="https://reportodisha.com/press-releases/?rkey=20220222EN67904&amp;filter=19014" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://reportodisha.com/press-releases/?rkey=20220222EN67904&amp;filter=19014" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2063</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -401,7 +401,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>ReadBox</font></td>
 		<td>Online</font></td>
-		<td><a href="https://readbox.in/pr-newswire/?rkey=20220222EN67904&amp;filter=22117" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://readbox.in/pr-newswire/?rkey=20220222EN67904&amp;filter=22117" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2064</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -410,7 +410,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Rajasthan Horizon</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.rajasthanhorizon.com/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23459" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.rajasthanhorizon.com/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23459" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2065</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -419,7 +419,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Press Trust of India</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.ptinews.com/pressrelease/53214_press-subannouncing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02---04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.ptinews.com/pressrelease/53214_press-subannouncing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02---04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2066</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -428,7 +428,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Prativad</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.prativad.com/Newswireeng.php?rkey=20220222EN67904&amp;filter=19411" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.prativad.com/Newswireeng.php?rkey=20220222EN67904&amp;filter=19411" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2067</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -437,7 +437,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>PR Newswire</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.prnewswire.com/in/news-releases/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022-812528031.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.prnewswire.com/in/news-releases/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022-812528031.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2068</font></td>
 		<td>PR Newswire</font></td>
 		<td>Media &amp; Information</font></td>
@@ -446,7 +446,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>PNN - Paper News Network</font></td>
 		<td>Online</font></td>
-		<td><a href="https://papernewsnetwork.com/technology-news/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/#respond" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://papernewsnetwork.com/technology-news/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/#respond" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2069</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -455,7 +455,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>PNN - Paper News Network</font></td>
 		<td>Online</font></td>
-		<td><a href="https://papernewsnetwork.com/technology-news/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://papernewsnetwork.com/technology-news/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2070</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -464,7 +464,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>PerfectNewsLive</font></td>
 		<td>Online</font></td>
-		<td><a href="https://perfectnews.live/prnewswire/?rkey=20220222EN67904&amp;filter=21266" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://perfectnews.live/prnewswire/?rkey=20220222EN67904&amp;filter=21266" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2071</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -473,7 +473,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Outbound Call Center @ TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="http://outbound-call-center.tmcnet.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://outbound-call-center.tmcnet.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2072</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -482,7 +482,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>One News Page Global Edition</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.onenewspage.com/prnewswire.php?rkey=20220222EN67904&amp;filter=3968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.onenewspage.com/prnewswire.php?rkey=20220222EN67904&amp;filter=3968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2073"></font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -491,7 +491,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Odisha Ray</font></td>
 		<td>Online</font></td>
-		<td><a href="http://odisharay.com/pressreleases.php?rkey=20220222EN67904&amp;filter=20944" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://odisharay.com/pressreleases.php?rkey=20220222EN67904&amp;filter=20944" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2074</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -500,7 +500,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Odisha News Tune</font></td>
 		<td>Online</font></td>
-		<td><a href="http://odishanewstune.com/press-releases/?rkey=20220222EN67904&amp;filter=19427" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://odishanewstune.com/press-releases/?rkey=20220222EN67904&amp;filter=19427" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2075</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -509,7 +509,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Odisha Bytes</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.odishabytes.com/pr-newswire/?rkey=20220222EN67904&amp;filter=18897" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.odishabytes.com/pr-newswire/?rkey=20220222EN67904&amp;filter=18897" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2076</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -518,7 +518,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>ODISHA BARTA</font></td>
 		<td>Online</font></td>
-		<td><a href="https://odishabarta.com/press-release/?rkey=20220222EN67904&amp;filter=20444" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://odishabarta.com/press-release/?rkey=20220222EN67904&amp;filter=20444" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2077</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -527,7 +527,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>NRI News 24 x 7</font></td>
 		<td>Online</font></td>
-		<td><a href="https://nrinews24x7.com/pr-news/?rkey=20220222EN67904&amp;filter=4972" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://nrinews24x7.com/pr-news/?rkey=20220222EN67904&amp;filter=4972" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2078</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -536,7 +536,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>NMK World</font></td>
 		<td>Online</font></td>
-		<td><a href="https://nmk.world/prnw/?rkey=20220222EN67904&amp;filter=23440" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://nmk.world/prnw/?rkey=20220222EN67904&amp;filter=23440" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2079</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -545,7 +545,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>NewZNew</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.newznew.com/press-releases/?rkey=20220222EN67904&amp;filter=16908" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.newznew.com/press-releases/?rkey=20220222EN67904&amp;filter=16908" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2080</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -554,7 +554,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>NewsR.in</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.newsr.in/prnewswire.php?rkey=20220222EN67904&amp;filter=5070" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.newsr.in/prnewswire.php?rkey=20220222EN67904&amp;filter=5070" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2081</font></td>
 		<td>Newspaper</font></td>
 		<td>Media &amp; Information</font></td>
@@ -563,7 +563,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>NewsOnFloor</font></td>
 		<td>Online</font></td>
-		<td><a href="https://newsonfloor.com/newsdetail/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02--04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022-68962.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://newsonfloor.com/newsdetail/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02--04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022-68962.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2082</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Medical/Healthcare</font></td>
@@ -572,7 +572,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>NewsControlRoom</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.newscontrolroom.com/pr-newswire/?rkey=20220222EN67904&amp;filter=19537" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.newscontrolroom.com/pr-newswire/?rkey=20220222EN67904&amp;filter=19537" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2083</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -581,7 +581,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>NewsBlare</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.newsblare.com/pr-newswire/?rkey=20220222EN67904&amp;filter=20902" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.newsblare.com/pr-newswire/?rkey=20220222EN67904&amp;filter=20902" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2084</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -591,7 +591,7 @@
 		<td>News Superfast</font></td>
 		<td>Online</font></td>
 		<td><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20220222EN67904&amp;filter=10033</font></td>
-		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2085" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2085" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
 	</tr>
@@ -599,7 +599,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>News Deck</font></td>
 		<td>Online</font></td>
-		<td><a href="https://newsdeck.in/pressreleases/?rkey=20220222EN67904&amp;filter=22015" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://newsdeck.in/pressreleases/?rkey=20220222EN67904&amp;filter=22015" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2086</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -608,7 +608,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>News Chronicle</font></td>
 		<td>Online</font></td>
-		<td><a href="https://newschronicle.in/pr-newswire/?rkey=20220222EN67904&amp;filter=20256" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://newschronicle.in/pr-newswire/?rkey=20220222EN67904&amp;filter=20256" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2087</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -617,7 +617,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>New Delhi Times</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.newdelhitimes.com/news-release/?rkey=20220222EN67904&amp;filter=5147" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.newdelhitimes.com/news-release/?rkey=20220222EN67904&amp;filter=5147" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2088</font></td>
 		<td>Newspaper</font></td>
 		<td>Media &amp; Information</font></td>
@@ -626,7 +626,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Nasheman</font></td>
 		<td>Online</font></td>
-		<td><a href="http://nasheman.in/newswire/?rkey=20220222EN67904&amp;filter=11016" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://nasheman.in/newswire/?rkey=20220222EN67904&amp;filter=11016" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2089</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -635,7 +635,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>MyBrandBook</font></td>
 		<td>Online</font></td>
-		<td><a href="https://mybrandbook.co.in/redirect.php?p=11431&amp;rkey=20220222EN67904&amp;filter=19999" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://mybrandbook.co.in/redirect.php?p=11431&amp;rkey=20220222EN67904&amp;filter=19999" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2090</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -644,7 +644,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>MotorZest</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.motorzest.com/p/prnewswire.html?rkey=20220222EN67904&amp;filter=5595" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.motorzest.com/p/prnewswire.html?rkey=20220222EN67904&amp;filter=5595" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2091</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Transportation/Logistics</font></td>
@@ -653,7 +653,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Marudhara Bharti</font></td>
 		<td>Online</font></td>
-		<td><a href="https://en.marudharabharti.com/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23205" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://en.marudharabharti.com/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23205" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2092</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -662,7 +662,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Mangalorean</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.mangalorean.com/pr-newswire/?rkey=20220222EN67904&amp;filter=17665" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.mangalorean.com/pr-newswire/?rkey=20220222EN67904&amp;filter=17665" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2093</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -671,7 +671,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Live Chronicle</font></td>
 		<td>Online</font></td>
-		<td><a href="https://livechronicle.in/pr-newswire/?rkey=20220222EN67904&amp;filter=22011" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://livechronicle.in/pr-newswire/?rkey=20220222EN67904&amp;filter=22011" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2094</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -680,7 +680,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>LifeandTrendz</font></td>
 		<td>Online</font></td>
-		<td><a href="https://lifeandtrendz.com/news/prnewswire/?rkey=20220222EN67904&amp;amp;filter=22944" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://lifeandtrendz.com/news/prnewswire/?rkey=20220222EN67904&amp;amp;filter=22944" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2095</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Entertainment</font></td>
@@ -689,7 +689,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>KhabarLive - Hyderabad News</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.hydnews.net/pr-newswire?rkey=20220222EN67904&amp;filter=20977" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.hydnews.net/pr-newswire?rkey=20220222EN67904&amp;filter=20977" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2096</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -698,7 +698,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Jimmys Post</font></td>
 		<td>Online</font></td>
-		<td><a href="https://jimmyspost.com/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://jimmyspost.com/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2097</font></td>
 		<td>Blog</font></td>
 		<td>Tech</font></td>
@@ -707,7 +707,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Jalore Live - English</font></td>
 		<td>Online</font></td>
-		<td><a href="https://en.jalorelive.com/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23504" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://en.jalorelive.com/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23504" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2098</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -716,7 +716,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>IT News Online</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.itnewsonline.com/PRNewswire/Announcing-Symposium-of-Experts-on-Smart-Energy-and-Smart-Mobility-from-02---04-March-2022-at-the-8th-Edition-of-India-Smart-Utility-Week-2022/820496" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.itnewsonline.com/PRNewswire/Announcing-Symposium-of-Experts-on-Smart-Energy-and-Smart-Mobility-from-02---04-March-2022-at-the-8th-Edition-of-India-Smart-Utility-Week-2022/820496" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2099</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -725,7 +725,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>InstaNews 24x7</font></td>
 		<td>Online</font></td>
-		<td><a href="https://english.instanews24x7.com/press-releases?rkey=20220222EN67904&amp;filter=20045" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://english.instanews24x7.com/press-releases?rkey=20220222EN67904&amp;filter=20045" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2100</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -734,7 +734,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Insight Online News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://insightonlinenews.in/english-press-release/?rkey=20220222EN67904&amp;filter=20283" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://insightonlinenews.in/english-press-release/?rkey=20220222EN67904&amp;filter=20283" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2101</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -743,7 +743,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Indore Dil Se</font></td>
 		<td>Online</font></td>
-		<td><a href="http://indoredilse.com/english-news/?rkey=20220222EN67904&amp;filter=10474" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://indoredilse.com/english-news/?rkey=20220222EN67904&amp;filter=10474" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2102</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -752,7 +752,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Indian Power Sector</font></td>
 		<td>Online</font></td>
-		<td><a href="http://indianpowersector.com/prnews/?rkey=20220222EN67904&amp;filter=4997" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://indianpowersector.com/prnews/?rkey=20220222EN67904&amp;filter=4997" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2103</font></td>
 		<td>Trade Publications</font></td>
 		<td>Energy and Natural Resources</font></td>
@@ -762,7 +762,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Indian Nerve</font></td>
 		<td>Online</font></td>
-		<td><a href="http://indiannerve.com/in-press/?rkey=20220222EN67904&amp;filter=6492" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://indiannerve.com/in-press/?rkey=20220222EN67904&amp;filter=6492" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2104</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -771,7 +771,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Indian Catwalk</font></td>
 		<td>Online</font></td>
-		<td><a href="http://indiancatwalk.com/press-release/?rkey=20220222EN67904&amp;filter=22868" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://indiancatwalk.com/press-release/?rkey=20220222EN67904&amp;filter=22868" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2105</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Retail &amp; Consumer</font></td>
@@ -780,7 +780,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>India Today</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.indiatoday.in/pr-newswire?rkey=20220222EN67904&amp;filter=4315" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.indiatoday.in/pr-newswire?rkey=20220222EN67904&amp;filter=4315" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2106</font></td>
 		<td>Magazine</font></td>
 		<td>Media &amp; Information</font></td>
@@ -789,7 +789,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>India Online</font></td>
 		<td>Online</font></td>
-		<td><a href="http://news.indiaonline.in/prnewswire?rkey=20220222EN67904&amp;filter=4991" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://news.indiaonline.in/prnewswire?rkey=20220222EN67904&amp;filter=4991" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2107</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -798,7 +798,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>India Briefing</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.india-briefing.com/news/partnernews/?rkey=20220222EN67904&amp;filter=3400" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.india-briefing.com/news/partnernews/?rkey=20220222EN67904&amp;filter=3400" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2108</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Financial</font></td>
@@ -807,7 +807,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>IMP News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://imp.news/prnw/?rkey=20220222EN67904&amp;filter=23444" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://imp.news/prnw/?rkey=20220222EN67904&amp;filter=23444" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2109</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -816,7 +816,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>IBTN9</font></td>
 		<td>Online</font></td>
-		<td><a href="https://ibtn9.com/pr-newswire/?rkey=20220222EN67904&amp;filter=12202" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://ibtn9.com/pr-newswire/?rkey=20220222EN67904&amp;filter=12202" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2110</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -825,7 +825,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>IBG News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://ibgnews.com/pr-newswire-news/?rkey=20220222EN67904&amp;filter=19585" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://ibgnews.com/pr-newswire-news/?rkey=20220222EN67904&amp;filter=19585" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2111</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -834,7 +834,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>IANS [Indo-Asian News Service]</font></td>
 		<td>Online</font></td>
-		<td><a href="https://ians.in/prnewswiredetail/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-/prn-1153336.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://ians.in/prnewswiredetail/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-/prn-1153336.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2112</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -843,7 +843,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>HT Syndication</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.htsyndication.com/pr-newswire/article/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02---04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/58654043" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.htsyndication.com/pr-newswire/article/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02---04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/58654043" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2113</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -852,7 +852,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Holiday Times</font></td>
 		<td>Online</font></td>
-		<td><a href="https://holidaytimes.in/pr-newswire/?rkey=20220222EN67904&amp;filter=20802" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://holidaytimes.in/pr-newswire/?rkey=20220222EN67904&amp;filter=20802" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2114</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Travel &amp; Leisure</font></td>
@@ -861,7 +861,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Hello Mumbai</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.hellomumbainews.com/hello-business/?rkey=20220222EN67904&amp;filter=12313" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.hellomumbainews.com/hello-business/?rkey=20220222EN67904&amp;filter=12313" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2115</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -870,7 +870,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Hamarasamachar</font></td>
 		<td>Online</font></td>
-		<td><a href="https://en.hamarasamachar.in/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23471" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://en.hamarasamachar.in/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23471" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2116</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -879,7 +879,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>GroundReport</font></td>
 		<td>Online</font></td>
-		<td><a href="https://groundreport.in/pr-news-english-2/?rkey=20220222EN67904&amp;filter=20940" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://groundreport.in/pr-news-english-2/?rkey=20220222EN67904&amp;filter=20940" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2117</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -888,7 +888,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Good Report </font></td>
 		<td>Online</font></td>
-		<td><a href="https://goodreport.in/pr-newswire/?rkey=20220222EN67904&amp;filter=22013" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://goodreport.in/pr-newswire/?rkey=20220222EN67904&amp;filter=22013" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2118</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -897,7 +897,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Go Earth</font></td>
 		<td>Online</font></td>
-		<td><a href="https://goearth.in/pr-newswire/?rkey=20220222EN67904&amp;filter=20252" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://goearth.in/pr-newswire/?rkey=20220222EN67904&amp;filter=20252" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2119</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -906,7 +906,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Global Prime News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://globalprimenews.com/prnewswire/?rkey=20220222EN67904&amp;filter=19416" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://globalprimenews.com/prnewswire/?rkey=20220222EN67904&amp;filter=19416" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2120</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -915,7 +915,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>FUNTRAFOO</font></td>
 		<td>Online</font></td>
-		<td><a href="https://funtrafoo.com/daily-feeds/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/33395/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://funtrafoo.com/daily-feeds/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/33395/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2121</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -924,7 +924,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Falcon News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.falconnews.net/pr-newswire?rkey=20220222EN67904&amp;filter=23363" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.falconnews.net/pr-newswire?rkey=20220222EN67904&amp;filter=23363" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2122</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -933,7 +933,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Estrade</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.estrade.in/news/pr-newswire/?rkey=20220222EN67904&amp;filter=4950" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.estrade.in/news/pr-newswire/?rkey=20220222EN67904&amp;filter=4950" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2123</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -942,7 +942,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Enterprise World News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://enterpriseworldnews.com/pr-newswire/?rkey=20220222EN67904&amp;filter=19539" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://enterpriseworldnews.com/pr-newswire/?rkey=20220222EN67904&amp;filter=19539" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2124</font></td>
 		<td>Banking &amp; Financial Institutions</font></td>
 		<td>Media &amp; Information</font></td>
@@ -951,7 +951,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Earth News4U</font></td>
 		<td>Online</font></td>
-		<td><a href="https://earthnews4u.com/pr-newswire/?rkey=20220222EN67904&amp;filter=20250" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://earthnews4u.com/pr-newswire/?rkey=20220222EN67904&amp;filter=20250" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2125</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -960,7 +960,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Dkoding</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.dkoding.in/press-release/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.dkoding.in/press-release/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2126</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -969,7 +969,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Digital Conqurer</font></td>
 		<td>Online</font></td>
-		<td><a href="https://digitalconqurer.com/prnewswire/telecom/?rkey=20220222EN67904&amp;filter=3835" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://digitalconqurer.com/prnewswire/telecom/?rkey=20220222EN67904&amp;filter=3835" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2127</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -978,7 +978,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Digital Conqurer</font></td>
 		<td>Online</font></td>
-		<td><a href="https://digitalconqurer.com/prnewswire/technology/?rkey=20220222EN67904&amp;filter=3833" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://digitalconqurer.com/prnewswire/technology/?rkey=20220222EN67904&amp;filter=3833" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2128</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -987,7 +987,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Dalal Street Investment Journal</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.dsij.in/newswiredetails.aspx?FileName=202202222230PR_NEWS_EURO_ND__EN67904" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.dsij.in/newswiredetails.aspx?FileName=202202222230PR_NEWS_EURO_ND__EN67904" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2129</font></td>
 		<td>Financial Data, Research &amp; Analytics</font></td>
 		<td>Financial</font></td>
@@ -996,7 +996,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Crack of Dawn</font></td>
 		<td>Online</font></td>
-		<td><a href="https://crackofdawn.in/press-release/?rkey=20220222EN67904&amp;filter=20900" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://crackofdawn.in/press-release/?rkey=20220222EN67904&amp;filter=20900" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2130</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1005,7 +1005,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Communications as a Service [CaaS] @ TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="http://caas.tmcnet.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://caas.tmcnet.com/news/2022/02/22/9550246.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2131</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -1014,7 +1014,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Car Sizzler</font></td>
 		<td>Online</font></td>
-		<td><a href="http://carsizzler.com/prnews?rkey=20220222EN67904&amp;filter=1709" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://carsizzler.com/prnews?rkey=20220222EN67904&amp;filter=1709" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2132</font></td>
 		<td>Trade Publications</font></td>
 		<td>Transportation/Logistics</font></td>
@@ -1023,7 +1023,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Business Views</font></td>
 		<td>Online</font></td>
-		<td><a href="http://businessviews.in/business-views-press-release-news/?rkey=20220222EN67904&amp;filter=908" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://businessviews.in/business-views-press-release-news/?rkey=20220222EN67904&amp;filter=908" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2133</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1032,7 +1032,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Business Upturn</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.businessupturn.com/brand-post/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.businessupturn.com/brand-post/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2134</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1041,7 +1041,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Business Today India</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.businesstoday.in/prnewswire/?rkey=20220222EN67904&amp;filter=2418" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.businesstoday.in/prnewswire/?rkey=20220222EN67904&amp;filter=2418" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2135</font></td>
 		<td>Trade Publications</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1050,7 +1050,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Business Sandesh</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.businesssandesh.in/breaking-news/?rkey=20220222EN67904&amp;filter=7621" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.businesssandesh.in/breaking-news/?rkey=20220222EN67904&amp;filter=7621" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2136</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1059,7 +1059,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Business News This Week</font></td>
 		<td>Online</font></td>
-		<td><a href="http://businessnewsthisweek.com/prnews/?rkey=20220222EN67904&amp;filter=601" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://businessnewsthisweek.com/prnews/?rkey=20220222EN67904&amp;filter=601" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2137</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1068,7 +1068,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>BizNext India</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.biznextindia.com/pr-newswire/?rkey=20220222EN67904&amp;filter=19403" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.biznextindia.com/pr-newswire/?rkey=20220222EN67904&amp;filter=19403" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2138</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1077,7 +1077,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Biz Wire Express</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20220222EN67904&amp;filter=2276" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20220222EN67904&amp;filter=2276" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2139</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1086,7 +1086,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Biharprabha News</font></td>
 		<td>Online</font></td>
-		<td><a href="http://news.biharprabha.com/prnewswire/?rkey=20220222EN67904&amp;filter=2270" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://news.biharprabha.com/prnewswire/?rkey=20220222EN67904&amp;filter=2270" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2140</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1095,7 +1095,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Bangalore Waves</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news.php?rkey=20220222EN67904&amp;filter=2267" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news.php?rkey=20220222EN67904&amp;filter=2267" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2141</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Tech</font></td>
@@ -1104,7 +1104,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>At Crypto</font></td>
 		<td>Online</font></td>
-		<td><a href="https://atcrypto.org/prnw/?rkey=20220222EN67904&amp;filter=23535" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://atcrypto.org/prnw/?rkey=20220222EN67904&amp;filter=23535" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2142</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Financial</font></td>
@@ -1113,7 +1113,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Asianbuck</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20220222EN67904&amp;filter=8421" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20220222EN67904&amp;filter=8421" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2143</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1122,7 +1122,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Ashley Yeen </font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.ashleyyeen.com/p/prnewswire.html?rkey=20220222EN67904&amp;filter=4674" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.ashleyyeen.com/p/prnewswire.html?rkey=20220222EN67904&amp;filter=4674" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2144</font></td>
 		<td>Blog</font></td>
 		<td>Retail &amp; Consumer</font></td>
@@ -1131,7 +1131,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Agrigate Global</font></td>
 		<td>Online</font></td>
-		<td><a href="https://agrigateglobal.com/press-release/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://agrigateglobal.com/press-release/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2145</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Environment</font></td>
@@ -1140,7 +1140,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>AGR News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.agrnews.in/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23473"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.agrnews.in/p/prnewswire.html?rkey=20220222EN67904&amp;filter=23473"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2146</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1149,7 +1149,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Abijita Foundation</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.abijita.com/prnewswire/?rkey=20220222EN67904&amp;filter=22773"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.abijita.com/prnewswire/?rkey=20220222EN67904&amp;filter=22773"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on Smart Energy and Smart Mobility from 02 – 04 March 2022 at the 8th Edition of India Smart Utility Week 2147</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -1158,7 +1158,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Abijita Foundation</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.abijita.com/prnewswire/?rkey=20220222EN67904&amp;amp;filter=22773&amp;Announcing%20Symposium%20of%20Experts%20on%20Smart%20Energy%20and%20Smart%20Mobility%20from%2002%20-%2004%20March%202022%20at%20the%208th%20Edition%20of%20India%20Smart%20Utility%20Week%202022" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="https://www.abijita.com/prnewswire/?rkey=20220222EN67904&amp;amp;filter=22773&amp;Announcing%20Symposium%20of%20Experts%20on%20Smart%20Energy%20and%20Smart%20Mobility%20from%2002%20-%2004%20March%202022%20at%20the%208th%20Edition%20of%20India%20Smart%20Utility%20Week%202022" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022 
 		at the 8th Edition of India Smart Utility Week 2148</font></td>
@@ -1169,7 +1169,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Abhitak News [English]</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20220222EN67904&amp;filter=1889" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20220222EN67904&amp;filter=1889" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022
 		at the 8th Edition of India Smart Utility Week 2149</font></td>
@@ -1180,7 +1180,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>5 Dariya News</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire.aspx?rkey=20220222EN67904&amp;filter=3325" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire.aspx?rkey=20220222EN67904&amp;filter=3325" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022
 		at the 8th Edition of India Smart Utility Week 2150</font></td>
@@ -1191,7 +1191,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>CleanAcres (CleanAcresCTC)</font></td>
 		<td>Twitter</font></td>
-		<td><a href="http://twitter.com/CleanAcresCTC/statuses/1496329742198317058" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://twitter.com/CleanAcresCTC/statuses/1496329742198317058" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022 
 		at the 8th Edition of India Smart Utility Week 2151</font></td>
@@ -1202,7 +1202,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Alex Babic (SaleBabic)</font></td>
 		<td>Twitter</font></td>
-		<td><a href="http://twitter.com/SaleBabic/statuses/1496497610571796482" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
+		<td><a href="http://twitter.com/SaleBabic/statuses/1496497610571796482" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022 
 		at the 8th Edition of India Smart Utility Week 2152</font></td>
@@ -1213,7 +1213,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Times Tech</font></td>
 		<td>Online</font></td>
-		<td><a href="https://timestech.in/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://timestech.in/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022
 		at the 8th Edition of India Smart Utility Week 2153</font></td>
@@ -1224,7 +1224,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>BIS Infotech</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.bisinfotech.com/8th-edition-of-isuw-2022-to-be-held-from-02-04-march-2022/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.bisinfotech.com/8th-edition-of-isuw-2022-to-be-held-from-02-04-march-2022/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022 
 		at the 8th Edition of India Smart Utility Week 2154</font></td>
@@ -1235,7 +1235,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Electronics Maker</font></td>
 		<td>Online</font></td>
-		<td><a href="https://electronicsmaker.com/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022Best%20Regards" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://electronicsmaker.com/announcing-symposium-of-experts-on-smart-energy-and-smart-mobility-from-02-04-march-2022-at-the-8th-edition-of-india-smart-utility-week-2022Best%20Regards" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022 
 		at the 8th Edition of India Smart Utility Week 2155</font></td>
@@ -1246,7 +1246,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Smartwww.In </font></td>
 		<td>Online</font></td>
-		<td><a href="https://smartwww.in/symposium-of-experts-at-2-4-march-at-8th-india-smart-utility-week-2022/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://smartwww.in/symposium-of-experts-at-2-4-march-at-8th-india-smart-utility-week-2022/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022 
 		at the 8th Edition of India Smart Utility Week 2156</font></td>
@@ -1257,7 +1257,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Smartwww.In </font></td>
 		<td>Online</font></td>
-		<td><a href="https://smartwww.in/quest-of-digital-experience-excellence-indian-water-utilities/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://smartwww.in/quest-of-digital-experience-excellence-indian-water-utilities/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>The Quest of Digital Experience Excellence: 
 		Insights On Indian Water Utilities</font></td>
 		<td>News &amp; Information Service</font></td>
@@ -1267,7 +1267,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>T&amp;D India</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.tndindia.com/the-carbon-neutral-future-is-electric/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.tndindia.com/the-carbon-neutral-future-is-electric/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022 
 		at the 8th Edition of India Smart Utility Week 2158</font></td>
@@ -1278,7 +1278,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>T&amp;D India</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.tndindia.com/aws-cloud-empowering-digital-utilities/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.tndindia.com/aws-cloud-empowering-digital-utilities/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>AWS Cloud: Empowering Digital Utilities</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1287,7 +1287,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Electrical India</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.electricalindia.in/gridspertise-presents-its-cutting-edge-sustainable-solutions-for-the-indian-power-distribution-grids/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.electricalindia.in/gridspertise-presents-its-cutting-edge-sustainable-solutions-for-the-indian-power-distribution-grids/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022 
 		at the 8th Edition of India Smart Utility Week 2160</font></td>
@@ -1298,7 +1298,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Energy Utilities</font></td>
 		<td>Online</font></td>
-		<td><a href="https://energy-utilities.com/industry-experts-set-out-roadmap-for-news116601.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://energy-utilities.com/industry-experts-set-out-roadmap-for-news116601.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022 
 		at the 8th Edition of India Smart Utility Week 2161</font></td>
@@ -1309,7 +1309,7 @@
 		<td>ISUW 2022 Media Coverage</font></i></td>
 		<td>Prameya News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.prameyanews.com/tpcodl-wins-gold-level-award-at-isgf-innovation-awards-2022/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.prameyanews.com/tpcodl-wins-gold-level-award-at-isgf-innovation-awards-2022/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>Announcing Symposium of Experts on 
 		Smart Energy and Smart Mobility from 02 – 04 March 2022 
 		at the 8th Edition of India Smart Utility Week 2162</font></td>
@@ -1320,7 +1320,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>WindowtoNews</font></td>
 		<td>Online</font></td>
-		<td><a href="http://windowtonews.com/pr-newswire-english.php?rkey=20220315EN92145&amp;filter=19687" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://windowtonews.com/pr-newswire-english.php?rkey=20220315EN92145&amp;filter=19687" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1329,7 +1329,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>WheelsGuru</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.wheelsguru.com/pr-news/?rkey=20220315EN92145&amp;filter=17273" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.wheelsguru.com/pr-news/?rkey=20220315EN92145&amp;filter=17273" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Transportation/Logistics</font></td>
@@ -1338,7 +1338,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Webindia123.com</font></td>
 		<td>Online</font></td>
-		<td><a href="https://news.webindia123.com/news/press_showdetailsPR.asp?id=1241307&amp;cat=PR%20News%20Wire" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://news.webindia123.com/news/press_showdetailsPR.asp?id=1241307&amp;cat=PR%20News%20Wire" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Trade Publications</font></td>
 		<td>Financial</font></td>
@@ -1347,7 +1347,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Web-scale Networking</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.webscalenetworking.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.webscalenetworking.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   United States</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -1356,7 +1356,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>VAR India</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.varindia.com/news/press--pr-news-wire?rkey=20220315EN92145&amp;filter=537" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.varindia.com/news/press--pr-news-wire?rkey=20220315EN92145&amp;filter=537" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -1365,7 +1365,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Uttarakhand News Network</font></td>
 		<td>Online</font></td>
-		<td><a href="https://uttarakhandnewsnetwork.com/press-release-pr-news-wire/?rkey=20220315EN92145&amp;filter=14497" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://uttarakhandnewsnetwork.com/press-release-pr-news-wire/?rkey=20220315EN92145&amp;filter=14497" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1374,7 +1374,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Unified Communications</font></td>
 		<td>Online</font></td>
-		<td><a href="http://unified-communications.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://unified-communications.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   United States</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -1383,7 +1383,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Tripuraindia</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.tripuraindia.in/press-release?rkey=20220315EN92145&amp;filter=18753" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.tripuraindia.in/press-release?rkey=20220315EN92145&amp;filter=18753" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1392,7 +1392,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.tmcnet.com/usubmit/2022/03/15/9563264.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.tmcnet.com/usubmit/2022/03/15/9563264.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   United States</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -1401,7 +1401,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Times Tech</font></td>
 		<td>Online</font></td>
-		<td><a href="http://timestech.in/trends-forecast/?rkey=20220315EN92145&amp;filter=15939" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://timestech.in/trends-forecast/?rkey=20220315EN92145&amp;filter=15939" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -1410,7 +1410,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Thinking Tech</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.thinkingtech.in/pr-newswire/?rkey=20220315EN92145&amp;filter=17106" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.thinkingtech.in/pr-newswire/?rkey=20220315EN92145&amp;filter=17106" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -1419,7 +1419,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>TheSocialTrunk</font></td>
 		<td>Online</font></td>
-		<td><a href="https://thesocialtrunk.co.in/pr-newswire/?rkey=20220315EN92145&amp;filter=23695" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://thesocialtrunk.co.in/pr-newswire/?rkey=20220315EN92145&amp;filter=23695" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1428,7 +1428,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>TheIndiaBizz</font></td>
 		<td>Online</font></td>
-		<td><a href="https://theindiabizz.com/pr-newswire/?rkey=20220315EN92145&amp;filter=22970" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://theindiabizz.com/pr-newswire/?rkey=20220315EN92145&amp;filter=22970" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1437,7 +1437,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>The Tech Shied</font></td>
 		<td>Online</font></td>
-		<td><a href="https://thetechshield.com/pr-newswire/?rkey=20220315EN92145&amp;filter=23184" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://thetechshield.com/pr-newswire/?rkey=20220315EN92145&amp;filter=23184" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -1446,7 +1446,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>The Tech Portal</font></td>
 		<td>Online</font></td>
-		<td><a href="https://thetechportal.com/press-releases-pr-newswire/?rkey=20220315EN92145&amp;filter=1985" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://thetechportal.com/press-releases-pr-newswire/?rkey=20220315EN92145&amp;filter=1985" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -1455,7 +1455,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>The Reporting Today</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.thereportingtoday.com/newswire/?rkey=20220315EN92145&amp;filter=20784" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.thereportingtoday.com/newswire/?rkey=20220315EN92145&amp;filter=20784" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1464,7 +1464,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>The News Watch</font></td>
 		<td>Online</font></td>
-		<td><a href="http://thenewswatch.co.in/wp/pr-newswire/?rkey=20220315EN92145&amp;filter=20254" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://thenewswatch.co.in/wp/pr-newswire/?rkey=20220315EN92145&amp;filter=20254" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1473,7 +1473,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>The Luxury Chronicle</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.theluxurychronicle.com/pr-newswire?rkey=20220315EN92145&amp;filter=21435" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.theluxurychronicle.com/pr-newswire?rkey=20220315EN92145&amp;filter=21435" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Retail &amp; Consumer</font></td>
@@ -1482,7 +1482,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>The Crypto 9</font></td>
 		<td>Online</font></td>
-		<td><a href="https://thecrypto9.com/prnw/?rkey=20220315EN92145&amp;filter=23534" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://thecrypto9.com/prnw/?rkey=20220315EN92145&amp;filter=23534" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Financial</font></td>
@@ -1491,7 +1491,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>The Automobile Times</font></td>
 		<td>Online</font></td>
-		<td><a href="http://theautomobiletimes.com/national-3/?rkey=20220315EN92145&amp;filter=2033" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://theautomobiletimes.com/national-3/?rkey=20220315EN92145&amp;filter=2033" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Transportation/Logistics</font></td>
@@ -1500,7 +1500,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Technology News @ TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="http://technews.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://technews.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   United States</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -1509,7 +1509,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>TechGenYZ</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.techgenyz.com/pr-newswire/?rkey=20220315EN92145&amp;filter=6463" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.techgenyz.com/pr-newswire/?rkey=20220315EN92145&amp;filter=6463" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -1518,7 +1518,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Startup Reporter</font></td>
 		<td>Online</font></td>
-		<td><a href="https://startupreporter.in/breaking-news/press-releases/?rkey=20220315EN92145&amp;filter=21583" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://startupreporter.in/breaking-news/press-releases/?rkey=20220315EN92145&amp;filter=21583" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1527,7 +1527,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Startagist</font></td>
 		<td>Online</font></td>
-		<td><a href="https://startagist.com/pr-newswire/?rkey=20220315EN92145&amp;filter=20995" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://startagist.com/pr-newswire/?rkey=20220315EN92145&amp;filter=20995" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Business Services</font></td>
@@ -1536,7 +1536,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>SPO India</font></td>
 		<td>Online</font></td>
-		<td><a href="https://spoindia.org/press-pr-newswire/?rkey=20220315EN92145&amp;filter=20001" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://spoindia.org/press-pr-newswire/?rkey=20220315EN92145&amp;filter=20001" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Financial</font></td>
@@ -1545,7 +1545,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>SP Times</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.sptimes.in/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23469" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.sptimes.in/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23469" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1554,7 +1554,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Solar Surge</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.solarsurge.in/pr-newswire/?rkey=20220315EN92145&amp;filter=17110" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.solarsurge.in/pr-newswire/?rkey=20220315EN92145&amp;filter=17110" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Energy and Natural Resources</font></td>
@@ -1563,7 +1563,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Social News XYZ</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.socialnews.xyz/pr-newswire/?rkey=20220315EN92145&amp;filter=15405" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.socialnews.xyz/pr-newswire/?rkey=20220315EN92145&amp;filter=15405" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1572,7 +1572,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>SME Street</font></td>
 		<td>Online</font></td>
-		<td><a href="https://smestreet.in/infocus/prnewswireindia/?rkey=20220315EN92145&amp;filter=15935" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://smestreet.in/infocus/prnewswireindia/?rkey=20220315EN92145&amp;filter=15935" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1581,7 +1581,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Satellite @ TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="http://satellite.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://satellite.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   United States</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -1590,7 +1590,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Saptakala</font></td>
 		<td>Online</font></td>
-		<td><a href="https://saptakala.com/pr-newswire/?rkey=20220315EN92145&amp;filter=20810" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://saptakala.com/pr-newswire/?rkey=20220315EN92145&amp;filter=20810" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1599,7 +1599,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Sangri Today</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.sangritoday.com/prnewswire?rkey=20220315EN92145&amp;filter=22762" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.sangritoday.com/prnewswire?rkey=20220315EN92145&amp;filter=22762" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1608,7 +1608,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Sangri Times</font></td>
 		<td>Online</font></td>
-		<td><a href="https://en.sangritimes.com/prnewswire?rkey=20220315EN92145&amp;filter=21009" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://en.sangritimes.com/prnewswire?rkey=20220315EN92145&amp;filter=21009" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1617,7 +1617,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Sambad English</font></td>
 		<td>Online</font></td>
-		<td><a href="https://sambadenglish.com/prnews/?rkey=20220315EN92145&amp;filter=4968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://sambadenglish.com/prnews/?rkey=20220315EN92145&amp;filter=4968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Newspaper</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1626,7 +1626,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Review Street</font></td>
 		<td>Online</font></td>
-		<td><a href="https://reviewstreet.in/news-reviews-mobiles-gadgets-pcs-automobile/prnewswireindia/?rkey=20220315EN92145&amp;filter=15937" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://reviewstreet.in/news-reviews-mobiles-gadgets-pcs-automobile/prnewswireindia/?rkey=20220315EN92145&amp;filter=15937" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1635,7 +1635,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Reporters Today</font></td>
 		<td>Online</font></td>
-		<td><a href="https://englishnews.reporterstoday.com/pr-newswire/?rkey=20220315EN92145&amp;filter=20068" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://englishnews.reporterstoday.com/pr-newswire/?rkey=20220315EN92145&amp;filter=20068" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1644,7 +1644,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Report Story</font></td>
 		<td>Online</font></td>
-		<td><a href="https://reportstory.com/pr-newswire/?rkey=20220315EN92145&amp;filter=19806" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://reportstory.com/pr-newswire/?rkey=20220315EN92145&amp;filter=19806" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1653,7 +1653,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Report Odisha</font></td>
 		<td>Online</font></td>
-		<td><a href="https://reportodisha.com/press-releases/?rkey=20220315EN92145&amp;filter=19014" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://reportodisha.com/press-releases/?rkey=20220315EN92145&amp;filter=19014" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1662,7 +1662,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>ReadBox</font></td>
 		<td>Online</font></td>
-		<td><a href="https://readbox.in/pr-newswire/?rkey=20220315EN92145&amp;filter=22117" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://readbox.in/pr-newswire/?rkey=20220315EN92145&amp;filter=22117" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1671,7 +1671,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Rajasthan Horizon</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.rajasthanhorizon.com/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23459" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.rajasthanhorizon.com/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23459" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1680,7 +1680,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Press Trust of India</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.ptinews.com/pressrelease/53691_press-sub8th-india-smart-utility-week-2022---an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countrie" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.ptinews.com/pressrelease/53691_press-sub8th-india-smart-utility-week-2022---an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countrie" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1689,7 +1689,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Prativad</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.prativad.com/Newswireeng.php?rkey=20220315EN92145&amp;filter=19411" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.prativad.com/Newswireeng.php?rkey=20220315EN92145&amp;filter=19411" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1698,7 +1698,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>PR Newswire</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.prnewswire.com/in/news-releases/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries-882649545.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.prnewswire.com/in/news-releases/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries-882649545.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   Global</font></td>
 		<td>PR Newswire</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1707,7 +1707,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>PNN - Paper News Network</font></td>
 		<td>Online</font></td>
-		<td><a href="https://papernewsnetwork.com/automobile-news/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/#respond" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://papernewsnetwork.com/automobile-news/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/#respond" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1716,7 +1716,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>PNN - Paper News Network</font></td>
 		<td>Online</font></td>
-		<td><a href="https://papernewsnetwork.com/automobile-news/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://papernewsnetwork.com/automobile-news/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1725,7 +1725,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>PerfectNewsLive</font></td>
 		<td>Online</font></td>
-		<td><a href="https://perfectnews.live/prnewswire/?rkey=20220315EN92145&amp;filter=21266" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://perfectnews.live/prnewswire/?rkey=20220315EN92145&amp;filter=21266" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1734,7 +1734,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Outbound Call Center @ TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="http://outbound-call-center.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://outbound-call-center.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   United States</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -1743,7 +1743,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>One News Page Global Edition</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.onenewspage.com/prnewswire.php?rkey=20220315EN92145&amp;filter=3968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.onenewspage.com/prnewswire.php?rkey=20220315EN92145&amp;filter=3968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   Global</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1752,7 +1752,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Odisha Ray</font></td>
 		<td>Online</font></td>
-		<td><a href="http://odisharay.com/pressreleases.php?rkey=20220315EN92145&amp;filter=20944" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://odisharay.com/pressreleases.php?rkey=20220315EN92145&amp;filter=20944" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1761,7 +1761,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Odisha News Tune</font></td>
 		<td>Online</font></td>
-		<td><a href="http://odishanewstune.com/press-releases/?rkey=20220315EN92145&amp;filter=19427" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://odishanewstune.com/press-releases/?rkey=20220315EN92145&amp;filter=19427" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1770,7 +1770,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Odisha Bytes</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.odishabytes.com/pr-newswire/?rkey=20220315EN92145&amp;filter=18897" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.odishabytes.com/pr-newswire/?rkey=20220315EN92145&amp;filter=18897" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1779,7 +1779,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>ODISHA BARTA</font></td>
 		<td>Online</font></td>
-		<td><a href="https://odishabarta.com/press-release/?rkey=20220315EN92145&amp;filter=20444" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://odishabarta.com/press-release/?rkey=20220315EN92145&amp;filter=20444" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1788,7 +1788,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>NRI News 24 x 7</font></td>
 		<td>Online</font></td>
-		<td><a href="https://nrinews24x7.com/pr-news/?rkey=20220315EN92145&amp;filter=4972" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://nrinews24x7.com/pr-news/?rkey=20220315EN92145&amp;filter=4972" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1797,7 +1797,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>NMK World</font></td>
 		<td>Online</font></td>
-		<td><a href="https://nmk.world/prnw/?rkey=20220315EN92145&amp;filter=23440" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://nmk.world/prnw/?rkey=20220315EN92145&amp;filter=23440" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1806,7 +1806,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>NewZNew</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.newznew.com/press-releases/?rkey=20220315EN92145&amp;filter=16908" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.newznew.com/press-releases/?rkey=20220315EN92145&amp;filter=16908" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1815,7 +1815,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>NewsR.in</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.newsr.in/prnewswire.php?rkey=20220315EN92145&amp;filter=5070" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.newsr.in/prnewswire.php?rkey=20220315EN92145&amp;filter=5070" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Newspaper</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1824,7 +1824,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>NewsControlRoom</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.newscontrolroom.com/pr-newswire/?rkey=20220315EN92145&amp;filter=19537" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.newscontrolroom.com/pr-newswire/?rkey=20220315EN92145&amp;filter=19537" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1833,7 +1833,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>NewsBlare</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.newsblare.com/pr-newswire/?rkey=20220315EN92145&amp;filter=20902" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.newsblare.com/pr-newswire/?rkey=20220315EN92145&amp;filter=20902" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1842,7 +1842,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>News Superfast</font></td>
 		<td>Online</font></td>
-		<td><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20220315EN92145&amp;filter=10033" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20220315EN92145&amp;filter=10033" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1851,7 +1851,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>News Deck</font></td>
 		<td>Online</font></td>
-		<td><a href="https://newsdeck.in/pressreleases/?rkey=20220315EN92145&amp;filter=22015" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://newsdeck.in/pressreleases/?rkey=20220315EN92145&amp;filter=22015" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1860,7 +1860,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>News Chronicle</font></td>
 		<td>Online</font></td>
-		<td><a href="https://newschronicle.in/pr-newswire/?rkey=20220315EN92145&amp;filter=20256" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://newschronicle.in/pr-newswire/?rkey=20220315EN92145&amp;filter=20256" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1869,7 +1869,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>New Delhi Times</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.newdelhitimes.com/news-release/?rkey=20220315EN92145&amp;filter=5147" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.newdelhitimes.com/news-release/?rkey=20220315EN92145&amp;filter=5147" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Newspaper</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1878,7 +1878,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Nasheman</font></td>
 		<td>Online</font></td>
-		<td><a href="http://nasheman.in/newswire/?rkey=20220315EN92145&amp;filter=11016" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://nasheman.in/newswire/?rkey=20220315EN92145&amp;filter=11016" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1887,7 +1887,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>MyBrandBook</font></td>
 		<td>Online</font></td>
-		<td><a href="https://mybrandbook.co.in/redirect.php?p=11431&amp;rkey=20220315EN92145&amp;filter=19999" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://mybrandbook.co.in/redirect.php?p=11431&amp;rkey=20220315EN92145&amp;filter=19999" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -1896,7 +1896,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>MotorZest</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.motorzest.com/p/prnewswire.html?rkey=20220315EN92145&amp;filter=5595" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.motorzest.com/p/prnewswire.html?rkey=20220315EN92145&amp;filter=5595" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Transportation/Logistics</font></td>
@@ -1905,7 +1905,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Motorcycle Diaries</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.motorcyclediaries.in/pr-newswire/?rkey=20220315EN92145&amp;filter=17112" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.motorcyclediaries.in/pr-newswire/?rkey=20220315EN92145&amp;filter=17112" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Transportation/Logistics</font></td>
@@ -1914,7 +1914,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Marudhara Bharti</font></td>
 		<td>Online</font></td>
-		<td><a href="https://en.marudharabharti.com/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23205" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://en.marudharabharti.com/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23205" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1923,7 +1923,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Mango Bunch</font></td>
 		<td>Online</font></td>
-		<td><a href="https://mangobunch.in/brand-post/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://mangobunch.in/brand-post/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Entertainment</font></td>
@@ -1932,7 +1932,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Mangalorean</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.mangalorean.com/pr-newswire/?rkey=20220315EN92145&amp;filter=17665" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.mangalorean.com/pr-newswire/?rkey=20220315EN92145&amp;filter=17665" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1941,7 +1941,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Live Chronicle</font></td>
 		<td>Online</font></td>
-		<td><a href="https://livechronicle.in/pr-newswire/?rkey=20220315EN92145&amp;filter=22011" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://livechronicle.in/pr-newswire/?rkey=20220315EN92145&amp;filter=22011" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1950,7 +1950,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>LifecareNews - English</font></td>
 		<td>Online</font></td>
-		<td><a href="https://lifecarenews.in/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://lifecarenews.in/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1959,7 +1959,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>LifeandTrendz</font></td>
 		<td>Online</font></td>
-		<td><a href="https://lifeandtrendz.com/news/prnewswire/?rkey=20220315EN92145&amp;amp;filter=22944" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://lifeandtrendz.com/news/prnewswire/?rkey=20220315EN92145&amp;amp;filter=22944" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Entertainment</font></td>
@@ -1968,7 +1968,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>KhabarLive - Hyderabad News</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.hydnews.net/pr-newswire?rkey=20220315EN92145&amp;filter=20977" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.hydnews.net/pr-newswire?rkey=20220315EN92145&amp;filter=20977" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -1977,7 +1977,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Jalore Live - English</font></td>
 		<td>Online</font></td>
-		<td><a href="https://en.jalorelive.com/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23504" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://en.jalorelive.com/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23504" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -1986,7 +1986,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>IT News Online</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.itnewsonline.com/PRNewswire/8th-India-Smart-Utility-Week-2022---An-Outstanding-International-Conference-and-Exhibition-held-virtually-with-Participants-from-Sixty-One-Countries/825462" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.itnewsonline.com/PRNewswire/8th-India-Smart-Utility-Week-2022---An-Outstanding-International-Conference-and-Exhibition-held-virtually-with-Participants-from-Sixty-One-Countries/825462" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -1995,7 +1995,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>InstaNews 24x7</font></td>
 		<td>Online</font></td>
-		<td><a href="https://english.instanews24x7.com/press-releases?rkey=20220315EN92145&amp;filter=20045" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://english.instanews24x7.com/press-releases?rkey=20220315EN92145&amp;filter=20045" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2004,7 +2004,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Insight Online News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://insightonlinenews.in/english-press-release/?rkey=20220315EN92145&amp;filter=20283" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://insightonlinenews.in/english-press-release/?rkey=20220315EN92145&amp;filter=20283" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2013,7 +2013,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>InfoTech Spotlight @ TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="http://it.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://it.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   United States</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -2022,7 +2022,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Indore Dil Se</font></td>
 		<td>Online</font></td>
-		<td><a href="http://indoredilse.com/english-news/?rkey=20220315EN92145&amp;filter=10474" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://indoredilse.com/english-news/?rkey=20220315EN92145&amp;filter=10474" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2031,7 +2031,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Indian Power Sector</font></td>
 		<td>Online</font></td>
-		<td><a href="http://indianpowersector.com/prnews/?rkey=20220315EN92145&amp;filter=4997" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://indianpowersector.com/prnews/?rkey=20220315EN92145&amp;filter=4997" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Trade Publications</font></td>
 		<td>Energy and Natural Resources</font></td>
@@ -2040,7 +2040,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Indian Nerve</font></td>
 		<td>Online</font></td>
-		<td><a href="http://indiannerve.com/in-press/?rkey=20220315EN92145&amp;filter=6492" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://indiannerve.com/in-press/?rkey=20220315EN92145&amp;filter=6492" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2049,7 +2049,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Indian Catwalk</font></td>
 		<td>Online</font></td>
-		<td><a href="http://indiancatwalk.com/press-release/?rkey=20220315EN92145&amp;filter=22868" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://indiancatwalk.com/press-release/?rkey=20220315EN92145&amp;filter=22868" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Retail &amp; Consumer</font></td>
@@ -2059,7 +2059,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>India Today</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.indiatoday.in/pr-newswire?rkey=20220315EN92145&amp;filter=4315" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.indiatoday.in/pr-newswire?rkey=20220315EN92145&amp;filter=4315" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Magazine</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2068,7 +2068,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>India Online</font></td>
 		<td>Online</font></td>
-		<td><a href="http://news.indiaonline.in/prnewswire?rkey=20220315EN92145&amp;filter=4991" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://news.indiaonline.in/prnewswire?rkey=20220315EN92145&amp;filter=4991" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2077,7 +2077,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>India Briefing</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.india-briefing.com/news/partnernews/?rkey=20220315EN92145&amp;filter=3400" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.india-briefing.com/news/partnernews/?rkey=20220315EN92145&amp;filter=3400" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Financial</font></td>
@@ -2086,7 +2086,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>IMP News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://imp.news/prnw/?rkey=20220315EN92145&amp;filter=23444" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://imp.news/prnw/?rkey=20220315EN92145&amp;filter=23444" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -2095,7 +2095,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>IBTN9</font></td>
 		<td>Online</font></td>
-		<td><a href="https://ibtn9.com/pr-newswire/?rkey=20220315EN92145&amp;filter=12202" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://ibtn9.com/pr-newswire/?rkey=20220315EN92145&amp;filter=12202" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2104,7 +2104,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>IBG News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://ibgnews.com/pr-newswire-news/?rkey=20220315EN92145&amp;filter=19585" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://ibgnews.com/pr-newswire-news/?rkey=20220315EN92145&amp;filter=19585" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2113,7 +2113,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>IANS [Indo-Asian News Service]</font></td>
 		<td>Online</font></td>
-		<td><a href="https://ians.in/prnewswiredetail/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtua/prn-1156068.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://ians.in/prnewswiredetail/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtua/prn-1156068.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2122,7 +2122,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Hello Mumbai</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.hellomumbainews.com/hello-business/?rkey=20220315EN92145&amp;filter=12313" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.hellomumbainews.com/hello-business/?rkey=20220315EN92145&amp;filter=12313" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2131,7 +2131,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Hamarasamachar</font></td>
 		<td>Online</font></td>
-		<td><a href="https://en.hamarasamachar.in/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23471" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://en.hamarasamachar.in/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23471" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -2140,7 +2140,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>GroundReport</font></td>
 		<td>Online</font></td>
-		<td><a href="https://groundreport.in/pr-news-english-2/?rkey=20220315EN92145&amp;filter=20940" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://groundreport.in/pr-news-english-2/?rkey=20220315EN92145&amp;filter=20940" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2149,7 +2149,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Good Report </font></td>
 		<td>Online</font></td>
-		<td><a href="https://goodreport.in/pr-newswire/?rkey=20220315EN92145&amp;filter=22013" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://goodreport.in/pr-newswire/?rkey=20220315EN92145&amp;filter=22013" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -2158,7 +2158,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Go Earth</font></td>
 		<td>Online</font></td>
-		<td><a href="https://goearth.in/pr-newswire/?rkey=20220315EN92145&amp;filter=20252" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://goearth.in/pr-newswire/?rkey=20220315EN92145&amp;filter=20252" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -2167,7 +2167,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Global Prime News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://globalprimenews.com/prnewswire/?rkey=20220315EN92145&amp;filter=19416" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://globalprimenews.com/prnewswire/?rkey=20220315EN92145&amp;filter=19416" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2176,7 +2176,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Falcon News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.falconnews.net/pr-newswire?rkey=20220315EN92145&amp;filter=23363" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.falconnews.net/pr-newswire?rkey=20220315EN92145&amp;filter=23363" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -2185,7 +2185,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Estrade</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.estrade.in/news/pr-newswire/?rkey=20220315EN92145&amp;filter=4950" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.estrade.in/news/pr-newswire/?rkey=20220315EN92145&amp;filter=4950" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2194,7 +2194,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Enterprise World News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://enterpriseworldnews.com/pr-newswire/?rkey=20220315EN92145&amp;filter=19539" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://enterpriseworldnews.com/pr-newswire/?rkey=20220315EN92145&amp;filter=19539" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Banking &amp; Financial Institutions</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2203,7 +2203,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>eCARGOLOG</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.ecargolog.in/pr-news/?rkey=20220315EN92145&amp;filter=4814" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.ecargolog.in/pr-news/?rkey=20220315EN92145&amp;filter=4814" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Trade Publications</font></td>
 		<td>Transportation/Logistics</font></td>
@@ -2212,7 +2212,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Eastern Herald</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.easternherald.com/2022/03/15/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/#respond" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.easternherald.com/2022/03/15/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/#respond" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Newspaper</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2221,7 +2221,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Eastern Herald</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.easternherald.com/2022/03/15/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.easternherald.com/2022/03/15/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Newspaper</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2230,7 +2230,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Earth News4U</font></td>
 		<td>Online</font></td>
-		<td><a href="https://earthnews4u.com/pr-newswire/?rkey=20220315EN92145&amp;filter=20250" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://earthnews4u.com/pr-newswire/?rkey=20220315EN92145&amp;filter=20250" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -2239,7 +2239,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Dkoding</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.dkoding.in/press-release/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.dkoding.in/press-release/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2248,7 +2248,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Digital Conqurer</font></td>
 		<td>Online</font></td>
-		<td><a href="https://digitalconqurer.com/prnewswire/technology/?rkey=20220315EN92145&amp;filter=3833" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://digitalconqurer.com/prnewswire/technology/?rkey=20220315EN92145&amp;filter=3833" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   Global</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -2257,7 +2257,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Crack of Dawn</font></td>
 		<td>Online</font></td>
-		<td><a href="https://crackofdawn.in/press-release/?rkey=20220315EN92145&amp;filter=20900" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://crackofdawn.in/press-release/?rkey=20220315EN92145&amp;filter=20900" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2266,7 +2266,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Communications as a Service [CaaS] @ TMCnet</font></td>
 		<td>Online</font></td>
-		<td><a href="http://caas.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://caas.tmcnet.com/news/2022/03/15/9563264.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   United States</font></td>
 		<td>Trade Publications</font></td>
 		<td>Tech</font></td>
@@ -2275,7 +2275,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Car Sizzler</font></td>
 		<td>Online</font></td>
-		<td><a href="http://carsizzler.com/prnews?rkey=20220315EN92145&amp;filter=1709" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://carsizzler.com/prnews?rkey=20220315EN92145&amp;filter=1709" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   Global</font></td>
 		<td>Trade Publications</font></td>
 		<td>Transportation/Logistics</font></td>
@@ -2284,7 +2284,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Business Views</font></td>
 		<td>Online</font></td>
-		<td><a href="http://businessviews.in/business-views-press-release-news/?rkey=20220315EN92145&amp;filter=908" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://businessviews.in/business-views-press-release-news/?rkey=20220315EN92145&amp;filter=908" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2293,7 +2293,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Business Upturn</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.businessupturn.com/brand-post/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.businessupturn.com/brand-post/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -2302,7 +2302,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Business Today India</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.businesstoday.in/prnewswire/?rkey=20220315EN92145&amp;filter=2418" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.businesstoday.in/prnewswire/?rkey=20220315EN92145&amp;filter=2418" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Trade Publications</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2311,7 +2311,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Business Sandesh</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.businesssandesh.in/breaking-news/?rkey=20220315EN92145&amp;filter=7621" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.businesssandesh.in/breaking-news/?rkey=20220315EN92145&amp;filter=7621" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2320,7 +2320,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Business News This Week</font></td>
 		<td>Online</font></td>
-		<td><a href="http://businessnewsthisweek.com/prnews/?rkey=20220315EN92145&amp;filter=601" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://businessnewsthisweek.com/prnews/?rkey=20220315EN92145&amp;filter=601" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2329,7 +2329,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>BollyOrbit</font></td>
 		<td>Online</font></td>
-		<td><a href="https://bollyorbit.sangritoday.com/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23472" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://bollyorbit.sangritoday.com/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23472" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -2338,7 +2338,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>BizNext India</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.biznextindia.com/pr-newswire/?rkey=20220315EN92145&amp;filter=19403" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.biznextindia.com/pr-newswire/?rkey=20220315EN92145&amp;filter=19403" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2347,7 +2347,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Biz Wire Express</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20220315EN92145&amp;filter=2276" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20220315EN92145&amp;filter=2276" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2356,7 +2356,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Biharprabha News</font></td>
 		<td>Online</font></td>
-		<td><a href="http://news.biharprabha.com/prnewswire/?rkey=20220315EN92145&amp;filter=2270" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://news.biharprabha.com/prnewswire/?rkey=20220315EN92145&amp;filter=2270" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2365,7 +2365,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Bangalore Waves</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news.php?rkey=20220315EN92145&amp;filter=2267" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news.php?rkey=20220315EN92145&amp;filter=2267" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Tech</font></td>
@@ -2374,7 +2374,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>AutoIndica</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.autoindica.com/pr-newswire/?rkey=20220315EN92145&amp;filter=17114" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.autoindica.com/pr-newswire/?rkey=20220315EN92145&amp;filter=17114" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Transportation/Logistics</font></td>
@@ -2383,7 +2383,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>At Crypto</font></td>
 		<td>Online</font></td>
-		<td><a href="https://atcrypto.org/prnw/?rkey=20220315EN92145&amp;filter=23535" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://atcrypto.org/prnw/?rkey=20220315EN92145&amp;filter=23535" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Financial</font></td>
@@ -2392,7 +2392,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Asianbuck</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20220315EN92145&amp;filter=8421" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20220315EN92145&amp;filter=8421" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2401,7 +2401,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>AGR News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.agrnews.in/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23473" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.agrnews.in/p/prnewswire.html?rkey=20220315EN92145&amp;filter=23473" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>General</font></td>
@@ -2410,7 +2410,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Abijita Foundation</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.abijita.com/prnewswire/?rkey=20220315EN92145&amp;filter=22773" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.abijita.com/prnewswire/?rkey=20220315EN92145&amp;filter=22773" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   Nepal</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -2419,7 +2419,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Abijita Foundation</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.abijita.com/prnewswire/?rkey=20220315EN92145&amp;amp;filter=22773&amp;8th%20India%20Smart%20Utility%20Week%202022%20-%20An%20Outstanding%20International%20Conference%20and%20Exhibition%20held%20virtually%20with%20Participants%20from%20Sixty-One%20Countries" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.abijita.com/prnewswire/?rkey=20220315EN92145&amp;amp;filter=22773&amp;8th%20India%20Smart%20Utility%20Week%202022%20-%20An%20Outstanding%20International%20Conference%20and%20Exhibition%20held%20virtually%20with%20Participants%20from%20Sixty-One%20Countries" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   Nepal</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Tech</font></td>
@@ -2428,7 +2428,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Abhitak News [English]</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20220315EN92145&amp;filter=1889" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20220315EN92145&amp;filter=1889" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>News &amp; Information Service</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2437,7 +2437,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>5 Dariya News</font></td>
 		<td>Online</font></td>
-		<td><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire.aspx?rkey=20220315EN92145&amp;filter=3325" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire.aspx?rkey=20220315EN92145&amp;filter=3325" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2446,7 +2446,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>BIS Infotech</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.bisinfotech.com/8th-isuw-2022-held-successfully-with-participants-from-sixty-one-countries/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.bisinfotech.com/8th-isuw-2022-held-successfully-with-participants-from-sixty-one-countries/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2455,7 +2455,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Mojo4Industry</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.mojo4industry.com/india-smart-utility-week-2022-records-participation-from-61-countries/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></u></td>
+		<td><a href="https://www.mojo4industry.com/india-smart-utility-week-2022-records-participation-from-61-countries/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2464,7 +2464,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Ani News</font></td>
 		<td>Online</font></td>
-		<td><a href="https://www.aninews.in/news/business/business/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries20220315115015" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://www.aninews.in/news/business/business/8th-india-smart-utility-week-2022-an-outstanding-international-conference-and-exhibition-held-virtually-with-participants-from-sixty-one-countries20220315115015" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2473,7 +2473,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>Trade Brains</font></td>
 		<td>Online</font></td>
-		<td><a href="https://tradebrains.in/features/india-smart-grid-forum-isgf-2/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://tradebrains.in/features/india-smart-grid-forum-isgf-2/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2482,7 +2482,7 @@
 		<td>ISUW 2022 Post Event Media Coverage</font></i></td>
 		<td>News Web India</font></td>
 		<td>Online</font></td>
-		<td><a href="https://news.webindia123.com/news/Articles/Business/20220315/3919605.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
+		<td><a href="https://news.webindia123.com/news/Articles/Business/20220315/3919605.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></font></u></td>
 		<td>   India</font></td>
 		<td>Online News Sites &amp; Other Influencers</font></td>
 		<td>Media &amp; Information</font></td>
@@ -2491,7 +2491,7 @@
 		<td>ISUW 2021</font></td>
 		<td>Tripura Chronical</font></td>
 		<td>Online</font></td>
-		<td><a href="https://tripurachronicle.in/Tripura/tsecl-bags-gold-award-for-of-india-smart-grid-forum-isgf-innovation-awards-2021-22712.cms"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><a href="https://tripurachronicle.in/Tripura/tsecl-bags-gold-award-for-of-india-smart-grid-forum-isgf-innovation-awards-2021-22712.cms"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td>India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Energy and Natural Resources</font></td>
@@ -2502,7 +2502,7 @@
 		blockchain 
 		(swisscryptoblo1)</font></td>
 		<td>Social Media</font></td>
-		<td><font face="Arial"><a href="http://twitter.com/swisscryptoblo1/statuses/1352034179710545922" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://twitter.com/swisscryptoblo1/statuses/1352034179710545922" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">165 followers</font></td>
 		<td><font face="Arial">2021-01-20 23:24:02</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2511,7 +2511,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">CleanAcres (CleanAcresCTC)</font></td>
 		<td>Social Media</font></td>
-		<td><font face="Arial"><a href="http://twitter.com/CleanAcresCTC/statuses/1351750813677309952" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://twitter.com/CleanAcresCTC/statuses/1351750813677309952" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">351 followers</font></td>
 		<td><font face="Arial">2021-01-20 04:38:02</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2520,7 +2520,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Energy Central</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://energycentral.com/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://energycentral.com/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   United States</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Energy and Natural Resources</font></td>
@@ -2532,7 +2532,7 @@
 		<td><font face="Arial"><a href="https://www.htsyndication.com/pr-newswire
 		/article/isgf-announces-the-7th-edition-of-india-smart-utility
 		-week-2021%2c-an-international-conference-and-exhibition-on-smart
-		-energy-and-smart-mobility-for-smarter-cities-from-02---05-march-2021/48254756" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-energy-and-smart-mobility-for-smarter-cities-from-02---05-march-2021/48254756" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">News &amp; Information Service</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2542,7 +2542,7 @@
 		<td><font face="Arial">Indian Spectator</font></td>
 		<td><font face="Arial">Online</font></td>
 		<td><font face="Arial"><a href="https://indianspectator.com/prnewswire/?
-		rkey=20210119EN52789&amp;filter=21881" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		rkey=20210119EN52789&amp;filter=21881" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2552,7 +2552,7 @@
 		<td><font face="Arial">Webindia123.com</font></td>
 		<td><font face="Arial">Online</font></td>
 		<td><font face="Arial"><a href="https://news.webindia123.com/news/
-		press_showdetailsPR.asp?id=1179824" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		press_showdetailsPR.asp?id=1179824" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Trade Publications</font></td>
 		<td><font face="Arial">Financial</font></td>
@@ -2563,7 +2563,7 @@
 		<td>Online</font></td>
 		<td><u><font color="#0563C1"><a href="https://startupsuccessstories.in/isgf-announces-the-7th-edition-of
 		-india-smart-utility-week-2021-an-international-conference-and-exhibition-on-smart-energy-and-smart-
-		mobility-for-smarter-cities-from-02-05-march-2021/"  target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		mobility-for-smarter-cities-from-02-05-march-2021/"  target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2573,7 +2573,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td>Latestly</font></td>
 		<td>Online</font></td>
-		<td><u><font color="#0563C1"><a href="https://www.latestly.com/agency-news/business-news-isgf-announces-the-7th-edition-of-india-smart-utility-week-2021-an-international-conference-and-exhibition-on-smart-energy-and-smart-mobility-for-smarter-cities-from-02-05-march-202-2276067.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="https://www.latestly.com/agency-news/business-news-isgf-announces-the-7th-edition-of-india-smart-utility-week-2021-an-international-conference-and-exhibition-on-smart-energy-and-smart-mobility-for-smarter-cities-from-02-05-march-202-2276067.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2582,7 +2582,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">5 Dariya News</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire.aspx?rkey=20210119EN52789&amp;filter=3325" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire.aspx?rkey=20210119EN52789&amp;filter=3325" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2591,7 +2591,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Abhitak News [English]</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20210119EN52789&amp;filter=1889" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20210119EN52789&amp;filter=1889" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">News &amp; Information Service</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2600,7 +2600,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Accommodation Times</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://accommodationtimes.com/pr-newswire/?rkey=20210119EN52789&amp;filter=18279" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://accommodationtimes.com/pr-newswire/?rkey=20210119EN52789&amp;filter=18279" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Real Estate</font></td>
@@ -2609,7 +2609,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Asianbuck</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20210119EN52789&amp;filter=8421" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20210119EN52789&amp;filter=8421" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2618,7 +2618,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">B Live News</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://b-live.in/prnewswire/?rkey=20210119EN52789&amp;filter=18861" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://b-live.in/prnewswire/?rkey=20210119EN52789&amp;filter=18861" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2627,7 +2627,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Bangalore Waves</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news.php?rkey=20210119EN52789&amp;filter=2267" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news.php?rkey=20210119EN52789&amp;filter=2267" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">News &amp; Information Service</font></td>
 		<td><font face="Arial">Tech</font></td>
@@ -2637,7 +2637,7 @@
 		<td><font face="Arial">Biharprabha News</font></td>
 		<td><font face="Arial">Online</font></td>
 		<td><font face="Arial"><a href="http://news.biharprabha.com/prnewswire
-		/?rkey=20210119EN52789&amp;filter=2270"  target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		/?rkey=20210119EN52789&amp;filter=2270"  target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">News &amp; Information Service</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2646,7 +2646,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Biz Wire Express</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20210119EN52789&amp;filter=2276" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20210119EN52789&amp;filter=2276" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">News &amp; Information Service</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2656,7 +2656,7 @@
 		<td><font face="Arial">BizNext India</font></td>
 		<td><font face="Arial">Online</font></td>
 		<td><font face="Arial"><a href="http://www.biznextindia.com/pr-newswire/
-		?rkey=20210119EN52789&amp;filter=19403" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		?rkey=20210119EN52789&amp;filter=19403" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2667,7 +2667,7 @@
 		This Week</font></td>
 		<td><font face="Arial">Online</font></td>
 		<td><font face="Arial"><a href="http://businessnewsthisweek.com/prnews/
-		?rkey=20210119EN52789&amp;filter=601" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		?rkey=20210119EN52789&amp;filter=601" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2676,7 +2676,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Business Sandesh</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.businesssandesh.in/breaking-news/?rkey=20210119EN52789&amp;filter=7621" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font face="Arial"><a href="http://www.businesssandesh.in/breaking-news/?rkey=20210119EN52789&amp;filter=7621" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2686,7 +2686,7 @@
 		<td><font face="Arial">Business Today
 		India</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.businesstoday.in/prnewswire/?rkey=20210119EN52789&amp;filter=2418" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.businesstoday.in/prnewswire/?rkey=20210119EN52789&amp;filter=2418" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Trade Publications</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2696,7 +2696,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">City Air News</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://cityairnews.com/content/pr-newswire?rkey=20210119EN52789&amp;filter=1968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://cityairnews.com/content/pr-newswire?rkey=20210119EN52789&amp;filter=1968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2706,7 +2706,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Crack of Dawn</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://crackofdawn.in/press-release/?rkey=20210119EN52789&amp;filter=20900" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://crackofdawn.in/press-release/?rkey=20210119EN52789&amp;filter=20900" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2716,7 +2716,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">CurrentNew</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://currentnew.in/prnewswire/?rkey=20210119EN52789&amp;filter=21269" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://currentnew.in/prnewswire/?rkey=20210119EN52789&amp;filter=21269" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Business Services</font></td>
@@ -2726,7 +2726,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Dalal Street Investment Journal</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.dsij.in/newswiredetails.aspx?FileName=202101192330PR_NEWS_EURO_ND__EN52789" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.dsij.in/newswiredetails.aspx?FileName=202101192330PR_NEWS_EURO_ND__EN52789" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Financial Data, Research &amp; Analytics</font></td>
 		<td><font face="Arial">Financial</font></td>
@@ -2736,7 +2736,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">First Report</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://firstreport.in/pr-newswire/?rkey=20210119EN52789&amp;filter=6490" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://firstreport.in/pr-newswire/?rkey=20210119EN52789&amp;filter=6490" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2747,7 +2747,7 @@
 		<td><font face="Arial">Global Prime 
 		News</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://globalprimenews.com/prnewswire/?rkey=20210119EN52789&amp;filter=19416" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://globalprimenews.com/prnewswire/?rkey=20210119EN52789&amp;filter=19416" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2757,7 +2757,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Green Lichen</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://greenlichen.com/pr-newswire/?rkey=20210119EN52789&amp;filter=15918" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://greenlichen.com/pr-newswire/?rkey=20210119EN52789&amp;filter=15918" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Environment</font></td>
@@ -2767,7 +2767,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">GroundReport</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://groundreport.in/pr-news-english-2/?rkey=20210119EN52789&amp;filter=20940" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://groundreport.in/pr-news-english-2/?rkey=20210119EN52789&amp;filter=20940" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2777,7 +2777,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Hello Mumbai</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.hellomumbainews.com/hello-business/?rkey=20210119EN52789&amp;filter=12313" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.hellomumbainews.com/hello-business/?rkey=20210119EN52789&amp;filter=12313" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2787,7 +2787,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">IANS [Indo-Asian News Service]</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://ians.in/index.php?param=prnewswiredetail/PRN-1100904" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://ians.in/index.php?param=prnewswiredetail/PRN-1100904" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">News &amp; Information Service</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2797,7 +2797,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">IBG News</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://ibgnews.com/pr-newswire-news/?rkey=20210119EN52789&amp;filter=19585" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://ibgnews.com/pr-newswire-news/?rkey=20210119EN52789&amp;filter=19585" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2807,7 +2807,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">IBTN9</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://ibtn9.com/pr-newswire/?rkey=20210119EN52789&amp;filter=12202" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://ibtn9.com/pr-newswire/?rkey=20210119EN52789&amp;filter=12202" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2817,7 +2817,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">India Briefing</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.india-briefing.com/news/partnernews/?rkey=20210119EN52789&amp;filter=3400" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.india-briefing.com/news/partnernews/?rkey=20210119EN52789&amp;filter=3400" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Financial</font></td>
@@ -2827,7 +2827,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">India Editor</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.indiaeditor.com/corporate-pr-news/?rkey=20210119EN52789&amp;filter=20728" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.indiaeditor.com/corporate-pr-news/?rkey=20210119EN52789&amp;filter=20728" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2837,7 +2837,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">India Herald</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://www.indiaherald.com/prnewswire?rkey=20210119EN52789&amp;filter=18307" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.indiaherald.com/prnewswire?rkey=20210119EN52789&amp;filter=18307" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2847,7 +2847,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">India Online</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://news.indiaonline.in/prnewswire?rkey=20210119EN52789&amp;filter=4991" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://news.indiaonline.in/prnewswire?rkey=20210119EN52789&amp;filter=4991" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2857,7 +2857,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">India Today</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://www.indiatoday.in/pr-newswire?rkey=20210119EN52789&amp;filter=4315" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.indiatoday.in/pr-newswire?rkey=20210119EN52789&amp;filter=4315" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Magazine</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2867,7 +2867,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Indian Nerve</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://indiannerve.com/in-press/?rkey=20210119EN52789&amp;filter=6492" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://indiannerve.com/in-press/?rkey=20210119EN52789&amp;filter=6492" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">News &amp; Information Service</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2878,7 +2878,7 @@
 		<td><font face="Arial">Indian Power 
 		Sector</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://indianpowersector.com/prnews/?rkey=20210119EN52789&amp;filter=4997" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://indianpowersector.com/prnews/?rkey=20210119EN52789&amp;filter=4997" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Trade Publications</font></td>
 		<td><font face="Arial">Energy and Natural Resources</font></td>
@@ -2888,7 +2888,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Indore Dil Se</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://indoredilse.com/english-news/?rkey=20210119EN52789&amp;filter=10474" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://indoredilse.com/english-news/?rkey=20210119EN52789&amp;filter=10474" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2899,7 +2899,7 @@
 		<td><font face="Arial">Insight Online
 		News</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://insightonlinenews.in/english-press-release/?rkey=20210119EN52789&amp;filter=20283" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://insightonlinenews.in/english-press-release/?rkey=20210119EN52789&amp;filter=20283" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2909,7 +2909,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">InstaNews 24x7</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://english.instanews24x7.com/press-releases?rkey=20210119EN52789&amp;filter=20045" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://english.instanews24x7.com/press-releases?rkey=20210119EN52789&amp;filter=20045" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2919,7 +2919,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">KhabarLive - Hyderabad News</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.hydnews.net/pr-newswire?rkey=20210119EN52789&amp;filter=20977" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.hydnews.net/pr-newswire?rkey=20210119EN52789&amp;filter=20977" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2929,7 +2929,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Mangalorean</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.mangalorean.com/pr-newswire/?rkey=20210119EN52789&amp;filter=17665" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.mangalorean.com/pr-newswire/?rkey=20210119EN52789&amp;filter=17665" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2939,7 +2939,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Nasheman</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://nasheman.in/newswire/?rkey=20210119EN52789&amp;filter=11016" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://nasheman.in/newswire/?rkey=20210119EN52789&amp;filter=11016" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2949,7 +2949,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">New Delhi Times</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://www.newdelhitimes.com/news-release/?rkey=20210119EN52789&amp;filter=5147" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.newdelhitimes.com/news-release/?rkey=20210119EN52789&amp;filter=5147" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Newspaper</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2959,7 +2959,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">News Superfast</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20210119EN52789&amp;filter=10033" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20210119EN52789&amp;filter=10033" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2969,7 +2969,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">News with Chai</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://newswithchai.com/pr-newswire/?rkey=20210119EN52789&amp;filter=17771" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://newswithchai.com/pr-newswire/?rkey=20210119EN52789&amp;filter=17771" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2979,7 +2979,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">NewsBlare</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://www.newsblare.com/pr-newswire/?rkey=20210119EN52789&amp;filter=20902" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.newsblare.com/pr-newswire/?rkey=20210119EN52789&amp;filter=20902" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2989,7 +2989,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">NewsBlaze India</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://newsblaze.in/pr-newswire?rkey=20210119EN52789&amp;filter=12696" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://newsblaze.in/pr-newswire?rkey=20210119EN52789&amp;filter=12696" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -2999,7 +2999,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">NewsCrazy</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://newscrazy.in/prnewswire/?rkey=20210119EN52789&amp;filter=21273" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://newscrazy.in/prnewswire/?rkey=20210119EN52789&amp;filter=21273" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Business Services</font></td>
@@ -3009,7 +3009,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">NewsDrinker</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://newsdrinker.me/prnewswire/?rkey=20210119EN52789&amp;filter=21268" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://newsdrinker.me/prnewswire/?rkey=20210119EN52789&amp;filter=21268" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Business Services</font></td>
@@ -3019,7 +3019,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">NewsR.in</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.newsr.in/prnewswire.php?rkey=20210119EN52789&amp;filter=5070" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsr.in/prnewswire.php?rkey=20210119EN52789&amp;filter=5070" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Newspaper</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3029,7 +3029,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">NewsViewsClub</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://newsviews.club/prnewswire/?rkey=20210119EN52789&amp;filter=21264" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://newsviews.club/prnewswire/?rkey=20210119EN52789&amp;filter=21264" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">General</font></td>
@@ -3039,7 +3039,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">NewZNew</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://www.newznew.com/press-releases/?rkey=20210119EN52789&amp;filter=16908" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.newznew.com/press-releases/?rkey=20210119EN52789&amp;filter=16908" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3049,7 +3049,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">NRI News 24 x 7</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://nrinews24x7.com/pr-news/?rkey=20210119EN52789&amp;filter=4972" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://nrinews24x7.com/pr-news/?rkey=20210119EN52789&amp;filter=4972" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3059,7 +3059,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">ODISHA BARTA</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://odishabarta.com/pressrelease.html?rkey=20210119EN52789&amp;filter=20444" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://odishabarta.com/pressrelease.html?rkey=20210119EN52789&amp;filter=20444" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3069,7 +3069,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Odisha Bytes</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.odishabytes.com/pr-newswire/?rkey=20210119EN52789&amp;filter=18897" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.odishabytes.com/pr-newswire/?rkey=20210119EN52789&amp;filter=18897" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3079,7 +3079,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Odisha News Tune</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://odishanewstune.com/press-releases/?rkey=20210119EN52789&amp;filter=19427" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://odishanewstune.com/press-releases/?rkey=20210119EN52789&amp;filter=19427" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3089,7 +3089,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Odisha Ray</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://odisharay.com/pressreleases.php?rkey=20210119EN52789&amp;filter=20944" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://odisharay.com/pressreleases.php?rkey=20210119EN52789&amp;filter=20944" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3099,7 +3099,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">One News Page Global Edition</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.onenewspage.com/prnewswire.php?rkey=20210119EN52789&amp;filter=3968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.onenewspage.com/prnewswire.php?rkey=20210119EN52789&amp;filter=3968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3109,7 +3109,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">PerfectNewsLive</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://perfectnews.live/prnewswire/?rkey=20210119EN52789&amp;filter=21266" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://perfectnews.live/prnewswire/?rkey=20210119EN52789&amp;filter=21266" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Business Services</font></td>
@@ -3122,7 +3122,7 @@
 		<td><font face="Arial">Online</font></td>
 		<td><font face="Arial"><a href="https://papernewsnetwork.com/isgf-announces-the-7th-edition-of-india-smart-utility-
 		week-2021-an-international-conference-and-exhibition-on-smart-energy-and-
-		smart-mobility-for-smarter-cities-from-02-05-march-2021/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		smart-mobility-for-smarter-cities-from-02-05-march-2021/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3132,7 +3132,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">PongaPandit</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://pongapandit.in/prnewswire/?rkey=20210119EN52789&amp;filter=21274" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://pongapandit.in/prnewswire/?rkey=20210119EN52789&amp;filter=21274" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">General</font></td>
@@ -3144,7 +3144,7 @@
 		<td><font face="Arial">Online</font></td>
 		<td><font face="Arial"><a href="https://www.prnewswire.com/in/news-releases/isgf-announces-the-7th-
 		edition-of-india-smart-utility-week-2021-an-international-conference-and-exhibition-on-smart
-		-energy-and-smart-mobility-for-smarter-cities-from-02-05-march-2021-811826697.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		-energy-and-smart-mobility-for-smarter-cities-from-02-05-march-2021-811826697.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font face="Arial">   Global</font></td>
 		<td><font face="Arial">PR Newswire</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3154,7 +3154,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Prativad</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.prativad.com/Newswireeng.php?rkey=20210119EN52789&amp;filter=19411" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.prativad.com/Newswireeng.php?rkey=20210119EN52789&amp;filter=19411" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3166,7 +3166,7 @@
 		<td><font face="Arial">Online</font></td>
 		<td><font face="Arial"><a href="http://www.ptinews.com/pressrelease/44812_press-subISGF-announces-the-
 		7th-edition-of-India-Smart-Utility-Week-2021--an-International-Conference-and-Exhibition
-		-on-Smart-Energy-and-Smart-Mobility" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		-on-Smart-Energy-and-Smart-Mobility" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3176,7 +3176,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Report Odisha</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://reportodisha.com/press-releases/?rkey=20210119EN52789&amp;filter=19014" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://reportodisha.com/press-releases/?rkey=20210119EN52789&amp;filter=19014" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3186,7 +3186,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Report365</font></td> 
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://report365.in/prnewswire/?rkey=20210119EN52789&amp;filter=21271" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://report365.in/prnewswire/?rkey=20210119EN52789&amp;filter=21271" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Business Services</font></td>
@@ -3196,7 +3196,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Reporters Today</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://englishnews.reporterstoday.com/pr-newswire/?rkey=20210119EN52789&amp;filter=20068" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://englishnews.reporterstoday.com/pr-newswire/?rkey=20210119EN52789&amp;filter=20068" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3207,7 +3207,7 @@
 		<td><font face="Arial">Review Street</font></td>
 		<td><font face="Arial">Online</font></td>
 		<td><font face="Arial"><a href="https://reviewstreet.in/news-reviews-mobiles-gadgets-pcs-automobile
-		/prnewswireindia/?rkey=20210119EN52789&amp;filter=15937" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		/prnewswireindia/?rkey=20210119EN52789&amp;filter=15937" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3217,7 +3217,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">RNews1 Network</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.rnews1.com/p/pr-newswire.html?rkey=20210119EN52789&amp;filter=7546" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.rnews1.com/p/pr-newswire.html?rkey=20210119EN52789&amp;filter=7546" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3227,7 +3227,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Sambad English</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://sambadenglish.com/prnews/?rkey=20210119EN52789&amp;filter=4968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://sambadenglish.com/prnews/?rkey=20210119EN52789&amp;filter=4968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Newspaper</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3237,7 +3237,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">SME Channels</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.smechannels.com/pr?rkey=20210119EN52789&amp;filter=4607" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.smechannels.com/pr?rkey=20210119EN52789&amp;filter=4607" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Tech</font></td>
@@ -3247,7 +3247,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">SME Street</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://smestreet.in/infocus/prnewswireindia/?rkey=20210119EN52789&amp;filter=15935" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://smestreet.in/infocus/prnewswireindia/?rkey=20210119EN52789&amp;filter=15935" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3257,7 +3257,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Social News XYZ</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://www.socialnews.xyz/pr-newswire/?rkey=20210119EN52789&amp;filter=15405" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.socialnews.xyz/pr-newswire/?rkey=20210119EN52789&amp;filter=15405" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3267,7 +3267,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Solar Surge</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://www.solarsurge.in/pr-newswire/?rkey=20210119EN52789&amp;filter=17110" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.solarsurge.in/pr-newswire/?rkey=20210119EN52789&amp;filter=17110" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Energy and Natural Resources</font></td>
@@ -3277,7 +3277,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Telangana Today</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://telanganatoday.com/pr-newswire?rkey=20210119EN52789&amp;filter=11682" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://telanganatoday.com/pr-newswire?rkey=20210119EN52789&amp;filter=11682" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3287,7 +3287,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">The Hawk India</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.thehawk.in/news/prnewswire?rkey=20210119EN52789&amp;filter=4853" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.thehawk.in/news/prnewswire?rkey=20210119EN52789&amp;filter=4853" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Newspaper</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3298,7 +3298,7 @@
 		<td><font face="Arial">The Reporting
 		Today</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://www.thereportingtoday.com/newswire/?rkey=20210119EN52789&amp;filter=20784" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.thereportingtoday.com/newswire/?rkey=20210119EN52789&amp;filter=20784" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3309,7 +3309,7 @@
 		<td><font face="Arial">Think News 
 		Today</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://thinknews.today/prnewswire/?rkey=20210119EN52789&amp;filter=21262" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://thinknews.today/prnewswire/?rkey=20210119EN52789&amp;filter=21262" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">General</font></td>
@@ -3319,7 +3319,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Times Tech</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://timestech.in/trends-forecast/?rkey=20210119EN52789&amp;filter=15939" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://timestech.in/trends-forecast/?rkey=20210119EN52789&amp;filter=15939" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Tech</font></td>
@@ -3329,7 +3329,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">Tripuraindia</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://www.tripuraindia.in/press-release?rkey=20210119EN52789&amp;filter=18753" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.tripuraindia.in/press-release?rkey=20210119EN52789&amp;filter=18753" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3342,7 +3342,7 @@
 		<td><font face="Arial">Online</font></td>
 		<td><font face="Arial"><a href="http://www.uniindia.com/isgf-announces-the-7th-edition-of-india-smart
 		-utility-week-2021-an-international-conference-and-exhibition-on-smart-energy-and-smart-mobility
-		-for-smarter-cities-from-02--05-march-2021/prnewswire/news/2296912.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		-for-smarter-cities-from-02--05-march-2021/prnewswire/news/2296912.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3353,7 +3353,7 @@
 		<td><font face="Arial">Uttarakhand News
 		Network</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="https://uttarakhandnewsnetwork.com/press-release-pr-news-wire/?rkey=20210119EN52789&amp;filter=14497" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://uttarakhandnewsnetwork.com/press-release-pr-news-wire/?rkey=20210119EN52789&amp;filter=14497" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3363,7 +3363,7 @@
 		<td>ISUW 2021 Press Release 1</font></td>
 		<td><font face="Arial">WindowtoNews</font></td>
 		<td><font face="Arial">Online</font></td>
-		<td><font face="Arial"><a href="http://windowtonews.com/pr-newswire-english.php?rkey=20210119EN52789&amp;filter=19687" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://windowtonews.com/pr-newswire-english.php?rkey=20210119EN52789&amp;filter=19687" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</font></td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</font></td>
 		<td><font face="Arial">Media &amp; Information</font></td>
@@ -3373,7 +3373,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="https://www.saurenergy.com/solar-energy-news/coronavirus-impact-on-power-collections-and-more" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font color="#0563C1"><a href="https://www.saurenergy.com/solar-energy-news/coronavirus-impact-on-power-collections-and-more" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3383,7 +3383,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="https://factsntrens.wordpress.com/2020/03/20/smart-utilities-management-market-trends-scope-forecast-by-2026/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font color="#0563C1"><a href="https://factsntrens.wordpress.com/2020/03/20/smart-utilities-management-market-trends-scope-forecast-by-2026/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3 color="#000000">India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3393,7 +3393,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td>Print</td>
-		<td><font size=3 color="#000000"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3 color="#000000"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3 color="#000000">India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3403,7 +3403,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.engerati.com/smart-infrastructure/india-smart-utility-week-takes-place-in-new-delhi/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.engerati.com/smart-infrastructure/india-smart-utility-week-takes-place-in-new-delhi/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3413,7 +3413,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://www.newsmakeinindia.in/india-smart-utility-week-2020.html/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://www.newsmakeinindia.in/india-smart-utility-week-2020.html/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3423,7 +3423,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.divyadelhi.com/honourable-minister--rk-singh-to-deliver-special-address-at-india-smart-utility-week-2020-" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.divyadelhi.com/honourable-minister--rk-singh-to-deliver-special-address-at-india-smart-utility-week-2020-" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3433,7 +3433,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">Hindi</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font face="FreeSans" size=3 color="#0563C1"><a href="https://thedelhitodaynews.blogspot.com/2020/03/2020.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font face="FreeSans" size=3 color="#0563C1"><a href="https://thedelhitodaynews.blogspot.com/2020/03/2020.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3443,7 +3443,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://www.itsforhome.com/pub/index.php/2020/03/10/Maker-Village-receives-smart-incubator-award/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://www.itsforhome.com/pub/index.php/2020/03/10/Maker-Village-receives-smart-incubator-award/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3453,7 +3453,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://timesofindia.indiatimes.com/city/kochi/maker-village-receives-smart-incubator-award/articleshow/74567475.cms" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://timesofindia.indiatimes.com/city/kochi/maker-village-receives-smart-incubator-award/articleshow/74567475.cms" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3463,7 +3463,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.smartinnovationnorway.com/nyheter/presenterer-eu-prosjekter-under-india-smart-utility-week/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.smartinnovationnorway.com/nyheter/presenterer-eu-prosjekter-under-india-smart-utility-week/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3473,7 +3473,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://affairscloud.com/new-delhi-hosts-india-smart-utility-week-2020-isuw/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://affairscloud.com/new-delhi-hosts-india-smart-utility-week-2020-isuw/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3483,7 +3483,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.psuconnect.in/news/POSOCO-Bags-ISGF--Simons-Award-/21824/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.psuconnect.in/news/POSOCO-Bags-ISGF--Simons-Award-/21824/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3505,7 +3505,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://affairscloud.com/current-affairs-hindi-quiz-march-7-2020/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://affairscloud.com/current-affairs-hindi-quiz-march-7-2020/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3515,7 +3515,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.aspirantszone.com/current-affairs-8-march-2020-quiz/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.aspirantszone.com/current-affairs-8-march-2020-quiz/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3525,7 +3525,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://truthdive.com/2020/03/10/can-smart-meters-solve-indias-electricity-problem-the-opinion-analysis/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://truthdive.com/2020/03/10/can-smart-meters-solve-indias-electricity-problem-the-opinion-analysis/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3535,7 +3535,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://www.uniindia.com/~/maker-village-wins-isgf-smart-incubator-of-the-year-for-deep-tech-areas/States/news/1913539.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://www.uniindia.com/~/maker-village-wins-isgf-smart-incubator-of-the-year-for-deep-tech-areas/States/news/1913539.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
@@ -3546,7 +3546,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://www.newsexperts.in/maker-village-wins-isgf-smart-incubator-year-deep-tech-areas/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://www.newsexperts.in/maker-village-wins-isgf-smart-incubator-year-deep-tech-areas/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3556,7 +3556,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://www.itsforhome.com/pub/index.php/2020/03/10/Maker-Village-wins-ISGF-Smart-Incubator-of-the-Year-for-Deep-Tech-Areas/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://www.itsforhome.com/pub/index.php/2020/03/10/Maker-Village-wins-ISGF-Smart-Incubator-of-the-Year-for-Deep-Tech-Areas/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
@@ -3567,7 +3567,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://affairscloud.com/current-affairs-hindi-march-7-2020/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://affairscloud.com/current-affairs-hindi-march-7-2020/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3577,7 +3577,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://thedelhitodaynews.blogspot.com/2020/03/2020.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://thedelhitodaynews.blogspot.com/2020/03/2020.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3587,7 +3587,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://www.nacleanenergy.com/articles/37103/india-smart-grid-forum-becomes-energy-web-ambassador" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://www.nacleanenergy.com/articles/37103/india-smart-grid-forum-becomes-energy-web-ambassador" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3597,7 +3597,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.engerati.com/smart-infrastructure/india-smart-utility-week-takes-place-in-new-delhi/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.engerati.com/smart-infrastructure/india-smart-utility-week-takes-place-in-new-delhi/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3607,7 +3607,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://auto.economictimes.indiatimes.com/news/aftermarket/tata-power-aims-to-expand-ev-charging-stations-with-tata-motors-dealers-and-group-entities-/74478070" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://auto.economictimes.indiatimes.com/news/aftermarket/tata-power-aims-to-expand-ev-charging-stations-with-tata-motors-dealers-and-group-entities-/74478070" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3617,7 +3617,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.blogarama.com/technology-blogs/500546-amzur-blog/33724731-india-smart-grid-forum-charging-for-electric-vehicles" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.blogarama.com/technology-blogs/500546-amzur-blog/33724731-india-smart-grid-forum-charging-for-electric-vehicles" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3627,7 +3627,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.saurenergy.com/press-release/bwi/honourable-minister-shri-rk-singh-to-deliver-special-address-at-india-smart-utility-week-2020-on-march-04-2020" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.saurenergy.com/press-release/bwi/honourable-minister-shri-rk-singh-to-deliver-special-address-at-india-smart-utility-week-2020-on-march-04-2020" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3637,7 +3637,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://networking.itbusinessnet.com/2020/03/amzur-announces-that-raymond-kaiser-director-of-energy-management-systems-has-been-invited-as-the-keynote-speaker-at-this-years-india-smart-grid-forum/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://networking.itbusinessnet.com/2020/03/amzur-announces-that-raymond-kaiser-director-of-energy-management-systems-has-been-invited-as-the-keynote-speaker-at-this-years-india-smart-grid-forum/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3647,7 +3647,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.energetica-india.net/news/power-minister-rk-singh-to-deliver-special-address-at-india-smart-utility-week-2020" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.energetica-india.net/news/power-minister-rk-singh-to-deliver-special-address-at-india-smart-utility-week-2020" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3657,7 +3657,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://timestech.in/honourable-minister-shri-rk-singh-to-deliver-special-address-at-isuw-2020-on-march-04-2020/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://timestech.in/honourable-minister-shri-rk-singh-to-deliver-special-address-at-isuw-2020-on-march-04-2020/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3667,7 +3667,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://timestech.in/honourable-minister-shri-rk-singh-to-deliver-special-address-at-isuw-2020-on-march-04-2020/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://timestech.in/honourable-minister-shri-rk-singh-to-deliver-special-address-at-isuw-2020-on-march-04-2020/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3677,7 +3677,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.prnewswire.com/in/news-releases/india-smart-utility-week-2019-to-be-inaugurated-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-2020-894838724.html?" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.prnewswire.com/in/news-releases/india-smart-utility-week-2019-to-be-inaugurated-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-2020-894838724.html?" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3687,7 +3687,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://powerline.net.in/2020/02/27/interview-with-reji-kumar-pillai/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://powerline.net.in/2020/02/27/interview-with-reji-kumar-pillai/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3697,7 +3697,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.thechainmagazine.com/india-smart-utility-week-2019-to-be-inaugurated-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-2020/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.thechainmagazine.com/india-smart-utility-week-2019-to-be-inaugurated-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-2020/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3707,7 +3707,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://xitfilms.ru/kino/P+Elango,+MD,+HOEC+On+Reforms+To+Enhance+Domestic+Exploration+Of+Oil+&amp;amp+Gas+CNBC-TV18" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://xitfilms.ru/kino/P+Elango,+MD,+HOEC+On+Reforms+To+Enhance+Domestic+Exploration+Of+Oil+&amp;amp+Gas+CNBC-TV18" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3717,7 +3717,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://xitfilms.ru/kino/ISUW+2019+Maneesha+V+Ramesh+,+Amrita+Vishwa+Vidyapeetham+WORKSHOP+ON+FUTURE+SKILLS+2030" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://xitfilms.ru/kino/ISUW+2019+Maneesha+V+Ramesh+,+Amrita+Vishwa+Vidyapeetham+WORKSHOP+ON+FUTURE+SKILLS+2030" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3727,7 +3727,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.devdiscourse.com/article/business/893899-india-smart-utility-week-2019-to-be-inaugurated-by-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-2020" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.devdiscourse.com/article/business/893899-india-smart-utility-week-2019-to-be-inaugurated-by-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-2020" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3737,7 +3737,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.ecoideaz.com/?s=smart+grid" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.ecoideaz.com/?s=smart+grid" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3747,7 +3747,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.cde.ual.es/conferencia-india-smart-utility-week-2020/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.cde.ual.es/conferencia-india-smart-utility-week-2020/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3757,7 +3757,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://www.nokia.com/about-us/news-and-events/events-calendar/india-smart-utilities-week-2020/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://www.nokia.com/about-us/news-and-events/events-calendar/india-smart-utilities-week-2020/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3767,7 +3767,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://osgp.org/en/news#India-Smart-Utility-Week-ISUW-2020" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://osgp.org/en/news#India-Smart-Utility-Week-ISUW-2020" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3777,7 +3777,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://smartwww.in/india-smart-utility-week-isuw-2020-one-of-the-top-five-international-events-on-smart-grids-smart-cities/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://smartwww.in/india-smart-utility-week-isuw-2020-one-of-the-top-five-international-events-on-smart-grids-smart-cities/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3787,7 +3787,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="http://newsdogshare.com/amp/article/5e04a98f83b48e62cb8cdafc/" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="http://newsdogshare.com/amp/article/5e04a98f83b48e62cb8cdafc/" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3797,7 +3797,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3 color="#000000">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font size=3 color="#0563C1"><a href="https://electronicsmaker.com/india-smart-utility-week-isuw-2020" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font size=3 color="#0563C1"><a href="https://electronicsmaker.com/india-smart-utility-week-isuw-2020" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3807,7 +3807,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20200228EN33443&amp;filter=1889" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20200228EN33443&amp;filter=1889" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3817,7 +3817,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://accommodationtimes.com/pr-newswire/?rkey=20200228EN33443&amp;filter=18279" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://accommodationtimes.com/pr-newswire/?rkey=20200228EN33443&amp;filter=18279" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Real Estate</td>
@@ -3827,7 +3827,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20200228EN33443&amp;filter=8421"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20200228EN33443&amp;filter=8421"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3837,7 +3837,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.ai-online.com/prnewswire/?rkey=20200228EN33443&amp;filter=1271"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.ai-online.com/prnewswire/?rkey=20200228EN33443&amp;filter=1271"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Global</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Transportation/Logistics</td>
@@ -3847,7 +3847,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.awesomeindia.in/press-release/?rkey=20200228EN33443&amp;filter=16869" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.awesomeindia.in/press-release/?rkey=20200228EN33443&amp;filter=16869" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3857,7 +3857,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://b-live.in/prnewswire/?rkey=20200228EN33443&amp;filter=18861"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://b-live.in/prnewswire/?rkey=20200228EN33443&amp;filter=18861"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3867,7 +3867,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news.php?rkey=20200228EN33443&amp;filter=227" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news.php?rkey=20200228EN33443&amp;filter=227" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Tech</td>
@@ -3877,7 +3877,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://news.biharprabha.com/prnewswire/?rkey=20200228EN33443&amp;filter=22704"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://news.biharprabha.com/prnewswire/?rkey=20200228EN33443&amp;filter=22704"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3887,7 +3887,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20200228EN33443&amp;filter=22764"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20200228EN33443&amp;filter=22764"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3897,7 +3897,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.biznews.in/article/india-smart-utility-week-2019-to-be-inaugurated-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-20204"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.biznews.in/article/india-smart-utility-week-2019-to-be-inaugurated-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-20204"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Other</td>
@@ -3907,7 +3907,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.biznextindia.com/pr-newswire/?rkey=20200228EN33443&amp;filter=19403"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.biznextindia.com/pr-newswire/?rkey=20200228EN33443&amp;filter=19403"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3917,7 +3917,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://businessfortnight.com/pr-newswire/?rkey=20200228EN33443&amp;filter=5117" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://businessfortnight.com/pr-newswire/?rkey=20200228EN33443&amp;filter=5117" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3927,7 +3927,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://businessnewsthisweek.com/prnews/?rkey=20200228EN33443&amp;filter=601"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://businessnewsthisweek.com/prnews/?rkey=20200228EN33443&amp;filter=601"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3937,7 +3937,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.businesssandesh.in/breaking-news/?rkey=20200228EN33443&amp;filter=7621"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.businesssandesh.in/breaking-news/?rkey=20200228EN33443&amp;filter=7621"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3947,7 +3947,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.businesstoday.in/prnewswire/?rkey=20200228EN33443&amp;filter=2418" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.businesstoday.in/prnewswire/?rkey=20200228EN33443&amp;filter=2418" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3957,7 +3957,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://businessviews.in/business-views-press-release-news/?rkey=20200228EN33443&amp;filter=908" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://businessviews.in/business-views-press-release-news/?rkey=20200228EN33443&amp;filter=908" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3967,7 +3967,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://corecommunique.com/prnewswire/?rkey=20200228EN33443&amp;filter=4754"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://corecommunique.com/prnewswire/?rkey=20200228EN33443&amp;filter=4754"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3977,7 +3977,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://corporateethos.com/pr-newswire/?rkey=20200228EN33443&amp;filter=64304"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://corporateethos.com/pr-newswire/?rkey=20200228EN33443&amp;filter=64304"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -3987,7 +3987,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.csomagazine.com/press-release/106358654"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.csomagazine.com/press-release/106358654"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United Kingdom</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Environment</td>
@@ -3997,7 +3997,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.dsij.in/newswiredetails.aspx?FileName=202002280014PR_NEWS_EURO_ND__EN33443"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.dsij.in/newswiredetails.aspx?FileName=202002280014PR_NEWS_EURO_ND__EN33443"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Financial Data, Research &amp; Analytics</td>
 		<td><font size=3>Financial</td>
@@ -4008,7 +4008,7 @@
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
 		<td><font size=3><a href="https://www.dkoding.in/press-release/india-smart-utility-week-2019-to-be-inaugurated
-		-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-2020/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-2020/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4018,7 +4018,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.energycentral.com/node/407474/edit?news_processing=1"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.energycentral.com/node/407474/edit?news_processing=1"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United States</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Energy and Natural Resources</td>
@@ -4028,7 +4028,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.energydigital.com/press-release/10635865-0"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.energydigital.com/press-release/10635865-0"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United Kingdom</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Energy and Natural Resources</td>
@@ -4038,7 +4038,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://enterpriseworldnews.com/pr-newswire/?rkey=20200228EN33443&amp;filter=19539" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://enterpriseworldnews.com/pr-newswire/?rkey=20200228EN33443&amp;filter=19539" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Banking &amp; Financial Institutions</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4048,7 +4048,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.feedspot.com/?_src=folder"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.feedspot.com/?_src=folder"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United States</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4058,7 +4058,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://firstreport.in/pr-newswire/?rkey=20200228EN33443&amp;filter=6490"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://firstreport.in/pr-newswire/?rkey=20200228EN33443&amp;filter=6490"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4068,7 +4068,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://globalprimenews.com/prnewswire/?rkey=20200228EN33443&amp;filter=19416"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://globalprimenews.com/prnewswire/?rkey=20200228EN33443&amp;filter=19416"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4078,7 +4078,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://goevnts.com/pr-landing?rkey=20200228EN33443&amp;filter=4444"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://goevnts.com/pr-landing?rkey=20200228EN33443&amp;filter=4444"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Global</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Business Services</td>
@@ -4088,7 +4088,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://greenlichen.com/pr-newswire/?rkey=20200228EN33443&amp;filter=15918" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://greenlichen.com/pr-newswire/?rkey=20200228EN33443&amp;filter=15918" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Environment</td>
@@ -4098,7 +4098,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.hellomumbainews.com/hello-business/?rkey=20200228EN33443&amp;filter=12313"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.hellomumbainews.com/hello-business/?rkey=20200228EN33443&amp;filter=12313"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4108,7 +4108,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-1066108" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-1066108" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4118,7 +4118,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://ibgnews.com/pr-newswire-news/?rkey=20200228EN33443&amp;filter=19585"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://ibgnews.com/pr-newswire-news/?rkey=20200228EN33443&amp;filter=19585"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4128,7 +4128,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://ibtn9.com/pr-newswire/?rkey=20200228EN33443&amp;filter=12202"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://ibtn9.com/pr-newswire/?rkey=20200228EN33443&amp;filter=12202"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4138,7 +4138,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.india-briefing.com/news/partnernews/?rkey=20200228EN33443&amp;filter=3400"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.india-briefing.com/news/partnernews/?rkey=20200228EN33443&amp;filter=3400"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Financial</td>
@@ -4148,7 +4148,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.apherald.com/prnewswire?rkey=20200228EN33443&amp;filter=18307" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.apherald.com/prnewswire?rkey=20200228EN33443&amp;filter=18307" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4158,7 +4158,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://news.indiaonline.in/prnewswire?rkey=20200228EN33443&amp;filter=4991"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://news.indiaonline.in/prnewswire?rkey=20200228EN33443&amp;filter=4991"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4168,7 +4168,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.indiatoday.in/pr-newswire?rkey=20200228EN33443&amp;filter=4315"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.indiatoday.in/pr-newswire?rkey=20200228EN33443&amp;filter=4315"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Magazine</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4178,7 +4178,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://indiannerve.com/in-press/?rkey=20200228EN33443&amp;filter=6492"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://indiannerve.com/in-press/?rkey=20200228EN33443&amp;filter=6492"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4188,7 +4188,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://indianpowersector.com/prnews/?rkey=20200228EN33443&amp;filter=4997" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://indianpowersector.com/prnews/?rkey=20200228EN33443&amp;filter=4997" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Energy and Natural Resources</td>
@@ -4198,7 +4198,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://indoredilse.com/english-news/?rkey=20200228EN33443&amp;filter=10474"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://indoredilse.com/english-news/?rkey=20200228EN33443&amp;filter=10474"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4208,7 +4208,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://english.instanews24x7.com/press-releases?rkey=20200228EN33443&amp;filter=20045"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://english.instanews24x7.com/press-releases?rkey=20200228EN33443&amp;filter=20045"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4218,7 +4218,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.internationalfair.in/pdetails.php?rkey=20200228EN33443&amp;filter=9866"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.internationalfair.in/pdetails.php?rkey=20200228EN33443&amp;filter=9866"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Business Services</td>
@@ -4229,7 +4229,7 @@
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
 		<td><font size=3><a href="http://www.itnewsonline.com/prnewswire/India-Smart-Utility-Week-2019-to-be-
-		Inaugurated-by-Shri-Sanjiv-Nandan-Sahay-Secretary-Ministry-of-Power-on-March-04-2020/681967" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		Inaugurated-by-Shri-Sanjiv-Nandan-Sahay-Secretary-Ministry-of-Power-on-March-04-2020/681967" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Tech</td>
@@ -4239,7 +4239,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.lang1234.info/prnewswire.html?rkey=20200228EN33443&amp;filter=10756"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.lang1234.info/prnewswire.html?rkey=20200228EN33443&amp;filter=10756"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United States</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Multicultural &amp; Demographic</td>
@@ -4250,7 +4250,7 @@
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
 		<td><font size=3><a href="https://livechronicle.in/2020/02/28/india-smart-utility-week-2019-to-be-
-		inaugurated-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-2020/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		inaugurated-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-on-march-04-2020/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4260,7 +4260,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.mangalorean.com/pr-newswire/?rkey=20200228EN33443&amp;filter=17665"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.mangalorean.com/pr-newswire/?rkey=20200228EN33443&amp;filter=17665"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4270,7 +4270,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://mybrandbook.co.in/redirect.php?p=11431&amp;rkey=20200228EN33443&amp;filter=19999" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://mybrandbook.co.in/redirect.php?p=11431&amp;rkey=20200228EN33443&amp;filter=19999" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Tech</td>
@@ -4280,7 +4280,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://nasheman.in/newswire/?rkey=20200228EN33443&amp;filter=11016"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://nasheman.in/newswire/?rkey=20200228EN33443&amp;filter=11016"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4290,7 +4290,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.newdelhitimes.com/news-release/?rkey=20200228EN33443&amp;filter=5147" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.newdelhitimes.com/news-release/?rkey=20200228EN33443&amp;filter=5147" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4300,7 +4300,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20200228EN33443&amp;filter=10033"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20200228EN33443&amp;filter=10033"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4310,7 +4310,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://newswithchai.com/pr-newswire/?rkey=20200228EN33443&amp;filter=17771"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://newswithchai.com/pr-newswire/?rkey=20200228EN33443&amp;filter=17771"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4320,7 +4320,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://newsblaze.in/pr-newswire?rkey=20200228EN33443&amp;filter=12696"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://newsblaze.in/pr-newswire?rkey=20200228EN33443&amp;filter=12696"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4330,7 +4330,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.newscontrolroom.com/prnewswire/?rkey=20200228EN33443&amp;filter=19537" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.newscontrolroom.com/prnewswire/?rkey=20200228EN33443&amp;filter=19537" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4340,7 +4340,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.newsgram.com/press-releases/?rkey=20200228EN33443&amp;filter=590"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.newsgram.com/press-releases/?rkey=20200228EN33443&amp;filter=590"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4350,7 +4350,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.newsr.in/prnewswire.php?rkey=20200228EN33443&amp;filter=5070"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.newsr.in/prnewswire.php?rkey=20200228EN33443&amp;filter=5070"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4360,7 +4360,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://nrinews24x7.com/pr-news/?rkey=20200228EN33443&amp;filter=4972"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://nrinews24x7.com/pr-news/?rkey=20200228EN33443&amp;filter=4972"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4370,7 +4370,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.odishabytes.com/pr-newswire/?rkey=20200228EN33443&amp;filter=18897" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.odishabytes.com/pr-newswire/?rkey=20200228EN33443&amp;filter=18897" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4380,7 +4380,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://odishanewstune.com/press-releases/?rkey=20200228EN33443&amp;filter=19427" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://odishanewstune.com/press-releases/?rkey=20200228EN33443&amp;filter=19427" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4390,7 +4390,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.odishastory.com/pr-newswire/?rkey=20200228EN33443&amp;filter=19409" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.odishastory.com/pr-newswire/?rkey=20200228EN33443&amp;filter=19409" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4400,7 +4400,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://odishasuntimes.com/prnews/?rkey=20200228EN33443&amp;filter=4968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://odishasuntimes.com/prnews/?rkey=20200228EN33443&amp;filter=4968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4410,7 +4410,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.odisha360.com/prn/?rkey=20200228EN33443&amp;filter=4962"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.odisha360.com/prn/?rkey=20200228EN33443&amp;filter=4962"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4420,7 +4420,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.ohsem.me/pr-newswire/?rkey=20200228EN33443&amp;filter=5817" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.ohsem.me/pr-newswire/?rkey=20200228EN33443&amp;filter=5817" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Malaysia</td>
 		<td><font size=3>Blog</td>
 		<td><font size=3>Tech</td>
@@ -4430,7 +4430,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.onenewspage.com/prnewswire.php?rkey=20200228EN33443&amp;filter=3968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.onenewspage.com/prnewswire.php?rkey=20200228EN33443&amp;filter=3968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Global</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4442,7 +4442,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font size=3><a href="https://www.prnewswire.com/in/news-releases/india-smart-utility-week-2019-to-
 		be-inaugurated-by-shri-sanjiv-nandan-sahay-secretary
-		-ministry-of-power-on-march-04-2020-894838724.html"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-ministry-of-power-on-march-04-2020-894838724.html"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United States</td>
 		<td><font size=3>PR Newswire</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4452,7 +4452,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.prativad.com/Newswireeng.php?rkey=20200228EN33443&amp;filter=19411"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.prativad.com/Newswireeng.php?rkey=20200228EN33443&amp;filter=19411"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4464,7 +4464,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font size=3><a href="http://www.ptinews.com/pressrelease/39825_press-subIndia-Smart-Utility
 		-Week-2019-to-be-Inaugurated-by-Shri-Sanjiv-Nandan-Sahay--
-		Secretary--Ministry-of-Power-on-March-04--2020"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		Secretary--Ministry-of-Power-on-March-04--2020"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4474,7 +4474,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://reportodisha.com/press-releases/?rkey=20200228EN33443&amp;filter=19014"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://reportodisha.com/press-releases/?rkey=20200228EN33443&amp;filter=19014"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4484,7 +4484,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://englishnews.reporterstoday.com/pr-newswire/?rkey=20200228EN33443&amp;filter=20068" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://englishnews.reporterstoday.com/pr-newswire/?rkey=20200228EN33443&amp;filter=20068" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4495,7 +4495,7 @@
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
 		<td><font size=3><a href="https://reviewstreet.in/news-reviews-mobiles-gadgets-pcs-
-		automobile/prnewswireindia/?rkey=20200228EN33443&amp;filter=15937" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		automobile/prnewswireindia/?rkey=20200228EN33443&amp;filter=15937" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4505,7 +4505,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.rnews1.com/p/pr-newswire.html?rkey=20200228EN33443&amp;filter=7546"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.rnews1.com/p/pr-newswire.html?rkey=20200228EN33443&amp;filter=7546"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4515,7 +4515,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://english.samajalive.in/pr-newswire/?rkey=20200228EN33443&amp;filter=19527" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://english.samajalive.in/pr-newswire/?rkey=20200228EN33443&amp;filter=19527" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4525,7 +4525,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.smarttechtoday.com/prnews/?rkey=20200228EN33443&amp;filter=2496"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.smarttechtoday.com/prnews/?rkey=20200228EN33443&amp;filter=2496"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Tech</td>
@@ -4535,7 +4535,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://smestreet.in/infocus/prnewswireindia/?rkey=20200228EN33443&amp;filter=15935"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://smestreet.in/infocus/prnewswireindia/?rkey=20200228EN33443&amp;filter=15935"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4545,7 +4545,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.socialnews.xyz/pr-newswire/?rkey=20200228EN33443&amp;filter=15405"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.socialnews.xyz/pr-newswire/?rkey=20200228EN33443&amp;filter=15405"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4555,7 +4555,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.solarsurge.in/pr-newswire/?rkey=20200228EN33443&amp;filter=17110"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.solarsurge.in/pr-newswire/?rkey=20200228EN33443&amp;filter=17110"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Energy and Natural Resources</td>
@@ -4565,7 +4565,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://startuptostandout.com/pr-news-wire/?rkey=20200228EN33443&amp;filter=17982"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://startuptostandout.com/pr-news-wire/?rkey=20200228EN33443&amp;filter=17982"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4575,7 +4575,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://techent.tv/newswire?rkey=20200228EN33443&amp;filter=5758" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://techent.tv/newswire?rkey=20200228EN33443&amp;filter=5758" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Malaysia</td>
 		<td><font size=3>Blog</td>
 		<td><font size=3>Tech</td>
@@ -4585,7 +4585,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://telanganatoday.com/pr-newswire?rkey=20200228EN33443&amp;filter=11682"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://telanganatoday.com/pr-newswire?rkey=20200228EN33443&amp;filter=11682"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4597,7 +4597,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font size=3><a href="https://www.thechainmagazine.com/india-smart-utility-week-2019-to-be-
 		inaugurated-by-shri-sanjiv-nandan-sahay-secretary
-		-ministry-of-power-on-march-04-2020/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-ministry-of-power-on-march-04-2020/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United Kingdom</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Industrial</td>
@@ -4607,7 +4607,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://thehawk.in/prnewswire/?rkey=20200228EN33443&amp;filter=4853"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://thehawk.in/prnewswire/?rkey=20200228EN33443&amp;filter=4853"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4617,7 +4617,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.thesme.co.in/news-wire/?rkey=20200228EN33443&amp;filter=18812"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.thesme.co.in/news-wire/?rkey=20200228EN33443&amp;filter=18812"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4627,7 +4627,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://thetechportal.com/press-releases-pr-newswire/?rkey=20200228EN33443&amp;filter=1985"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://thetechportal.com/press-releases-pr-newswire/?rkey=20200228EN33443&amp;filter=1985"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Tech</td>
@@ -4637,7 +4637,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://www.thetimesofbengal.com/newswire/?rkey=20200228EN33443&amp;filter=17730"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.thetimesofbengal.com/newswire/?rkey=20200228EN33443&amp;filter=17730"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4647,7 +4647,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.thinkingtech.in/pr-newswire/?rkey=20200228EN33443&amp;filter=17106"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.thinkingtech.in/pr-newswire/?rkey=20200228EN33443&amp;filter=17106"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Tech</td>
@@ -4657,7 +4657,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://timestech.in/trends-forecast/?rkey=20200228EN33443&amp;filter=15939" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://timestech.in/trends-forecast/?rkey=20200228EN33443&amp;filter=15939" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Tech</td>
@@ -4667,7 +4667,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.tmcnet.com/usubmit/-india-smart-utility-week-2019-be-inaugurated-shri-/2020/02/28/9106334.htm"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.tmcnet.com/usubmit/-india-smart-utility-week-2019-be-inaugurated-shri-/2020/02/28/9106334.htm"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United States</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Tech</td>
@@ -4677,7 +4677,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.tripuraindia.in/press-release?rkey=20200228EN33443&amp;filter=18753"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.tripuraindia.in/press-release?rkey=20200228EN33443&amp;filter=18753"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4689,7 +4689,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font size=3><a href="http://www.uniindia.com/india-smart-utility-week-2019-to-be-inaugurated
 		-by-shri-sanjiv-nandan-sahay-secretary-ministry-of-power-
-		on-march-04-2020/prnewswire/news/1901477.html"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		on-march-04-2020/prnewswire/news/1901477.html"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4699,7 +4699,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://updateodisha.com/pr-corner?rkey=20200228EN33443&amp;filter=19112"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://updateodisha.com/pr-corner?rkey=20200228EN33443&amp;filter=19112"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4709,7 +4709,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://uttarakhandnewsnetwork.com/press-release-pr-news-wire/?rkey=20200228EN33443&amp;filter=14497" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://uttarakhandnewsnetwork.com/press-release-pr-news-wire/?rkey=20200228EN33443&amp;filter=14497" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4719,7 +4719,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://www.varindia.com/news/press--pr-news-wire?rkey=20200228EN33443&amp;filter=537" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.varindia.com/news/press--pr-news-wire?rkey=20200228EN33443&amp;filter=537" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Tech</td>
@@ -4729,7 +4729,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="https://news.webindia123.com/news/press_showdetailsPR.asp?id=1129009" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://news.webindia123.com/news/press_showdetailsPR.asp?id=1129009" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Financial</td>
@@ -4739,7 +4739,7 @@
 		<td>ISUW 2020</td>
 		<td><font size=3>English</td>
 		<td><font face="Arial">Online</td>
-		<td><font size=3><a href="http://windowtonews.com/pr-newswire-english.php?rkey=20200228EN33443&amp;filter=19687" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://windowtonews.com/pr-newswire-english.php?rkey=20200228EN33443&amp;filter=19687" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -4749,7 +4749,7 @@
 		<td>ISUW 2020</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="http://online.fliphtml5.com/dysdc/rpmk/#p=110"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="http://online.fliphtml5.com/dysdc/rpmk/#p=110"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -4760,7 +4760,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="http://www.sustainabilityoutlook.in/content/datebook
-		/india-smart-utility-week-2020-765806"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		/india-smart-utility-week-2020-765806"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -4770,7 +4770,7 @@
 		<td>ISUW 2020</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="http://www.iea-isgan.org/?p=4470"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="http://www.iea-isgan.org/?p=4470"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -4780,7 +4780,7 @@
 		<td>ISUW 2020</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="https://electronicsmaker.com/india-smart-utility-week-isuw-2020"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="https://electronicsmaker.com/india-smart-utility-week-isuw-2020"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -4790,7 +4790,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="http://www.itsforhome.com/pub/index.php/2018/03/09/Green-light-for-new-national-IoT-initiative-in-Trondheim/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="http://www.itsforhome.com/pub/index.php/2018/03/09/Green-light-for-new-national-IoT-initiative-in-Trondheim/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4800,7 +4800,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="http://www.infraline.com/newsdetails.aspx?flag=1&amp;id=54883&amp;title=Next-Tranche-Of-Highway-Projects-Under-Tot-To-Be-Auctioned-In-Apr-Nitin-Gadkari"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="http://www.infraline.com/newsdetails.aspx?flag=1&amp;id=54883&amp;title=Next-Tranche-Of-Highway-Projects-Under-Tot-To-Be-Auctioned-In-Apr-Nitin-Gadkari"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4810,7 +4810,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="http://www.dailypioneer.com/business/2018-03-08-210078.html"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="http://www.dailypioneer.com/business/2018-03-08-210078.html"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4820,7 +4820,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="http://www.lse.co.uk/ShareChat.asp?ShareTicker=CYAN&amp;type=regular#18447127"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="http://www.lse.co.uk/ShareChat.asp?ShareTicker=CYAN&amp;type=regular#18447127"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4830,7 +4830,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="http://www.andhranews.net/updates/Andhra_Pradesh_News_on_March_9,2018"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="http://www.andhranews.net/updates/Andhra_Pradesh_News_on_March_9,2018"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4841,7 +4841,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="http://www.itsforhome.com/pub/index.php/2018/03/
-		09/APEPDCL-bags-award-for-100-electrification/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		09/APEPDCL-bags-award-for-100-electrification/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4852,7 +4852,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="http://www.itsforhome.com/pub/index.php/
-		2018/03/10/APEPDCL-wins-award-ATC-with-PIC/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		2018/03/10/APEPDCL-wins-award-ATC-with-PIC/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4862,7 +4862,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="http://www.pressreleasepoint.com/cyanconnode-wins-platinum-isgf-innovation-awards"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="http://www.pressreleasepoint.com/cyanconnode-wins-platinum-isgf-innovation-awards"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4872,7 +4872,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="https://in.ambafrance.org/List-of-agreements-and-contracts"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="https://in.ambafrance.org/List-of-agreements-and-contracts"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4883,7 +4883,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="http://www.boursorama.com/actualites/encadre-contrats-et-accords-signes
-		-lors-de-la-visite-de-macron-en-inde-553fc467e3ce4a4cd3d22f822f0cfbf1"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-lors-de-la-visite-de-macron-en-inde-553fc467e3ce4a4cd3d22f822f0cfbf1"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4894,7 +4894,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="https://www.pv-magazine-india.com/press-releases/rahul-walawalkar
-		-honored-with-india-smart-grid-forum-presidents-award-2018/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-honored-with-india-smart-grid-forum-presidents-award-2018/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4905,7 +4905,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="https://nseindia.com/corporates/corpInfo/equities/AnnouncementDetail.
-		jsp?desc=Press+Release&amp;symbol=DPSCLTD&amp;tstamp=140320181052"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		jsp?desc=Press+Release&amp;symbol=DPSCLTD&amp;tstamp=140320181052"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4916,7 +4916,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="https://intradayequitytips.wordpress.com/2018/03/14/
-		india-power-corporation-wins-isgf-innovation-awards-2018/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		india-power-corporation-wins-isgf-innovation-awards-2018/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4926,7 +4926,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><u><font color="#0563C1"><a href="http://www.varindia.com/news/tata-powerddl-joins-hands-with-sap-to-curb-power-theft"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font color="#0563C1"><a href="http://www.varindia.com/news/tata-powerddl-joins-hands-with-sap-to-curb-power-theft"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4938,7 +4938,7 @@
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="http://www.4-traders.com/BRG-VERMOEGENSVERWALTUNG-3950146/
 		news/BRG-Vermoegensverwaltung-IESA-Customized-Energy-Solutions-
-		Dr-Rahul-Walawalkar-honored-with-Indi-26158901/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		Dr-Rahul-Walawalkar-honored-with-Indi-26158901/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4949,7 +4949,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="http://www.citrusinteractive.in/News/OpenNewsContent
-		.aspx?NewsID=617951&amp;SecId=7&amp;SubSecID=15"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		.aspx?NewsID=617951&amp;SecId=7&amp;SubSecID=15"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4961,7 +4961,7 @@
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="http://solarquarter.com/index.php/world/73-asia-australia/india/
 		8546-experts-from-50-countries-to-converge-at-the-4th-edition-of-india-smart-grid-
-		week-to-discuss-emerging-transformation-of-the-india-s-energy-sector"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		week-to-discuss-emerging-transformation-of-the-india-s-energy-sector"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4972,7 +4972,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><u><font color="#0563C1"><a href="http://www.businessworld.in/article/Experts-From-50-Countries-to-
-		Converge-at-the-4th-Edition-of/21-02-2018-141286/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		Converge-at-the-4th-Edition-of/21-02-2018-141286/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4982,7 +4982,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire.aspx?rkey=20180220enIN201802191749_indiapublic&amp;filter=3325"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire.aspx?rkey=20180220enIN201802191749_indiapublic&amp;filter=3325"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -4992,7 +4992,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20180220enIN201802191749_indiapublic&amp;filter=1889" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20180220enIN201802191749_indiapublic&amp;filter=1889" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5002,7 +5002,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=8421"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=8421"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5012,7 +5012,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://assignmenteditor.com/pr-newswire-3/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1673"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://assignmenteditor.com/pr-newswire-3/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1673"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5022,7 +5022,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.ai-online.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1271"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.ai-online.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1271"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Transportation</td>
@@ -5032,7 +5032,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://b-live.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5082"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://b-live.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5082"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5043,7 +5043,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news
-		.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=2267" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=2267" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -5054,7 +5054,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://news.biharprabha.com/prnewswire/?rkey=201802
-		20enIN201802191749_indiapublic&amp;filter=2270"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		20enIN201802191749_indiapublic&amp;filter=2270"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5065,7 +5065,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=
-		20180220enIN201802191749_indiapublic&amp;filter=2276"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		20180220enIN201802191749_indiapublic&amp;filter=2276"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5075,7 +5075,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://businessfortnight.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5117" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://businessfortnight.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5117" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5085,7 +5085,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://businessnewsthisweek.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4605"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://businessnewsthisweek.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4605"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5095,7 +5095,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.businesssandesh.in/breaking-news/?rkey=20180220enIN201802191749_indiapublic&amp;filter=7621"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.businesssandesh.in/breaking-news/?rkey=20180220enIN201802191749_indiapublic&amp;filter=7621"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5105,7 +5105,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.businesstoday.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2418" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.businesstoday.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2418" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5116,7 +5116,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://businessviews.in/business-views-press-release-news/
-		?rkey=20180220enIN201802191749_indiapublic&amp;filter=908" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		?rkey=20180220enIN201802191749_indiapublic&amp;filter=908" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Other</td>
@@ -5126,7 +5126,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://corecommunique.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4754"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://corecommunique.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4754"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5137,7 +5137,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.dsij.in/newswiredetails.aspx?FileName=
-		201802202330PR_NEWS_EURO_ND__enIN201802191749_indiapublic"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		201802202330PR_NEWS_EURO_ND__enIN201802191749_indiapublic"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Financial Data, Research &amp; Analytics</td>
 		<td><font face="Arial">Financial</td>
@@ -5147,7 +5147,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://dataguru.in/prnewswire.do?rkey=20180220enIN201802191749_indiapublic&amp;filter=2488" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://dataguru.in/prnewswire.do?rkey=20180220enIN201802191749_indiapublic&amp;filter=2488" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -5157,7 +5157,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.energycentral.com/node/212892/edit?news_processing=1"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.energycentral.com/node/212892/edit?news_processing=1"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   United States</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Energy</td>
@@ -5168,7 +5168,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.enterpriseitworld.com/index.php/PR/
-		?rkey=20180220enIN201802191749_indiapublic&amp;filter=4799" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		?rkey=20180220enIN201802191749_indiapublic&amp;filter=4799" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Tech</td>
@@ -5179,7 +5179,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://thefastmail.com/index.php/page/detailnews/
-		7069?rkey=20180220enIN201802191749_indiapublic&amp;filter=3911"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		7069?rkey=20180220enIN201802191749_indiapublic&amp;filter=3911"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5190,7 +5190,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://firstreport.in/pr-newswire/?rkey=20180220
-		enIN201802191749_indiapublic&amp;filter=6490"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		enIN201802191749_indiapublic&amp;filter=6490"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5200,7 +5200,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://goevnts.com/pr-landing?rkey=20180220enIN201802191749_indiapublic&amp;filter=4444"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://goevnts.com/pr-landing?rkey=20180220enIN201802191749_indiapublic&amp;filter=4444"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Business Services</td>
@@ -5211,7 +5211,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.greenlifestylemag.com.au/industrynews?rkey
-		=20180220enIN201802191749_indiapublic&amp;filter=1867" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		=20180220enIN201802191749_indiapublic&amp;filter=1867" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Environment</td>
@@ -5222,7 +5222,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.hellomumbainews.com/hello-business/?rkey=201802
-		20enIN201802191749_indiapublic&amp;filter=12313"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		20enIN201802191749_indiapublic&amp;filter=12313"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5234,7 +5234,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.htsyndication.com/htsportal/pr-newswire/article/
 		experts-from-50-countries-to-converge-at-the-4th-edition-of-india-smart-grid-week-
-		to-discuss-trending-technologies-of-energy-sector/26005902"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		to-discuss-trending-technologies-of-energy-sector/26005902"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5244,7 +5244,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-893132"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-893132"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5254,7 +5254,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://ibtn9.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=12202"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://ibtn9.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=12202"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5265,7 +5265,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.india-briefing.com/news/partnernews/?r
-		key=20180220enIN201802191749_indiapublic&amp;filter=3400"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		key=20180220enIN201802191749_indiapublic&amp;filter=3400"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Financial</td>
@@ -5276,7 +5276,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://news.indiaonline.in/prnewswire?rkey=20180220
-		enIN201802191749_indiapublic&amp;filter=4991"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		enIN201802191749_indiapublic&amp;filter=4991"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5287,7 +5287,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="https://www.indiatoday.in/pr-newswire?rkey=20180220enIN
-		201802191749_indiapublic&amp;filter=4315"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		201802191749_indiapublic&amp;filter=4315"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Magazine</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5297,7 +5297,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://indiannerve.com/in-press/?rkey=20180220enIN201802191749_indiapublic&amp;filter=6492"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://indiannerve.com/in-press/?rkey=20180220enIN201802191749_indiapublic&amp;filter=6492"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5307,7 +5307,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://indianpowersector.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4997" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://indianpowersector.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4997" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Energy</td>
@@ -5318,7 +5318,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.indianotes.com/PRNewswire/prnewswire-news-details.
-		php?id=enIN201802191749_indiapublic&amp;t=N&amp;v=P"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		php?id=enIN201802191749_indiapublic&amp;t=N&amp;v=P"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5329,7 +5329,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://infrabuddy.com/pr-newswire/?rkey=20180220enI
-		N201802191749_indiapublic&amp;filter=423"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		N201802191749_indiapublic&amp;filter=423"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5339,7 +5339,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.internationalfair.in/pdetails.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=9866"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.internationalfair.in/pdetails.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=9866"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Business Services</td>
@@ -5349,7 +5349,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.livechennai.com/prnewswire/index.asp?rkey=20180220enIN201802191749_indiapublic&amp;filter=12088" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.livechennai.com/prnewswire/index.asp?rkey=20180220enIN201802191749_indiapublic&amp;filter=12088" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5359,7 +5359,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.marketnewsrelease.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=10091"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.marketnewsrelease.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=10091"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5369,7 +5369,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://mediainfoline.com/releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=3952"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://mediainfoline.com/releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=3952"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5379,7 +5379,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://medicinman.net/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5136"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://medicinman.net/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5136"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Health</td>
@@ -5389,7 +5389,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://nasheman.in/newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=11016"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://nasheman.in/newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=11016"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5399,7 +5399,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsbharati.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5165"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsbharati.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5165"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5409,7 +5409,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=10033"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=10033"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5419,7 +5419,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.news-pr.in/display?rkey=20180220enIN201802191749_indiapublic&amp;filter=12235"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.news-pr.in/display?rkey=20180220enIN201802191749_indiapublic&amp;filter=12235"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5429,7 +5429,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://newsblaze.in/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=12696"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://newsblaze.in/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=12696"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5439,7 +5439,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsgram.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=590"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsgram.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=590"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5449,7 +5449,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsprelease.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=10089" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsprelease.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=10089" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5459,7 +5459,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsr.in/prnewswire.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=5070"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsr.in/prnewswire.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=5070"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Newspaper</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5470,7 +5470,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.northindiakaleidoscope.com/pr-newswire/
-		?rkey=20180220enIN201802191749_indiapublic&amp;filter=6817" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		?rkey=20180220enIN201802191749_indiapublic&amp;filter=6817" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5480,7 +5480,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://nrinews24x7.com/prnews.htm?rkey=20180220enIN201802191749_indiapublic&amp;filter=4972"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://nrinews24x7.com/prnews.htm?rkey=20180220enIN201802191749_indiapublic&amp;filter=4972"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5491,7 +5491,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="https://eodishasamachar.com/en/pr-newswire-2/?rkey=
-		20180220enIN201802191749_indiapublic&amp;filter=4272"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		20180220enIN201802191749_indiapublic&amp;filter=4272"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5502,7 +5502,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://odishasuntimes.com/prnews/?rkey=20180220enIN2
-		01802191749_indiapublic&amp;filter=4968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		01802191749_indiapublic&amp;filter=4968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Newspaper</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5512,7 +5512,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.odisha360.com/prn/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4962"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.odisha360.com/prn/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4962"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5522,7 +5522,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.ohsem.me/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=5817" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.ohsem.me/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=5817" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Malaysia</td>
 		<td><font face="Arial">Blog</td>
 		<td><font face="Arial">Tech</td>
@@ -5532,7 +5532,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.onenewspage.com/prnewswire.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=3968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.onenewspage.com/prnewswire.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=3968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5544,7 +5544,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.prnewswire.co.in/news-releases/experts-from-50
 		-countries-to-converge-at-the-4th-edition-of-india-smart-grid-week-to-discuss
-		-trending-technologies-of-energy-sector-674662293.html"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-trending-technologies-of-energy-sector-674662293.html"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">PR Newswire</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5554,7 +5554,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://prativad.com/newseng.htm?rkey=20180220enIN201802191749_indiapublic&amp;filter=4617" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://prativad.com/newseng.htm?rkey=20180220enIN201802191749_indiapublic&amp;filter=4617" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5566,7 +5566,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.ptinews.com/pressrelease/28323_press-subExperts-
 		From-50-Countries-to-Converge-at-the-4th-Edition-of-India-Smart-Grid-Week-to
-		-Discuss-Trending-Technologies-of-Energy-Sector"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-Discuss-Trending-Technologies-of-Energy-Sector"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5577,7 +5577,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.rnews1.com/p/pr-newswire.html?rkey=20180220
-		enIN201802191749_indiapublic&amp;filter=7546"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		enIN201802191749_indiapublic&amp;filter=7546"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5587,7 +5587,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://media.newswire.ca/ren-alliance.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=8978" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://media.newswire.ca/ren-alliance.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=8978" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Industry Association Sites</td>
 		<td><font face="Arial">Energy</td>
@@ -5597,7 +5597,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.scoopbig.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4435"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.scoopbig.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4435"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5607,7 +5607,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.smarttechtoday.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2496"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.smarttechtoday.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2496"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -5617,7 +5617,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://specttrumnews.com/news/pr-newswire.aspx?rkey=20180220enIN201802191749_indiapublic&amp;filter=7051"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://specttrumnews.com/news/pr-newswire.aspx?rkey=20180220enIN201802191749_indiapublic&amp;filter=7051"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5627,7 +5627,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://startepreneur.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=11454"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://startepreneur.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=11454"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5637,7 +5637,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://techblogcorner.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1980"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://techblogcorner.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1980"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Blog</td>
 		<td><font face="Arial">Tech</td>
@@ -5647,7 +5647,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://techcircle.vccircle.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2034"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://techcircle.vccircle.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2034"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -5657,7 +5657,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://techent.tv/newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=5758" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://techent.tv/newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=5758" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Malaysia</td>
 		<td><font face="Arial">Blog</td>
 		<td><font face="Arial">Tech</td>
@@ -5667,7 +5667,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.techgenyz.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=6463"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.techgenyz.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=6463"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Tech</td>
@@ -5677,7 +5677,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://telanganatoday.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=116824"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://telanganatoday.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=116824"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5687,7 +5687,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://www.covaipost.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=116904"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.covaipost.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=116904"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5697,7 +5697,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.thehansindia.com/home/prnewswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=20804"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.thehansindia.com/home/prnewswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=20804"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5707,7 +5707,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://thehawk.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=48534"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://thehawk.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=48534"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Newspaper</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5718,7 +5718,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.thepowertimes.in/index.php/daily-updates/national.
-		html?rkey=20180220enIN201802191749_indiapublic&amp;filter=2061"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		html?rkey=20180220enIN201802191749_indiapublic&amp;filter=2061"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Energy</td>
@@ -5729,7 +5729,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://media.newswire.ca/tecake.html?rkey=20180220enIN2
-		01802191749_indiapublic&amp;filter=6362"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		01802191749_indiapublic&amp;filter=6362"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Tech</td>
@@ -5740,7 +5740,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://thetechportal.com/press-releases-pr-newswire/?rkey=
-		20180220enIN201802191749_indiapublic&amp;filter=1985"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		20180220enIN201802191749_indiapublic&amp;filter=1985"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Tech</td>
@@ -5751,7 +5751,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://timestech.info/trends-forecast/?rkey=20180220enIN
-		201802191749_indiapublic&amp;filter=11572"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		201802191749_indiapublic&amp;filter=11572"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Tech</td>
@@ -5761,7 +5761,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.tmcnet.com/usubmit/2018/02/20/8703831.htm"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.tmcnet.com/usubmit/2018/02/20/8703831.htm"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   United States</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Tech</td>
@@ -5771,7 +5771,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.varindia.com/news/1529595?rkey=20180220enIN201802191749_indiapublic&amp;filter=537" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.varindia.com/news/1529595?rkey=20180220enIN201802191749_indiapublic&amp;filter=537" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Tech</td>
@@ -5781,7 +5781,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://media.newswire.ca/whatsnewonthenet.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=299" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://media.newswire.ca/whatsnewonthenet.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=299" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Blog</td>
 		<td><font face="Arial">Tech</td>
@@ -5792,7 +5792,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire
-		.aspx?rkey=20180301enIN201802282776_indiapublic&amp;filter=3325"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		.aspx?rkey=20180301enIN201802282776_indiapublic&amp;filter=3325"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5803,7 +5803,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?r
-		key=20180301enIN201802282776_indiapublic&amp;filter=1889"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		key=20180301enIN201802282776_indiapublic&amp;filter=1889"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5813,7 +5813,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=8421"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=8421"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5823,7 +5823,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://assignmenteditor.com/pr-newswire-3/?rkey=20180301enIN201802282776_indiapublic&amp;filter=1673"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://assignmenteditor.com/pr-newswire-3/?rkey=20180301enIN201802282776_indiapublic&amp;filter=1673"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5833,7 +5833,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.ai-online.com/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=1271"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.ai-online.com/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=1271"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Transportation</td>
@@ -5844,7 +5844,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news
-		.php?rkey=20180301enIN201802282776_indiapublic&amp;filter=2267" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		.php?rkey=20180301enIN201802282776_indiapublic&amp;filter=2267" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -5854,7 +5854,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://news.biharprabha.com/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=2270"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://news.biharprabha.com/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=2270"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5864,7 +5864,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20180301enIN201802282776_indiapublic&amp;filter=2276"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20180301enIN201802282776_indiapublic&amp;filter=2276"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5875,7 +5875,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.biznews.in/article/smart-energy-conference-india-smart
-		-grid-week-to-be-inaugurated-by-power-minister-shri-raj-kumar-singh"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-grid-week-to-be-inaugurated-by-power-minister-shri-raj-kumar-singh"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Other</td>
@@ -5885,7 +5885,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://businessfortnight.com/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=5117" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://businessfortnight.com/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=5117" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5895,7 +5895,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://businessnewsthisweek.com/prnews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4605"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://businessnewsthisweek.com/prnews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4605"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5905,7 +5905,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.businesssandesh.in/breaking-news/?rkey=20180301enIN201802282776_indiapublic&amp;filter=7621"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.businesssandesh.in/breaking-news/?rkey=20180301enIN201802282776_indiapublic&amp;filter=7621"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5915,7 +5915,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.businesstoday.in/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=2418" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.businesstoday.in/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=2418" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5925,7 +5925,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://corecommunique.com/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4754"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://corecommunique.com/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4754"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5935,7 +5935,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.dsij.in/newswiredetails.aspx?FileName=201803010000PR_NEWS_EURO_ND__enIN201802282776_indiapublic"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.dsij.in/newswiredetails.aspx?FileName=201803010000PR_NEWS_EURO_ND__enIN201802282776_indiapublic"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Financial Data, Research &amp; Analytics</td>
 		<td><font face="Arial">Financial</td>
@@ -5945,7 +5945,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://dataguru.in/prnewswire.do?rkey=20180301enIN201802282776_indiapublic&amp;filter=2488" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://dataguru.in/prnewswire.do?rkey=20180301enIN201802282776_indiapublic&amp;filter=2488" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -5955,7 +5955,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.energycentral.com/node/218301/edit?news_processing=1"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.energycentral.com/node/218301/edit?news_processing=1"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   United States</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Energy</td>
@@ -5965,7 +5965,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://thefastmail.com/index.php/page/detailnews/7069?rkey=20180301enIN201802282776_indiapublic&amp;filter=3911"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://thefastmail.com/index.php/page/detailnews/7069?rkey=20180301enIN201802282776_indiapublic&amp;filter=3911"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5975,7 +5975,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://firstreport.in/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=6490"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://firstreport.in/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=6490"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -5985,7 +5985,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://goevnts.com/pr-landing?rkey=20180301enIN201802282776_indiapublic&amp;filter=4444"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://goevnts.com/pr-landing?rkey=20180301enIN201802282776_indiapublic&amp;filter=4444"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Business Services</td>
@@ -5995,7 +5995,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.hellomumbainews.com/hello-business/?rkey=20180301enIN201802282776_indiapublic&amp;filter=12313"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.hellomumbainews.com/hello-business/?rkey=20180301enIN201802282776_indiapublic&amp;filter=12313"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6007,7 +6007,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.htsyndication.com/htsportal/pr-newswire/article/smart
 		-energy-conference-india-smart-grid-week-to-be-inaugurated
-		-by-power-minister-shri-raj-kumar-singh/26142735"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-by-power-minister-shri-raj-kumar-singh/26142735"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6017,7 +6017,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-906900"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-906900"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6027,7 +6027,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://ibtn9.com/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=12202"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://ibtn9.com/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=12202"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6037,7 +6037,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.india-briefing.com/news/partnernews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=3400"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.india-briefing.com/news/partnernews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=3400"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Financial</td>
@@ -6047,7 +6047,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://news.indiaonline.in/prnewswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=4991"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://news.indiaonline.in/prnewswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=4991"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6057,7 +6057,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://www.indiatoday.in/pr-newswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=4315"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.indiatoday.in/pr-newswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=4315"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Magazine</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6067,7 +6067,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://indiannerve.com/in-press/?rkey=20180301enIN201802282776_indiapublic&amp;filter=6492"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://indiannerve.com/in-press/?rkey=20180301enIN201802282776_indiapublic&amp;filter=6492"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6077,7 +6077,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://indianpowersector.com/prnews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4997" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://indianpowersector.com/prnews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4997" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Energy</td>
@@ -6087,7 +6087,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.indianotes.com/PRNewswire/prnewswire-news-details.php?id=enIN201802282776_indiapublic&amp;t=N&amp;v=P"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.indianotes.com/PRNewswire/prnewswire-news-details.php?id=enIN201802282776_indiapublic&amp;t=N&amp;v=P"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6097,7 +6097,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://infrabuddy.com/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=423"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://infrabuddy.com/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=423"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6107,7 +6107,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.internationalfair.in/pdetails.php?rkey=20180301enIN201802282776_indiapublic&amp;filter=9866"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.internationalfair.in/pdetails.php?rkey=20180301enIN201802282776_indiapublic&amp;filter=9866"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Business Services</td>
@@ -6117,7 +6117,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.livechennai.com/prnewswire/index.asp?rkey=20180301enIN201802282776_indiapublic&amp;filter=12088" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.livechennai.com/prnewswire/index.asp?rkey=20180301enIN201802282776_indiapublic&amp;filter=12088" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6127,7 +6127,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.marketnewsrelease.com/pr-newswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=10091"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.marketnewsrelease.com/pr-newswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=10091"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6137,7 +6137,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://mediainfoline.com/releases/?rkey=20180301enIN201802282776_indiapublic&amp;filter=3952"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://mediainfoline.com/releases/?rkey=20180301enIN201802282776_indiapublic&amp;filter=3952"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6147,7 +6147,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://medicinman.net/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=5136"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://medicinman.net/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=5136"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Health</td>
@@ -6159,7 +6159,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://nasheman.in/newswire/?rkey=20180301enIN201802282776
 		_indiapublic&amp;filter=11016&amp;Smart-Energy-Conference-India-Smart-Grid-Week
-		-to-be-Inaugurated-by-Power-Minister-Shri-Raj-Kumar-Singh"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-to-be-Inaugurated-by-Power-Minister-Shri-Raj-Kumar-Singh"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6169,7 +6169,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsbharati.com/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=5165"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsbharati.com/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=5165"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6179,7 +6179,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20180301enIN201802282776_indiapublic&amp;filter=10033"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20180301enIN201802282776_indiapublic&amp;filter=10033"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6189,7 +6189,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.news-pr.in/display?rkey=20180301enIN201802282776_indiapublic&amp;filter=12235"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.news-pr.in/display?rkey=20180301enIN201802282776_indiapublic&amp;filter=12235"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6199,7 +6199,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://newsblaze.in/pr-newswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=12696"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://newsblaze.in/pr-newswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=12696"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6209,7 +6209,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsprelease.com/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=10089" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsprelease.com/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=10089" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6219,7 +6219,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsr.in/prnewswire.php?rkey=20180301enIN201802282776_indiapublic&amp;filter=5070"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsr.in/prnewswire.php?rkey=20180301enIN201802282776_indiapublic&amp;filter=5070"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Newspaper</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6229,7 +6229,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.northindiakaleidoscope.com/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=6817" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.northindiakaleidoscope.com/pr-newswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=6817" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6239,7 +6239,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://nrinews24x7.com/prnews.htm?rkey=20180301enIN201802282776_indiapublic&amp;filter=4972"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://nrinews24x7.com/prnews.htm?rkey=20180301enIN201802282776_indiapublic&amp;filter=4972"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6249,7 +6249,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://eodishasamachar.com/en/pr-newswire-2/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4272"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://eodishasamachar.com/en/pr-newswire-2/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4272"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6259,7 +6259,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://odishasuntimes.com/prnews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://odishasuntimes.com/prnews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Newspaper</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6269,7 +6269,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.odisha360.com/prn/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4962"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.odisha360.com/prn/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4962"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6279,7 +6279,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.onenewspage.com/prnewswire.php?rkey=20180301enIN201802282776_indiapublic&amp;filter=3968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.onenewspage.com/prnewswire.php?rkey=20180301enIN201802282776_indiapublic&amp;filter=3968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6290,7 +6290,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.prnewswire.co.in/news-releases/smart-energy-conference-india-smart-grid-
-		week-to-be-inaugurated-by-power-minister-shri-raj-kumar-singh-675492293.html"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		week-to-be-inaugurated-by-power-minister-shri-raj-kumar-singh-675492293.html"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">PR Newswire</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6300,7 +6300,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://prativad.com/newseng.htm?rkey=20180301enIN201802282776_indiapublic&amp;filter=4617" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://prativad.com/newseng.htm?rkey=20180301enIN201802282776_indiapublic&amp;filter=4617" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6312,7 +6312,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.ptinews.com/pressrelease/28478_press-subSmart-Energy-
 		Conference-India-Smart-Grid-Week-to-be-Inaugurated
-		-by-Power-Minister-Shri-Raj-Kumar-Singh"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-by-Power-Minister-Shri-Raj-Kumar-Singh"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6323,7 +6323,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.rnews1.com/p/pr-newswire.html?rkey=
-		20180301enIN201802282776_indiapublic&amp;filter=7546"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		20180301enIN201802282776_indiapublic&amp;filter=7546"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6333,7 +6333,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://media.newswire.ca/ren-alliance.html?rkey=20180301enIN201802282776_indiapublic&amp;filter=8978" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://media.newswire.ca/ren-alliance.html?rkey=20180301enIN201802282776_indiapublic&amp;filter=8978" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Industry Association Sites</td>
 		<td><font face="Arial">Energy</td>
@@ -6344,7 +6344,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.samacharlive.com/Business/smart-energy-conference
-		-india-smart-grid-week-to-be-inaugurated-by-power-minister-shri-raj-kumar-singh"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-india-smart-grid-week-to-be-inaugurated-by-power-minister-shri-raj-kumar-singh"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6355,7 +6355,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.scoopbig.com/prnewswire/?rkey=20180301en
-		IN201802282776_indiapublic&amp;filter=4435"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		IN201802282776_indiapublic&amp;filter=4435"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6365,7 +6365,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.smarttechtoday.com/prnews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=24964"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.smarttechtoday.com/prnews/?rkey=20180301enIN201802282776_indiapublic&amp;filter=24964"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -6375,7 +6375,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://specttrumnews.com/news/pr-newswire.aspx?rkey=20180301enIN201802282776_indiapublic&amp;filter=7051"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://specttrumnews.com/news/pr-newswire.aspx?rkey=20180301enIN201802282776_indiapublic&amp;filter=7051"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6385,7 +6385,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://startepreneur.com/press-releases/?rkey=20180301enIN201802282776_indiapublic&amp;filter=11454"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://startepreneur.com/press-releases/?rkey=20180301enIN201802282776_indiapublic&amp;filter=11454"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6395,7 +6395,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://telanganatoday.com/pr-newswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=11682"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://telanganatoday.com/pr-newswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=11682"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6405,7 +6405,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://www.covaipost.com/pr-newswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=11690"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.covaipost.com/pr-newswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=11690"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6415,7 +6415,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.thehansindia.com/home/prnewswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=2080"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.thehansindia.com/home/prnewswire?rkey=20180301enIN201802282776_indiapublic&amp;filter=2080"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6425,7 +6425,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://thehawk.in/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4853"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://thehawk.in/prnewswire/?rkey=20180301enIN201802282776_indiapublic&amp;filter=4853"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Newspaper</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6435,7 +6435,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.thepowertimes.in/index.php/daily-updates/national.html?rkey=20180301enIN201802282776_indiapublic&amp;filter=2061"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.thepowertimes.in/index.php/daily-updates/national.html?rkey=20180301enIN201802282776_indiapublic&amp;filter=2061"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Energy</td>
@@ -6445,7 +6445,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://news.webindia123.com/news/press_showdetailsPR.asp?id=1093437&amp;cat=PR%20News%20Wire"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://news.webindia123.com/news/press_showdetailsPR.asp?id=1093437&amp;cat=PR%20News%20Wire"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Financial</td>
@@ -6456,7 +6456,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire
-		.aspx?rkey=20180220enIN201802191749_indiapublic&amp;filter=3325"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		.aspx?rkey=20180220enIN201802191749_indiapublic&amp;filter=3325"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6467,7 +6467,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.abhitaknews.com/english/news/press-releases.aspx
-		?rkey=20180220enIN201802191749_indiapublic&amp;filter=1889" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		?rkey=20180220enIN201802191749_indiapublic&amp;filter=1889" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6478,7 +6478,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=2018022
-		0enIN201802191749_indiapublic&amp;filter=8421"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		0enIN201802191749_indiapublic&amp;filter=8421"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6488,7 +6488,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://assignmenteditor.com/pr-newswire-3/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1673"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://assignmenteditor.com/pr-newswire-3/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1673"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6498,7 +6498,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.ai-online.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1271"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.ai-online.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1271"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Transportation</td>
@@ -6508,7 +6508,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://b-live.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5082"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://b-live.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5082"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6519,7 +6519,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-news.
-		php?rkey=20180220enIN201802191749_indiapublic&amp;filter=2267" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		php?rkey=20180220enIN201802191749_indiapublic&amp;filter=2267" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -6530,7 +6530,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://news.biharprabha.com/prnewswire/?rkey=20180220enI
-		N201802191749_indiapublic&amp;filter=2270"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		N201802191749_indiapublic&amp;filter=2270"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6540,7 +6540,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=2276"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=2276"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6550,7 +6550,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://businessfortnight.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5117" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://businessfortnight.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5117" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6560,7 +6560,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://businessnewsthisweek.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4605"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://businessnewsthisweek.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4605"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6570,7 +6570,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.businesssandesh.in/breaking-news/?rkey=20180220enIN201802191749_indiapublic&amp;filter=7621"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.businesssandesh.in/breaking-news/?rkey=20180220enIN201802191749_indiapublic&amp;filter=7621"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6580,7 +6580,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.businesstoday.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2418" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.businesstoday.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2418" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6591,7 +6591,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://businessviews.in/business-views-press-release-
-		news/?rkey=20180220enIN201802191749_indiapublic&amp;filter=908" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		news/?rkey=20180220enIN201802191749_indiapublic&amp;filter=908" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Other</td>
@@ -6601,7 +6601,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://corecommunique.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4754"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://corecommunique.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4754"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6611,7 +6611,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.dsij.in/newswiredetails.aspx?FileName=201802202330PR_NEWS_EURO_ND__enIN201802191749_indiapublic"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.dsij.in/newswiredetails.aspx?FileName=201802202330PR_NEWS_EURO_ND__enIN201802191749_indiapublic"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Financial Data, Research &amp; Analytics</td>
 		<td><font face="Arial">Financial</td>
@@ -6621,7 +6621,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://dataguru.in/prnewswire.do?rkey=20180220enIN201802191749_indiapublic&amp;filter=2488" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://dataguru.in/prnewswire.do?rkey=20180220enIN201802191749_indiapublic&amp;filter=2488" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -6631,7 +6631,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.energycentral.com/node/212892/edit?news_processing=1"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.energycentral.com/node/212892/edit?news_processing=1"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   United States</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Energy</td>
@@ -6641,7 +6641,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.enterpriseitworld.com/index.php/PR/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4799" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.enterpriseitworld.com/index.php/PR/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4799" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Tech</td>
@@ -6651,7 +6651,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://thefastmail.com/index.php/page/detailnews/7069?rkey=20180220enIN201802191749_indiapublic&amp;filter=3911"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://thefastmail.com/index.php/page/detailnews/7069?rkey=20180220enIN201802191749_indiapublic&amp;filter=3911"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6661,7 +6661,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://firstreport.in/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=6490"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://firstreport.in/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=6490"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6671,7 +6671,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://goevnts.com/pr-landing?rkey=20180220enIN201802191749_indiapublic&amp;filter=4444"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://goevnts.com/pr-landing?rkey=20180220enIN201802191749_indiapublic&amp;filter=4444"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Business Services</td>
@@ -6681,7 +6681,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.greenlifestylemag.com.au/industrynews?rkey=20180220enIN201802191749_indiapublic&amp;filter=1867" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.greenlifestylemag.com.au/industrynews?rkey=20180220enIN201802191749_indiapublic&amp;filter=1867" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Environment</td>
@@ -6691,7 +6691,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.hellomumbainews.com/hello-business/?rkey=20180220enIN201802191749_indiapublic&amp;filter=12313"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.hellomumbainews.com/hello-business/?rkey=20180220enIN201802191749_indiapublic&amp;filter=12313"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6703,7 +6703,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.htsyndication.com/htsportal/pr-newswire/article/experts-from-
 		50-countries-to-converge-at-the-4th-edition-of-india-smart-grid
-		-week-to-discuss-trending-technologies-of-energy-sector/26005902"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-week-to-discuss-trending-technologies-of-energy-sector/26005902"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6713,7 +6713,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-893132"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-893132"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6723,7 +6723,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://ibtn9.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=12202"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://ibtn9.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=12202"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6733,7 +6733,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.india-briefing.com/news/partnernews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=3400"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.india-briefing.com/news/partnernews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=3400"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Financial</td>
@@ -6743,7 +6743,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://news.indiaonline.in/prnewswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=4991"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://news.indiaonline.in/prnewswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=4991"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6753,7 +6753,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://www.indiatoday.in/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=4315"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.indiatoday.in/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=4315"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Magazine</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6763,7 +6763,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://indiannerve.com/in-press/?rkey=20180220enIN201802191749_indiapublic&amp;filter=6492"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://indiannerve.com/in-press/?rkey=20180220enIN201802191749_indiapublic&amp;filter=6492"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6773,7 +6773,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://indianpowersector.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4997" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://indianpowersector.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4997" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Energy</td>
@@ -6784,7 +6784,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.indianotes.com/PRNewswire/prnewswire-news-
-		details.php?id=enIN201802191749_indiapublic&amp;t=N&amp;v=P"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		details.php?id=enIN201802191749_indiapublic&amp;t=N&amp;v=P"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6794,7 +6794,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://infrabuddy.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=423"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://infrabuddy.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=423"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6804,7 +6804,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.internationalfair.in/pdetails.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=98664"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.internationalfair.in/pdetails.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=98664"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Business Services</td>
@@ -6814,7 +6814,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.livechennai.com/prnewswire/index.asp?rkey=20180220enIN201802191749_indiapublic&amp;filter=12088" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.livechennai.com/prnewswire/index.asp?rkey=20180220enIN201802191749_indiapublic&amp;filter=12088" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6824,7 +6824,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.marketnewsrelease.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=100914"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.marketnewsrelease.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=100914"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6834,7 +6834,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://mediainfoline.com/releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=39524"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://mediainfoline.com/releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=39524"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6844,7 +6844,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://medicinman.net/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5136"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://medicinman.net/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=5136"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Health</td>
@@ -6854,7 +6854,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://nasheman.in/newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=11016"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://nasheman.in/newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=11016"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6864,7 +6864,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsbharati.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=51654"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsbharati.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=51654"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6874,7 +6874,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=100334"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=100334"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6884,7 +6884,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.news-pr.in/display?rkey=20180220enIN201802191749_indiapublic&amp;filter=122354"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.news-pr.in/display?rkey=20180220enIN201802191749_indiapublic&amp;filter=122354"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6894,7 +6894,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://newsblaze.in/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=126964"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://newsblaze.in/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=126964"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6904,7 +6904,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsgram.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=590"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsgram.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=590"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6914,7 +6914,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsprelease.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=10089" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsprelease.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=10089" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6924,7 +6924,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.newsr.in/prnewswire.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=5070"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.newsr.in/prnewswire.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=5070"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Newspaper</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6934,7 +6934,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.northindiakaleidoscope.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=6817" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.northindiakaleidoscope.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=6817" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6944,7 +6944,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://nrinews24x7.com/prnews.htm?rkey=20180220enIN201802191749_indiapublic&amp;filter=4972"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://nrinews24x7.com/prnews.htm?rkey=20180220enIN201802191749_indiapublic&amp;filter=4972"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6954,7 +6954,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://eodishasamachar.com/en/pr-newswire-2/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4272"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://eodishasamachar.com/en/pr-newswire-2/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4272"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6964,7 +6964,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://odishasuntimes.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://odishasuntimes.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Newspaper</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6974,7 +6974,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.odisha360.com/prn/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4962"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.odisha360.com/prn/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4962"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -6984,7 +6984,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.ohsem.me/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=5817" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.ohsem.me/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=5817" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Malaysia</td>
 		<td><font face="Arial">Blog</td>
 		<td><font face="Arial">Tech</td>
@@ -6994,7 +6994,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.onenewspage.com/prnewswire.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=3968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.onenewspage.com/prnewswire.php?rkey=20180220enIN201802191749_indiapublic&amp;filter=3968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7006,7 +7006,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.prnewswire.co.in/news-releases/experts-from-50-countries-to-converge-at-the
 		-4th-edition-of-india-smart-grid-week-to-discuss-trending
-		-technologies-of-energy-sector-674662293.html"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-technologies-of-energy-sector-674662293.html"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">PR Newswire</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7016,7 +7016,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://prativad.com/newseng.htm?rkey=20180220enIN201802191749_indiapublic&amp;filter=4617" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://prativad.com/newseng.htm?rkey=20180220enIN201802191749_indiapublic&amp;filter=4617" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7028,7 +7028,7 @@
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.ptinews.com/pressrelease/28323_press-subExperts-From-50-Countries-to-Converge-at-the
 		-4th-Edition-of-India-Smart-Grid-Week-to-Discuss-
-		Trending-Technologies-of-Energy-Sector4"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		Trending-Technologies-of-Energy-Sector4"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7038,7 +7038,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.rnews1.com/p/pr-newswire.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=7546"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.rnews1.com/p/pr-newswire.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=7546"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7048,7 +7048,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://media.newswire.ca/ren-alliance.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=8978" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://media.newswire.ca/ren-alliance.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=8978" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Global</td>
 		<td><font face="Arial">Industry Association Sites</td>
 		<td><font face="Arial">Energy</td>
@@ -7058,7 +7058,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.scoopbig.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4435"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.scoopbig.com/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=4435"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7068,7 +7068,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.smarttechtoday.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2496"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.smarttechtoday.com/prnews/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2496"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -7078,7 +7078,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://specttrumnews.com/news/pr-newswire.aspx?rkey=20180220enIN201802191749_indiapublic&amp;filter=7051"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://specttrumnews.com/news/pr-newswire.aspx?rkey=20180220enIN201802191749_indiapublic&amp;filter=7051"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7088,7 +7088,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://startepreneur.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=11454"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://startepreneur.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=11454"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7098,7 +7098,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://techblogcorner.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1980"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://techblogcorner.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=1980"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Blog</td>
 		<td><font face="Arial">Tech</td>
@@ -7108,7 +7108,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://techcircle.vccircle.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2034"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://techcircle.vccircle.com/press-releases/?rkey=20180220enIN201802191749_indiapublic&amp;filter=2034"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">News &amp; Information Service</td>
 		<td><font face="Arial">Tech</td>
@@ -7118,7 +7118,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://techent.tv/newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=5758" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://techent.tv/newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=5758" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   Malaysia</td>
 		<td><font face="Arial">Blog</td>
 		<td><font face="Arial">Tech</td>
@@ -7128,7 +7128,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.techgenyz.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=64634"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.techgenyz.com/pr-newswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=64634"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Tech</td>
@@ -7138,7 +7138,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://telanganatoday.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=116824"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://telanganatoday.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=116824"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7148,7 +7148,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="https://www.covaipost.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=11690"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="https://www.covaipost.com/pr-newswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=11690"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7158,7 +7158,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.thehansindia.com/home/prnewswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=20804"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.thehansindia.com/home/prnewswire?rkey=20180220enIN201802191749_indiapublic&amp;filter=20804"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7168,7 +7168,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://thehawk.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=48534"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://thehawk.in/prnewswire/?rkey=20180220enIN201802191749_indiapublic&amp;filter=48534"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Newspaper</td>
 		<td><font face="Arial">Media &amp; Information</td>
@@ -7179,7 +7179,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://www.thepowertimes.in/index.php/daily-updates/national
-		.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=20614"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=20614"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Energy</td>
@@ -7189,7 +7189,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://media.newswire.ca/tecake.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=6362"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://media.newswire.ca/tecake.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=6362"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Tech</td>
@@ -7200,7 +7200,7 @@
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
 		<td><font face="Arial"><a href="http://thetechportal.com/press-releases-pr-newswire/?rkey=2018022
-		0enIN201802191749_indiapublic&amp;filter=1985"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		0enIN201802191749_indiapublic&amp;filter=1985"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Tech</td>
@@ -7210,7 +7210,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://timestech.info/trends-forecast/?rkey=20180220enIN201802191749_indiapublic&amp;filter=11572"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://timestech.info/trends-forecast/?rkey=20180220enIN201802191749_indiapublic&amp;filter=11572"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Tech</td>
@@ -7220,7 +7220,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.tmcnet.com/usubmit/2018/02/20/8703831.htm"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.tmcnet.com/usubmit/2018/02/20/8703831.htm"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   United States</td>
 		<td><font face="Arial">Trade Publications</td>
 		<td><font face="Arial">Tech</td>
@@ -7230,7 +7230,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://www.varindia.com/news/1529595?rkey=20180220enIN201802191749_indiapublic&amp;filter=537" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://www.varindia.com/news/1529595?rkey=20180220enIN201802191749_indiapublic&amp;filter=537" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Online News Sites &amp; Other Influencers</td>
 		<td><font face="Arial">Tech</td>
@@ -7240,7 +7240,7 @@
 		<td>ISGW 2018 NEWS</td>
 		<td><font face="Arial">English</td>
 		<td><font face="Arial">Online</td>
-		<td><font face="Arial"><a href="http://media.newswire.ca/whatsnewonthenet.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=299" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font face="Arial"><a href="http://media.newswire.ca/whatsnewonthenet.html?rkey=20180220enIN201802191749_indiapublic&amp;filter=299" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font face="Arial">   India</td>
 		<td><font face="Arial">Blog</td>
 		<td><font face="Arial">Tech</td>
@@ -7251,7 +7251,7 @@
 		<td><font size=3>5 Dariya News</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire
-		.aspx?rkey=20190226enIN201902257063_indiapublic&amp;filter=3325"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		.aspx?rkey=20190226enIN201902257063_indiapublic&amp;filter=3325"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7262,7 +7262,7 @@
 		<td><font size=3>Abhitak News [English]</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.abhitaknews.com/english/news/press-releases.aspx
-		?rkey=20190226enIN201902257063_indiapublic&amp;filter=1889" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		?rkey=20190226enIN201902257063_indiapublic&amp;filter=1889" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7272,7 +7272,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Asianbuck</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=8421"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=8421"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7283,7 +7283,7 @@
 		<td><font size=3>Bangalore Waves</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.bangalorewaves.com/news/bangalorewaves-business
-		-news.php?rkey=20190226enIN201902257063_indiapublic&amp;filter=2267"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-news.php?rkey=20190226enIN201902257063_indiapublic&amp;filter=2267"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Tech</td>
@@ -7293,7 +7293,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Biharprabha News</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://news.biharprabha.com/prnewswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=22704"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://news.biharprabha.com/prnewswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=22704"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7303,7 +7303,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Biz Wire Express</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20190226enIN201902257063_indiapublic&amp;filter=22764"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20190226enIN201902257063_indiapublic&amp;filter=22764"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7313,7 +7313,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Business Fortnight</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://businessfortnight.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=5117" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://businessfortnight.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=5117" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7324,7 +7324,7 @@
 		<td><font size=3>Business News 
 		This Week</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://businessnewsthisweek.com/prnews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=6014"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://businessnewsthisweek.com/prnews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=6014"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7334,7 +7334,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Business Sandesh</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.businesssandesh.in/breaking-news/?rkey=20190226enIN201902257063_indiapublic&amp;filter=76214"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.businesssandesh.in/breaking-news/?rkey=20190226enIN201902257063_indiapublic&amp;filter=76214"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7345,7 +7345,7 @@
 		<td><font size=3>Business Today
 		India</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.businesstoday.in/prnewswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=24184"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.businesstoday.in/prnewswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=24184"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7355,7 +7355,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Connect Gujarat</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://connectgujarat.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=14881"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://connectgujarat.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=14881"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7365,7 +7365,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Core Sector Communique</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://corecommunique.com/prnewswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=4754"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://corecommunique.com/prnewswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=4754"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7375,7 +7375,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Corporate Ethos</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://corporateethos.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=6430"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://corporateethos.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=6430"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7387,7 +7387,7 @@
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://creativebharat.com/pr-news-wire/india-smart-utility-week-
 		2019-to-be-inaugurated-by-shri-ak-bhalla-secretary
-		-ministry-of-power-on-march-13-2019/"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-ministry-of-power-on-march-13-2019/"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7398,7 +7398,7 @@
 		<td><font size=3>Dalal Street 
 		Investment Journal</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.dsij.in/newswiredetails.aspx?FileName=201902260000PR_NEWS_EURO_ND__enIN201902257063_indiapublic"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.dsij.in/newswiredetails.aspx?FileName=201902260000PR_NEWS_EURO_ND__enIN201902257063_indiapublic"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Financial Data, Research &amp; Analytics</td>
 		<td><font size=3>Financial</td>
@@ -7408,7 +7408,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>EnergyCentral.com</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://www.energycentral.com/node/346873/edit?news_processing=1"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.energycentral.com/node/346873/edit?news_processing=1"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United States</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Energy</td>
@@ -7418,7 +7418,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Fast Mail</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://thefastmail.com/index.php/page/detailnews/7069?rkey=20190226enIN201902257063_indiapublic&amp;filter=39114"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://thefastmail.com/index.php/page/detailnews/7069?rkey=20190226enIN201902257063_indiapublic&amp;filter=39114"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7428,7 +7428,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>First Report</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://firstreport.in/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=64904"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://firstreport.in/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=64904"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7438,7 +7438,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>GoEvnts.com</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://goevnts.com/pr-landing?rkey=20190226enIN201902257063_indiapublic&amp;filter=4444"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://goevnts.com/pr-landing?rkey=20190226enIN201902257063_indiapublic&amp;filter=4444"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Global</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Business Services</td>
@@ -7448,7 +7448,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Green Lichen</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://greenlichen.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=159184"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://greenlichen.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=159184"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Environment</td>
@@ -7458,7 +7458,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Hello Mumbai</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.hellomumbainews.com/hello-business/?rkey=20190226enIN201902257063_indiapublic&amp;filter=123134"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.hellomumbainews.com/hello-business/?rkey=20190226enIN201902257063_indiapublic&amp;filter=123134"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7470,7 +7470,7 @@
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.htsyndication.com/htsportal/pr-newswire/article/india-smart-
 		utility-week-2019-to-be-inaugurated-by-shri-ak-bhalla%2C-
-		secretary%2C-ministry-of-power-on-march-13%2C-2019/33129209"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		secretary%2C-ministry-of-power-on-march-13%2C-2019/33129209"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7480,7 +7480,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>IANS India</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-1028446"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-1028446"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7490,7 +7490,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>IBTN9</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://ibtn9.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=12202"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://ibtn9.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=12202"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7500,7 +7500,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>India Briefing</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.india-briefing.com/news/partnernews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=3400"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.india-briefing.com/news/partnernews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=3400"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Financial</td>
@@ -7510,7 +7510,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>India Online</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://news.indiaonline.in/prnewswire?rkey=20190226enIN201902257063_indiapublic&amp;filter=4991"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://news.indiaonline.in/prnewswire?rkey=20190226enIN201902257063_indiapublic&amp;filter=4991"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7520,7 +7520,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>India Today</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://www.indiatoday.in/pr-newswire?rkey=20190226enIN201902257063_indiapublic&amp;filter=43154"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.indiatoday.in/pr-newswire?rkey=20190226enIN201902257063_indiapublic&amp;filter=43154"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Magazine</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7530,7 +7530,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Indian Nerve</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://indiannerve.com/in-press/?rkey=20190226enIN201902257063_indiapublic&amp;filter=64924"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://indiannerve.com/in-press/?rkey=20190226enIN201902257063_indiapublic&amp;filter=64924"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7540,7 +7540,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Indian Power Sector</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://indianpowersector.com/prnews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=49974"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://indianpowersector.com/prnews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=49974"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Energy</td>
@@ -7550,7 +7550,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Indore Dil Se</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://indoredilse.com/english-news/?rkey=20190226enIN201902257063_indiapublic&amp;filter=10474"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://indoredilse.com/english-news/?rkey=20190226enIN201902257063_indiapublic&amp;filter=10474"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7560,7 +7560,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Infrabuddy</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://www.infrabuddy.com/pr-news/?rkey=20190226enIN201902257063_indiapublic&amp;filter=14749" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.infrabuddy.com/pr-news/?rkey=20190226enIN201902257063_indiapublic&amp;filter=14749" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7570,7 +7570,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>International Fair</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.internationalfair.in/pdetails.php?rkey=20190226enIN201902257063_indiapublic&amp;filter=9866"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.internationalfair.in/pdetails.php?rkey=20190226enIN201902257063_indiapublic&amp;filter=9866"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Business Services</td>
@@ -7580,7 +7580,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>MedicinMan</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://medicinman.net/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=5136"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://medicinman.net/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=5136"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Health</td>
@@ -7590,7 +7590,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Nasheman</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://nasheman.in/newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=11016"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://nasheman.in/newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=11016"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7600,7 +7600,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>New Delhi Times</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://www.newdelhitimes.com/news-release/?rkey=20190226enIN201902257063_indiapublic&amp;filter=5147"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.newdelhitimes.com/news-release/?rkey=20190226enIN201902257063_indiapublic&amp;filter=5147"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7610,7 +7610,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>News Bharati</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.newsbharati.com/prnewswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=51654"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.newsbharati.com/prnewswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=51654"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7620,7 +7620,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>News Superfast</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20190226enIN201902257063_indiapublic&amp;filter=100334"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20190226enIN201902257063_indiapublic&amp;filter=100334"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7630,7 +7630,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>News-PR</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.news-pr.in/display?rkey=20190226enIN201902257063_indiapublic&amp;filter=122354"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.news-pr.in/display?rkey=20190226enIN201902257063_indiapublic&amp;filter=122354"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7640,7 +7640,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>NewsBlaze India</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://newsblaze.in/pr-newswire?rkey=20190226enIN201902257063_indiapublic&amp;filter=126964"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://newsblaze.in/pr-newswire?rkey=20190226enIN201902257063_indiapublic&amp;filter=126964"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7650,7 +7650,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>NewsGram</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.newsgram.com/press-releases/?rkey=20190226enIN201902257063_indiapublic&amp;filter=5904"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.newsgram.com/press-releases/?rkey=20190226enIN201902257063_indiapublic&amp;filter=5904"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7660,7 +7660,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>NewsR.in</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.newsr.in/prnewswire.php?rkey=20190226enIN201902257063_indiapublic&amp;filter=50704"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.newsr.in/prnewswire.php?rkey=20190226enIN201902257063_indiapublic&amp;filter=50704"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7670,7 +7670,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Odisha Samachar</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://eodishasamachar.com/en/?page_id=16613&amp;rkey=20190226enIN201902257063_indiapublic&amp;filter=4272"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://eodishasamachar.com/en/?page_id=16613&amp;rkey=20190226enIN201902257063_indiapublic&amp;filter=4272"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7681,7 +7681,7 @@
 		<td><font size=3>Odisha Sun
 		Times</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://odishasuntimes.com/prnews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=4968"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://odishasuntimes.com/prnews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=4968"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7691,7 +7691,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Odisha360</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.odisha360.com/prn/?rkey=20190226enIN201902257063_indiapublic&amp;filter=4962"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.odisha360.com/prn/?rkey=20190226enIN201902257063_indiapublic&amp;filter=4962"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7702,7 +7702,7 @@
 		<td><font size=3>One News Page
 		Global Edition</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.onenewspage.com/prnewswire.php?rkey=20190226enIN201902257063_indiapublic&amp;filter=39684"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.onenewspage.com/prnewswire.php?rkey=20190226enIN201902257063_indiapublic&amp;filter=39684"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Global</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7712,7 +7712,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>PR Newswire</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://www.prnewswire.com/in/news-releases/india-smart-utility-week-2019-to-be-inaugurated-by-shri-ak-bhalla-secretary-ministry-of-power-on-march-13-2019-830149102.html4"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.prnewswire.com/in/news-releases/india-smart-utility-week-2019-to-be-inaugurated-by-shri-ak-bhalla-secretary-ministry-of-power-on-march-13-2019-830149102.html4"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United States</td>
 		<td><font size=3>PR Newswire</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7722,7 +7722,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Prativad</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://prativad.com/newseng.htm?rkey=20190226enIN201902257063_indiapublic&amp;filter=46174"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://prativad.com/newseng.htm?rkey=20190226enIN201902257063_indiapublic&amp;filter=46174"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7735,7 +7735,7 @@
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.ptinews.com/pressrelease/33973_press-subIndia-Smart-Utility-Week-2019
 		-to-be-Inaugurated-by-Shri-AK-Bhalla--Secretary--
-		Ministry-of-Power-on-March-13--2019" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		Ministry-of-Power-on-March-13--2019" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7747,7 +7747,7 @@
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="https://reviewstreet.in/news-reviews-mobiles-gadgets-pcs-automobile
 		/prnewswireindia/?rkey=20190226enIN201902257063
-		_indiapublic&amp;filter=15937" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		_indiapublic&amp;filter=15937" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7757,7 +7757,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Smart Tech Today</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.smarttechtoday.com/prnews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=24964"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.smarttechtoday.com/prnews/?rkey=20190226enIN201902257063_indiapublic&amp;filter=24964"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Tech</td>
@@ -7767,7 +7767,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>SME Street</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://smestreet.in/infocus/prnewswireindia/?rkey=20190226enIN201902257063_indiapublic&amp;filter=159354"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://smestreet.in/infocus/prnewswireindia/?rkey=20190226enIN201902257063_indiapublic&amp;filter=159354"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7777,7 +7777,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>TechGenYZ</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.techgenyz.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=64634"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.techgenyz.com/pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=64634"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Tech</td>
@@ -7787,7 +7787,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Telangana Today</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://telanganatoday.com/pr-newswire?rkey=20190226enIN201902257063_indiapublic&amp;filter=116824"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://telanganatoday.com/pr-newswire?rkey=20190226enIN201902257063_indiapublic&amp;filter=116824"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7797,7 +7797,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>The Hans India</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://www.thehansindia.com/home/prnewswire?rkey=20190226enIN201902257063_indiapublic&amp;filter=20804"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.thehansindia.com/home/prnewswire?rkey=20190226enIN201902257063_indiapublic&amp;filter=20804"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7807,7 +7807,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>The Hawk India</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://thehawk.in/prnewswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=48534"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://thehawk.in/prnewswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=48534"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7818,7 +7818,7 @@
 		<td><font size=3>The Power Times</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.thepowertimes.in/index.php/daily-updates/national
-		.html?rkey=20190226enIN201902257063_indiapublic&amp;filter=20614"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		.html?rkey=20190226enIN201902257063_indiapublic&amp;filter=20614"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Energy</td>
@@ -7828,7 +7828,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>The Tech Portal</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://thetechportal.com/press-releases-pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=19854"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://thetechportal.com/press-releases-pr-newswire/?rkey=20190226enIN201902257063_indiapublic&amp;filter=19854"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Tech</td>
@@ -7840,7 +7840,7 @@
 		of Bengal</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.thetimesofbengal.com/newswire-updates?rkey=
-		20190226enIN201902257063_indiapublic&amp;filter=164724"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		20190226enIN201902257063_indiapublic&amp;filter=164724"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7850,7 +7850,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Times Tech</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://timestech.in/trends-forecast/?rkey=20190226enIN201902257063_indiapublic&amp;filter=15939" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://timestech.in/trends-forecast/?rkey=20190226enIN201902257063_indiapublic&amp;filter=15939" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Tech</td>
@@ -7861,7 +7861,7 @@
 		<td><font size=3>TMCnet</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="https://www.tmcnet.com/usubmit/-india-smart-utility-week
-		-2019-be-inaugurated-shri-/2019/02/26/8907093.htm4"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		-2019-be-inaugurated-shri-/2019/02/26/8907093.htm4"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United States</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Tech</td>
@@ -7872,7 +7872,7 @@
 		<td><font size=3>Uttarakhand News Network</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="https://uttarakhandnewsnetwork.com/press-release-pr-news-wire
-		/?rkey=20190226enIN201902257063_indiapublic&amp;filter=144974"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		/?rkey=20190226enIN201902257063_indiapublic&amp;filter=144974"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7882,7 +7882,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Webindia123.com</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://news.webindia123.com/news/press_showdetailsPR.asp?id=1136057" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://news.webindia123.com/news/press_showdetailsPR.asp?id=1136057" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Financial</td>
@@ -7892,7 +7892,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>PTI</td>
 		<td><font size=3>Online</td>
-		<td><u><font size=3><a href="http://www.ptinews.com/pressrelease/30058_press-subSmart-Utilities-for-Electrified-India4"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><u><font size=3><a href="http://www.ptinews.com/pressrelease/30058_press-subSmart-Utilities-for-Electrified-India4"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7902,7 +7902,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>5 Dariya News</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire.aspx?rkey=20180606enIN201806042881_indiapublic&amp;filter=33254"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.5dariyanews.com/Full-Story-Latest-from-PR-Newswire.aspx?rkey=20180606enIN201806042881_indiapublic&amp;filter=33254"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7912,7 +7912,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Abhitak News [English]</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20180606enIN201806042881_indiapublic&amp;filter=1889" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.abhitaknews.com/english/news/press-releases.aspx?rkey=20180606enIN201806042881_indiapublic&amp;filter=1889" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7922,7 +7922,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Asianbuck</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20180606enIN201806042881_indiapublic&amp;filter=84214"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.asianbuck.com/asianbuck-prnews/?rkey=20180606enIN201806042881_indiapublic&amp;filter=84214"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7935,7 +7935,7 @@
 		magazine</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.ai-online.com/prnewswire/?rkey=2018060
-		6enIN201806042881_indiapublic&amp;filter=12714"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		6enIN201806042881_indiapublic&amp;filter=12714"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Global</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Transportation</td>
@@ -7947,7 +7947,7 @@
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.bangalorewaves.com/news/bangalorewaves-business-
 		news.php?rkey=20180606enIN201806042881_
-		indiapublic&amp;filter=2267" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		indiapublic&amp;filter=2267" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Tech</td>
@@ -7957,7 +7957,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Biharprabha News</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://news.biharprabha.com/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=22704"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://news.biharprabha.com/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=22704"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7967,7 +7967,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Biz Wire Express</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20180606enIN201806042881_indiapublic&amp;filter=22764"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.bizwireexpress.com/showstoryPRN.php?rkey=20180606enIN201806042881_indiapublic&amp;filter=22764"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7978,7 +7978,7 @@
 		<td><font size=3>Business 
 		Fortnight</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://businessfortnight.com/pr-newswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=5117" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://businessfortnight.com/pr-newswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=5117" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7989,7 +7989,7 @@
 		<td><font size=3>Business News
 		This Week</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://businessnewsthisweek.com/prnews/?rkey=20180606enIN201806042881_indiapublic&amp;filter=6014"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://businessnewsthisweek.com/prnews/?rkey=20180606enIN201806042881_indiapublic&amp;filter=6014"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -7999,7 +7999,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Business Sandesh</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.businesssandesh.in/breaking-news/?rkey=20180606enIN201806042881_indiapublic&amp;filter=76214"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.businesssandesh.in/breaking-news/?rkey=20180606enIN201806042881_indiapublic&amp;filter=76214"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8010,7 +8010,7 @@
 		<td><font size=3>Business Today
 		India</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.businesstoday.in/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=2418" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.businesstoday.in/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=2418" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8021,7 +8021,7 @@
 		<td><font size=3>Business Views</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://businessviews.in/business-views-press-release-news
-		/?rkey=20180606enIN201806042881_indiapublic&amp;filter=908" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		/?rkey=20180606enIN201806042881_indiapublic&amp;filter=908" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8031,7 +8031,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Core Sector Communique</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://corecommunique.com/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4754"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://corecommunique.com/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4754"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8043,7 +8043,7 @@
 		Investment Journal</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.dsij.in/newswiredetails.aspx?FileName=20180
-		6060100PR_NEWS_EURO_ND__enIN201806042881_indiapublic4"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		6060100PR_NEWS_EURO_ND__enIN201806042881_indiapublic4"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Financial Data, Research &amp; Analytics</td>
 		<td><font size=3>Financial</td>
@@ -8053,7 +8053,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>EnergyCentral.com</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://www.energycentral.com/node/262715/edit?news_processing=14"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.energycentral.com/node/262715/edit?news_processing=14"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   United States</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Energy</td>
@@ -8064,7 +8064,7 @@
 		<td><font size=3>Enterprise IT World</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.enterpriseitworld.com/index.php/PR/?rkey=
-		20180606enIN201806042881_indiapublic&amp;filter=47994"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		20180606enIN201806042881_indiapublic&amp;filter=47994"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Tech</td>
@@ -8075,7 +8075,7 @@
 		<td><font size=3>Fast Mail</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://thefastmail.com/index.php/page/detailnews/
-		7069?rkey=20180606enIN201806042881_indiapublic&amp;filter=39114"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		7069?rkey=20180606enIN201806042881_indiapublic&amp;filter=39114"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8085,7 +8085,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>GoEvnts.com</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://goevnts.com/pr-landing?rkey=20180606enIN201806042881_indiapublic&amp;filter=4444"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://goevnts.com/pr-landing?rkey=20180606enIN201806042881_indiapublic&amp;filter=4444"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Global</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Business Services</td>
@@ -8096,7 +8096,7 @@
 		<td><font size=3>Hello Mumbai</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.hellomumbainews.com/hello-business/?rkey=201
-		80606enIN201806042881_indiapublic&amp;filter=12313"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		80606enIN201806042881_indiapublic&amp;filter=12313"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8107,7 +8107,7 @@
 		<td><font size=3>HT Syndication</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.htsyndication.com/htsportal/pr-newswire/article
-		/smart-utilities-for-electrified-india/278936384"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		/smart-utilities-for-electrified-india/278936384"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8117,7 +8117,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>IANS India</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-10027204"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://ians.in/index.php?param=prnewswiredetail/PRN-10027204"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8127,7 +8127,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>IBTN9</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://ibtn9.com/pr-newswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=122024"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://ibtn9.com/pr-newswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=122024"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8137,7 +8137,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>India Briefing</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.india-briefing.com/news/partnernews/?rkey=20180606enIN201806042881_indiapublic&amp;filter=34004"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.india-briefing.com/news/partnernews/?rkey=20180606enIN201806042881_indiapublic&amp;filter=34004"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Financial</td>
@@ -8147,7 +8147,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>India Online</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://news.indiaonline.in/prnewswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=49914"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://news.indiaonline.in/prnewswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=49914"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8157,7 +8157,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>India Today</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://www.indiatoday.in/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=43154"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="https://www.indiatoday.in/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=43154"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Magazine</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8167,7 +8167,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Indian Nerve</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://indiannerve.com/in-press/?rkey=20180606enIN201806042881_indiapublic&amp;filter=64924"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://indiannerve.com/in-press/?rkey=20180606enIN201806042881_indiapublic&amp;filter=64924"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8178,7 +8178,7 @@
 		<td><font size=3>Indian Power
 		Sector</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://indianpowersector.com/prnews/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4997" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://indianpowersector.com/prnews/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4997" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Energy</td>
@@ -8188,7 +8188,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Indore Dil Se</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://indoredilse.com/english-news/?rkey=20180606enIN201806042881_indiapublic&amp;filter=10474"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://indoredilse.com/english-news/?rkey=20180606enIN201806042881_indiapublic&amp;filter=10474"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8198,7 +8198,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>International Fair</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.internationalfair.in/pdetails.php?rkey=20180606enIN201806042881_indiapublic&amp;filter=9866"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.internationalfair.in/pdetails.php?rkey=20180606enIN201806042881_indiapublic&amp;filter=9866"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Business Services</td>
@@ -8209,7 +8209,7 @@
 		<td><font size=3>Market News
 		Release</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.marketnewsrelease.com/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=10091"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.marketnewsrelease.com/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=10091"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8219,7 +8219,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Media Infoline</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://mediainfoline.com/releases/?rkey=20180606enIN201806042881_indiapublic&amp;filter=3952"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://mediainfoline.com/releases/?rkey=20180606enIN201806042881_indiapublic&amp;filter=3952"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8229,7 +8229,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>MedicinMan</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://medicinman.net/pr-newswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=5136"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://medicinman.net/pr-newswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=5136"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Health</td>
@@ -8239,7 +8239,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Nasheman</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://nasheman.in/newswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=11016"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://nasheman.in/newswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=11016"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8249,7 +8249,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>New Delhi Times</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.newdelhitimes.com/news-release/?rkey=20180606enIN201806042881_indiapublic&amp;filter=5147" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.newdelhitimes.com/news-release/?rkey=20180606enIN201806042881_indiapublic&amp;filter=5147" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8259,7 +8259,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>News Bharati</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.newsbharati.com/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=5165" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.newsbharati.com/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=5165" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8269,7 +8269,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>News Superfast</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=10033" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://media.newswire.ca/newssuperfastblog.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=10033" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8279,7 +8279,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>News-PR</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.news-pr.in/display?rkey=20180606enIN201806042881_indiapublic&amp;filter=12235" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.news-pr.in/display?rkey=20180606enIN201806042881_indiapublic&amp;filter=12235" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8289,7 +8289,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>NewsBlaze India</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://newsblaze.in/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=12696" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="https://newsblaze.in/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=12696" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8299,7 +8299,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>NewsGram</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.newsgram.com/press-releases/?rkey=20180606enIN201806042881_indiapublic&amp;filter=590" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.newsgram.com/press-releases/?rkey=20180606enIN201806042881_indiapublic&amp;filter=590" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8309,7 +8309,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Newsprelease.com</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.newsprelease.com/pr-newswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=10089" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://www.newsprelease.com/pr-newswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=10089" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8319,7 +8319,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>NewsR.in</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.newsr.in/prnewswire.php?rkey=20180606enIN201806042881_indiapublic&amp;filter=5070" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.newsr.in/prnewswire.php?rkey=20180606enIN201806042881_indiapublic&amp;filter=5070" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8332,7 +8332,7 @@
 		TMCnet</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://next-generation-communications.tmcnet.com
-		/news/2018/06/06/8767035.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		/news/2018/06/06/8767035.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   United States</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Tech</td>
@@ -8342,7 +8342,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>NRI News 24 x 7</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://nrinews24x7.com/prnews.htm?rkey=20180606enIN201806042881_indiapublic&amp;filter=4972" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://nrinews24x7.com/prnews.htm?rkey=20180606enIN201806042881_indiapublic&amp;filter=4972" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8352,7 +8352,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Odisha Samachar</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://eodishasamachar.com/en/pr-newswire-2/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4272" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="https://eodishasamachar.com/en/pr-newswire-2/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4272" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8362,7 +8362,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Odisha360</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.odisha360.com/prn/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4962" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.odisha360.com/prn/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4962" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8372,7 +8372,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Ohsem Me</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.ohsem.me/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=5817" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.ohsem.me/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=5817" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   Malaysia</td>
 		<td><font size=3>Blog</td>
 		<td><font size=3>Tech</td>
@@ -8383,7 +8383,7 @@
 		<td><font size=3>One News Page Global Edition</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.onenewspage.com/prnewswire.php?rkey=2018060
-		6enIN201806042881_indiapublic&amp;filter=3968" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		6enIN201806042881_indiapublic&amp;filter=3968" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Global</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8394,7 +8394,7 @@
 		<td><font size=3>PR Newswire India</td>
 		<td><font size=3>Online</td>
 		<td><font size=3><a href="http://www.prnewswire.co.in/news-releases/
-		smart-utilities-for-electrified-india-684658141.html" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		smart-utilities-for-electrified-india-684658141.html" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>PR Newswire</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8404,7 +8404,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Prativad</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://prativad.com/newseng.htm?rkey=20180606enIN201806042881_indiapublic&amp;filter=4617" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://prativad.com/newseng.htm?rkey=20180606enIN201806042881_indiapublic&amp;filter=4617" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8414,7 +8414,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Rajasthan News 1</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.rnews1.com/p/pr-newswire.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=7546" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.rnews1.com/p/pr-newswire.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=7546" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8424,7 +8424,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>REN Alliance</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://media.newswire.ca/ren-alliance.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=8978" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://media.newswire.ca/ren-alliance.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=8978" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   Global</td>
 		<td><font size=3>Industry Association Sites</td>
 		<td><font size=3>Energy</td>
@@ -8434,7 +8434,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Scoop Big</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.scoopbig.com/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4435" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.scoopbig.com/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4435" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8444,7 +8444,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Smart Tech Today</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.smarttechtoday.com/prnews/?rkey=20180606enIN201806042881_indiapublic&amp;filter=2496" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.smarttechtoday.com/prnews/?rkey=20180606enIN201806042881_indiapublic&amp;filter=2496" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Tech</td>
@@ -8454,7 +8454,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>SME Software Solutions</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://smesoftwaresolutions.com/press-release-prn.htm?rkey=20180606enIN201806042881_indiapublic&amp;filter=2492" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://smesoftwaresolutions.com/press-release-prn.htm?rkey=20180606enIN201806042881_indiapublic&amp;filter=2492" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>News &amp; Information Service</td>
 		<td><font size=3>Tech</td>
@@ -8464,7 +8464,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Specttrum News</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://specttrumnews.com/news/pr-newswire.aspx?rkey=20180606enIN201806042881_indiapublic&amp;filter=7051" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://specttrumnews.com/news/pr-newswire.aspx?rkey=20180606enIN201806042881_indiapublic&amp;filter=7051" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8474,7 +8474,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Startpreneur.com</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://startepreneur.com/press-releases/?rkey=20180606enIN201806042881_indiapublic&amp;filter=11454" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="https://startepreneur.com/press-releases/?rkey=20180606enIN201806042881_indiapublic&amp;filter=11454" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8484,7 +8484,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Tech Blog Corner</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://techblogcorner.com/press-releases/?rkey=20180606enIN201806042881_indiapublic&amp;filter=1980" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://techblogcorner.com/press-releases/?rkey=20180606enIN201806042881_indiapublic&amp;filter=1980" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Blog</td>
 		<td><font size=3>Tech</td>
@@ -8494,7 +8494,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>TechENT</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://techent.tv/newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=5758" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
+		<td><font size=3><a href="http://techent.tv/newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=5758" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td>
 		<td><font size=3>   Malaysia</td>
 		<td><font size=3>Blog</td>
 		<td><font size=3>Tech</td>
@@ -8504,7 +8504,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Telangana Today</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://telanganatoday.com/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=11682" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="https://telanganatoday.com/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=11682" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8514,7 +8514,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>The Covai Post</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://www.covaipost.com/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=11690" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="https://www.covaipost.com/pr-newswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=11690" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8524,7 +8524,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>The Hans India</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.thehansindia.com/home/prnewswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=2080" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.thehansindia.com/home/prnewswire?rkey=20180606enIN201806042881_indiapublic&amp;filter=2080" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8534,7 +8534,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>The Hawk India</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://thehawk.in/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4853" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://thehawk.in/prnewswire/?rkey=20180606enIN201806042881_indiapublic&amp;filter=4853" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Newspaper</td>
 		<td><font size=3>Media &amp; Information</td>
@@ -8544,7 +8544,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>The Power Times</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://www.thepowertimes.in/index.php/daily-updates/national.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=2061" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://www.thepowertimes.in/index.php/daily-updates/national.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=2061" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Energy</td>
@@ -8554,7 +8554,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>The TeCake</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://media.newswire.ca/tecake.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=6362" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://media.newswire.ca/tecake.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=6362" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Tech</td>
@@ -8564,7 +8564,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>Times Tech</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="http://timestech.info/trends-forecast/?rkey=20180606enIN201806042881_indiapublic&amp;filter=11572" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="http://timestech.info/trends-forecast/?rkey=20180606enIN201806042881_indiapublic&amp;filter=11572" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Tech</td>
@@ -8575,7 +8575,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>TMCnet</td>
 		<td><font size=3>Online</td>
-		<td><font size=3><a href="https://www.tmcnet.com/usubmit/-smart-utilities-electrified-india-/2018/06/06/8767035.htm" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><font size=3><a href="https://www.tmcnet.com/usubmit/-smart-utilities-electrified-india-/2018/06/06/8767035.htm" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   United States</td>
 		<td><font size=3>Trade Publications</td>
 		<td><font size=3>Tech</td>
@@ -8585,7 +8585,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>VAR India</td>
 		<td><font size=3>Online</td>
-		<td><u><font color="#0563C1"><a href="http://www.varindia.com/news/1529595?rkey=20180606enIN201806042881_indiapublic&amp;filter=537" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font color="#0563C1"><a href="http://www.varindia.com/news/1529595?rkey=20180606enIN201806042881_indiapublic&amp;filter=537" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Online News Sites &amp; Other Influencers</td>
 		<td><font size=3>Tech</td>
@@ -8595,7 +8595,7 @@
 		<td>ISUW 2019 NEWS</td>
 		<td><font size=3>What's New on the Net</td>
 		<td><font size=3>Online</td>
-		<td><u><font color="#0563C1"><a href="http://media.newswire.ca/whatsnewonthenet.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=299" target="_blank"><img src='/public/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
+		<td><u><font color="#0563C1"><a href="http://media.newswire.ca/whatsnewonthenet.html?rkey=20180606enIN201806042881_indiapublic&amp;filter=299" target="_blank"><img src='/uploads/images/click-here.png' class='no_brd' alt='Videos' width='100px' /></a></td> 
 		<td><font size=3>   India</td>
 		<td><font size=3>Blog</td>
 		<td><font size=3>Tech</td>

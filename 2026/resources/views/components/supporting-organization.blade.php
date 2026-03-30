@@ -120,7 +120,7 @@
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cbip.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/CBIP PNG.png" alt="CBIP">
+					<img src="https://www.isuw.in/uploads/organizations/CBIP PNG.png" alt="CBIP">
 				</a>
 			</div>
 			<div class="logo-card">
@@ -135,7 +135,7 @@
 			</div>
 			<div class="logo-card">
 				<a href="https://apua-asea.org/en/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/LOGO APUA.jpg" alt="APUA">
+					<img src="https://www.isuw.in/uploads/organizations/LOGO APUA.jpg" alt="APUA">
 				</a>
 			</div>
 			<div class="logo-card">
@@ -155,17 +155,17 @@
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cigreindia.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/cigre.jpg" alt="CIGRE India">
+					<img src="https://www.isuw.in/uploads/organizations/cigre.jpg" alt="CIGRE India">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cencenelec.eu/about-cen/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/exhibitor/cen.jpeg" alt="CEN">
+					<img src="https://www.isuw.in/uploads/exhibitor/cen.jpeg" alt="CEN">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cencenelec.eu/about-cenelec/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/exhibitor/cenelec.jpeg" alt="CENELEC">
+					<img src="https://www.isuw.in/uploads/exhibitor/cenelec.jpeg" alt="CENELEC">
 				</a>
 			</div>
 			<div class="logo-card">
@@ -198,22 +198,22 @@
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cbip.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/CBIP PNG.png" alt="CBIP">
+					<img src="https://www.isuw.in/uploads/organizations/CBIP PNG.png" alt="CBIP">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://apua-asea.org/en/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/LOGO APUA.jpg" alt="APUA">
+					<img src="https://www.isuw.in/uploads/organizations/LOGO APUA.jpg" alt="APUA">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cigre.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/cigre.jpg" alt="CIGRE">
+					<img src="https://www.isuw.in/uploads/organizations/cigre.jpg" alt="CIGRE">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.indiacgd.in/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/Indiacgd.jpeg" alt="India CGD">
+					<img src="https://www.isuw.in/uploads/organizations/Indiacgd.jpeg" alt="India CGD">
 				</a>
 			</div>
 			<div class="logo-card">
@@ -233,22 +233,22 @@
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cencenelec.eu/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/exhibitor/cenelec.jpeg" alt="CENELEC">
+					<img src="https://www.isuw.in/uploads/exhibitor/cenelec.jpeg" alt="CENELEC">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cencenelec.eu/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/exhibitor/cen.jpeg" alt="CEN">
+					<img src="https://www.isuw.in/uploads/exhibitor/cen.jpeg" alt="CEN">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.etsi.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/ETSI.jpg" alt="ETSI">
+					<img src="https://www.isuw.in/uploads/organizations/ETSI.jpg" alt="ETSI">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.iea-isgan.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/ISGAN.png" alt="ISGAN">
+					<img src="https://www.isuw.in/uploads/organizations/ISGAN.png" alt="ISGAN">
 				</a>
 			</div>
 			<div class="logo-card">
@@ -281,72 +281,72 @@
 			</div>
 			<div class="logo-card">
 				<a href="https://www.indiacgd.in/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/Indiacgd.jpeg" alt="India CGD">
+					<img src="https://www.isuw.in/uploads/organizations/Indiacgd.jpeg" alt="India CGD">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cbip.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/CBIP PNG.png" alt="CBIP">
+					<img src="https://www.isuw.in/uploads/organizations/CBIP PNG.png" alt="CBIP">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.boci.org.in/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/BOCI Logo.jpg" alt="BOCI">
+					<img src="https://www.isuw.in/uploads/organizations/BOCI Logo.jpg" alt="BOCI">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.energyforum.in/home/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/2019_IGEF_logo_SVG.svg" alt="IGEF">
+					<img src="https://www.isuw.in/uploads/organizations/2019_IGEF_logo_SVG.svg" alt="IGEF">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://vjti.ac.in/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/VJTI.jpeg" alt="VJTI">
+					<img src="https://www.isuw.in/uploads/organizations/VJTI.jpeg" alt="VJTI">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.etsi.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/ETSI.jpg" alt="ETSI">
+					<img src="https://www.isuw.in/uploads/organizations/ETSI.jpg" alt="ETSI">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.apuea.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/apuea-logo-200px.png" alt="APUEA">
+					<img src="https://www.isuw.in/uploads/organizations/apuea-logo-200px.png" alt="APUEA">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://ngsindia.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/NGSLogo.png" alt="NGS">
+					<img src="https://www.isuw.in/uploads/organizations/NGSLogo.png" alt="NGS">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cencenelec.eu/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/exhibitor/cenelec.jpeg" alt="CENELEC">
+					<img src="https://www.isuw.in/uploads/exhibitor/cenelec.jpeg" alt="CENELEC">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cencenelec.eu/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/exhibitor/cen.jpeg" alt="CEN">
+					<img src="https://www.isuw.in/uploads/exhibitor/cen.jpeg" alt="CEN">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.cigre.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/cigre.jpg" alt="CIGRE">
+					<img src="https://www.isuw.in/uploads/organizations/cigre.jpg" alt="CIGRE">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.phdcci.in/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/PHD.png" alt="PHDCCI">
+					<img src="https://www.isuw.in/uploads/organizations/PHD.png" alt="PHDCCI">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.apuea.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/exhibitor/e-notes_p5_apuea-logo_may17.png" alt="APUEA">
+					<img src="https://www.isuw.in/uploads/exhibitor/e-notes_p5_apuea-logo_may17.png" alt="APUEA">
 				</a>
 			</div>
 			<div class="logo-card">
 				<a href="https://www.iea-isgan.org/" target="_blank" rel="noopener noreferrer">
-					<img src="https://www.isuw.in/public/uploads/organizations/ISGAN.png" alt="ISGAN">
+					<img src="https://www.isuw.in/uploads/organizations/ISGAN.png" alt="ISGAN">
 				</a>
 			</div>
 		</div>

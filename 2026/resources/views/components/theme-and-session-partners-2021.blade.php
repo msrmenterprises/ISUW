@@ -9,7 +9,7 @@
 </style> 
 	 <div class="k_cheading">
 		<h1>ISUW 2021 <span class="k_greencolor">THEME AND SESSION Partners</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	 <div class="col-lg-3">
  <div class="logo-div"><a href="http://niua.org/" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="https://www.isgw.in/beta/wp-content/uploads/2021/02/NIUA.png" alt="TIE"  height="130"></a></div></div>

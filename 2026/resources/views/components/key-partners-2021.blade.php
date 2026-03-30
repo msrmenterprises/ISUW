@@ -12,7 +12,7 @@ margin-left: 408px;
 
 <div class="k_cheading">
 		<h1>KEY<span class="k_greencolor"> PARTNERS 2021</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
 <h5 style="text-align:center;"><b>Powered by</b></h5>
@@ -21,17 +21,17 @@ margin-left: 408px;
 </div>
 <p></p>
 <h5 style="text-align:center;"><b>Host Utilities</b></h5>
-<div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="" width="213" height="102"></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="" width="200" height="115" style="margin-top:-6px;display:inline"></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="" width="213;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
-<div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="" width="300;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110211.png" alt="" width="213" height="102"></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110147.png" alt="" width="200" height="115" style="margin-top:-6px;display:inline"></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110101.png" alt="" width="213;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110129.png" alt="" width="300;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.iglonline.net/english/Default.aspx" target="_blank" rel="noopener noreferrer"><img src="http://www.isuw.in/beta/wp-content/uploads/2021/02/igllogo.png" alt="" width="300;" height="102;" style="margin-top:-6px;display:inline"></a></div></div>		
 <p></p>		
 <h5 style="text-align:center;"><b>	Co-Host Utilities</b></h5>
-<div class="col-lg-3"><div class="logo-div"><a href="https://bescom.co.in/SCP/Myhome.aspx" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641223586.png" style="margin-top:-6px;display:inline"></a></div></div> 
-				<div class="col-lg-3"><div class="logo-div"><a href="https://www.cesc.co.in/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641223726.png" alt="" width="200" height="115" style="margin-top:-6px;display:inline"></a></div></div>
-			<div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="" style="width="213;" height="102;""></a></div></div>
-				<div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="" width="300;" height="102;"></a></div></div>
+<div class="col-lg-3"><div class="logo-div"><a href="https://bescom.co.in/SCP/Myhome.aspx" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641223586.png" style="margin-top:-6px;display:inline"></a></div></div> 
+				<div class="col-lg-3"><div class="logo-div"><a href="https://www.cesc.co.in/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641223726.png" alt="" width="200" height="115" style="margin-top:-6px;display:inline"></a></div></div>
+			<div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110101.png" alt="" style="width="213;" height="102;""></a></div></div>
+				<div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110129.png" alt="" width="300;" height="102;"></a></div></div>
 <p></p>				
 <h5 style="text-align:center;"><b> Partner Utilities</b></h5>
 	<div class="col-lg-3"><div class="logo-div"><a href="http://www.mpwz.co.in/" target="_blank" rel="noopener noreferrer"><img src="http://www.isuw.in/beta/wp-content/uploads/2021/02/MPPKVVCL-logo_Partner-Utility-1.jpg" style="margin-top:-6px;display:inline"></a></div></div> 

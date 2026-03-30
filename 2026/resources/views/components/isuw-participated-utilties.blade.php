@@ -11,7 +11,7 @@
 </style>
  <div class="k_cheading"> 
 		<h1>UTILITIES PARTICIPATED IN  <span class="k_greencolor">PREVIOUS EDITIONS OF ISUW  </span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
 	<h5 style="color: green;"><strong><u>Electric Utilities from India</u></strong></h5>

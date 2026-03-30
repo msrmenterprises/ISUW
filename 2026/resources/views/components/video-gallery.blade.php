@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW <span class="k_greencolor">Video Gallery</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 	<style>
 li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin-bottom:30px;   list-style:none !important; height:240px;} 

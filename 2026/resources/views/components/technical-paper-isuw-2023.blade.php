@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>INDIA SMART UTILITY WEEK (ISUW)<span class="k_greencolor"> Technical Papers</span></h1>
-		<img src="/public/uploads/images/kborder_bottom.PNG" alt=""> 
+		<img src="/uploads/images/kborder_bottom.PNG" alt=""> 
 	</div>
 <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">
@@ -272,7 +272,7 @@ format from following link: <a href="https://bit.ly/3AWrKeH"> https://bit.ly/3AW
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/faruk.PNG" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/uploads/images/faruk.PNG" NAME="Picture 6" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
 			<P><FONT ><B>Dr. Faruk Kazi
 Chair of ISGF Working Group on Digital Architecture and Cyber Security Professor and Dean of Research and Development
 <BR>VJTI, Mumbai</B></FONT></P>
@@ -311,7 +311,7 @@ of cyber physical systems.</FONT></P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/n.murgan.PNG" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/uploads/images/n.murgan.PNG" NAME="Picture 4" ALIGN=BOTTOM WIDTH=170 HEIGHT=179 BORDER=0></P>
 			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><BR><BR>
 			</P>
 			<P STYLE="margin-bottom: 0.11in"><FONT ><B>Mr. N MURUGESAN  
@@ -331,7 +331,7 @@ as Director General. He added many infrastructures to carry out Research and for
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/ravi.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/uploads/images/ravi.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
 			<P><FONT ><B>Mr. Ravi Seethapathy  <BR>Ambassador Americas, Global Smart Grid Federation, Honorary Member and WG Chair<BR>ISGF and Chairman, Biosirus Inc. Canada</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
@@ -421,7 +421,7 @@ He had been adjudged and awarded Best Director Projects Corporate Excellence Awa
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/vijay.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/uploads/images/vijay.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
 			<P><FONT ><B>Mr. Vijay Sonavane   <BR>Former
 			Member<BR> MERCB</FONT></P>
 		</TD>
@@ -438,7 +438,7 @@ During his previous assignments, he was associated with Power System Planning, P
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/girish.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/uploads/images/girish.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
 			<P><FONT ><B>Mr. Girish Ghatikar   <BR>Technical Executive, Senior Program Manager<BR>EPRI, California, USA</B></FONT></P>
 		</TD>
 		<TD WIDTH=70% STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0.1in">
@@ -454,7 +454,7 @@ Ghatikar's work has appeared in over 100 publications, and he holds dual Masters
 	</TR> 
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/reji.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/uploads/images/reji.PNG" NAME="Picture 2" ALIGN=BOTTOM WIDTH=190 HEIGHT=220 BORDER=0></P>
 			<P><FONT ><B>Mr. Reji Kumar Pillai President,
 <BR>ISGF Chairman<BR>GSGF</B></FONT></P>
 		</TD>
@@ -6484,7 +6484,7 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/ISUW 2023 Technical Paper List Results_FINAL.pdf" target="_blank">2023 Shortlisted Papers for Presentation and Publication </a></span></p>
+  lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/ISUW 2023 Technical Paper List Results_FINAL.pdf" target="_blank">2023 Shortlisted Papers for Presentation and Publication </a></span></p>
   </td>
   <td width=180 style='width:134.65pt;border-top:none;border-left:none
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6496,7 +6496,7 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/ISUW 2023 Technical Paper List Results_FINAL.pdf" target="_blank">2023 Published Technical Paper</a></span></p>
+  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/ISUW 2023 Technical Paper List Results_FINAL.pdf" target="_blank">2023 Published Technical Paper</a></span></p>
   </td>
  </tr>
  <tr style='height:30.0pt'>
@@ -6515,19 +6515,19 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/ISUW 2022 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2022 Shortlisted Papers for Presentation and Publication </a></span></p>
+  lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/ISUW 2022 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2022 Shortlisted Papers for Presentation and Publication </a></span></p>
   </td>
   <td width=180 style='width:134.65pt;border-top:none;border-left:none
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/ISUW 2022 Technical Paper Compendium_Final (1).pdf" target="_blank">Compendium of Technical Papers India Smart Utility Week 2022</a></span></p>
+  lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/ISUW 2022 Technical Paper Compendium_Final (1).pdf" target="_blank">Compendium of Technical Papers India Smart Utility Week 2022</a></span></p>
   </td>
   <td width=208 nowrap style='width:155.95pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/ISUW 2022 Shortlisted Papers for Presentation and Publication (1).pdf" target="_blank">2022 Published Technical Paper</a></span></p>
+  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/ISUW 2022 Shortlisted Papers for Presentation and Publication (1).pdf" target="_blank">2022 Published Technical Paper</a></span></p>
   </td>
  </tr>
  <tr style='height:30.0pt'>
@@ -6546,7 +6546,7 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2021 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2021 Shortlisted Papers for Presentation and Publication </a></span></p>
+  lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2021 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2021 Shortlisted Papers for Presentation and Publication </a></span></p>
   </td>
   <td width=180 style='width:134.65pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6558,7 +6558,7 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2021 Selected Technical Papers for Presentation and Springer Publication.pdf" target="_blank">2021 Published Technical Paper</a></span></p>
+  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2021 Selected Technical Papers for Presentation and Springer Publication.pdf" target="_blank">2021 Published Technical Paper</a></span></p>
   </td>
  </tr>
  <tr style='height:30.0pt'>
@@ -6577,7 +6577,7 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2020 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2020 Shortlisted Papers for Presentation and Publication</a></span></p>
+  lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2020 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2020 Shortlisted Papers for Presentation and Publication</a></span></p>
   </td>
   <td width=180 style='width:134.65pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6589,7 +6589,7 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2020 Selected Technical Papers for Presentation and Springer Publication.pdf" target="_blank">2020 Published Technical Paper</a></span></p>
+  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2020 Selected Technical Papers for Presentation and Springer Publication.pdf" target="_blank">2020 Published Technical Paper</a></span></p>
   </td>
  </tr>
  <tr style='height:30.0pt'>
@@ -6608,7 +6608,7 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2019 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2019 Shortlisted Papers for Presentation and Publication</a></span></p>
+  lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2019 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2019 Shortlisted Papers for Presentation and Publication</a></span></p>
   </td>
   <td width=180 style='width:134.65pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6632,7 +6632,7 @@ om/book/10.1007/97
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2019 Published Technical Paper.pdf" target="_blank">2019 Published
+  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2019 Published Technical Paper.pdf" target="_blank">2019 Published
 Technical Paper </a></span></p>
   </td>
  </tr>
@@ -6652,7 +6652,7 @@ Technical Paper </a></span></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2018 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2018 Shortlisted Papers for Presentation and Publication</a></span></p>
+  lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2018 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2018 Shortlisted Papers for Presentation and Publication</a></span></p>
   </td>
   <td width=180 style='width:134.65pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6672,7 +6672,7 @@ F978-981-32-9119-5</a></span></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2018 Published Technical Paper.pdf" target="_blank">2018 Published
+  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2018 Published Technical Paper.pdf" target="_blank">2018 Published
 Technical Paper</a></span></p>
   </td>
  </tr>
@@ -6692,7 +6692,7 @@ Technical Paper</a></span></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2017 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2017 Shortlisted Papers for Presentation and Publication</a></span></p>
+  lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2017 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2017 Shortlisted Papers for Presentation and Publication</a></span></p>
   </td>
   <td width=180 style='width:134.65pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -6712,7 +6712,7 @@ om/book/10.1007/97
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2017 Published Technical Paper.pdf" target="_blank">2017 Published
+  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2017 Published Technical Paper.pdf" target="_blank">2017 Published
 Technical Paper</a></span></p>
   </td>
  </tr>
@@ -6732,13 +6732,13 @@ Technical Paper</a></span></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2016 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2016 Shortlisted Papers for Presentation and Publication</a></span></p>
+  lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2016 Shortlisted Papers for Presentation and Publication.pdf" target="_blank">2016 Shortlisted Papers for Presentation and Publication</a></span></p>
   </td>
   <td width=180 style='width:134.65pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/Compendium of Technical Papers of isuw 2016 (2).pdf" target="_blank">Compendium of
+  lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/Compendium of Technical Papers of isuw 2016 (2).pdf" target="_blank">Compendium of
 Technical Papers
 India Smart Utility
 Week 2016</a></span></p>
@@ -6747,7 +6747,7 @@ Week 2016</a></span></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
-  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/public/uploads/images/2016 Published Technical Paper.pdf" target="_blank">2016 Published
+  line-height:normal'><span lang=EN-IN style='color:black'><a href="https://isuw.in/uploads/images/2016 Published Technical Paper.pdf" target="_blank">2016 Published
 Technical Paper</a></span></p>
   </td>
  </tr>

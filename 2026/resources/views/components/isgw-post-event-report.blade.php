@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW<span class="k_greencolor"> Post Event Reports</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <p></p>
 <!--<p style="text-align:center; font-size:16px;"><a href="/public/images/ISUW 2023 Post Event Report (1).pdf" class="getstartedd ">Last Edition Post Event Report</a></p>-->

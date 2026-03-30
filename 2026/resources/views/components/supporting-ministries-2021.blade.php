@@ -7,7 +7,7 @@
 
 <div class="k_cheading">
 		<h1>ISUW 2021 <span class="k_greencolor">Supporting Ministries</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 
 <div class="row justify-content-center">

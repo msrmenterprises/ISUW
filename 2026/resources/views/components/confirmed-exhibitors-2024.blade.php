@@ -114,7 +114,7 @@
  <p></p>
 <div class="k_cheading">
       <h1>ISUW 2026<span class="k_greencolor"> EXHIBITORS </span> </h1>
-      <img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+      <img src="/uploads/images/kborder_bottom.png" alt=""> 
 </div>
 
        <div class="partners-grid grid-4">
@@ -150,12 +150,12 @@
            </div>
            <div class="logo-card">
                <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
-                   <img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
+                   <img src="https://www.isuw.in/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
                </a>
            </div>
            <div class="logo-card">
                <a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer">
-                   <img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power">
+                   <img src="https://www.isuw.in/uploads/utility/1641110147.png" alt="Tata Power">
                </a>
            </div>
            <div class="logo-card">
@@ -230,14 +230,14 @@
            </div>
            <div class="logo-card">
                <a href="https://www.tauruspowertronics.com/" target="_blank" rel="noopener noreferrer">
-                   <img src="http://isuw.in/public/uploads/partner/TAURUS LOGO (1).jpg" alt="Taurus Powertronics">
+                   <img src="http://isuw.in/uploads/partner/TAURUS LOGO (1).jpg" alt="Taurus Powertronics">
                </a>
            </div>
        </div>
 
  <div class="k_cheading">
       <h1>ISUW 2025<span class="k_greencolor"> EXHIBITORS </span> </h1>
-      <img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+      <img src="/uploads/images/kborder_bottom.png" alt=""> 
 </div>
        <div class="partners-grid grid-4">
            <div class="logo-card">
@@ -247,7 +247,7 @@
            </div>
            <div class="logo-card">
                <a href="https://www.gevernova.com/" target="_blank" rel="noopener noreferrer">
-                   <img src="https://www.isuw.in/public/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="GE Vernova">
+                   <img src="https://www.isuw.in/uploads/partner/GE_Vernova_Standard_RGB_Evergreen.jpg" alt="GE Vernova">
                </a>
            </div>
            <div class="logo-card">
@@ -262,7 +262,7 @@
            </div>
            <div class="logo-card">
                <a href="https://yitran.com/" target="_blank" rel="noopener noreferrer">
-                   <img src="https://www.isuw.in/public/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
+                   <img src="https://www.isuw.in/uploads/partner/yitran-logo-PNG-250.png" alt="Yitran">
                </a>
            </div>
            <div class="logo-card">
@@ -292,12 +292,12 @@
            </div>
            <div class="logo-card">
                <a href="https://www.tauruspowertronics.com/" target="_blank" rel="noopener noreferrer">
-                   <img src="http://isuw.in/public/uploads/partner/TAURUS LOGO (1).jpg" alt="Taurus">
+                   <img src="http://isuw.in/uploads/partner/TAURUS LOGO (1).jpg" alt="Taurus">
                </a>
            </div>
            <div class="logo-card">
                <a href="https://www.phoenixcontact.com/en-in/" target="_blank" rel="noopener noreferrer">
-                   <img src="https://www.isuw.in/public/uploads/partner/Phoenix Contact.jpg" alt="Phoenix">
+                   <img src="https://www.isuw.in/uploads/partner/Phoenix Contact.jpg" alt="Phoenix">
                </a>
            </div>
            <div class="logo-card">

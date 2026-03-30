@@ -254,13 +254,13 @@
 <style type="text/css">.diff_ss1{margin-left:30px;}</style>
 <div class="k_cheading"> 
 		<h1>INDIA SMART UTILITY WEEK <span class="k_greencolor">2026 Registration</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
 	<p><img src="images/2026/ISUWReg.jpg" alt="" style="width:100%"> </p>
 	<div class="k_cheading">
 	
-    <a href="https://isuw2026.theonsite.cloud/register.php" target="_blank"><img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img></a>
+    <a href="https://isuw2026.theonsite.cloud/register.php" target="_blank"><img src="https://isuw.in/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img></a>
 	
 	</div>
 
@@ -559,7 +559,7 @@ letter request please register yourself and send us a request for visa letter on
 
 	<div class="k_cheading">
 	
-	<img src="https://isuw.in/public/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
+	<img src="https://isuw.in/uploads/images/register-now.PNG" class="center" style="margin-right:50px;"></img>
 	
 	</div> -->
 	

@@ -20,7 +20,7 @@ margin-left:20px;
 <div class="k_cheading">
 		<h1>10th ISGF INNOVATION AWARDS 2026<br/>
 		 <span class="k_greencolor">10th Award Ceremony on 13 March 2026<br/> As part of India Smart Utility Week (ISUW 2026)</span></h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 	<img src="images/2026/AwardAwards25.jpg" class="center" style="width: 80%;"></img>
 <!--<h2 style="text-align:center;">At India Smart Utility Week (ISUW 2023)<br/>
@@ -33,7 +33,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <br/>
 <p></p>
 <!--<h4 style="text-align:center"><b> ISGF Innovation Awards Knowledge Partner</b></h4>
-<a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank"><img src="http://www.isuw.in/public/uploads/partner/UK-Gov.png" class="center" style="width: 30%; height:100px;"></img></a>
+<a href="https://www.gov.uk/government/organisations/foreign-commonwealth-development-office" target="_blank"><img src="http://www.isuw.in/uploads/partner/UK-Gov.png" class="center" style="width: 30%; height:100px;"></img></a>
 <br/><p></p>-->
 <h4 style="text-align:center;">ISGF Invites you to Submit the Nomination submission date extended to 04 January 2026</h4>
  <h4 style="text-align:center;">Nomination Submission Link -  <a href="https://forms.gle/qYa4AQHQJV5NHQ5X7" target="_blank" rel="noopener noreferrer">Submit Now</a></h4>
@@ -860,7 +860,7 @@ and decide upon the winners.</P>
     </h2>
     <div id="flush-collapsethree" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
         <div class="accordion-body">
-<P STYLE="margin-bottom: 0in"><IMG SRC="http://www.isuw.in/public/uploads/images/selection-process.jpeg"></P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="http://www.isuw.in/uploads/images/selection-process.jpeg"></P>
 <P STYLE="margin-bottom: 0in">
 </P>
 </div>

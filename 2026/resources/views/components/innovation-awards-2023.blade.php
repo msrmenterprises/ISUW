@@ -20,7 +20,7 @@ margin-left:20px;
 <div class="k_cheading">
 		<h1>ISGF INNOVATION AWARDS 2023 <br/>
 		 <span class="k_greencolor">Date: 03 MARCH 2023 | NEW DELHI</span></h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 <h2 style="text-align:center;">At India Smart Utility Week (ISUW 2023)<br/>
  <li style="list-style:none; text-align:center"><a href="https://isuw.in/votenowisgf" target="_blank" class="getstartedd ">Vote For ISGF Innovation Awards</a></li>
@@ -731,7 +731,7 @@ and Certified Associate of Indian Institute of Bankers, Bombay.</FONT></P>
 	</TR>
 	<TR>
 		<TD WIDTH=30% VALIGN=TOP STYLE="border-top: none; border-bottom: 1.50pt solid #ed7d31; border-left: 1.50pt solid #ed7d31; border-right: none; padding-top: 0in; padding-bottom: 0.1in; padding-left: 0.1in; padding-right: 0in">
-			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/public/uploads/images/padama.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=180 BORDER=0></P>
+			<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.11in"><IMG SRC="http://www.isuw.in/uploads/images/padama.PNG" NAME="Picture 5" ALIGN=BOTTOM WIDTH=190 HEIGHT=180 BORDER=0></P>
 			<P><FONT ><B>Padmaja Ruparel&nbsp;&nbsp;<BR>Co-Founder<BR>Indian Angel Network;<br/>
 Founding Partner, IAN
 Fund</B></FONT></P>
@@ -1297,7 +1297,7 @@ solutions</FONT></FONT></FONT></P>
     </h2>
     <div id="flush-collapsethree" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
         <div class="accordion-body">
-<P STYLE="margin-bottom: 0in"><IMG SRC="http://www.isuw.in/public/uploads/images/selection-process.jpeg"></P>
+<P STYLE="margin-bottom: 0in"><IMG SRC="http://www.isuw.in/uploads/images/selection-process.jpeg"></P>
 <P STYLE="margin-bottom: 0in">
 </P>
 </div>

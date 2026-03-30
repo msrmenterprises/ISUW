@@ -101,10 +101,10 @@
             <h2>ISUW 2026 Participating Utilities</h2>
         </div>
         <div class="partners-grid grid-5">
-            <div class="logo-card"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="BSES Rajdhani Power Limited"></a></div>
-            <div class="logo-card"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="BSES Yamuna Power Limited"></a></div>
-            <div class="logo-card"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="Tata Power DDL"></a></div>
-            <div class="logo-card"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power Company Limited"></a></div>
+            <div class="logo-card"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110129.png" alt="BSES Rajdhani Power Limited"></a></div>
+            <div class="logo-card"><a href="https://www.bsesdelhi.com/web/bypl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110101.png" alt="BSES Yamuna Power Limited"></a></div>
+            <div class="logo-card"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110211.png" alt="Tata Power DDL"></a></div>
+            <div class="logo-card"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110147.png" alt="Tata Power Company Limited"></a></div>
             <div class="logo-card"><a href="https://www.noidapower.com/" target="_blank" rel="noopener noreferrer"><img src="images/2026/NPCL_logo.png" alt="NPCL"></a></div>
             <div class="logo-card"><a href="https://www.powergrid.in/en/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Powergrid.png" alt="Powergrid"></a></div>
             <div class="logo-card"><a href="https://grid-india.in/en/" target="_blank" rel="noopener noreferrer"><img src="images/2025/Grid-India.png" alt="Grid India"></a></div>
@@ -144,10 +144,10 @@
             <h2>ISUW 2025 Participating Utilities</h2>
         </div>
         <div class="partners-grid grid-5">
-            <div class="logo-card"><a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110101.png" alt="BYPL"></a></div>
-            <div class="logo-card"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110129.png" alt="BRPL"></a></div>
-            <div class="logo-card"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110211.png" alt="Tata Power DDL"></a></div>
-            <div class="logo-card"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/public/uploads/utility/1641110147.png" alt="Tata Power"></a></div>
+            <div class="logo-card"><a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110101.png" alt="BYPL"></a></div>
+            <div class="logo-card"><a href="https://www.bsesdelhi.com/web/brpl" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110129.png" alt="BRPL"></a></div>
+            <div class="logo-card"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110211.png" alt="Tata Power DDL"></a></div>
+            <div class="logo-card"><a href="https://www.tatapower.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110147.png" alt="Tata Power"></a></div>
             <div class="logo-card"><a href="https://www.mgvcl.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/MGVCL.png" alt="MGVCL"></a></div>
             <div class="logo-card"><a href="https://www.tpcentralodisha.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/TPCODL.png" alt="TPCODL"></a></div>
             <div class="logo-card"><a href="https://www.tpnodl.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/TPNODL.png" alt="TPNODL"></a></div>

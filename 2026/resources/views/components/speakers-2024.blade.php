@@ -6,7 +6,7 @@
                	
 <div class="k_cheading">
 		<h1>ISUW 2024<span class="k_greencolor"> Speakers</span> </h1>
-		<img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 			   
            <p></p>
