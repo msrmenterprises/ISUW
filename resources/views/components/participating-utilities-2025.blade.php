@@ -135,7 +135,7 @@
             <div class="logo-card"><a href="https://gescomglb.org/gescom/main/home" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/GESCOM.jpg" alt="GESCOM"></a></div>
             <div class="logo-card"><a href="https://dvc.gov.in/" target="_blank" rel="noopener noreferrer"><img src="images/2026/DVCLogo.png" alt="DVC"></a></div>
             <div class="logo-card"><a href="https://www.apspdcl.in/index.jsp" target="_blank" rel="noopener noreferrer"><img src="images/2025/APSPDCL.png" alt="APSPDCL"></a></div>
-            <div class="logo-card"><a href="https://www.mahatransco.in/" target="_blank" rel="noopener noreferrer"><img src="https://logo.clearbit.com/mahatransco.in" alt="MSETCL"></a></div>
+            <div class="logo-card"><a href="https://www.mahatransco.in/" target="_blank" rel="noopener noreferrer"><img src="https://clearbit.com/clearbit_by_hubspot.png" alt="MSETCL"></a></div>
             <div class="logo-card"><a href="https://dnhddpcl.in/" target="_blank" rel="noopener noreferrer"><img src="images/2027/Dadarhaveli.jpg" alt="DNH and DD Power Corporation Ltd"></a></div>
         </div>
     </section>
