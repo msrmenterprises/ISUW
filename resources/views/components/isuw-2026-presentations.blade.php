@@ -915,6 +915,119 @@
             </tbody>
          </table>
 
+    	</div>
+
+		    <!-- DAY 2: 11 MARCH 2026 | WEDNESDAY -->
+    <div class="session" style="margin-top: 30px;">DAY 2: 11 MARCH 2026 | WEDNESDAY</div>
+
+    <!-- INAUGURATION OF ISUW 2026 CONFERENCE AND EXHIBITION -->
+    <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+        INAUGURATION OF ISUW 2026 CONFERENCE AND EXHIBITION
     </div>
+    <table>
+        <thead>
+            <tr class="session-header">
+                <th>S. No</th>
+                <th>Name</th>
+                <th>Designation</th>
+                <th>Organization</th>
+                <th>Category</th>
+                <th>Video</th>
+                <th>Photos</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>66</td><td>Reji Kumar Pillai</td><td>President</td><td>India Smart Grid Forum</td><td>Welcome Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>67</td><td>Mashal Dhawan</td><td>CEO – Asia and General Secretary</td><td>SEW.AI and ISGF</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>68</td><td>Brian Motherway</td><td>Head-Energy Efficiency Division</td><td>International Energy Agency (IEA)</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>69</td><td>Amal Sinha</td><td>Director and Group CEO</td><td>BSES Rajdhani Power Limited (BRPL)</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>70</td><td>Ashish Khanna</td><td>DG</td><td>International Solar Alliance (ISA)</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>71</td><td>Piyush Singh</td><td>DG, Power Foundation of India (PFI)</td><td>Add Secretary, Ministry of Power</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>72</td><td>Shivkumar Kalyanaraman</td><td>CEO</td><td>Anusandhan National Research Foundation (ANRF)</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>73</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>International Electrotechnical Commission (IEC)</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>74</td><td>Ashish Goel</td><td>Chairman</td><td>UP Power Corporation Limited</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>75</td><td>Alok Kumar</td><td>DG</td><td>All India Discoms Association (AIDA)</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>76</td><td>Ghanshyam Prasad</td><td>Chairperson</td><td>Central Electricity Authority (CEA)</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>77</td><td>Reena Suri</td><td>Executive Director</td><td>India Smart Grid Forum</td><td>Vote of Thanks</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaZf" target="_blank" class="photo-link">View</a></td></tr>
+        </tbody>
+    </table>
+
+    <!-- 10 MILLION SOLAR ROOFTOP SYSTEMS -->
+    <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+        10 Million Solar Rooftop Systems and Management of Reverse Power Flows on Distribution Feeders (In Partnership with AIDA and NISE)
+    </div>
+    <table>
+        <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+        <tbody>
+            <tr><td>78</td><td>Richard Schomberg</td><td>Special Envoy on Smart Electrification</td><td>IEC</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaWD" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>79</td><td>Adarsh Nagarajan</td><td>Strategic Initiatives Advisor</td><td>BSES Rajdhani Power Limited (BRPL)</td><td>Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaWD" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>80</td><td>RJ Vala</td><td>CE (Tech)</td><td>Gujarat Urja Vikas Nigam Ltd (GUVNL)</td><td>Theme Presentation</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaWD" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>81</td><td>Alok Kumar</td><td>DG</td><td>All India Discoms Association (AIDA)</td><td>Special Address</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaWD" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>82</td><td>KVS Baba</td><td>Former CMD</td><td>GRID-INDIA</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaWD" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>83</td><td>Mohammad Rihan</td><td>DG</td><td>National Institute of Solar Energy (NISE)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaWD" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>84</td><td>Jayant Kumar</td><td>CEO – Power Transmission and Distribution</td><td>Larsen & Toubro Limited (L&T)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaWD" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>85</td><td>Brajesh Kumar</td><td>COO</td><td>BSES Yamuna Power Limited (BYPL)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaWD" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>86</td><td>Mohan Singh</td><td>DGM - Automation</td><td>Noida Power Company Limited</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaWD" target="_blank" class="photo-link">View</a></td></tr>
+        </tbody>
+    </table>
+
+    <!-- Regulations for Digital Grids -->
+    <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+        Regulations for Digital Grids (In Partnership with Power Foundation of India (PFI))
+    </div>
+    <table>
+        <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+        <tbody>
+            <tr><td>87</td><td>P Ravi Kumar</td><td>Chairperson</td><td>Karnataka Electricity Regulatory Commission</td><td>Chair</td><td><a href="https://youtu.be/or20dWxj_a8?si=ZVMgCr7mWWwcEpcx" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaXk" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>88</td><td>Himanshu Chawla</td><td>Head Regulatory & Research</td><td>Power Foundation of India</td><td>Moderator and Theme Presenter</td><td><a href="https://youtu.be/or20dWxj_a8?si=ZVMgCr7mWWwcEpcx" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaXk" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>89</td><td>Anand Singh</td><td>GM</td><td>ISGF</td><td>Theme Presentation</td><td><a href="https://youtu.be/or20dWxj_a8?si=ZVMgCr7mWWwcEpcx" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaXk" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>90</td><td>Arun Goyal</td><td>Former Member</td><td>Central Electricity Regulatory Commission (CERC)</td><td>Speaker</td><td><a href="https://youtu.be/or20dWxj_a8?si=ZVMgCr7mWWwcEpcx" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaXk" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>91</td><td>Amal Sinha</td><td>Group CEO</td><td>BSES</td><td>Speaker</td><td><a href="https://youtu.be/or20dWxj_a8?si=ZVMgCr7mWWwcEpcx" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaXk" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>92</td><td>Dwijadas Basak</td><td>CEO</td><td>Tata Power Delhi Distribution Limited</td><td>Speaker</td><td><a href="https://youtu.be/or20dWxj_a8?si=ZVMgCr7mWWwcEpcx" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaXk" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>93</td><td>Himanshu Khurana</td><td>Secretary</td><td>Rajasthan Electricity Regulatory Commission</td><td>Speaker</td><td><a href="https://youtu.be/or20dWxj_a8?si=ZVMgCr7mWWwcEpcx" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaXk" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>94</td><td>Anujesh Dwivedi</td><td>Partner</td><td>Deloitte</td><td>Speaker</td><td><a href="https://youtu.be/or20dWxj_a8?si=ZVMgCr7mWWwcEpcx" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNaXk" target="_blank" class="photo-link">View</a></td></tr>
+        </tbody>
+    </table>
+
+    <!-- Square-Mile-Size AI Data Centres -->
+    <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+        Square-Mile-Size AI Data Centres Requiring GW-scale Power Connections
+    </div>
+    <table>
+        <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+        <tbody>
+            <tr><td>95</td><td>Rajnath Ram</td><td>Advisor – Energy</td><td>NITI Aayog</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>96</td><td>Anant Venkateswaran</td><td>Advisor</td><td>ISGF</td><td>Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>97</td><td>Shawn DeAngelo</td><td>Former Head of Data Center</td><td>META</td><td>Theme Presentation</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>98</td><td>Manish Mohanpurkar</td><td>Principal - R&D Delivery</td><td>Fortescue</td><td>Theme Presentation</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>99</td><td>Arvind Jadhav</td><td>Former Chief Secretary</td><td>Govt of Karnataka</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>100</td><td>Tripta Thakur</td><td>Vice Chancellor</td><td>Veer Madho Singh Bhandari Uttarakhand Technical University</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>101</td><td>Matt Gleeson</td><td>Vice President - Energy Transition and Water Conservation</td><td>Oracle Utilities</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>102</td><td>Gaurav A Sharma</td><td>GM</td><td>Noida Power Company Limited</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>103</td><td>Sourajit Ghosh</td><td>Director – IT</td><td>UP Power Corporation Limited</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>104</td><td>Anwaya Bilas Sengupta</td><td>Alternate CISO</td><td>GRID-INDIA</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>105</td><td>Amit Agrawal</td><td>President</td><td>Techno Digital</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNb3G" target="_blank" class="photo-link">View</a></td></tr>
+        </tbody>
+    </table>
+
+    <!-- Digital Energy Grids on UEI Architecture -->
+    <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+        Digital Energy Grids on Unified Energy Interface (UEI) Architecture
+    </div>
+    <table>
+        <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+        <tbody>
+            <tr><td>106</td><td>Reji Kumar Pillai</td><td>President</td><td>ISGF</td><td>Chair and Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCN9fB" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>107</td><td>Swetha Ravi Kumar</td><td>ED and IES Secretariat</td><td>FSR Global</td><td>Theme Presentation</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCN9fB" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>108</td><td>Abhishek Ranjan</td><td>CEO</td><td>BSES Rajdhani Power Limited (BRPL)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCN9fB" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>109</td><td>Tarun Batra</td><td>Head – D & IT</td><td>Tata Power Delhi Distribution Limited</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCN9fB" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>110</td><td>Nick Singh</td><td>Smart Grid CoE Manager</td><td>Eskom Research Testing & Development</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCN9fB" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>111</td><td>N.A Khan</td><td>CTO</td><td>Eppeltone Engineers</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCN9fB" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>112</td><td>Dharmveer Singh</td><td>Founder and CEO</td><td>PowerXchange</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCN9fB" target="_blank" class="photo-link">View</a></td></tr>
+            <tr><td>113</td><td>Arshi Chadha</td><td>Co-founder</td><td>Trillectric</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCN9fB" target="_blank" class="photo-link">View</a></td></tr>
+        </tbody>
+    </table>
+
+    
 </div>
 @endsection
