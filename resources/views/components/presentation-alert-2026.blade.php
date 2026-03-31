@@ -37,12 +37,7 @@ button {
 	</div> 
 <form method="POST" action="{{ url('presentation2026')}}"> 
 @csrf 
-        <div class="container">
-            @if(session('error'))
-                <div style="color: red; padding: 10px; background-color: #ffebee; border: 1px solid red; margin-bottom: 10px;">
-                    {{ session('error') }}
-                </div>
-            @endif   
+        <div class="container">   
             <input type="password" name="password" id="password" placeholder="Enter Password" name="password" required>  
             <button type="submit">Login</button>   
             <!-- <input type="checkbox" checked="checked"> Remember me   
