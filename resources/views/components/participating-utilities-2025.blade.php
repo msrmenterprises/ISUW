@@ -136,6 +136,7 @@
             <div class="logo-card"><a href="https://dvc.gov.in/" target="_blank" rel="noopener noreferrer"><img src="images/2026/DVCLogo.png" alt="DVC"></a></div>
             <div class="logo-card"><a href="https://www.apspdcl.in/index.jsp" target="_blank" rel="noopener noreferrer"><img src="images/2025/APSPDCL.png" alt="APSPDCL"></a></div>
             <div class="logo-card"><a href="https://www.mahatransco.in/" target="_blank" rel="noopener noreferrer"><img src="https://logo.clearbit.com/mahatransco.in" alt="MSETCL"></a></div>
+            <div class="logo-card"><a href="https://dnhddpcl.in/" target="_blank" rel="noopener noreferrer"><img src="images/2027/Dadarhaveli.jpg" alt="DNH and DD Power Corporation Ltd"></a></div>
         </div>
     </section>
 
