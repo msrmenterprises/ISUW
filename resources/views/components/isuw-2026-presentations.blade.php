@@ -1138,5 +1138,7 @@
              <tr><td>171</td><td>SK Soonee</td><td>Former CEO</td><td>GRID-INDIA</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNpVU" target="_blank" class="photo-link">View</a></td></tr>
              <tr><td>172</td><td>Reji Kumar Pillai</td><td>President</td><td>ISGF</td><td>Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNpVU" target="_blank" class="photo-link">View</a></td></tr>
              <tr><td>173</td><td>JK Jethani</td><td>Senior Director</td><td>Ministry of New & Renewable Energy (MNRE)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a>
+		</tbody>
+	</table>			
 </div>
 @endsection
