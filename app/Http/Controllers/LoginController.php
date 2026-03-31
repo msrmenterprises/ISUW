@@ -131,7 +131,7 @@ class LoginController extends Controller
            session(['presentation2026' => true]);
            return redirect('/isuw-2026-presentations');
       }else{
-          return redirect('/isuw-2026-presentations');
+          return redirect('/presentation2026')->with('error', 'Invalid password. Please try again.');
       }
      
 
