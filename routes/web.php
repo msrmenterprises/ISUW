@@ -296,6 +296,9 @@ Route::get('/winners-innovation-awards-2024', function () {
 Route::get('/winners-innovation-awards-2025', function () {
      return view('/components/winners-innovation-awards-2025');
 });
+Route::get('/winners-innovation-awards-2026', function () {
+     return view('/components/winners-innovation-awards-2026');
+});
  Route::get('/winners-innovation-awards-2022', function () {
      return view('/components/winners-innovation-awards-2022');
 });
