@@ -1345,6 +1345,122 @@
          <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
             Electrification of Agricultural Sector and Charging of EVs with Green Electricity
          </div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+               <tr><td>272</td><td>Gajanan Kale</td><td>CEO</td><td>TP North Odisha Distribution Limited (TPNODL)</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNveW" target="_blank" class="photo-link">View</a></td></tr>
+               <tr><td>273</td><td>Disha Khosla</td><td>AGM</td><td>India Smart Grid Forum</td><td>Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNveW" target="_blank" class="photo-link">View</a></td></tr>
+                               <tr><td>274</td><td>VN Kale</td><td>Addl Commissioner – Machinery</td><td>Ministry of Agriculture and Farmers Welfare</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNveW" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>275</td><td>Anshuman Srivastava</td><td>Executive Director</td><td>Power Foundation of India (PFI)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNveW" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>276</td><td>Suresh Babu</td><td>Scientist E – CEST</td><td>Department of Science and Technology (DST)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNveW" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>277</td><td>Om Krishnan Singh</td><td>Scientist 'E'/ Director – R&D</td><td>Ministry of Electronics and Information Technology</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNveW" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>278</td><td>Aarti Kulkarni</td><td>Deputy Executive Engineer</td><td>Maharashtra State Electricity Distribution Co. Ltd.</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNveW" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>279</td><td>Pankaj Goyal</td><td>Co-Founder and COO</td><td>AutoNxt Automation</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNveW" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>280</td><td>Madhuri Dixit Ghugari</td><td>Director</td><td>Agrinext Technologies</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNveW" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+          </table>
+
+        <!-- Power Markets and Carbon Markets -->
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            Power Markets and Carbon Markets (In Partnership with IEX)
+        </div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>281</td><td>Rajib Mishra</td><td>ED</td><td>Integrated Research and Action for Development (IRADe)</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvhg" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>282</td><td>Nithyanandam Yuvaraj Dinesh Babu</td><td>Founder & CEO</td><td>UNMAI Carbon Solutions, Singapore</td><td>Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvhg" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>283</td><td>Chirag Gajjar</td><td>Director</td><td>PWC India</td><td>Theme Presentation</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvhg" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>284</td><td>Rohit Bajaj</td><td>JMD</td><td>Indian Energy Exchange (IEX)</td><td>Theme Presentation</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvhg" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>285</td><td>Padma Jaiswal</td><td>Secretary</td><td>Govt. of GNCT Delhi</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvhg" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>286</td><td>Nidhi Narang</td><td>Former Director - Finance</td><td>UP Power Corporation Limited</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvhg" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>287</td><td>Gopal Krishna Sarangi</td><td>Associate Professor – Department of Policy & Management Studies</td><td>TERI School of Advanced Studies</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvhg" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>288</td><td>Inderjeet Singh</td><td>Partner – Climate Change & Sustainability</td><td>Deloitte</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvhg" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>289</td><td>Munish Sharma</td><td>Head of Group – Consumer Connect, ESG and ISO Compliance</td><td>BSES Rajdhani Power Limited</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvhg" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>290</td><td>Snigdha Verma</td><td>Founder and Chief Executive Officer</td><td>Global Peepal Policy League</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvhg" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+          </table>
+
+        <!-- Special Plenary Session by JBV Reddy -->
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            Special Plenary Session by JBV Reddy, Head Quantum Technology Cell, Department of Science & Technology (DST)
+        </div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>291</td><td>JBV Reddy</td><td>Head Quantum Technology Cell</td><td>Department of Science & Technology (DST)</td><td>Presentation</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNLA9" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+          </table>
+
+        <!-- Emerging Solutions for Power System Flexibility -->
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            Emerging Solutions for Power System Flexibility
+        </div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>292</td><td>A Balan</td><td>Member – Planning</td><td>Central Electricity Authority</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvi8" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>293</td><td>Ravi Seethapathy</td><td>Advisor, ISGF</td><td>Executive Chairman, Biosirus Inc</td><td>Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvi8" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>294</td><td>Ganesh Das</td><td>Chief - Collaboration & Innovation</td><td>Tata Power Company Limited</td><td>Theme Presentation</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvi8" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>295</td><td>SK Soonee</td><td>Former CEO</td><td>GRID-INDIA</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvi8" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>296</td><td>Abhishek Ranjan</td><td>CEO</td><td>BSES Rajdhani Power Limited (BRPL)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvi8" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>297</td><td>Santhosh Nair</td><td>Director</td><td>Oracle Utilities</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvi8" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>298</td><td>Gurusharan Dhillon</td><td>Director - Electric Mobility</td><td>India Energy Storage Alliance (IESA)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvi8" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>299</td><td>Aby Joseph</td><td>Scientist - G and Senior Director</td><td>Centre for Development of Advanced Computing, India</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvi8" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>300</td><td>Praveen Goyal</td><td>Senior Vice President (IT, Automation, Metering and Sustainability)</td><td>Noida Power Company Limited</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvi8" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+          </table>
+
+        <!-- Future of Work -->
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            Future of Work: Working with Digital Colleagues and Humanoid Robots
+        </div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>301</td><td>Reji Kumar Pillai</td><td>President</td><td>ISGF</td><td>Chair and Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNwXH" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>302</td><td>Mukesh Kala</td><td>Hyper Automation Practice Head</td><td>Boundaryless Group</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNwXH" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>303</td><td>Arani Chaudhary</td><td>Founder and CEO</td><td>AI Library</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNwXH" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>304</td><td>Sandeep Singh Bhadwal</td><td>Co-Founder</td><td>AI Library</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNwXH" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>305</td><td>Sankar Patnaik</td><td>Director</td><td>CITI Bank</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNwXH" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>306</td><td>Arjun Reddy</td><td>Founder and CEO</td><td>Spatial Grid</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNwXH" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>307</td><td>Shalabh Gupta</td><td>CEO & Co-founder</td><td>Sidhhanth</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNwXH" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>308</td><td>Saurabh Gupta</td><td>Senior Director – Regional Accounts (India)</td><td>SEW.AI</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNwXH" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+          </table>
+
+        <!-- GENDER BALANCE IN THE ENERGY SECTOR -->
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            GENDER BALANCE IN THE ENERGY SECTOR
+        </div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>309</td><td>Reena Suri</td><td>Executive Director</td><td>ISGF</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>310</td><td>Poonam Barua</td><td>Founder & Chairperson</td><td>WILL Forum India</td><td>Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>311</td><td>Kiran Gupta</td><td>Chief-Customer Experience, Commercial & Govt. Affairs</td><td>Tata Power Delhi Distribution Limited</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>312</td><td>Subrahmanyam Pulipaka</td><td>CEO</td><td>National Solar Energy Federation of India</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>313</td><td>Mini Govindan</td><td>Senior Fellow</td><td>TERI</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>314</td><td>Monali Zeya</td><td>Director – Climate</td><td>Children's Investment Fund (CIFF)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>315</td><td>Mukuk Saxena</td><td>Head of Standards and Research (and Advisor)</td><td>Skill Council for Green Jobs</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>316</td><td>Isha Dayal</td><td>Consultant</td><td>National Council of Applied Economic Research (NCAER)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>317</td><td>Rahul Tongia</td><td>Senior Fellow</td><td>Centre for Social and Economic Progress (CSEP)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>318</td><td>Rashi Gupta</td><td>Founder</td><td>Vision Mechatronics</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>319</td><td>Vishnu Shankar Srivastava</td><td>Head – Strategic Project</td><td>BSES Rajdhani Power Limited</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>320</td><td>Prachii Saini</td><td>Brand Strategist</td><td>Meshmerise Networks</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNxqA" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+          </table>
+
+        <!-- 2nd India-Indonesia Smart Energy Workshop -->
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            2nd India-Indonesia Smart Energy Workshop (In Partnership PJCI, Indonesia)
+        </div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>321</td><td>Ravi Seethapathy</td><td>Advisor, ISGF</td><td>Executive Chairman, Biosirus Inc</td><td>Chair and Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>322</td><td>Rajesh Dangi</td><td>Secretary</td><td>Joint Electricity Regulatory Commission (JERC)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+          </table>    
          
 </div>
 @endsection
