@@ -518,6 +518,7 @@
             </tr>
         </tbody>
     </table>
+    <br/>
 
 </div>
 </div>
