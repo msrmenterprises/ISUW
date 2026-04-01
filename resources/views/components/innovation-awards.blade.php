@@ -59,7 +59,7 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 <h4 style="color: green;"><strong>Refer important links below for further details:</h4>
 <p></p><li>About India Smart Grid Forum (ISGF): <a href="https://indiasmartgrid.org/about" target="_blank">https://indiasmartgrid.org/about</a></li>
 <li>About India Smart Utility Week (ISUW) 2026: <a href="http://isuw.in/" target="_blank">http://isuw.in/</a></li>
-<li>Glimpses of Awards Ceremony 2025: <a href="https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324759071/" target="_blank"> https://www.flickr.com/photos/indiasmartgridforum/albums/72177720324759071/</a> </li></p>
+<li>Glimpses of Awards Ceremony 2026: <a href="https://flic.kr/s/aHBqjCNLTo" target="_blank"> https://flic.kr/s/aHBqjCNLTo</a> </li></p>
 
 <div class="accordion accordion-flush" id="accordionFlushExample"> 
   <div class="accordion-item">
@@ -79,6 +79,14 @@ At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>
 		<TD WIDTH=644 BGCOLOR="#ed7d31" STYLE="border: 1px solid #ed7d31; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
 			<P ALIGN=JUSTIFY><FONT COLOR="#ffffff"><B><FONT >Link to
 			view past winners</FONT></B></FONT></P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=377  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<P ALIGN=JUSTIFY><B><FONT >2026</FONT></B></P>
+		</TD>
+		<TD WIDTH=644  STYLE="border: 1px solid #f4b083; padding-top: 0in; padding-bottom: 0in; padding-left: 0.08in; padding-right: 0.08in">
+			<P ALIGN=JUSTIFY><a HREF="https://isuw.in/winners-innovation-awards-2026" target="_blank" rel="noopener noreferrer"><FONT >https://isuw.in/isgf-innovation-awards-2026</FONT></A></P>
 		</TD>
 	</TR>
 	<TR VALIGN=TOP>
