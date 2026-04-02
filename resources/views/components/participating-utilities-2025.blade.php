@@ -124,11 +124,11 @@
             <div class="logo-card"><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jdvvnl/en/home.html" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/JdVVNLa.jpg" alt="JDVVNL"></a></div>
             <div class="logo-card"><a href="https://puvvnl.up.nic.in/" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/PUVVNL.jpeg" alt="PUVVNL"></a></div>
             <div class="logo-card"><a href="https://www.mahadiscom.in/en/home/" target="_blank" rel="noopener noreferrer"><img src="images/2025/MSEDCL.png" alt="MSEDCL"></a></div>
-            <div class="logo-card"><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/avvnl/en/home.html" target="_blank" rel="noopener noreferrer"><img src="https://logo.clearbit.com/energy.rajasthan.gov.in" alt="AVVNL"></a></div>
+            <div class="logo-card"><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/avvnl/en/home.html" target="_blank" rel="noopener noreferrer"><img src="images/2027/AVVNL.jpg" alt="AVVNL"></a></div>
             <div class="logo-card"><a href="https://www.mvvnl.in/" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/Madhyanchal Vidyut Vitran Nigam Ltd.png" alt="MVVNL"></a></div>
             <div class="logo-card"><a href="https://www.nbpdcl.co.in/" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/North Bihar Power Distribution Company Limited.jpg" alt="NBEDCL"></a></div>
             <div class="logo-card"><a href="https://www.torrentpower.com/" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/Torrent Power Ltd.png" alt="Torrent Power"></a></div>
-            <div class="logo-card"><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jvvnl/en/home.html" target="_blank" rel="noopener noreferrer"><img src="https://logo.clearbit.com/energy.rajasthan.gov.in" alt="JVVNL"></a></div>
+            <div class="logo-card"><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jvvnl/en/home.html" target="_blank" rel="noopener noreferrer"><img src="images/2027/JVVNL.png" alt="JVVNL"></a></div>
             <div class="logo-card"><a href="https://www.wbsedcl.in/" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/WBSEDCL.png" alt="WBSEDCL"></a></div>
             <div class="logo-card"><a href="https://www.adanielectricity.com/" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/adani.jpg" alt="Adani Electricity"></a></div>
             <div class="logo-card"><a href="https://www.pvvnl.org/" target="_blank" rel="noopener noreferrer"><img src="images/2025/PVVNL-Logo.png" alt="PVVNL"></a></div>
