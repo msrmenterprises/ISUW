@@ -115,11 +115,11 @@
             <div class="logo-card"><a href="https://www.tpwesternodisha.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/TPWODL.png" alt="TPWODL"></a></div>
             <div class="logo-card"><a href="https://www.tpcentralodisha.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/TPCODL.png" alt="TPCODL"></a></div>
             <div class="logo-card"><a href="https://www.tpsouthernodisha.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/TPSODL.png" alt="TPSODL"></a></div>
-            <div class="logo-card"><a href="https://www.apcpdcl.in/" target="_blank" rel="noopener noreferrer"><img src="https://logo.clearbit.com/apcpdcl.in" alt="APCPDCL"></a></div>
+            <div class="logo-card"><a href="https://www.apcpdcl.in/" target="_blank" rel="noopener noreferrer"><img src="images/2027/APCPDCL.png" alt="APCPDCL"></a></div>
             <div class="logo-card"><a href="https://www.cesc.co.in/" target="_blank" rel="noopener noreferrer"><img src="images/2025/CESC_Logo.png" alt="CESC Limited"></a></div>
             <div class="logo-card"><a href="https://uppcl.org/uppcl/en" target="_blank" rel="noopener noreferrer"><img src="images/2025/UPPCL.png" alt="UPPCL"></a></div>
             <div class="logo-card"><a href="https://www.guvnl.com/" target="_blank" rel="noopener noreferrer"><img src="images/2025/GUVNL.png" alt="GUVNL"></a></div>
-            <div class="logo-card"><a href="https://apdcl.org/website/" target="_blank" rel="noopener noreferrer"><img src="https://logo.clearbit.com/apdcl.org" alt="APDCL"></a></div>
+            <div class="logo-card"><a href="https://apdcl.org/website/" target="_blank" rel="noopener noreferrer"><img src="images/2027/APDCLLog.jpg" alt="APDCL"></a></div>
             <div class="logo-card"><a href="https://kesco.co.in/Default" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/KESCO.png" alt="KESCo"></a></div>
             <div class="logo-card"><a href="https://energy.rajasthan.gov.in/content/raj/energy-department/jdvvnl/en/home.html" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/JdVVNLa.jpg" alt="JDVVNL"></a></div>
             <div class="logo-card"><a href="https://puvvnl.up.nic.in/" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/PUVVNL.jpeg" alt="PUVVNL"></a></div>
@@ -135,7 +135,7 @@
             <div class="logo-card"><a href="https://gescomglb.org/gescom/main/home" target="_blank" rel="noopener noreferrer"><img src="public/uploads/utility/GESCOM.jpg" alt="GESCOM"></a></div>
             <div class="logo-card"><a href="https://dvc.gov.in/" target="_blank" rel="noopener noreferrer"><img src="images/2026/DVCLogo.png" alt="DVC"></a></div>
             <div class="logo-card"><a href="https://www.apspdcl.in/index.jsp" target="_blank" rel="noopener noreferrer"><img src="images/2025/APSPDCL.png" alt="APSPDCL"></a></div>
-            <div class="logo-card"><a href="https://www.mahatransco.in/" target="_blank" rel="noopener noreferrer"><img src="https://clearbit.com/clearbit_by_hubspot.png" alt="MSETCL"></a></div>
+            <div class="logo-card"><a href="https://www.mahatransco.in/" target="_blank" rel="noopener noreferrer"><img src="images/2027/MSETCL.png" alt="MSETCL"></a></div>
             <div class="logo-card"><a href="https://dnhddpcl.in/" target="_blank" rel="noopener noreferrer"><img src="images/2027/Dadarhaveli.jpg" alt="DNH and DD Power Corporation Ltd"></a></div>
         </div>
     </section>
