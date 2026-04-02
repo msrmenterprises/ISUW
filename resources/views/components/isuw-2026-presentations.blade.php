@@ -1459,8 +1459,243 @@
             <tbody>
                 <tr><td>321</td><td>Ravi Seethapathy</td><td>Advisor, ISGF</td><td>Executive Chairman, Biosirus Inc</td><td>Chair and Moderator</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td></tr>
                 <tr><td>322</td><td>Rajesh Dangi</td><td>Secretary</td><td>Joint Electricity Regulatory Commission (JERC)</td><td>Speaker</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td></tr>
+                                 <tr>
+                    <td>323</td>
+                    <td>Anshuman Srivastava</td>
+                    <td>Executive Director</td>
+                    <td>Power Foundation of India</td>
+                    <td>Speaker</td>
+                    <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
+                    <td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td>
+                 </tr>
+                 <tr>
+                    <td>324</td>
+                    <td>Shashank Jewalikar</td>
+                    <td>Executive Director</td>
+                    <td>Maharashtra State Load Despatch Centre</td>
+                    <td>Speaker</td>
+                    <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
+                    <td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td>
+                 </tr>
+                 <tr>
+                    <td>325</td>
+                    <td>Bagus Setiawan</td>
+                    <td>Director</td>
+                    <td>Perkumpulan Jaringan Cerdas Indonesia (PJCI)</td>
+                    <td>Speaker</td>
+                    <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
+                    <td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td>
+                 </tr>
+                 <tr>
+                    <td>326</td>
+                    <td>Himanshu Chawla</td>
+                    <td>Head Regulatory & Research</td>
+                    <td>Power Foundation of India</td>
+                    <td>Speaker</td>
+                    <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
+                    <td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td>
+                 </tr>
+                 <tr>
+                    <td>327</td>
+                    <td>Teguh Prasetya M</td>
+                    <td>-</td>
+                    <td>Masyarakat Telematika Indonesia - Indonesian Telematics Society (MASTEL)</td>
+                    <td>Speaker</td>
+                    <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
+                    <td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td>
+                 </tr>
+                 <tr>
+                    <td>328</td>
+                    <td>PK Agarwal</td>
+                    <td>Former Director</td>
+                    <td>Grid-India</td>
+                    <td>Speaker</td>
+                    <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
+                    <td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td>
+                 </tr>
+                 <tr>
+                    <td>329</td>
+                    <td>Rahul Tongia</td>
+                    <td>Senior Fellow</td>
+                    <td>Centre for Social and Economic Progress (CSEP)</td>
+                    <td>Speaker</td>
+                    <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
+                    <td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td>
+                 </tr>
+                 <tr>
+                    <td>330</td>
+                    <td>Lena Lusiana</td>
+                    <td>-</td>
+                    <td>Perkumpulan Jaringan Cerdas Indonesia (PJCI)</td>
+                    <td>Speaker</td>
+                    <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
+                    <td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td>
+                 </tr>
+                 <tr>
+                    <td>331</td>
+                    <td>Habibie Razak</td>
+                    <td>-</td>
+                    <td>Masyarakat Ketenagalistrikan Indonesia (MKI)</td>
+                    <td>Speaker</td>
+                    <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
+                    <td><a href="https://flic.kr/s/aHBqjCNC6j" target="_blank" class="photo-link">View</a></td>
+                 </tr>
             </tbody>
-          </table>    
-         
+          </table>
+
+        <!-- Presentation of Select Technical Papers -->
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            Presentation of Select Technical Papers
+        </div>
+        
+        <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">Disruptive Innovations for Utilities</div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>332</td><td>Santhosh Nair</td><td>Director</td><td>Oracle Utilities</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>333</td><td>Priyanshu Agrawal</td><td>Consulting Manager</td><td>Cognizant Technology Solutions Pvt. Ltd.</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>334</td><td>Utkarsh Jaiswal</td><td>Lead of Operations – Mechanization</td><td>Resonia Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>335</td><td>Sai Keshava Srinivas</td><td>Manager - Consulting</td><td>Cognizant Technology Solutions Pvt. Ltd</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>336</td><td>Suhaas Mani</td><td>Manager</td><td>TP Western Odisha Distribution Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>337</td><td>Vijay Dhonde</td><td>Founder & MD</td><td>Orange current Technologies Private Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>338</td><td>V Lavanya</td><td>Associate Professor</td><td>Vellore Institute of Technology, Chennai</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>339</td><td>Saurav Darshana Mohapatra</td><td>Team Lead Commercial</td><td>TP Western Odisha Distribution Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>340</td><td>Trusha Biswas</td><td>Head Technology & Quality</td><td>TATA Power Mumbai</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>341</td><td>Nikita Nayak</td><td>Lead Engineer - AMI</td><td>TP Western Odisha Distribution Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>342</td><td>Avnish Gupta</td><td>Manager</td><td>KEC International Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+         </table>
+
+        <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">Foundational Blocks for Smart Grids</div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>343</td><td>Anjuli Chandra</td><td>Former Member</td><td>PERC</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>344</td><td>Ritu Raj</td><td>Manager</td><td>Noida Power Company Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>345</td><td>Ranjeet Kumar</td><td>Manager</td><td>BSES Rajdhani Power Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>346</td><td>Vikas Gupta</td><td>Deputy General Manager</td><td>Noida Power Company Ltd</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>347</td><td>B Gidean Praveen</td><td>Product Manager</td><td>Fluentgrid Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>348</td><td>Soumendra Sahoo</td><td>Team Lead - Automation</td><td>TP Central Odisha Distribution Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>349</td><td>Sumit Gupta</td><td>CEO</td><td>Asset Plus Consulting Pvt Ltd.</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+         </table>
+
+        <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">Evolving Architecture of the 21st Century Grid with Two Way Power Flows</div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>350</td><td>Kishore Narang</td><td>Founder</td><td>Narnix Technologies</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>351</td><td>Pritesh Kumar Srivastava</td><td>HoG Communication</td><td>TP Western Odisha Distribution Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>352</td><td>Pritesh Kumar Srivastava</td><td>HoG Communication</td><td>TP Western Odisha Distribution Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>353</td><td>Ankur Kaushik</td><td>-</td><td>Tata Power Distribution Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>354</td><td>Adarsh Nagarajan</td><td>Strategic Initiatives Advisor</td><td>BSES Rajdhani Power Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>355</td><td>Ashutosh Jaiswal</td><td>Asst. Manager</td><td>Tata Power Delhi Distribution Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+         </table>
+
+        <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">India@100 in 2047: Vision for the Indian Power System</div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>356</td><td>Sunil Bansod</td><td>Executive Engineer</td><td>Maharashtra State Electricity Transmission Company Ltd.</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+         </table>
+
+        <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">Smart Grids for Smart Cities</div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>357</td><td>T Kesavan</td><td>Professor, Department of Electrical and Electronic Engineering</td><td>Easwari Engineering College</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+         </table>
+
+        <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">Smart Water</div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>358</td><td>K Balaraman</td><td>Chair ETD 46 BIS</td><td>Former DG – NIWE</td><td>Chair</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>359</td><td>Yasin Mohamed</td><td>Consulting Manager</td><td>Cognizant Technology Solutions India Private Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>360</td><td>Moreshwar Salpekar</td><td>Architect – Systems Engineering</td><td>Sevya Multimedia Pvt Ltd</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+         </table>
+
+        <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">Regulations for the Evolving Smart Energy Systems</div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>361</td><td>Balwant Joshi</td><td>Sr Manager</td><td>Idam Infrastructure Advisory Pvt Ltd</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+         </table>
+
+        <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">New and Emerging Technologies and Trends</div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>362</td><td>Pavithra I Arasan</td><td>Lead Engineer</td><td>Tata Power Company Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+         </table>
+
+        <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">Electric Mobility</div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>363</td><td>Yasin Mohamed</td><td>Consulting Manager</td><td>Cognizant Technology Solutions India Private Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>364</td><td>Nirmala Mantri</td><td>Deputy Manager</td><td>Renault Nissan Technology & Business Centre India Private Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+         </table>
+
+        <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">Cyber Security for the Digitalized Grids</div>
+         <table>
+            <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Video</th><th>Photos</th></tr></thead>
+            <tbody>
+                <tr><td>365</td><td>Aamir Hussain Khan</td><td>CISO</td><td>Tata Power Delhi Distribution Limited</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+                <tr><td>366</td><td>Ankit</td><td>Assistant Manager</td><td>Power Grid Corporation of India Ltd</td><td>Author</td><td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td><td><a href="https://flic.kr/s/aHBqjCNvNS" target="_blank" class="photo-link">View</a></td></tr>
+            </tbody>
+         </table>
+
+        <!-- Photo Gallery Sections -->
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            ISUW 2026 Awards Innovation Award Ceremony and Gala Dinner
+        </div>
+        <div style="margin-bottom: 20px;">
+            <a href="https://flic.kr/s/aHBqjCNLTo" target="_blank" class="photo-link" style="background-color: #ff9800; color: white; padding: 8px 15px; border-radius: 5px; display: inline-block;">View Photos</a>
+        </div>
+
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            ISUW 2026 Welcome Reception and Partner Recognition Ceremony
+        </div>
+        <div style="margin-bottom: 20px;">
+            <a href="https://flic.kr/s/aHBqjCNMEn" target="_blank" class="photo-link" style="background-color: #ff9800; color: white; padding: 8px 15px; border-radius: 5px; display: inline-block;">View Photos</a>
+        </div>
+
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            ISUW 2026 Exhibition
+        </div>
+        <div style="margin-bottom: 20px;">
+            <a href="https://flic.kr/s/aHBqjCNMj2" target="_blank" class="photo-link" style="background-color: #ff9800; color: white; padding: 8px 15px; border-radius: 5px; display: inline-block;">View Photos</a>
+        </div>
+
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            ISUW 2026 Branding
+        </div>
+        <div style="margin-bottom: 20px;">
+            <a href="https://flic.kr/s/aHBqjCNRQD" target="_blank" class="photo-link" style="background-color: #ff9800; color: white; padding: 8px 15px; border-radius: 5px; display: inline-block;">View Photos</a>
+        </div>
+
+        <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+            ISUW 2026 Technical Tours and Demonstrations
+        </div>
+        <div style="margin-bottom: 20px;">
+            <p><strong>TPDDL Smart Grid Lab + Micro Substation + 20MW / 40MWh BESS at BRPL</strong><br>
+            <a href="https://flic.kr/s/aHBqjCNMHd" target="_blank" class="photo-link" style="background-color: #ff9800; color: white; padding: 8px 15px; border-radius: 5px; display: inline-block; margin-top: 5px;">View Photos</a></p>
+            <p><strong>800 kV HVDC Station in AGRA + TAJ MAHAL</strong><br>
+            <a href="https://flic.kr/s/aHBqjCNS44" target="_blank" class="photo-link" style="background-color: #ff9800; color: white; padding: 8px 15px; border-radius: 5px; display: inline-block; margin-top: 5px;">View Photos</a></p>
+        </div>
+
+        <div style="text-align: center; margin-top: 30px;">
+            <a href="{{ url('/') }}" class="back-link" style="display: inline-block; background-color: #2c3e50; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">← Back to Home</a>
+        </div>
+        
+    </div>
 </div>
 @endsection
