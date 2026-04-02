@@ -1692,9 +1692,9 @@
             <a href="https://flic.kr/s/aHBqjCNS44" target="_blank" class="photo-link" style="background-color: #ff9800; color: white; padding: 8px 15px; border-radius: 5px; display: inline-block; margin-top: 5px;">View Photos</a></p>
         </div>
 
-        <div style="text-align: center; margin-top: 30px;">
+        <!-- <div style="text-align: center; margin-top: 30px;">
             <a href="{{ url('/') }}" class="back-link" style="display: inline-block; background-color: #2c3e50; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">← Back to Home</a>
-        </div>
+        </div> -->
         
     </div>
 </div>
