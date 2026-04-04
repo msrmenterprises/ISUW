@@ -649,7 +649,7 @@
 			     <div class="col-lg-12 mb-4 text-end">
                   <a class="btn btn-light" style="
     margin-top: -25px;
-" href="/speakers" target="_blank">View All</a>
+" href="/2026/speakers" target="_blank">View All</a>
                </div>
             </div>
             <div class="row justify-content-center ">
@@ -1069,7 +1069,7 @@
                 
                </div>
               <div class="col-lg-12 mb-4 text-center">
-                  <a class="btn btn-light" href="/testimonial">View All</a>
+                  <a class="btn btn-light" href="/2026/testimonial">View All</a>
                </div>
             </div>
            

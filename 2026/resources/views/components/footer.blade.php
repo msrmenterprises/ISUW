@@ -7,7 +7,7 @@ color:#EF7B00;
          <div class="container">
               <!--<li style="list-style:none; text-align:center"><a href="https://isuw.in/register__ISUW2024" target="_blank" class="getstartedd ">Register Now</a></li>
        -->
-       <li style="list-style:none; text-align:center"><a href="register" target="_blank" class="getstartedd ">Register Now</a></li>
+       <li style="list-style:none; text-align:center"><a href="/2026/register" target="_blank" class="getstartedd ">Register Now</a></li>
        
 		 <!--<div class="register-now" style="
     text-align: center;"><a href="http://www.isgw.in/isuw-registration-2021/" target="_blank"><img src="http://www.isgw.in/wp-content/uploads/2017/09/Register_Now_Button.png" style="width:15%;"></a></div>-->
@@ -27,12 +27,12 @@ color:#EF7B00;
 						<h6>Follow Live Updates</h6>
                      <p></p>
                      <ul class="social-media d-flex">
-                        <li class="ms-0"><a href="https://www.facebook.com/IndiaSmartUtilityWeek" target="_blank"><img src="images/facebook.png"></a></li>
-                        <li><a href="https://twitter.com/ISUW_India" target="_blank"><img src="images/WhiteTwitter.png"></a></li> 
-                        <li><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="images/linkedin.png"></a></li>
-						<li><a href="https://www.instagram.com/indiasmartgridforum/?utm_medium=copy_link" target="_blank"><img src="images/insta.jpg" style="width:25px; height:25px;"></a></li>
-                        <li><a href="https://www.youtube.com/results?search_query=india+smart+grid+forum"target="_blank"><img src="images/youtube.png"></a></li>
-                        <li><a href="https://www.flickr.com/photos/indiasmartgridforum" target="_blank"><img src="images/flickr.png"></a></li>
+                        <li class="ms-0"><a href="https://www.facebook.com/IndiaSmartUtilityWeek" target="_blank"><img src="/2026/images/facebook.png"></a></li>
+                        <li><a href="https://twitter.com/ISUW_India" target="_blank"><img src="/2026/images/WhiteTwitter.png"></a></li> 
+                        <li><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="/2026/images/linkedin.png"></a></li>
+						<li><a href="https://www.instagram.com/indiasmartgridforum/?utm_medium=copy_link" target="_blank"><img src="/2026/images/insta.jpg" style="width:25px; height:25px;"></a></li>
+                        <li><a href="https://www.youtube.com/results?search_query=india+smart+grid+forum"target="_blank"><img src="/2026/images/youtube.png"></a></li>
+                        <li><a href="https://www.flickr.com/photos/indiasmartgridforum" target="_blank"><img src="/2026/images/flickr.png"></a></li>
                      </ul>
                   </div>
                </div>
@@ -88,13 +88,13 @@ color:#EF7B00;
       <ul class="social-links" style="list-style:none; padding:0;">
          <li style="margin-bottom:10px;">
             <a href="https://www.linkedin.com/company/india-smart-utility-week/posts/?feedView=all" target="_blank" style="color:#0A66C2; text-decoration:none;">
-               <img src="images/linkedin.png" alt="LinkedIn" style="width:24px; vertical-align:middle; margin-right:8px;">
+               <img src="/2026/images/linkedin.png" alt="LinkedIn" style="width:24px; vertical-align:middle; margin-right:8px;">
                Follow us on LinkedIn
             </a>
          </li>
          <li style="margin-bottom:10px;">
             <a href="https://twitter.com/ISUW_India" target="_blank" style="color:#1DA1F2; text-decoration:none;">
-               <img src="images/WhiteTwitter.png" alt="Twitter" style="width:24px; vertical-align:middle; margin-right:8px;">
+               <img src="/2026/images/WhiteTwitter.png" alt="Twitter" style="width:24px; vertical-align:middle; margin-right:8px;">
                Follow us on Twitter
             </a>
          </li>
@@ -123,12 +123,12 @@ color:#EF7B00;
 			<br>
             <ul>
                <li><a href="#">Home</a></li>
-               <li><a href="/privacy-policy" target="_blank">Privacy Policy</a></li>
-               <li><a href="/terms-and-conditions" target="_blank">Terms and Conditions</a></li>
-               <li><a href="/refund-and-cancellation" target="_blank">Refund and Cancellation</a></li>
-               <li><a href="/contact-us" target="_blank">Contact Us</a></li>
-               <!--<li><a href="/important-information-for-foreign-delegates">Important Information for Foreign Delegates</a></li>-->
-               <!--<li><a href="/mobile-apps">ISUW Mobile App</a></li>-->
+               <li><a href="/2026/privacy-policy" target="_blank">Privacy Policy</a></li>
+               <li><a href="/2026/terms-and-conditions" target="_blank">Terms and Conditions</a></li>
+               <li><a href="/2026/refund-and-cancellation" target="_blank">Refund and Cancellation</a></li>
+               <li><a href="/2026/contact-us" target="_blank">Contact Us</a></li>
+               <!--<li><a href="/2026/important-information-for-foreign-delegates">Important Information for Foreign Delegates</a></li>-->
+               <!--<li><a href="/2026/mobile-apps">ISUW Mobile App</a></li>-->
             </ul>
             <ul><li>Copyright © ISGF</li></ul>
          </div>
@@ -170,7 +170,7 @@ color:#EF7B00;
 		     <a href="https://www.isuw.in/register__ISUW2024" class="buttonbrochuree">Register Now</a>
 	</div>-->
 	<div class="k_fixed_bro-brochure">
-		     <a href="register" class="buttonbrochuree">Register Now</a>
+		     <a href="/2026/register" class="buttonbrochuree">Register Now</a>
 	</div>
 	<p></p>
 	

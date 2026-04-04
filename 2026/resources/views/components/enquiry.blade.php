@@ -49,10 +49,10 @@
  
 
   <div class="col-12">
-      <a href="/thanku"> 
+      <a href="/2026/thanku"> 
     <button type="submit" class="btn btn-primary">Submit</button>
     </a>
-    <!--<a href="/thanku" class="btn btn-primary">Submit</a>-->
+    <!--<a href="/2026/thanku" class="btn btn-primary">Submit</a>-->
   </div>
 </form>
 

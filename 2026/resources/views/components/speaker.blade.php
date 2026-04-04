@@ -19,7 +19,7 @@
                      <img src="{{$speaker->imageUrl}}" class="img-fluid " alt="{{$speaker->imageAlt}}">
                      <h5 style="font-size: 22px;">{{$speaker->name}}</h5>
                      <p>{!! preg_replace('/,\s*/', '<br/>', e($speaker->company)) !!}</p>
-                     <p><a  href="/speaker/{{$speaker->id}}" class="text-warning">Read bio...</a></p>
+                     <p><a  href="/2026/speaker/{{$speaker->id}}" class="text-warning">Read bio...</a></p>
                   </div>
 				
                   </div>	

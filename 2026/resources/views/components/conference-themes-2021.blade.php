@@ -548,7 +548,7 @@
 
 <FONT COLOR="#f60"><B>For
 ISUW 2021 detailed Agenda and Program:</B></FONT><BR></FONT></FONT>
-<B>Kindly visit following link-</B><B><a href="/conference-agenda-and-program">http://www.isuw.in/conference-agenda-and-program/</a></B></P>
+<B>Kindly visit following link-</B><B><a href="/2026/conference-agenda-and-program">http://www.isuw.in/conference-agenda-and-program/</a></B></P>
 
 
 <p></p>

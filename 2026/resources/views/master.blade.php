@@ -48,9 +48,9 @@ a:hover {
       <link href="/2026/public/css/bootstrap.min.css" rel="stylesheet">
       <link href="/2026/public/css/style.css?id=3" rel="stylesheet">
       <link href="/2026/public/css/slider.css" rel="stylesheet">
-      <!-- <link href="/css/bootstrap.min.css" rel="stylesheet">
-      <link href="/css/style.css" rel="stylesheet">
-      <link href="/css/slider.css" rel="stylesheet"> -->
+      <!-- <link href="/2026/css/bootstrap.min.css" rel="stylesheet">
+      <link href="/2026/css/style.css" rel="stylesheet">
+      <link href="/2026/css/slider.css" rel="stylesheet"> -->
       <title>India Smart Utility Week </title>
 	  <link rel="shortcut icon" href="/2026/images/ISUW Logo 2022.jpg" type="/images/ISUW Logo 2022.jpg"/>
     </head>

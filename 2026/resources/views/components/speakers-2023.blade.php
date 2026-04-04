@@ -19,7 +19,7 @@
                      <img src="{{$speakerr->imageUrl}}" class="img-fluid " alt="{{$speakerr->imageAlt}}">
                      <h5 style="font-size: 22px;">{{$speakerr->name}}</h5>
                      <p>{{$speakerr->company}}</p>
-                     <p><a  href="/speakerr/{{$speakerr->id}}" class="text-warning">Read bio...</a></p>
+                     <p><a  href="/2026/speakerr/{{$speakerr->id}}" class="text-warning">Read bio...</a></p>
                   </div>
 				
                   </div>	
