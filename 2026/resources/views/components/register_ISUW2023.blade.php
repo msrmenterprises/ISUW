@@ -8,7 +8,7 @@
 <style type="text/css">.diff_ss1{margin-left:30px;}</style>
 <div class="k_cheading"> 
 		<h1>INDIA SMART UTILITY WEEK <span class="k_greencolor">2023 Registration</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<!--<marquee>	Due to technical error in the server,  we are unable to process your registration at the moment.  Please check this page again in a few hours for registration. You may also write an email to us on email id <a href="mailto:secretariat@isuw.in">secretariat@isuw.in</a> for offline registration and payment. Thank you for your patience and we regret the inconvenience.</marquee>
 -->

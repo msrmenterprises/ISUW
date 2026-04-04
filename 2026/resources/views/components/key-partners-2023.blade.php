@@ -12,7 +12,7 @@ margin-left: 408px;
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW 2023 <span class="k_greencolor">KEY PARTNERS </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<h5 style="text-align:center;"><b>Powered By</b></h5>
 <div class="row justify-content-center">
@@ -91,7 +91,7 @@ margin-left: 408px;
 <div class="col-lg-3"><div class="logo-div"><a href="http://www.fluentgrid.com/" target="_blank" rel="noopener noreferrer"><img src="http://www.isgw.in/beta/wp-content/uploads/2020/02/Fluentgrid-logoTM.jpg" alt=""  height="102" style="display:inline;"></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.altec.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/beta/wp-content/uploads/2021/02/Altec-black-w-124.jpg" alt=""  height="102" style="display:inline;"></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.nanostone.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/logo.png" alt="" height="48"></a></div></div>
- --><div class="col-lg-3"><div class="logo-div"><a href="https://www.silabs.com/" target="_blank"><img src="/uploads/partner/silicon.png" class="logo-img " ></a></div></div>
+ --><div class="col-lg-3"><div class="logo-div"><a href="https://www.silabs.com/" target="_blank"><img src="/2026/uploads/partner/silicon.png" class="logo-img " ></a></div></div>
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.rti.org/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/rti.jpg" alt=""></a></div></div>
 <!--<div class="col-lg-3"><div class="logo-div"><a href="https://fluentgrid.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/partner/FluentGrid.png" alt=""></a></div></div>
 -->

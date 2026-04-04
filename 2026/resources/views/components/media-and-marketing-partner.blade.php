@@ -8,7 +8,7 @@
 
 				 <div class="k_cheading">
 		<h1>Media and<span class="k_greencolor"> Marketing Partners</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
 <div class="row justify-content-center">
@@ -17,7 +17,7 @@
 
 				 <div class="k_cheading">
 		<h1>Supporting Media<span class="k_greencolor"> Partner of ISUW 2021</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
 

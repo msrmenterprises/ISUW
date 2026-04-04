@@ -12,7 +12,7 @@ margin-left: 408px;
 
 <div class="k_cheading">
 		<h1>KEY<span class="k_greencolor"> PARTNERS 2021</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
 <h5 style="text-align:center;"><b>Powered by</b></h5>

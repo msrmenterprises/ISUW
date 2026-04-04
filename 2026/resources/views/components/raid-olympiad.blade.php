@@ -28,7 +28,7 @@
             <h1>RAID Olympiad</h1>
             <h4>Robots - AI - Drones</h4>
             <p>For Utility Sector</p>
-            <img src="/uploads/images/kborder_bottom.png" alt="">
+            <img src="/2026/uploads/images/kborder_bottom.png" alt="">
         </div>
         <div>
             <h4><strong>The Robots-AI-Drone (RAID) Olympiad 2025</strong></h4>

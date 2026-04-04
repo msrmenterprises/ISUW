@@ -7,11 +7,11 @@
         <div class="k_cheading">
             <h1>WE3 ASIA <span class="k_greencolor">2026</span></h1>
             <h4 style="text-align:center;">09 – 10 MARCH 2026</h4>
-            <img src="/uploads/images/kborder_bottom.png" alt="" class="img-fluid">
+            <img src="/2026/uploads/images/kborder_bottom.png" alt="" class="img-fluid">
             <br/>
-            <img src="/uploads/images/CROSS.jpg" alt="" class="img-fluid">
+            <img src="/2026/uploads/images/CROSS.jpg" alt="" class="img-fluid">
             <br/>
-            <img src="/uploads/images/Bannerwebasia.jpg?id=1" alt="" class="img-fluid">
+            <img src="/2026/uploads/images/Bannerwebasia.jpg?id=1" alt="" class="img-fluid">
             <br/>
             <div class="banner-text" style="margin-top:40px;font-size:17px">
                 <p><strong>WE3 Asia 2026:</strong> March 9–10, 2026, The Lalit, New Delhi, India</p>

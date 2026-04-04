@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>INDIA SMART UTILITY WEEK (ISUW)<span class="k_greencolor"> Technical Papers</span></h1>
-		<img src="/uploads/images/kborder_bottom.PNG" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.PNG" alt=""> 
 	</div>
 <div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">

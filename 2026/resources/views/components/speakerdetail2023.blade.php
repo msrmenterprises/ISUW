@@ -6,7 +6,7 @@
            
 		    <div class="k_cheading">
 		<h1>ISUW 2023 <span class="k_greencolor">Speaker </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
             <div class="row justify-content-left ">
 			 <p></p>

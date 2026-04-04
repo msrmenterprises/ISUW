@@ -321,7 +321,7 @@
                         <div class="logo-card"></div>
                         <div class="logo-card">
                            <a href="https://www.sew.ai/" target="_blank">
-                              <img src="/uploads/images/sew-water.png" alt="SEW">
+                              <img src="/2026/uploads/images/sew-water.png" alt="SEW">
                            </a>
                         </div>
                         <div class="logo-card"></div>

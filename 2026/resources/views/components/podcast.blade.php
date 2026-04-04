@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>Smart Energy Podcast <span class="k_greencolor">Powered by ISUW </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <div class="row">
 <div class="col-md-8"><div class="clearfix"></div>

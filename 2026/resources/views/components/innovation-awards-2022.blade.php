@@ -20,7 +20,7 @@ margin-left:20px;
 <div class="k_cheading">
 		<h1>ISGF INNOVATION AWARD 2022 <br/>
 		 <span class="k_greencolor">Date: 04 MARCH 2022</span></h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 <!--<h2 style="color: #f60; text-align:center;">ISGF INNOVATION AWARD 2022<br/>
 At India Smart Utility Week (ISUW 2022)<br/>Date: 04 MARCH 2022 </style> </h2>-->

@@ -9,7 +9,7 @@
 </style> 
  <div class="k_cheading">
 		<h1>ISUW 2023 <span class="k_greencolor">Conference Sessions Partners</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<div class="col-lg-3">
  <div class="logo-div"><a href="https://commission.europa.eu/index_en" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-5610" src="http://www.isuw.in/uploads/partner/European_Commission.png" alt="TIE" ></a></div></div>

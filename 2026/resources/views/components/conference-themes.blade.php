@@ -10,7 +10,7 @@
 <style type="text/css">.diff_ss1{margin-left:30px;}</style>
 <div class="k_cheading">
     <h1>ISUW 2026 <span class="k_greencolor"> PROGRAM DETAILS</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<!--<div class="k_cheading">
 	<img src="https://www.isuw.in/uploads/images/themes.PNG" class="center" style="width:800px; height:485px;"></img>

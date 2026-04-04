@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW <span class="k_greencolor">Organizer</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <!--<h2><strong>India Smart Utility Week (ISUW) </strong> </h2>-->
 <p style="text-align:justify;">

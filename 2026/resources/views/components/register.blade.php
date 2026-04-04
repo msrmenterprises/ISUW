@@ -254,7 +254,7 @@
 <style type="text/css">.diff_ss1{margin-left:30px;}</style>
 <div class="k_cheading"> 
 		<h1>INDIA SMART UTILITY WEEK <span class="k_greencolor">2026 Registration</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
 	<p><img src="images/2026/ISUWReg.jpg" alt="" style="width:100%"> </p>

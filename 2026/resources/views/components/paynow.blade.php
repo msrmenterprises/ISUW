@@ -7,7 +7,7 @@
 
 <div class="k_cheading">
 		<h1>Pay<span class="k_greencolor"> Now</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <div class="container form-enq">
   <!--<form method="POST" action="{{ route('contact.store') }}" >

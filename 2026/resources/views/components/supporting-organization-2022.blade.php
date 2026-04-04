@@ -11,7 +11,7 @@ td{border:0px !important;}<br />
   
 						 				 <div class="k_cheading">
 		<h1>ISUW 2022 <span class="k_greencolor">Supporting Organisations </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
                         <p></p>
  <div class="col-lg-3">

@@ -7,7 +7,7 @@
 	
 <div class="k_cheading">
 		<h1>ISUW 2021<span class="k_greencolor"> EXHIBITORS </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
 <div class="col-lg-3"><div class="logo-div"><a href="http://www.slscorp.com/" target="_blank" rel="noopener noreferrer"><img src="http://www.isuw.in/beta/wp-content/uploads/2021/02/SLS.jpg" alt="" width="213" height="102" style="width:95%"></a></div></div>

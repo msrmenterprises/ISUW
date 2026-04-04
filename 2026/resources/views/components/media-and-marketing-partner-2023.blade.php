@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW 2023 <span class="k_greencolor">Supporting Media Partners</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.metrorailnews.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="http://www.isuw.in/beta/wp-content/uploads/2021/02/Metro-Rail-News.png" alt="" ></a></div></div>

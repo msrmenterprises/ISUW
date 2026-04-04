@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW 2022<span class="k_greencolor"> EXHIBITORS </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"><img src="http://www.isuw.in/beta/wp-content/uploads/2021/02/AWS_logo_RGB.png" alt=""  style="display:inline;"></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.bsesdelhi.com/web/bypl#loaded" target="_blank" rel="noopener noreferrer"><img style="margin: 0 auto; height: 44px; margin-top: 27px;" src="https://www.isuw.in/uploads/utility/1641110101.png" alt=""></a></div></div>

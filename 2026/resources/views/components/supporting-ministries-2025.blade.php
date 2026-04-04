@@ -8,7 +8,7 @@
 
 <div class="k_cheading">
 	<h1>Supported By</h1>
-	<img src="/uploads/images/kborder_bottom.png" alt=""> 
+	<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 </div>
 <div class="row justify-content-center">
 	<div class="col-lg-3"><div class="logo-div"><p><a href="https://powermin.gov.in/" target="_blank"><img class="aligncenter wp-image-38077" src="http://www.isuw.in/uploads/ministries/MOP Golden.png" alt="Goverment of India, Ministry of Power" style="width:219px; max-height:170px;" /></a></p></div></div>
@@ -58,7 +58,7 @@
 
 <div class="k_cheading">
 		<h1>ISUW 2025 <span class="k_greencolor">Supporting Ministries</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 	<div class="row justify-content-center">
 <div class="row justify-content-center">

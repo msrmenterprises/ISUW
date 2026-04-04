@@ -96,7 +96,7 @@
 
 <div class="k_cheading">
 	<h1>ISUW 2026 <span class="k_greencolor">SESSION PARTNERS</span> </h1>
-	<img src="/uploads/images/kborder_bottom.png" alt=""> 
+	<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 </div>
 <div class="partners-grid grid-4">
 	<div class="logo-card">
@@ -170,7 +170,7 @@
 
 <div class="k_cheading">
 	<h1>ISUW 2025 <span class="k_greencolor">Conference Sessions Partner</span> </h1>
-	<img src="/uploads/images/kborder_bottom.png" alt=""> 
+	<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 </div>
 <div class="partners-grid grid-4">
 	<div class="logo-card">

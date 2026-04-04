@@ -8,7 +8,7 @@
 <style type="text/css">.diff_ss1{margin-left:30px;}</style>
 <div class="k_cheading">
 		<h1>ISUW 2022<span class="k_greencolor"> CONFERENCE THEMES</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <!--<h5 style="text-align: center;"><FONT COLOR="#00b050"><B>ISUW
 2021: CONFERENCE THEMATIC SESSIONS</B></FONT></h5>-->

@@ -8,7 +8,7 @@
 
 	 <div class="k_cheading">
 		<h1>ISUW 2021 <span class="k_greencolor">Participating Utilities </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <p></p>
 <!--<div class="col-lg-3"><div class="logo-div"><a href="http://www.recpdcl.in/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051"  src="http://www.isuw.in/beta/wp-content/uploads/2020/02/pdcllogo.png" alt="" height="125" /> </a></div></div>

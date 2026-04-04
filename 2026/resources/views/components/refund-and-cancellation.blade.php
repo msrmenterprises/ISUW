@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>Refund and<span class="k_greencolor"> Cancellation</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <div class="welcome-content">
 <p style="text-align:justify;">India Smart Grid Forum (ISGF) reserves the right to cancel or reschedule conference and exhibition at any time. If ISGF cancels or reschedules the conference and exhibition due to unforeseen circumstances beyond our control, you are entitled to a full refund, ISGF is not responsible for travel arrangements, travel fees, or any expenses incurred by you as a result of such cancellation.</p>

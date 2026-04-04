@@ -9,7 +9,7 @@
 	 <div class="k_cheading">
 		<h1>ISUW 2023 <span class="k_greencolor">Participating Utilities </span> </h1>
 		<h1>INDIAN <span class="k_greencolor">Participating Utilities </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <p></p>
 <div class="col-lg-3"><div class="logo-div"><a href="http://www.tatapower-ddl.com/" target="_blank" rel="noopener noreferrer"><img src="https://www.isuw.in/uploads/utility/1641110211.png" alt="" width="213" height="102"></a></div></div>
@@ -56,7 +56,7 @@
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.apdcl.org/website/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051"  src="https://isuw.in/uploads/utility/1646052173.png" alt=""  height="125" /> </a></div></div>
  <!--<div class="k_cheading">
 		<h1>INDIAN <span class="k_greencolor">Participating Utilities </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>-->
 <!--<div class="col-lg-3"><div class="logo-div"><a href="https://nbpdcl.co.in/(S(rp10ls3ynj31m5dqaxft2vwz))/frmhome.aspx" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051"  src="https://isuw.in/uploads/utility/North Bihar Power Distribution limited.jpg" alt=""  height="125" /> </a></div></div> 
 <div class="col-lg-3"><div class="logo-div"><a href="https://www.fedco.co.in/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051"  src="https://isuw.in/uploads/utility/Feedback Energy Distribution company limited.png" alt=""  height="125" /> </a></div></div> 
@@ -80,7 +80,7 @@
 
  <!--<div class="k_cheading">
 		<h1>INTERNATIONAL <span class="k_greencolor">Participating Utilities </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <div class="col-lg-3"><div class="logo-div"><a href="http://www.bpdb.gov.bd/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051"  src="https://isuw.in/uploads/utility/Bangladesh Power Development Board.jpg" alt=""  height="125" /> </a></div></div> 
 <div class="col-lg-3"><div class="logo-div"><a href="https://ceb.lk/" target="_blank" rel="noopener noreferrer"><img class="alignleft size-medium wp-image-38051"  src="https://isuw.in/uploads/utility/Ceylon Electricity Board.png" alt=""  height="125" /> </a></div></div> 

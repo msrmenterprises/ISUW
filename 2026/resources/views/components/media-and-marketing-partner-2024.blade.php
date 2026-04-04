@@ -8,7 +8,7 @@
  <p><br/></p>
 	<div class="k_cheading">
 		<h1>ISUW 2026 <span class="k_greencolor">Supporting Media Partners</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt="">
+		<img src="/2026/uploads/images/kborder_bottom.png" alt="">
 	</div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.renewablemirror.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/Renewable1.jpeg" alt="" ></a></div></div>
 	<div class="col-lg-3"><div class="logo-div"><a href="https://electricalmirror.net/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="/images/2026/Electrical1.jpeg" alt="" ></a></div></div>
@@ -43,7 +43,7 @@
 	<p><br/></p>
 	<div class="k_cheading">
 		<h1>ISUW 2025 <span class="k_greencolor">Supporting Media Partners</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt="">
+		<img src="/2026/uploads/images/kborder_bottom.png" alt="">
 	</div>
 
 	<div class="col-lg-3"><div class="logo-div"><a href="https://industrialoutlook.in/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="https://www.isuw.in/uploads/partner/INDUSTRIAL.png" alt=""  ></a></div></div>
@@ -91,7 +91,7 @@
 
 	<div class="k_cheading">
 		<h1>ISUW 2024 <span class="k_greencolor">Supporting Media Partners</span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 
 	<div class="col-lg-3"><div class="logo-div"><a href="https://www.eprmagazine.com/" target="_blank" rel="noopener noreferrer"><img class="size-full wp-image-5798" src="http://www.isuw.in/uploads/partner/EPR.jpg" alt="" ></a></div></div>

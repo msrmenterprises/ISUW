@@ -6,7 +6,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW 2023<span class="k_greencolor"> EXHIBITORS </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	   <!--<div class="col-lg-3"><div class="logo-div"><a href="https://www.hitachienergy.com/in/en" target="_blank" rel="noopener noreferrer"><img src="http://www.isuw.in/uploads/partner/Combo logo_wo (1).png" alt=""  style="display:inline; height="102px;"></a></div></div>
 		-->  <div class="col-lg-3"><div class="logo-div"><a href="https://www.sew.ai/" target="_blank" rel="noopener noreferrer"><img  src="http://isuw.in/uploads/images/sew-water.png" alt="" width="213" height="102"></a></div></div>

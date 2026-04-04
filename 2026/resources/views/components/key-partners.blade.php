@@ -114,7 +114,7 @@
 
             <div class="k_cheading">
                 <h1>ISUW 2026 <span class="k_greencolor">KEY PARTNERS</span></h1>
-                <img src="/uploads/images/kborder_bottom.png" alt="">
+                <img src="/2026/uploads/images/kborder_bottom.png" alt="">
             </div>
 
             <h5 class="section-heading">Host Utilities</h5>
@@ -261,7 +261,7 @@
 
             <div class="k_cheading">
                 <h1>ISUW 2025 <span class="k_greencolor">KEY PARTNERS</span></h1>
-                <img src="/uploads/images/kborder_bottom.png" alt="">
+                <img src="/2026/uploads/images/kborder_bottom.png" alt="">
             </div>
 
             <h5 class="section-heading">Host Utilities</h5>
@@ -441,7 +441,7 @@
 
             <div class="k_cheading">
                 <h1>ISUW 2024 <span class="k_greencolor">KEY PARTNERS</span></h1>
-                <img src="/uploads/images/kborder_bottom.png" alt="">
+                <img src="/2026/uploads/images/kborder_bottom.png" alt="">
             </div>
 
             <h5 class="section-heading">Host Utilities</h5>

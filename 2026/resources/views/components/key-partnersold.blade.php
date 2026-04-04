@@ -12,7 +12,7 @@ margin-left: 408px;
 <p></p>
 <div class="k_cheading">
 		<h1>ISUW 2022 <span class="k_greencolor">KEY PARTNERS </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<h5 style="text-align:center;"><b>Powered By</b></h5>
 <div class="row justify-content-center">

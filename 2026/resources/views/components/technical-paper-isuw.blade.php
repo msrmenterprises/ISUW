@@ -23,7 +23,7 @@
 <p></p>
 <div class="k_cheading">
 		<h1>INDIA SMART UTILITY WEEK (ISUW)<span class="k_greencolor"> Technical Papers</span></h1>
-		<img src="/uploads/images/kborder_bottom.PNG" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.PNG" alt=""> 
 	</div>
 <!--	<p><b><marqee>We thank all the Authors for the overwhelming response for your Technical Paper Abstract Submission. As the number of Technical Papers Abstracts received is very high, we shall be announcing the results for the next round of Full Paper Submission by 15th November 2023.</marqee></b></p>
    --> 

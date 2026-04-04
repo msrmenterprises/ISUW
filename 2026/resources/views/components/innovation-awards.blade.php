@@ -20,7 +20,7 @@ margin-left:20px;
 <div class="k_cheading">
 		<h1>10th ISGF INNOVATION AWARDS 2026<br/>
 		 <span class="k_greencolor">10th Award Ceremony on 13 March 2026<br/> As part of India Smart Utility Week (ISUW 2026)</span></h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 	<img src="images/2026/AwardAwards25.jpg" class="center" style="width: 80%;"></img>
 <!--<h2 style="text-align:center;">At India Smart Utility Week (ISUW 2023)<br/>

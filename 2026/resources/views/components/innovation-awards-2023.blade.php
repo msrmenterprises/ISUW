@@ -20,7 +20,7 @@ margin-left:20px;
 <div class="k_cheading">
 		<h1>ISGF INNOVATION AWARDS 2023 <br/>
 		 <span class="k_greencolor">Date: 03 MARCH 2023 | NEW DELHI</span></h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div> 
 <h2 style="text-align:center;">At India Smart Utility Week (ISUW 2023)<br/>
  <li style="list-style:none; text-align:center"><a href="https://isuw.in/votenowisgf" target="_blank" class="getstartedd ">Vote For ISGF Innovation Awards</a></li>

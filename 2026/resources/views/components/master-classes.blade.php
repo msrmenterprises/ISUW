@@ -10,7 +10,7 @@
  <div class="k_cheading">
 		<h1>ISUW 2026 <span class="k_greencolor">Master Classes</span> </h1>
 		<h4 style="text-align:center;">10th March 2026</h4>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<div class="accordion accordion-flush" id="accordionFlushExample">
 <p></p>
@@ -54,7 +54,7 @@
 <!-- <div class="k_cheading">
 		<h1>ISUW 2023 <span class="k_greencolor">MASTER CLASSES</span> </h1>
 		<h4 style="text-align:center;">28 FEBRUARY 2023 (TUESDAY) </h4>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	<div class="accordion accordion-flush" id="accordionFlushExample">
   <div class="accordion-item">

@@ -11,7 +11,7 @@ td{border:0px !important;}<br />
   
 						 				 <div class="k_cheading">
 		<h1>ISUW 2023 <span class="k_greencolor">Supporting Organisations </span> </h1>
-		<img src="/uploads/images/kborder_bottom.png" alt=""> 
+		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
                         <p></p>
 <div class="col-lg-3"><div class="logo-div"><a href="https://aiaiindia.com/" target="_blank" rel="attachment noopener wp-att-5807 noreferrer"><img class="aligncenter size-full wp-image-5807" style="" src="https://www.isuw.in/uploads/organizations/allindia.jpg" alt="CEN LEC" width="150" style="max-height: 130px"></a></div></div>
