@@ -12,14 +12,14 @@
 		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
-	  <p style="text-align:center; font-size:16px;"><a href="/public/images/India Smart Utility Week 2022_Digital.pdf" class="getstartedd ">DUM 2023 Post Event Report</a></p>
+	  <p style="text-align:center; font-size:16px;"><a href="/2026/images/India Smart Utility Week 2022_Digital.pdf" class="getstartedd ">DUM 2023 Post Event Report</a></p>
 <iframe src="https://www.isuw.in/public/images/India Smart Utility Week 2022_Digital.pdf" height="600" width="150" title="Iframe Example" style="
     width: 800px;
     text-align: center;
 
 "></iframe>
 
-<p style="text-align:center; font-size:16px;"><a href="/public/images/India Smart Utility Week 2022_Digital.pdf" class="getstartedd ">DUM 2023 Outcome Report</a></p>
+<p style="text-align:center; font-size:16px;"><a href="/2026/images/India Smart Utility Week 2022_Digital.pdf" class="getstartedd ">DUM 2023 Outcome Report</a></p>
 <iframe src="https://www.isuw.in/public/images/India Smart Utility Week 2022_Digital.pdf" height="600" width="150" title="Iframe Example" style="
     width: 800px;
     text-align: center;

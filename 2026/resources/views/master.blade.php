@@ -45,9 +45,9 @@ a:hover {
       <!-- Bootstrap CSS -->
       <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&amp;display=swap" rel="stylesheet">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
-      <link href="/2026/css/bootstrap.min.css" rel="stylesheet">
-      <link href="/2026/css/style.css?id=3" rel="stylesheet">
-      <link href="/2026/css/slider.css" rel="stylesheet">
+      <link href="/2026/public/css/bootstrap.min.css" rel="stylesheet">
+      <link href="/2026/public/css/style.css?id=3" rel="stylesheet">
+      <link href="/2026/public/css/slider.css" rel="stylesheet">
       <!-- <link href="/css/bootstrap.min.css" rel="stylesheet">
       <link href="/css/style.css" rel="stylesheet">
       <link href="/css/slider.css" rel="stylesheet"> -->
@@ -63,8 +63,8 @@ a:hover {
     @include('components.footer')
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
       <script src="https://kenwheeler.github.io/slick/slick/slick.js"></script>
-      <script src="/2026/js/bootstrap.bundle.min.js"></script>
-      <script src="/2026/js/script.js"></script>
+      <script src="/2026/public/js/bootstrap.bundle.min.js"></script>
+      <script src="/2026/public/js/script.js"></script>
       <!-- <script src="/js/bootstrap.bundle.min.js"></script>
       <script src="/js/script.js"></script> -->
 

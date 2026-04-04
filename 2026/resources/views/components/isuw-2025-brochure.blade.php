@@ -12,7 +12,7 @@
 		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 	
-	  <p style="text-align:center; font-size:16px;"><a href="/public/images/ISUW2026BrochureLS.pdf?id=1" class="getstartedd ">Download Brochure</a></p>
+	  <p style="text-align:center; font-size:16px;"><a href="/2026/images/ISUW2026BrochureLS.pdf?id=1" class="getstartedd ">Download Brochure</a></p>
 <iframe src="https://www.isuw.in/public/images/ISUW2026Brochure.pdf?id=2" height="600" width="150" title="Iframe Example" style="
     width: 800px;
     text-align: center;

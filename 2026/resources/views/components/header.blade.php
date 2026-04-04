@@ -11,13 +11,13 @@
                </div>
                <div class="col-lg-5">
                   <ul class="social-media">
-                     <li><a href="https://www.facebook.com/IndiaSmartUtilityWeek" target="_blank"><img src="/images/facebook.png"></a></li>
-                     <li><a href="https://twitter.com/ISUW_India" target="_blank"><img src="/images/twitter.png"></a></li>
-                     <li><a href="https://www.linkedin.com/company/7602312/admin/" target="_blank"><img src="/images/linkedin.png"></a></li>
-					 <li><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="/images/insta.jpg" style="width:25px; height:25px;"></a></li>
+                     <li><a href="https://www.facebook.com/IndiaSmartUtilityWeek" target="_blank"><img src="/2026/images/facebook.png"></a></li>
+                     <li><a href="https://twitter.com/ISUW_India" target="_blank"><img src="/2026/images/twitter.png"></a></li>
+                     <li><a href="https://www.linkedin.com/company/7602312/admin/" target="_blank"><img src="/2026/images/linkedin.png"></a></li>
+					 <li><a href="https://www.instagram.com/indiasmartgridforum/" target="_blank"><img src="/2026/images/insta.jpg" style="width:25px; height:25px;"></a></li>
                      <!-- <li><a href="https://www.youtube.com/results?search_query=india+smart+grid+forum" target="_blank"><img src="images/youtube.png"></a></li> -->
-                     <li><a href="https://www.flickr.com/photos/indiasmartgridforum" target="_blank"><img src="/images/flickr.png"></a></li>
-                     <li><a href="https://www.youtube.com/@INDIASMARTGRIDFORUM_" target="_blank"><img src="/images/youtube.png"></a></li>
+                     <li><a href="https://www.flickr.com/photos/indiasmartgridforum" target="_blank"><img src="/2026/images/flickr.png"></a></li>
+                     <li><a href="https://www.youtube.com/@INDIASMARTGRIDFORUM_" target="_blank"><img src="/2026/images/youtube.png"></a></li>
                      
                      <li><a href="register" class="getstarted ">Register Now</a></li>
                   </ul>
@@ -26,7 +26,7 @@
          </div>
       </div>
       <div class="site-header">
-         <img src="/images/2026/ISUWHeaderBanner.jpg" class="img-fluid"> 
+         <img src="/2026/images/2026/ISUWHeaderBanner.jpg" class="img-fluid"> 
       </div>
       <header id="header" class="navbar-expand-lg">
          <div class="container ">

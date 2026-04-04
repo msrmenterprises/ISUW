@@ -9,7 +9,7 @@
 		<img src="/2026/uploads/images/kborder_bottom.png" alt=""> 
 	</div>
 <p></p>
-<!--<p style="text-align:center; font-size:16px;"><a href="/public/images/ISUW 2023 Post Event Report (1).pdf" class="getstartedd ">Last Edition Post Event Report</a></p>-->
+<!--<p style="text-align:center; font-size:16px;"><a href="/2026/images/ISUW 2023 Post Event Report (1).pdf" class="getstartedd ">Last Edition Post Event Report</a></p>-->
 </p>
 
 <!-- Reports table (styled like presentations page) -->
@@ -43,20 +43,20 @@
 	<tbody>
 		<tr>
 			<td style="border:1px solid #000; padding:8px;">ISUW 2025 Outcome Report</td>
-			<td style="border:1px solid #000; padding:8px;"><a href="/public/images/ISUW2025OUTCOMEREPORT-13October2025-FINAL.pdf" target="_blank" rel="noopener">Read / Download</a></td>
+			<td style="border:1px solid #000; padding:8px;"><a href="/2026/images/ISUW2025OUTCOMEREPORT-13October2025-FINAL.pdf" target="_blank" rel="noopener">Read / Download</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid #000; padding:8px;">ISUW 2025 Post Event Report</td>
-			<td style="border:1px solid #000; padding:8px;"><a href="/public/images/PostEventISUW2025.pdf" target="_blank" rel="noopener">Read / Download</a></td>
+			<td style="border:1px solid #000; padding:8px;"><a href="/2026/images/PostEventISUW2025.pdf" target="_blank" rel="noopener">Read / Download</a></td>
 		</tr>
 		<tr>
 			<td style="border:1px solid #000; padding:8px;">ISUW 2024 Post Event Report</td>
-			<td style="border:1px solid #000; padding:8px;"><a href="/public/images/Post Event Report (ISUW 2024) March (08-04-2024).pdf" target="_blank" rel="noopener">Read / Download</a></td>
+			<td style="border:1px solid #000; padding:8px;"><a href="/2026/images/Post Event Report (ISUW 2024) March (08-04-2024).pdf" target="_blank" rel="noopener">Read / Download</a></td>
 		</tr>
 	</tbody>
 </table>
 
-<!-- <iframe src="/public/images/ISUW2025OUTCOMEREPORT-13October2025-FINAL.pdf" height="600" width="150" title="Iframe Example" style="width: 800px;text-align: center;"></iframe> -->
+<!-- <iframe src="/2026/images/ISUW2025OUTCOMEREPORT-13October2025-FINAL.pdf" height="600" width="150" title="Iframe Example" style="width: 800px;text-align: center;"></iframe> -->
 
 <p></p>
 </div>
