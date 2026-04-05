@@ -100,6 +100,7 @@
                     <td>CEO & Co-founder</td>
                     <td>Sidhhanth</td>
                     <td>Tutor</td>
+                    <td><a href="images/2027/presentations/2. Shalabh_Agentic AI.pdf" target="_blank" class="video-link">Presentation</a></td>
                     <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
                     <td><a href="https://flic.kr/s/aHBqjCNat9" target="_blank" class="photo-link">View</a></td>
                 </tr>
@@ -109,6 +110,7 @@
                     <td>Vice President – RPA</td>
                     <td>NatWest Group</td>
                     <td>Tutor</td>
+                    <td><a href="images/2027/presentations/3. Manoj Batra_Agentic AI.pdf" target="_blank" class="video-link">Presentation</a></td>
                     <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
                     <td><a href="https://flic.kr/s/aHBqjCNat9" target="_blank" class="photo-link">View</a></td>
                 </tr>
@@ -118,6 +120,7 @@
                     <td>Founder and CEO</td>
                     <td>AI Library</td>
                     <td>Tutor</td>
+                    <td><a href="images/2027/presentations/4. Arani Chaudhuri_Agentic AI.pdf" target="_blank" class="video-link">Presentation</a></td>
                     <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
                     <td><a href="https://flic.kr/s/aHBqjCNat9" target="_blank" class="photo-link">View</a></td>
                 </tr>
@@ -127,6 +130,7 @@
                     <td>Founder and CEO</td>
                     <td>AI Library</td>
                     <td>Speech</td>
+                    <td>N/A</td>
                     <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
                     <td><a href="https://flic.kr/s/aHBqjCNat9" target="_blank" class="photo-link">View</a></td>
                 </tr>
