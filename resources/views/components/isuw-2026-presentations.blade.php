@@ -78,6 +78,7 @@
                     <th>Designation</th>
                     <th>Organization</th>
                     <th>Category</th>
+                    <th>Presentation/Speech</th>
                     <th>Video</th>
                     <th>Photos</th>
                 </tr>
@@ -89,6 +90,7 @@
                     <td>Hyper Automation Practice Head</td>
                     <td>Boundaryless Group</td>
                     <td>Tutor</td>
+                    <td><a href="images/2027/presentations/1. Mukesh_Agentic AI.pdf" target="_blank" class="video-link">Presentation</a></td>
                     <td><a href="https://youtube.com/playlist?list=PLgSiPGd4NrcgaLODviURRjfp8x9BZVOPc&si=bm-uluLdbfbBkxn2" target="_blank" class="video-link">Watch</a></td>
                     <td><a href="https://flic.kr/s/aHBqjCNat9" target="_blank" class="photo-link">View</a></td>
                 </tr>
