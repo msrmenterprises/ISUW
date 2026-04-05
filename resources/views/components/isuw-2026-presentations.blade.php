@@ -12,12 +12,23 @@
             table {
                 width: 100%;
                 border-collapse: collapse;
+                table-layout: fixed;
             }
             th, td {
                 border: 1px solid #000;
                 padding: 8px;
                 text-align: left;
+                vertical-align: top;
+                overflow-wrap: anywhere;
             }
+            th:nth-child(1), td:nth-child(1) { width: 4%; text-align: center; }
+            th:nth-child(2), td:nth-child(2) { width: 15%; }
+            th:nth-child(3), td:nth-child(3) { width: 16%; }
+            th:nth-child(4), td:nth-child(4) { width: 20%; }
+            th:nth-child(5), td:nth-child(5) { width: 11%; }
+            th:nth-child(6), td:nth-child(6) { width: 14%; }
+            th:nth-child(7), td:nth-child(7) { width: 10%; }
+            th:nth-child(8), td:nth-child(8) { width: 10%; }
             .session-header {
                 background-color: #8cc63e;
                 font-weight: bold;
