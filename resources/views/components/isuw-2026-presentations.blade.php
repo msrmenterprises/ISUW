@@ -63,6 +63,34 @@
             }
         </style>
 
+        @php
+            $presentationDirCandidates = [
+                base_path('images/2027/presentations'),
+                base_path('public/images/2027/presentations'),
+                public_path('images/2027/presentations'),
+            ];
+
+            $presentationFilesBySequence = [];
+
+            foreach ($presentationDirCandidates as $dirPath) {
+                if (!is_dir($dirPath)) {
+                    continue;
+                }
+
+                foreach (glob($dirPath . '/*.pdf') as $presentationFilePath) {
+                    $fileName = basename($presentationFilePath);
+
+                    if (preg_match('/^(\d+)\.\s*(.+)$/', $fileName, $matches)) {
+                        $presentationFilesBySequence[(int) $matches[1]] = $fileName;
+                    }
+                }
+
+                break;
+            }
+
+            ksort($presentationFilesBySequence);
+        @endphp
+
         <!-- DAY 1: 10 MARCH 2026 | TUESDAY | SPECIAL WORKSHOPS -->
         <div class="session">DAY 1: 10 MARCH 2026 | TUESDAY | SPECIAL WORKSHOPS</div>
 
@@ -1701,6 +1729,58 @@
         <!-- <div style="text-align: center; margin-top: 30px;">
             <a href="{{ url('/') }}" class="back-link" style="display: inline-block; background-color: #2c3e50; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">← Back to Home</a>
         </div> -->
+
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                const presentationFilesBySequence = @json($presentationFilesBySequence);
+
+                document.querySelectorAll('table').forEach(function (table) {
+                    const headerRow = table.querySelector('thead tr');
+                    if (!headerRow) {
+                        return;
+                    }
+
+                    const headerCells = Array.from(headerRow.querySelectorAll('th'));
+                    const headerTexts = headerCells.map(function (th) {
+                        return th.textContent.trim().toLowerCase();
+                    });
+
+                    const videoIndex = headerTexts.indexOf('video');
+                    const hasPresentationHeader = headerTexts.includes('presentation/speech') || headerTexts.includes('presentation');
+
+                    if (videoIndex === -1 || hasPresentationHeader) {
+                        return;
+                    }
+
+                    const presentationTh = document.createElement('th');
+                    presentationTh.textContent = 'Presentation/Speech';
+                    headerRow.insertBefore(presentationTh, headerCells[videoIndex]);
+
+                    table.querySelectorAll('tbody tr').forEach(function (row) {
+                        const rowCells = row.querySelectorAll('td');
+                        if (!rowCells.length) {
+                            return;
+                        }
+
+                        const sequenceNumber = parseInt(rowCells[0].textContent.trim(), 10);
+                        const presentationTd = document.createElement('td');
+
+                        if (!Number.isNaN(sequenceNumber) && presentationFilesBySequence[sequenceNumber]) {
+                            const presentationLink = document.createElement('a');
+                            presentationLink.href = 'images/2027/presentations/' + presentationFilesBySequence[sequenceNumber];
+                            presentationLink.target = '_blank';
+                            presentationLink.className = 'video-link';
+                            presentationLink.textContent = 'Presentation';
+                            presentationTd.appendChild(presentationLink);
+                        } else {
+                            presentationTd.textContent = 'N/A';
+                        }
+
+                        row.insertBefore(presentationTd, rowCells[videoIndex]);
+                    });
+                });
+            });
+        </script>
         
     </div>
 </div>
