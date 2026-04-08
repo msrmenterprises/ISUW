@@ -403,7 +403,7 @@
   
   <thead>
             <tr>
-				<th colspan="5" style="background: #EF7B00;text-align: center;">Top 32 - ISUW 2026 Technical Papers Selected for Presentation</th>
+				<th colspan="5" style="background: #EF7B00;text-align: center;">Top 31 - ISUW 2026 Technical Papers Selected for Presentation</th>
 			</tr>
 			<tr>
                 <th>SL.</th>
@@ -462,209 +462,201 @@
       <td>Vijay Dhonde</td>
       <td>Orangecurrent Technologies Private Limited</td>
     </tr>
-    <!-- Row 7 -->
+<!-- Row 7 -->
     <tr>
       <td align="center">7</td>
-      <td>Disruptive Innovations for Utilities</td>
-      <td>Blockchain Applications for Utilities and Local Energy Markets</td>
-      <td>Vijay Dhonde</td>
-      <td>Orangecurrent Technologies Private Limited</td>
-    </tr>
-    <!-- Row 8 -->
-    <tr>
-      <td align="center">8</td>
       <td>Disruptive Innovations for Utilities</td>
       <td>Powering the Future: Digital Twins for Smarter, Reliable, and Efficient Grids</td>
       <td>V. Lavanya</td>
       <td>Vellore Institute of Technology, Chennai</td>
     </tr>
-    <!-- Row 9 -->
+    <!-- Row 8 -->
     <tr>
-      <td align="center">9</td>
+      <td align="center">8</td>
       <td>Disruptive Innovations for Utilities</td>
       <td>Sanjoga: A GIS-Enabled Real-Time Feasibility Assessment Tool for Accelerating New Electricity Connections</td>
       <td>Saurav Darshana Mohapatra</td>
       <td>TP Western Odisha Distribution Limited</td>
     </tr>
-    <!-- Row 10 -->
+    <!-- Row 9 -->
     <tr>
-      <td align="center">10</td>
+      <td align="center">9</td>
       <td>Disruptive Innovations for Utilities</td>
       <td>WeatheXpert: The PAN TATA Weather Tool</td>
       <td>Trusha Biswas</td>
       <td>TATA Power Mumbai</td>
     </tr>
-    <!-- Row 11 -->
+    <!-- Row 10 -->
     <tr>
-      <td align="center">11</td>
+      <td align="center">10</td>
       <td>Disruptive Innovations for Utilities</td>
       <td>Transforming Smart Meter Troubleshooting and Solar Integration through Digital Twins and Agentic AI with Real-Time Communication</td>
       <td>Nikita Nayak</td>
       <td>TP Western Odisha Distribution Limited</td>
     </tr>
-    <!-- Row 12 -->
+    <!-- Row 11 -->
     <tr>
-      <td align="center">12</td>
+      <td align="center">11</td>
       <td>Disruptive Innovations for Utilities</td>
       <td>AI/ML and RPA Led Digital Transformation in Transmission Line Design</td>
       <td>Purna Chandra Rao</td>
       <td>KEC International Limited</td>
     </tr>
-    <!-- Row 13 -->
+    <!-- Row 12 -->
     <tr>
-      <td align="center">13</td>
+      <td align="center">12</td>
       <td>Disruptive Innovations for Utilities</td>
       <td>Energy Performance Optimization System (EPOS)</td>
       <td>Ritu Raj</td>
       <td>Noida Power Company Limited</td>
     </tr>
-    <!-- Row 14 -->
+    <!-- Row 13 -->
     <tr>
-      <td align="center">14</td>
+      <td align="center">13</td>
       <td>Disruptive Innovations for Utilities</td>
       <td>Accelerating India's Solar Mission: A Tech-Enabled Customer Engagement Model under PM Surya Ghar</td>
       <td>Ranjeet Kumar</td>
       <td>BSES Rajdhani Power Limited</td>
     </tr>
-    <!-- Row 15 -->
+    <!-- Row 14 -->
     <tr>
-      <td align="center">15</td>
+      <td align="center">14</td>
       <td>Disruptive Innovations for Utilities</td>
       <td>GIS-Based Mapping of RMUs & DTs for Asset Relationship Modeling Using AI based Machine Learning Algorithms in Power Distribution Systems</td>
       <td>Vikas Gupta</td>
       <td>Noida Power Company Ltd.</td>
     </tr>
-    <!-- Row 16 -->
+    <!-- Row 15 -->
     <tr>
-      <td align="center">16</td>
+      <td align="center">15</td>
       <td>Disruptive Innovations for Utilities</td>
       <td>Digital Twins for Distribution Utilities: From Grid Visibility to Operational Foresight</td>
       <td>B Gidean Praveen</td>
       <td>Fluentgrid Limited</td>
     </tr>
-    <!-- Row 17 -->
+    <!-- Row 16 -->
     <tr>
-      <td align="center">17</td>
+      <td align="center">16</td>
       <td>Foundational Blocks for Smart Grids</td>
       <td>LTE Network a Reliable & Cost Effective SCADA Communication System</td>
       <td>Soumendra Sahoo</td>
       <td>TP Central Odisha Distribution Limited</td>
     </tr>
+    <!-- Row 17 -->
+    <tr>
+      <td align="center">17</td>
+      <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
+      <td>Integrated Ring-Based Network Architecture for IT and OT Service Segregated</td>
+      <td>Swagat Narayan Mohanty</td>
+      <td>TP Western Odisha Distribution Limited</td>
+    </tr>
     <!-- Row 18 -->
     <tr>
       <td align="center">18</td>
       <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
-      <td>Integrated Ring-Based Network Architecture for IT and OT Service Segregated</td>
-      <td>Swagat Narayan Mohanty</td>
+      <td>SIM-Based Secure Connectivity for Utility Operations in Non-MPLS Feasible Areas</td>
+      <td>Pritesh Kumar Srivastava</td>
       <td>TP Western Odisha Distribution Limited</td>
     </tr>
     <!-- Row 19 -->
     <tr>
       <td align="center">19</td>
       <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
-      <td>SIM-Based Secure Connectivity for Utility Operations in Non-MPLS Feasible Areas</td>
-      <td>Pritesh Kumar Srivastava</td>
-      <td>TP Western Odisha Distribution Limited</td>
+      <td>Advanced Network Management System for OT: A Unified Approach to Digital Utility Operations</td>
+      <td>Ankur Kaushik</td>
+      <td>Tata Power Distribution Limited</td>
     </tr>
     <!-- Row 20 -->
     <tr>
       <td align="center">20</td>
       <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
-      <td>Advanced Network Management System for OT: A Unified Approach to Digital Utility Operations</td>
-      <td>Ankur Kaushik</td>
-      <td>Tata Power Distribution Limited</td>
+      <td>Reimagining Distribution Grid Planning: Integrating Prosumers, EVs, and DERs through Integrated Distribution Resource Planning</td>
+      <td>Adarsh Nagarajan</td>
+      <td>BSES Rajdhani Power Limited</td>
     </tr>
     <!-- Row 21 -->
     <tr>
       <td align="center">21</td>
       <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
-      <td>Reimagining Distribution Grid Planning: Integrating Prosumers, EVs, and DERs through Integrated Distribution Resource Planning</td>
-      <td>Adarsh Nagarajan</td>
-      <td>BSES Rajdhani Power Limited</td>
-    </tr>
-    <!-- Row 22 -->
-    <tr>
-      <td align="center">22</td>
-      <td>Evolving Architecture of the 21st Century Grid with Two Way Power Flows</td>
       <td>Strengthening Underground Cable Networks for Reliable and Flexible Distribution Systems</td>
       <td>Sanjeev Kumar Atri</td>
       <td>Tata Power Delhi Distribution Limited</td>
     </tr>
-    <!-- Row 23 -->
+    <!-- Row 22 -->
     <tr>
-      <td align="center">23</td>
+      <td align="center">22</td>
       <td>Smart Water</td>
       <td>Multi-Agentic AI for Non-Revenue Water</td>
       <td>Yasin Mohamed</td>
       <td>Cognizant Technology Solutions India Private Limited</td>
     </tr>
-    <!-- Row 24 -->
+    <!-- Row 23 -->
     <tr>
-      <td align="center">24</td>
+      <td align="center">23</td>
       <td>Smart Water</td>
       <td>An Integrated System for Water Distribution Network Management</td>
       <td>Moreshwar Salpekar</td>
       <td>Sevya Multimedia Pvt Ltd</td>
     </tr>
-    <!-- Row 25 -->
+    <!-- Row 24 -->
     <tr>
-      <td align="center">25</td>
+      <td align="center">24</td>
       <td>INDIA @ 100 in 2047: Vision for the Indian Power System</td>
       <td>Transformation of Aging EHV Substation Assets Through Automation And Digital Technologies For Improved System Reliability</td>
       <td>Sunil Bansod</td>
       <td>Maharashtra State Electricity Transmission Company Ltd.</td>
     </tr>
-    <!-- Row 26 -->
+    <!-- Row 25 -->
     <tr>
-      <td align="center">26</td>
+      <td align="center">25</td>
       <td>Smart Grids for Smart Cities</td>
       <td>Digital Twin-Enabled Virtual Power Plants for Optimal Renewable Energy Integration and Grid Flexibility in India</td>
       <td>T. Kesavan</td>
       <td>Easwari Engineering College</td>
     </tr>
-    <!-- Row 27 -->
+    <!-- Row 26 -->
     <tr>
-      <td align="center">27</td>
+      <td align="center">26</td>
       <td>Regulations for the Evolving Smart Energy Systems</td>
       <td>Implementation of Resource Adequacy (RA) Measures for Ensuring Reliable Integration of Renewable Energy (RE) Across India</td>
       <td>Balawant Joshi</td>
       <td>Idam Infrastructure Advisory Pvt Ltd</td>
     </tr>
-    <!-- Row 28 -->
+    <!-- Row 27 -->
     <tr>
-      <td align="center">28</td>
+      <td align="center">27</td>
       <td>New and Emerging Technologies and Trends</td>
       <td>Battery Energy Storage System: A Milestone in Mumbai's Grid Evolution</td>
       <td>Swapnil Rao</td>
       <td>Tata Power Company Limited</td>
     </tr>
-    <!-- Row 29 -->
+    <!-- Row 28 -->
     <tr>
-      <td align="center">29</td>
+      <td align="center">28</td>
       <td>Electric Mobility</td>
       <td>Virtual Green Fleet Orchestration</td>
       <td>Yasin Mohamed</td>
       <td>Cognizant Technology Solutions India Private Limited</td>
     </tr>
-    <!-- Row 30 -->
+    <!-- Row 29 -->
     <tr>
-      <td align="center">30</td>
+      <td align="center">29</td>
       <td>Electric Mobility</td>
       <td>REVOLUTIONIZING ENERGY MANAGEMENT WITH MATTER PROTOCOL</td>
       <td>Aravindhan Sugumar</td>
       <td>Renault Nissan Technology & Business Centre India Private Limited</td>
     </tr>
-    <!-- Row 31 -->
+    <!-- Row 30 -->
     <tr>
-      <td align="center">31</td>
+      <td align="center">30</td>
       <td>Cyber Security for the Digitalized Grids</td>
       <td>Cyber Crisis Management Plan (CCMP)</td>
       <td>Aamir Hussain Khan</td>
       <td>Tata Power-DDL</td>
     </tr>
-    <!-- Row 32 -->
+    <!-- Row 31 -->
     <tr>
-      <td align="center">32</td>
+      <td align="center">31</td>
       <td>Cyber Security for the Digitalized Grids</td>
       <td>Enhancing Cybersecurity Visibility of OT Assets in Critical Infrastructure: A Practical Approach</td>
       <td>Ankit</td>
@@ -909,7 +901,7 @@
       <td align="center">28</td>
       <td>Electric Mobility</td>
       <td>Second Life for EV Batteries</td>
-      <td>Shruti Manno</td>
+      <td>Shruti Manocha</td>
       <td>Siemens</td>
     </tr>
     <!-- Row 29 -->
