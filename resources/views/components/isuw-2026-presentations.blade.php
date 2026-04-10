@@ -1063,7 +1063,8 @@
         </tbody>
     </table>
 
-    <h5>INDIA – UK CEO ROUNDTABLE ON SMART ENERGY | THEME: DIGITALIZING THE FUTURE ENERGY ECOSYSTEM (IN PARTNERSHIP WITH FCDO, UK)</h5>
+    <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
+        INDIA – UK CEO ROUNDTABLE ON SMART ENERGY | THEME: DIGITALIZING THE FUTURE ENERGY ECOSYSTEM (IN PARTNERSHIP WITH FCDO, UK)</div>
 <table>
     <thead>
         <tr><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Presentation/Speech</th></tr>
