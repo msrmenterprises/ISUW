@@ -1063,6 +1063,20 @@
         </tbody>
     </table>
 
+    <h5>INDIA – UK CEO ROUNDTABLE ON SMART ENERGY | THEME: DIGITALIZING THE FUTURE ENERGY ECOSYSTEM (IN PARTNERSHIP WITH FCDO, UK)</h5>
+<table>
+    <thead>
+        <tr><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Presentation/Speech</th></tr>
+    </thead>
+    <tbody>
+        <tr class="subsession-title"><td colspan="6"><strong>Opening & Strategic Framing</strong></td></tr>
+        <tr><td>114</td><td>Archana Chauhan</td><td>Head - Energy Sector Reforms, Climate and Energy Team, British High Commission</td><td>Foreign, Commonwealth and Development Office (FCDO)</td><td>Welcome Address</td><td>Speech</td></tr>
+        <tr><td>115</td><td>Saurav Shah</td><td>ED</td><td>Power Finance Corporation Limited</td><td>Special Address</td><td>Speech</td></tr>
+        <tr><td>116</td><td>Laura Aylett</td><td>First Secretary, Climate and Energy</td><td>British High Commission</td><td>Special Address</td><td>Speech</td></tr>
+        <tr><td>117</td><td>Ashish Goel</td><td>Chairman</td><td>UP Power Corporation Limited</td><td>Special Address</td><td>Speech</td></tr>
+    </tbody>
+</table>
+
         <!-- Session 1: Digital Transformation of Utilities and Grid Operations -->
     <div style="background-color: #FFA500; padding: 6px; margin: 10px 0; font-weight: bold;">Session 1: Digital Transformation of Utilities and Grid Operations</div>
     <table>
