@@ -1066,8 +1066,7 @@
     <div class="sub-session" style="background-color: #FFD580; padding: 8px; margin: 15px 0 10px 0; font-weight: bold;">
         INDIA – UK CEO ROUNDTABLE ON SMART ENERGY | THEME: DIGITALIZING THE FUTURE ENERGY ECOSYSTEM (IN PARTNERSHIP WITH FCDO, UK)</div>
 <table>
-    <thead>
-        <tr><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Presentation/Speech</th></tr>
+    <thead><tr class="session-header"><th>S. No</th><th>Name</th><th>Designation</th><th>Organization</th><th>Category</th><th>Presentation/Speech</th></tr>
     </thead>
     <tbody>
         <tr class="subsession-title"><td colspan="6"><strong>Opening & Strategic Framing</strong></td></tr>
