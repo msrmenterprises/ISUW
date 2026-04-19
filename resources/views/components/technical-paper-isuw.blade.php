@@ -492,7 +492,7 @@
       <td>Disruptive Innovations for Utilities</td>
       <td>Transforming Smart Meter Troubleshooting and Solar Integration through Digital Twins and Agentic AI with Real-Time Communication</td>
       <td>Nikita Nayak</td>
-      <td>TP Western Odisha Distribution Limited</td>
+      <td>TP Central Odisha Distribution Limited</td>
     </tr>
     <!-- Row 11 -->
     <tr>
