@@ -56,6 +56,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
 }
 </style>
 <div class="tab">
+<button class="tablinks" onclick="openCity(event, '2026')">2026</button>
 <button class="tablinks" onclick="openCity(event, '2025')">2025</button>
 <button class="tablinks" onclick="openCity(event, '2024')">2024</button>
       <button class="tablinks" onclick="openCity(event, '2023')">2023</button>
@@ -66,6 +67,301 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
   <button class="tablinks" ><a href="https://www.youtube.com/c/ISGFSMARTGRIDBulletin/playlists" target="_blank">2018</a></button>
    <button class="tablinks" ><a href="https://www.youtube.com/c/ISGFSMARTGRIDBulletin/playlists" target="_blank">2017</a></button>
 </div>
+
+<!-- 2026 Started -->
+<div id="2026" class="tabcontent" style="display: block;">
+  <div class="container slider_margin1">
+    <!-- March 10, 2026 - Day 1 Sessions -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 10 March 2026 | Agentic AI - How to Build and Deploy AI Agents (Part - 1)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/Fk2Wd8PMWZc?si=-26lWttE_Xj1_t6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 10 March 2026 | Agentic AI - How to Build and Deploy AI Agents (Part - 2)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/QhUHkU0QS0Q?si=jky32YQoVYx8Ve8N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 10 March 2026 | 10th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part -1</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/8GRoXctqgDM?si=5BNb0U60FfVjW13o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 10 March 2026 | 10th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part -2</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/4oq52P0ZAbE?si=8tw6Ttu_ORt1mnh9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 10 March 2026 | 10th IEC-IEEE-BIS Smart Energy Standardization Coordination Workshop | Part -3</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/AGMPmKAAG28?si=dSPYfuV7-9K0C0nQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+
+    <!-- March 11, 2026 - Day 2 Sessions -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 11 March 2026 | INAUGURATION OF ISUW 2026 CONFERENCE AND EXHIBITION</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/SdUSa7tPHHM?si=w3uaJbiJ9s4iuk9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 11 March 2026 | 10 Million Solar Rooftop Systems & Management of Reverse Power Flows</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/mcVv3h7W5oQ?si=wQHn5bHD2K4Uv7jX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 11 March 2026 | Regulations for Digital Grids (Session Partner- Power Foundation of India)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/or20dWxj_a8?si=TS3CZbxgIwvG997s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 11 March 2026 | Digital Grids on Unified Energy Interface (UEI) Architecture</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/6rvC79gYkmk?si=jMNyhwFg1-zicwoh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 11 March 2026 | Square-Mile-Size AI Data Centres Requiring GW-scale Power Connections</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/8l46pJoAudg?si=0dWOdXMzeV0oAnWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 11 March 2026 | India – UK CEO Roundtable on Smart Energy (Partner - FCDO, UK Government)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/yDkwwIlhSDo?si=oH85r-Jv3iJzgb9K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 11 March 2026 | 12th India - US Smart Energy Workshop (Partner - UL Standards & Engagement)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/5PhOh7jLW58?si=C_SCibvEXMQts01Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+
+    <!-- March 12, 2026 - Day 3 Sessions -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 12 March 2026 | Rise of "Flexumers" and Digital Tools for DER Management and Grid Integration</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/AUyBjBZ68EE?si=-YA8gHfZ7B6r_kBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 12 March 2026 | Smart Metering and Smart Meter Data Analytics (Panel 1) | Part - 1</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/IT1uW8lIWfg?si=MhtgIQ9LObnVcyE7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 12 March 2026 | Smart Metering and Smart Meter Data Analytics (Panel 2) | Part - 2</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/C04nV6uKHjk?si=CpMFFXr__C0uSPjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 12 March 2026 | Digitalization Roadmaps for Utilities (Session Partner - AIDA)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/ucZB_mN_Pe4?si=gxAkrdk53faLupBl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 12 March 2026 | Role of Small Modular Reactors in the Net Zero Power Systems (BSCE Systems)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/n-RvRW6nVmg?si=f4gG_TKtMYWESooA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 12 March 2026 | The Cooling Challenge: Accelerating DCS Adoption in India (Partner - APUEA)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/ktYEn4_QCgg?si=Pysqw0ngSezGThpl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 12 March 2026 | Resiliency of Power Systems Against Extreme Weather (Partner - PFI & CDRI)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/r7uzgkOwMVA?si=jMjv0E-BO0Q0lB08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 12 March 2026 | Data Governance Framework and Data Management in Utilities (Partner - AIDA)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/uerf4qzkgS4?si=c9bnMUGNuPY_oage" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 12 March 2026 | 3rd India – Brazil Smart Energy Workshop (Partner - LATAM)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/ohh0IcK4Tso?si=0bmhv8dzLuVUm86C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+
+    <!-- March 13, 2026 - Day 4 Sessions -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | New Technologies: AI–ML–VR–AR–Robotics for Utilities (Partner - DST)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/dNVsGTUicMI?si=XGDMDxOg-nqXO79p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | EVs – A $200 Billion Opportunity in India to be Unlocked (Partner - PFI)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/H-OrXqmRMKA?si=xX64BpDlb9eUYeZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | Electrification of Agriculture Sector & Charging of EVs with Green Electricity</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/zaN-fsrTarA?si=6SSduVYNz5OzIqWv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | Power Markets and Carbon Markets (Session Partner - IEX)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/hLryS0jlF88?si=hsqGouO8esx3SmK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | Emerging Solutions for Power System Flexibility</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/QS1CFADs1Uw?si=WJemEDBSqCwAUOXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | Future of Work: Working with Digital Colleagues and Humanoid Robots</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/ezhEMJi7cpc?si=s4Oilw9OgSSOLTx6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | Gender Balance in the Energy Sector</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/Fsk05jEgyws?si=6UqNvU5-hKmvZptM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | Presentation of Select Technical Papers (Part 1)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/9rG_cgdwzn8?si=ZOwu4lNQEI10WqUZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | Presentation of Select Technical Papers (Part 2)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/OzmD49OXP44?si=6XqaLJ0j9zr2VJz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | Presentation of Select Technical Papers (Part 3)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/v-26HnRa9Uk?si=FcpFvziJDdiE987g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="row">
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | Presentation of Select Technical Papers (Part 4)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/mFmJfygIs20?si=_ALrIdRDh2Rgg1y_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+      <div class="col-md-6">
+        <div class="clearfix"></div>
+        <h3 class="p-head">ISUW 2026 | 13 March 2026 | 2nd India - Indonesia Smart Energy Workshop (Partner - PJCI)</h3>
+        <ul>
+          <iframe width="488" height="280" src="https://www.youtube.com/embed/i0y4HHrpA6c?si=3gwW9KLT5k_M12eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- 2026 Ended -->
 
 <!-- 2025 Started  -->
 <div id="2025" class="tabcontent" style="display: block;">
@@ -1136,7 +1432,7 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
 </ul></div>
 </div>
 <div class="row"><div class="col-md-6"><div class="clearfix"></div>
-<h3 class="p-head">02 March 2022 | Conference Day 1 | 11th EU - India Smart Grid Workshop – Part  A  In Partnership with European Union |  13:30 ~ 15:00 (IST)
+<h3 class="p-head">02 March 2022 | Conference Day 1 | 11th EU - India Smart Grid Workshop – Part A  In Partnership with European Union |  13:30 ~ 15:00 (IST)
 </h3>
 <ul>
 <iframe width="488" height="280" src="https://www.youtube.com/embed/kkQlD8UXD88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -1323,10 +1619,6 @@ li.gallleryflick{   float:left;    margin-left:30px;   list-style:none;   margin
 <iframe width="488" height="280" src="https://www.youtube.com/embed/fqQxfIhq82M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </ul></div>
 </div>
-
-
-
-
 
 </div></div>
 <div id="2021" class="tabcontent" style="display: block;">
