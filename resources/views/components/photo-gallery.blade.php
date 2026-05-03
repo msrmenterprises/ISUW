@@ -2,66 +2,87 @@
 @section('content')
 
 <div class="container">
-<div class="row justify-content-left ">
+<div class="row justify-content-center ">
 <p></p>
 
 <div class="k_cheading">
     <h1>ISUW <span class="k_greencolor">Photo Gallery</span> </h1>
-    <img src="/public/uploads/images/kborder_bottom.png" alt=""> 
+    <img src="/public/uploads/images/kborder_bottom.png" alt="" style="max-width:100%; height:auto;"> 
 </div>
 
 <style>
 .gallleryflick{ float:left; margin-left:30px; list-style:none; margin-bottom:30px; list-style:none !important; height:240px;} 
 .responsive .content img{ height:226px !important; } 
-h3.p-head{ height:auto; min-height: 70px; background: #00923f; color: #FFF; margin: 45px 32px 15px 0px; padding: 10px; font-size: 16px; border-radius: 5px; } 
-iframe.flickr-embed-frame {
-    height: 300px; min-height: 300px !important; overflow: hidden !important;
+
+h3.p-head{ 
+    background: #00923f; 
+    color: #FFF; 
+    margin: 45px 32px 15px 0px; 
+    padding: 10px; 
+    font-size: 18px; 
+    border-radius: 5px;
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+}
+
+/* Fixed image size - same as video gallery */
+.flickr-image {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    border-radius: 8px;
+    transition: transform 0.3s ease;
+}
+
+.flickr-image:hover {
+    transform: scale(1.02);
 }
 
 .tab {
-  overflow: hidden;
-  width: 100%;
-  margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+    overflow: hidden;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .tab button {
-  background-color: #f1f1f1;
-  float: left;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  padding: 8px 20px;
-  transition: 0.3s;
-  font-size: 15px;
-  margin: 2px;
-  border-radius: 4px;
+    background-color: #f1f1f1;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 30px;
+    transition: 0.3s;
+    font-size: 16px;
+    margin: 2px;
+    border-radius: 4px;
 }
 
 .tab button:hover {
-  background-color: #ddd;
+    background-color: #ddd;
 }
 
 .tab button.active {
-  background-color: #00923f;
-  color: white;
+    background-color: #00923f;
+    color: white;
 }
 
 .tab button a {
-  text-decoration: none;
-  color: inherit;
+    text-decoration: none;
+    color: inherit;
 }
 
 .tabcontent {
-  display: none;
-  padding: 20px 12px;
-  border: 1px solid #ccc;
-  min-height: 400px;
-  background: #f9f9f9;
-  border-radius: 8px;
-  margin-top: 20px;
+    display: none;
+    padding: 20px 12px;
+    border: 1px solid #ccc;
+    min-height: 400px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    margin-top: 20px;
 }
 
 /* Loading spinner */
@@ -110,15 +131,12 @@ ul {
     margin: 0;
 }
 
-img {
+/* Fixed container for images */
+.photo-container {
     width: 100%;
-    max-width: 100%;
+    overflow: hidden;
     border-radius: 8px;
-    transition: transform 0.3s ease;
-}
-
-img:hover {
-    transform: scale(1.02);
+    background: #f0f0f0;
 }
 
 @media (max-width: 768px) {
@@ -128,12 +146,16 @@ img:hover {
         margin-bottom: 20px;
     }
     .tab button {
-        padding: 6px 12px;
-        font-size: 12px;
+        padding: 8px 16px;
+        font-size: 14px;
     }
     h3.p-head {
         font-size: 14px;
         margin: 20px 0px 10px 0px;
+        min-height: 50px;
+    }
+    .flickr-image {
+        height: 220px;
     }
 }
 </style>
@@ -372,7 +394,6 @@ const photoData = {
         { title: "ISUW_2023: LiFE and Gender Relevance", flickrAlbum: "72177720306715654", coverImage: "52746167687_a005db02f2_z.jpg" },
         { title: "ISUW_2023: Presentation of Select Technical Papers", flickrAlbum: "72177720306724373", coverImage: "52747449440_5cacc3f019_z.jpg" },
         { title: "ISUW_2023: Smart City Gas Distribution", flickrAlbum: "72177720306703242", coverImage: "52746920519_58c08afb33_z.jpg" },
-        { title: "ISUW_2023: ISGF Innovation Awards", flickrAlbum: "72177720306703242", coverImage: "52746920519_58c08afb33_z.jpg" },
         { title: "ISUW_2023: Technical Tour - NRLDC+REMC+TPDDL", flickrAlbum: "72177720306725232", coverImage: "52747974732_d3f4883369_z.jpg" },
         { title: "ISUW_2023: Technical Tour - Agra HVDC + Taj Mahal", flickrAlbum: "72177720306720821", coverImage: "52747965377_acdb4ee0a9_z.jpg" }
     ],
@@ -488,7 +509,7 @@ function loadPhotosForYear(year, containerElement) {
     
     let html = '<div class="container slider_margin1">';
     
-    // Group photos into rows of 2
+    // Group photos into rows of 2 (same as video gallery)
     for (let i = 0; i < photos.length; i += 2) {
         html += '<div class="row">';
         
@@ -502,8 +523,7 @@ function loadPhotosForYear(year, containerElement) {
                         <a data-flickr-embed="true" data-header="true" data-footer="true" 
                            href="https://www.flickr.com/photos/indiasmartgridforum/albums/${photos[i].flickrAlbum}" 
                            target="_blank">
-                            <img src="https://live.staticflickr.com/65535/${photos[i].coverImage}" 
-                                 width="100%" height="auto" 
+                            <img class="flickr-image" src="https://live.staticflickr.com/65535/${photos[i].coverImage}" 
                                  alt="${photos[i].title}"
                                  loading="lazy">
                         </a>
@@ -522,8 +542,7 @@ function loadPhotosForYear(year, containerElement) {
                         <a data-flickr-embed="true" data-header="true" data-footer="true" 
                            href="https://www.flickr.com/photos/indiasmartgridforum/albums/${photos[i + 1].flickrAlbum}" 
                            target="_blank">
-                            <img src="https://live.staticflickr.com/65535/${photos[i + 1].coverImage}" 
-                                 width="100%" height="auto" 
+                            <img class="flickr-image" src="https://live.staticflickr.com/65535/${photos[i + 1].coverImage}" 
                                  alt="${photos[i + 1].title}"
                                  loading="lazy">
                         </a>
