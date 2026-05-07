@@ -228,7 +228,8 @@ const videoData = {
         { date: "13 March 2026", title: "Presentation of Select Technical Papers (Part 2)", videoId: "OzmD49OXP44" },
         { date: "13 March 2026", title: "Presentation of Select Technical Papers (Part 3)", videoId: "v-26HnRa9Uk" },
         { date: "13 March 2026", title: "Presentation of Select Technical Papers (Part 4)", videoId: "mFmJfygIs20" },
-        { date: "13 March 2026", title: "2nd India - Indonesia Smart Energy Workshop (Partner - PJCI)", videoId: "i0y4HHrpA6c" }
+        { date: "13 March 2026", title: "2nd India - Indonesia Smart Energy Workshop (Partner - PJCI)", videoId: "i0y4HHrpA6c" },
+        { date: "13 March 2026", title: "Special Plenary Session on National Quantum Mission (NQM)", videoId: "r-tj6FYnzK0" }
     ],
     2025: [
         { date: "19 March 2025", title: "Inauguration of ISUW 2025 Conference and Exhibition", videoId: "C0qWxqpIib8" },
