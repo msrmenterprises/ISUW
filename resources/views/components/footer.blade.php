@@ -38,8 +38,8 @@ color:#EF7B00;
                </div>
               <div class="col-lg-3">
                   <div class="widget"> 
-                     <h6>ISGF Innovation Awards 2025</h6>
-					 <p><b style="color: white;">Award Ceremony : 21 March 2025</b></p>
+                     <h6>ISGF Innovation Awards 2026</h6>
+					 <p><b style="color: white;">Award Ceremony : 13 March 2026</b></p>
 					 <h6 style="color:#4EBC3C; font-size: 17px;"><b>ISGF Innovation Award Categories</b></h6>
                      <ol class="list-group list-group-numbered">
                      <li>Best Smart Grid Project in India</li>
@@ -47,10 +47,9 @@ color:#EF7B00;
                      <li>Smart Technology</li>
                       <li>Emerging Innovation in Electric Mobility Domain</li> 
                      <li>Adoption of Artificial Intelligence, Machine Learning and Robotic Solutions</li>
-                     <li>Smart Start-up of the Year</li>
-                     <li>Smart Incubator of the Year</li>
+                     <li>Smart Start-up and Incubator of the Year</li>
                      <li>Innovative Financing For Energy Transition</li>
-                     <li>Waste-to-Energy Projects (W2E)</li>
+                     <li>Waste-to-Energy, including Waste to CNG, Waste to Biogas Projects (W2E)</li>
                      <li>Woman in Energy and Utilities</li>
                      <li>ISGF President's Award for the Best Contribution towards Energy Transition in India</li>
                       </ol>
