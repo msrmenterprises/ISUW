@@ -3,9 +3,9 @@
             <div class="row">
                <div class="col-lg-7  col-12">
                   <ul class="info">
-                     <li class="text-warning"  id="speakers-2021">Highlights of 2025</li>
+                     <li class="text-warning"  id="speakers-2021">Highlights of 12th ISUW 2026</li>
                      <li class="mrq">
-                        <marquee>2000+ Participants from 26 Countries | 5 Supporting Ministries, 16 Supporting Organisations and 20 Supporting Media Partners | 33 Key Partners, 20 Exhibitors, 4 Country Partners and 17 Conference Session Partners | 210 Speakers | 26 Thematic Sessions | 7  Bi-lateral & Focused Workshops | 339 Participants from 33 Utilities | 68 Technical Papers Published and 24 Technical Papers Presented | 50 Winners amongst 11 ISGF Innovation Award Categories</marquee>
+                        <marquee>2000+ Participants from 24 Countries | 4 Supporting Ministries, 15 Supporting Organisations and 27 Supporting Media Partners | 50 Key Partners, 24 Exhibitors, 4 Country Partners and 12 Conference Session Partners | 271 Speakers | 18 Thematic Sessions | 7 Bi-lateral & Focused Workshops | 306 Participants from 34 Utilities | 62 Technical Papers Published and 31 Technical Papers Presented | 63 Winners amongst 10 ISGF Innovation Award Categories</marquee>
                      </li>
                   </ul>
                </div>
