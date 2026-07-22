@@ -1022,7 +1022,7 @@
 				<div class="article__icon"> 
      <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
     </div>
-	<h3 class="article__header__title"> 11 </h3>
+   <h3 class="article__header__title"> 12 </h3>
 	<div class="article__body">
         Editions 
      </div>
@@ -1033,7 +1033,7 @@
 				<div class="article__icon"> 
      <i class="fa fa-users" aria-hidden="true"></i>
     </div>
-	<h3 class="article__header__title"> 20978 </h3>
+   <h3 class="article__header__title"> 22978 </h3>
 	<div class="article__body">
         Delegates
      </div>
@@ -1044,7 +1044,7 @@
 				<div class="article__icon"> 
      <i class="fa fa-volume-up" aria-hidden="true"></i>
     </div>
-	<h3 class="article__header__title"> 2926 </h3>
+   <h3 class="article__header__title"> 3088 </h3>
 	<div class="article__body">
         Speakers 
      </div>
@@ -1055,7 +1055,7 @@
 				<div class="article__icon"> 
      <img src="images/exhibitor.png" alt="exhibitor">
     </div>
-	<h3 class="article__header__title"> 420 </h3>
+   <h3 class="article__header__title"> 446 </h3>
 	<div class="article__body">
         Exhibitors
      </div>
@@ -1066,7 +1066,7 @@
 				<div class="article__icon"> 
      <i class="fa fa-building" aria-hidden="true"></i> 
     </div>
-	<h3 class="article__header__title"> 77 </h3>
+   <h3 class="article__header__title"> 81 </h3>
 	<div class="article__body">
        Countries
      </div>
@@ -1077,7 +1077,7 @@
 				<div class="article__icon"> 
      <i class="fa fa-clipboard" aria-hidden="true"></i> 
     </div>
-	<h3 class="article__header__title"> 747 </h3>
+   <h3 class="article__header__title"> 809 </h3>
 	<div class="article__body">
        Technical Papers Recognition
      </div>
@@ -1088,7 +1088,7 @@
 				<div class="article__icon"> 
 				<img src="images/recognition.png" alt="recognition">
     </div>
-	<h3 class="article__header__title"> 373 </h3>
+   <h3 class="article__header__title"> 436 </h3>
 	<div class="article__body">
         Recognitions with ISGF Innovation Awards
      </div>
