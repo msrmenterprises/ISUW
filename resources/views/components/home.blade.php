@@ -272,7 +272,7 @@
                         <div class="col-lg-3">
                            <div class="spot-div">
                               
-                              <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHYzbjIyZG1qanU1aWprZGJoMDVhNjc5YzVfMjAyNjAzMTBUMDQzMDAwWiBkZXZhakBpbmRpYXNtYXJ0Z3JpZC5vcmc&tmsrc=devaj%40indiasmartgrid.org&scp=ALL" target="_blank">
+                              <a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjlhYmVrNTc4M2ZrYmdrZjU1YnFuODVpaXRfMjAyNzA0MDVUMDQzMDAwWiBkZXZhakBpbmRpYXNtYXJ0Z3JpZC5vcmc&tmsrc=devaj%40indiasmartgrid.org&scp=ALL" target="_blank">
                               
                                  <img src="images/spot01.png" class="logo-img " alt="...">
                                  <h3>Mark your 

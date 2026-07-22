@@ -23,7 +23,7 @@ color:#EF7B00;
                         <i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:awards@isuw.in" style="color:white;"> isuw@isuw.in</a><br></p>
 						<h6><a href="https://www.google.com/maps/dir/28.6325464,77.4357733/Hotel+lalit+delhi/@28.6196093,77.1927855,11z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x390cfd31be8050c3:0x396a2ac036490cb8!2m2!1d77.2272325!2d28.6316615" target="_blank" title="Find us on map" style="color:#EF7B00;">
 						<i aria-hidden="true"></i> Find us on Map</a></h6>
-						<h6><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MmZmNzUxYWUxYmVvMjM0Y3QwZGU2MG5vZGcgYWdhcndhbGp5b3RpMjAxQG0&tmsrc=agarwaljyoti201%40gmail.com" target="_blank" style="color:#EF7B00">Mark your Calendar</a></h6>
+                  <h6><a href="https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NjlhYmVrNTc4M2ZrYmdrZjU1YnFuODVpaXRfMjAyNzA0MDVUMDQzMDAwWiBkZXZhakBpbmRpYXNtYXJ0Z3JpZC5vcmc&tmsrc=devaj%40indiasmartgrid.org&scp=ALL" target="_blank" style="color:#EF7B00">Mark your Calendar</a></h6>
 						<h6>Follow Live Updates</h6>
                      <p></p>
                      <ul class="social-media d-flex">
