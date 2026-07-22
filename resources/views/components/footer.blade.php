@@ -16,7 +16,7 @@ color:#EF7B00;
 			<div class="row ">
                <div class="col-lg-3">
                   <div class="widget">
-                     <h6>ISUW 2026 Venue</h6>
+                     <h6>ISUW 2027 Venue</h6>
                      <p><i class="fa fa-home" aria-hidden="true"></i> New Delhi, India</p>
                       <h6>  For General Queries</h6>
 					 <p><i class="fa fa-phone" aria-hidden="true"></i> Call us at : <a href="tel:011 - 41030398" style="color:white;">011 - 41030398</a><br>
@@ -38,8 +38,8 @@ color:#EF7B00;
                </div>
               <div class="col-lg-3">
                   <div class="widget"> 
-                     <h6>ISGF Innovation Awards 2026</h6>
-					 <p><b style="color: white;">Award Ceremony : 13 March 2026</b></p>
+                     <h6>ISGF Innovation Awards 2027</h6>
+					 <p><b style="color: white;">Award Ceremony : 09 April 2027</b></p>
 					 <h6 style="color:#4EBC3C; font-size: 17px;"><b>ISGF Innovation Award Categories</b></h6>
                      <ol class="list-group list-group-numbered">
                      <li>Best Smart Grid Project in India</li>
