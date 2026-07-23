@@ -29,6 +29,27 @@ margin: 10px;
   height:150px;
   margin: 10px;
 }
+.admin_banner_card{
+  border: 1px solid #ddd;
+  padding: 8px;
+  margin: 10px;
+}
+.status_badge{
+  display: inline-block;
+  padding: 4px 8px;
+  margin: 4px 0;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.status_active{
+  background: #d4edda;
+  color: #155724;
+}
+.status_disabled{
+  background: #f8d7da;
+  color: #721c24;
+}
 .margin_10{
   margin:10px;
 }
@@ -41,24 +62,42 @@ margin: 10px;
     </head>
 <body>
 @include('admin.adminHeader')
-<h1>All Banners <h3>(To Remove Banner :-  Click Remove Button)</h3></h1>
+<h1>All Banners <h3>(Use Disable to hide a banner from homepage, and Enable to show it again)</h3></h1>
 
-  <form method="POST" 
-        action="{{url('remove-banner')}}"
-        enctype="multipart/form-data">
-        @csrf
         <div class="admin_banner_div">
             @foreach ($banners as $banner)
-            @if ($banner->displayBanner==1)
-              <div class="container">
+              <div class="container admin_banner_card">
                      <img src="{{$banner->BannerUrl}}" class="admin_banner_img" alt="{{$banner->ImageAltText}}">
-                     <input name="bannerId" style="display:none;" value="{{$banner->bannerId}}"/>
-                   <button type="submit">Remove</button>
-             </div>
+                     <div>
+                       <strong>Banner ID:</strong> {{$banner->bannerId}}
+                     </div>
+                     <div>
+                       <strong>Status:</strong>
+                       @if ($banner->displayBanner==1)
+                        <span class="status_badge status_active">Active</span>
+                       @else
+                        <span class="status_badge status_disabled">Disabled</span>
+                       @endif
+                     </div>
+
+                     @if ($banner->displayBanner==1)
+                     <form method="POST" action="{{url('disable-banner')}}" enctype="multipart/form-data">
+                       @csrf
+                       <input type="hidden" name="bannerId" value="{{$banner->bannerId}}"/>
+                       <input type="hidden" name="displayBanner" value="0"/>
+                       <button type="submit">Disable</button>
+                     </form>
+                     @else
+                     <form method="POST" action="{{url('enable-banner')}}" enctype="multipart/form-data">
+                       @csrf
+                       <input type="hidden" name="bannerId" value="{{$banner->bannerId}}"/>
+                       <input type="hidden" name="displayBanner" value="1"/>
+                       <button type="submit">Enable</button>
+                     </form>
                      @endif
+             </div>
                @endforeach
             </div>
-</form>
             <h1>Add New Banner</h1>
 <div id="content">
   

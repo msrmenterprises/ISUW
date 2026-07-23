@@ -128,6 +128,25 @@ class BannerController extends Controller
         $banners = DB::table('banners')->where('bannerId',$request->bannerId)->update(['displayBanner' => 0]);;
         return "Sucessfully updated";
     }
+
+    /**
+    * Toggle banner status between active and disabled.
+    *
+    * @param  Request $request
+    */
+    public function updateBannerStatus(Request $request)
+    {
+        $this->validate($request, [
+            'bannerId' => 'required',
+            'displayBanner' => 'required|in:0,1',
+        ]);
+
+        DB::table('banners')
+            ->where('bannerId', $request->bannerId)
+            ->update(['displayBanner' => (int) $request->displayBanner]);
+
+        return redirect('/admin');
+    }
     
     /**
      * Display the specified resource.

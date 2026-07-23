@@ -325,6 +325,8 @@ Route::post('upload-exhibitor', [BannerController::class,'uploadExhibitor']);
 Route::post('upload-utility', [BannerController::class,'uploadUtility']);
 Route::post('upload-partner', [BannerController::class,'uploadPartner']);
 Route::post('remove-banner', [BannerController::class,'removeBanner']);
+Route::post('disable-banner', [BannerController::class,'updateBannerStatus']);
+Route::post('enable-banner', [BannerController::class,'updateBannerStatus']);
 Route::post('remove-speaker', [SpeakerAdminController::class,'removeSpeaker']);
 Route::post('remove-utility', [UtilityController::class,'removeUtility']);
 Route::post('remove-partner', [PartnerController::class,'removePartner']);
