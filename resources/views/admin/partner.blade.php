@@ -2,101 +2,101 @@
 <html>
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-  .header_wrapper{
-margin: 10px;
-  }
-
-.admin_ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.admin_li {
-  margin: 10px;
-  display: inline;
-}
-.admin_banner_img{
-  width:250px;
-  height:150px;
-  margin: 10px;
-}
-.margin_10{
-  margin:10px;
-}
-.admin_banner_div {  
-  display: flex;
-  flex-flow: row wrap; 
-  height: 250px;
-  overflow-y: scroll;
-}
-.container { position: relative; }
-.container img { display: block; }
-.container .fa-close { position: absolute; top:0; right:0; cursor: pointer;}
-</style>
-      <title>Admin</title>
-    </head>
+<link rel="stylesheet" href="/public/css/admin-panel.css?id=1">
+<title>Admin - Partners</title>
+</head>
 <body>
 @include('admin.adminHeader')
 
-<h1>All Partners  <h3>(To Remove Partner :-  Click Remove Button)</h3></h1>
-<form method="POST" 
-        action="{{url('remove-partner')}}"
-        enctype="multipart/form-data">
-        @csrf
-        <div class="admin_banner_div">
-            @foreach ($partnerimages as $image)
-            @if ($image->isActive==1)
-              <div class="container">
-              @foreach ($partnerscategory as $category)
-                     @if ($category->id==$image->categoryId)
-                    <span>{{$category->name}}</span>
-                      @endif
-                       @endforeach
-                     <img src="{{$image->imageUrl}}" class="admin_banner_img" alt="{{$image->altText}}">
-                     <input name="partnerId" style="display:none;" value="{{$image->id}}"/>
-                   <button type="submit">Remove</button>
-             </div>
-                     @endif
-               @endforeach
-               </div>
-</form>
-            <h1>Add New Partners</h1>
+@php
+  $activeCount = $partnerimages->where('isActive', 1)->count();
+  $disabledCount = $partnerimages->where('isActive', 0)->count();
+@endphp
 
-<div id="content">
-  
-  <form method="POST" 
-        action="{{url('upload-partner')}}"
-        enctype="multipart/form-data">
-        @csrf
-        <div class="margin_10">
-        Choose Category : <select name="categoryId" id="categoryId">
-        @foreach ($partnerscategory as $category)
-          <option value="{{$category->id}}">{{$category->name}}</option>
-        @endforeach
-        </select>
-</div><div class="margin_10">
-Choose Image : <input type="file" 
-             name="uploadfile" 
-             id="uploadfile" 
-             accept="image/*" />
-</div>
-<div class="margin_10">
-Alt Text :
-<input type="text" name="altText" id="altText"  />
-</div>
-<div class="margin_10">
-Redirect Url :
-<input type="text" name="redirectUrl" id="redirectUrl"  />
-</div>
-      <div>
-          <button type="submit"
-                  name="upload">
-            UPLOAD
-          </button>
+<div class="admin-page">
+  <h1 class="page-title">Partners Management</h1>
+  <p class="page-subtitle">Manage partner logos and map each logo to the right category and URL.</p>
+
+  <div class="stats">
+    <span class="stat-chip"><strong>Total:</strong> {{$partnerimages->count()}}</span>
+    <span class="stat-chip"><strong>Active:</strong> {{$activeCount}}</span>
+    <span class="stat-chip"><strong>Disabled:</strong> {{$disabledCount}}</span>
+  </div>
+
+  <div class="layout-grid">
+    <section class="panel">
+      <div class="panel-head">
+        <h2>All Partners</h2>
       </div>
-  </form>
+      <div class="panel-body">
+        <div class="admin-grid">
+          @foreach ($partnerimages as $image)
+          <article class="admin-card">
+            <img src="{{$image->imageUrl}}" alt="{{$image->altText}}">
+            <div class="card-meta">
+              <div><strong>Category:</strong>
+                @foreach ($partnerscategory as $category)
+                  @if ($category->id==$image->categoryId)
+                    {{$category->name}}
+                  @endif
+                @endforeach
+              </div>
+              <div>
+                <strong>Status:</strong>
+                @if ($image->isActive==1)
+                <span class="status_badge status_active">Active</span>
+                @else
+                <span class="status_badge status_disabled">Disabled</span>
+                @endif
+              </div>
+            </div>
+            <div class="banner-action">
+              @if ($image->isActive==1)
+              <form method="POST" action="{{url('remove-partner')}}" enctype="multipart/form-data">
+                @csrf
+                <input type="hidden" name="partnerId" value="{{$image->id}}">
+                <button class="btn btn-warning" type="submit">Disable Partner</button>
+              </form>
+              @endif
+            </div>
+          </article>
+          @endforeach
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Add New Partner</h2>
+      </div>
+      <div class="panel-body">
+        <form method="POST" action="{{url('upload-partner')}}" enctype="multipart/form-data">
+          @csrf
+          <div class="form-row">
+            <label class="form-label" for="categoryId">Choose Category</label>
+            <select class="input-field" name="categoryId" id="categoryId" required>
+              @foreach ($partnerscategory as $category)
+                <option value="{{$category->id}}">{{$category->name}}</option>
+              @endforeach
+            </select>
+          </div>
+          <div class="form-row">
+            <label class="form-label" for="uploadfile">Choose Image</label>
+            <input class="input-field" type="file" name="uploadfile" id="uploadfile" accept="image/*" required>
+          </div>
+          <div class="form-row">
+            <label class="form-label" for="altText">Alt Text</label>
+            <input class="input-field" type="text" name="altText" id="altText">
+          </div>
+          <div class="form-row">
+            <label class="form-label" for="redirectUrl">Redirect URL</label>
+            <input class="input-field" type="text" name="redirectUrl" id="redirectUrl" placeholder="https://example.com">
+          </div>
+          <button class="btn btn-primary" type="submit" name="upload">Upload Partner</button>
+        </form>
+      </div>
+    </section>
+  </div>
 </div>
 </body>
 </html>

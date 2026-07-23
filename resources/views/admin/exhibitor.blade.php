@@ -1,92 +1,88 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  .header_wrapper{
-margin: 10px;
-  }
-
-.admin_ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.admin_li {
-  margin: 10px;
-  display: inline;
-}
-.admin_banner_img{
-  width:250px;
-  height:150px;
-  margin: 10px;
-}
-.margin_10{
-  margin:10px;
-}
-.admin_banner_div {  
-  display: flex;
-  flex-flow: row wrap; 
-  height: 250px;
-  overflow-y: scroll;
-}
-.container { position: relative; }
-.container img { display: block; }
-.container .fa-close { position: absolute; top:0; right:0; cursor: pointer;}
-</style>
-      <title>Admin</title>
-    </head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/public/css/admin-panel.css?id=1">
+<title>Admin - Exhibitors</title>
+</head>
 <body>
 @include('admin.adminHeader')
 
+@php
+  $activeCount = $exhibitors->where('isActive', 1)->count();
+  $disabledCount = $exhibitors->where('isActive', 0)->count();
+@endphp
 
-<h1>All Exhibitors <h3>(To Remove Exhibitor :-  Click Remove Button)</h3></h1>
-<form method="POST" 
-        action="{{url('remove-exhibitor')}}"
-        enctype="multipart/form-data">
-        @csrf
-        <div class="admin_banner_div">
-            @foreach ($exhibitors as $image)
-            @if ($image->isActive==1)
-              <div class="container">
-                     <img src="{{$image->imageUrl}}" class="admin_banner_img" alt="{{$image->altText}}">
-                     <input name="exhibitorId" style="display:none;" value="{{$image->id}}"/>
-                   <button type="submit">Remove</button>
-             </div>
-                     @endif
-               @endforeach
-               </div>
-</form>
-            <h1>Add New exhibitor</h1>
+<div class="admin-page">
+  <h1 class="page-title">Exhibitors Management</h1>
+  <p class="page-subtitle">Control exhibitor logos and outbound links displayed on the website.</p>
 
-<div id="content">
-  
-  <form method="POST" 
-        action="{{url('upload-exhibitor')}}"
-        enctype="multipart/form-data">
-        @csrf
-        <div class="margin_10">
-Choose Image : <input type="file" 
-             name="uploadfile" 
-             id="uploadfile" 
-             accept="image/*" />
-</div>
-<div class="margin_10">
-Alt Text :
-<input type="text" name="altText" id="altText"  />
-</div>
-<div class="margin_10">
-Redirect Url:
-<input type="text" name="redirectUrl" id="redirectUrl"  />
-</div>
-      <div>
-          <button type="submit"
-                  name="upload">
-            UPLOAD
-          </button>
+  <div class="stats">
+    <span class="stat-chip"><strong>Total:</strong> {{$exhibitors->count()}}</span>
+    <span class="stat-chip"><strong>Active:</strong> {{$activeCount}}</span>
+    <span class="stat-chip"><strong>Disabled:</strong> {{$disabledCount}}</span>
+  </div>
+
+  <div class="layout-grid">
+    <section class="panel">
+      <div class="panel-head">
+        <h2>All Exhibitors</h2>
       </div>
-  </form>
+      <div class="panel-body">
+        <div class="admin-grid">
+          @foreach ($exhibitors as $image)
+          <article class="admin-card">
+            <img src="{{$image->imageUrl}}" alt="{{$image->altText}}">
+            <div class="card-meta">
+              <div><strong>ID:</strong> {{$image->id}}</div>
+              <div>
+                <strong>Status:</strong>
+                @if ($image->isActive==1)
+                <span class="status_badge status_active">Active</span>
+                @else
+                <span class="status_badge status_disabled">Disabled</span>
+                @endif
+              </div>
+            </div>
+            <div class="banner-action">
+              @if ($image->isActive==1)
+              <form method="POST" action="{{url('remove-exhibitor')}}" enctype="multipart/form-data">
+                @csrf
+                <input type="hidden" name="exhibitorId" value="{{$image->id}}">
+                <button class="btn btn-warning" type="submit">Disable Exhibitor</button>
+              </form>
+              @endif
+            </div>
+          </article>
+          @endforeach
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Add New Exhibitor</h2>
+      </div>
+      <div class="panel-body">
+        <form method="POST" action="{{url('upload-exhibitor')}}" enctype="multipart/form-data">
+          @csrf
+          <div class="form-row">
+            <label class="form-label" for="uploadfile">Choose Image</label>
+            <input class="input-field" type="file" name="uploadfile" id="uploadfile" accept="image/*" required>
+          </div>
+          <div class="form-row">
+            <label class="form-label" for="altText">Alt Text</label>
+            <input class="input-field" type="text" name="altText" id="altText">
+          </div>
+          <div class="form-row">
+            <label class="form-label" for="redirectUrl">Redirect URL</label>
+            <input class="input-field" type="text" name="redirectUrl" id="redirectUrl" placeholder="https://example.com">
+          </div>
+          <button class="btn btn-primary" type="submit" name="upload">Upload Exhibitor</button>
+        </form>
+      </div>
+    </section>
+  </div>
 </div>
 </body>
 </html>

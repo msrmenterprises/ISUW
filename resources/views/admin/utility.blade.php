@@ -2,101 +2,101 @@
 <html>
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-  .header_wrapper{
-margin: 10px;
-  }
-
-.admin_ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.admin_li {
-  margin: 10px;
-  display: inline;
-}
-.admin_banner_img{
-  width:250px;
-  height:150px;
-  margin: 10px;
-}
-.margin_10{
-  margin:10px;
-}
-.admin_banner_div {  
-  display: flex;
-  flex-flow: row wrap; 
-  height: 250px;
-  overflow-y: scroll;
-}
-.container { position: relative; }
-.container img { display: block; }
-.container .fa-close { position: absolute; top:0; right:0; cursor: pointer;}
-</style>
-      <title>Admin</title>
-    </head>
+<link rel="stylesheet" href="/public/css/admin-panel.css?id=1">
+<title>Admin - Utilities</title>
+</head>
 <body>
 @include('admin.adminHeader')
 
-<h1>All Utilities <h3>(To Remove Utility :-  Click Remove Button)</h3></h1>
-<form method="POST" 
-        action="{{url('remove-utility')}}"
-        enctype="multipart/form-data">
-        @csrf
-        <div class="admin_banner_div">
-            @foreach ($utilityimages as $image)
-            @if ($image->isActive==1)
-              <div class="container">
-              @foreach ($categories as $category)
-                     @if ($category->id==$image->categoryId)
-                    <span>{{$category->CategoryName}}</span>
-                      @endif
-                       @endforeach
-                     <img src="{{$image->imageUrl}}" class="admin_banner_img" alt="{{$image->altText}}">
-                       <input name="utilityId" style="display:none;" value="{{$image->id}}"/>
-                   <button type="submit">Remove</button>
-             </div>
-                     @endif
-               @endforeach
-              </div>
-</form>
-            <h1>Add New Utility</h1>
+@php
+  $activeCount = $utilityimages->where('isActive', 1)->count();
+  $disabledCount = $utilityimages->where('isActive', 0)->count();
+@endphp
 
-<div id="content">
-  
-  <form method="POST" 
-        action="{{url('upload-utility')}}"
-        enctype="multipart/form-data">
-        @csrf
-        <div class="margin_10">
-        Choose Category : <select name="categoryId" id="categoryId">
-        @foreach ($categories as $category)
-          <option value="{{$category->categoryId}}">{{$category->CategoryName}}</option>
-        @endforeach
-        </select>
-</div><div class="margin_10">
-Choose Image : <input type="file" 
-             name="uploadfile" 
-             id="uploadfile" 
-             accept="image/*" />
-</div>
-<div class="margin_10">
-Alt Text :
-<input type="text" name="altText" id="altText"  />
-</div>
-<div class="margin_10">
-Redirect Url :
-<input type="text" name="redirectUrl" id="redirectUrl"  />
-</div>
-      <div>
-          <button type="submit"
-                  name="upload">
-            UPLOAD
-          </button>
+<div class="admin-page">
+  <h1 class="page-title">Utilities Management</h1>
+  <p class="page-subtitle">Manage utility logos by category with clear visibility status.</p>
+
+  <div class="stats">
+    <span class="stat-chip"><strong>Total:</strong> {{$utilityimages->count()}}</span>
+    <span class="stat-chip"><strong>Active:</strong> {{$activeCount}}</span>
+    <span class="stat-chip"><strong>Disabled:</strong> {{$disabledCount}}</span>
+  </div>
+
+  <div class="layout-grid">
+    <section class="panel">
+      <div class="panel-head">
+        <h2>All Utilities</h2>
       </div>
-  </form>
+      <div class="panel-body">
+        <div class="admin-grid">
+          @foreach ($utilityimages as $image)
+          <article class="admin-card">
+            <img src="{{$image->imageUrl}}" alt="{{$image->altText}}">
+            <div class="card-meta">
+              <div><strong>Category:</strong>
+                @foreach ($categories as $category)
+                  @if ($category->id==$image->categoryId)
+                    {{$category->CategoryName}}
+                  @endif
+                @endforeach
+              </div>
+              <div>
+                <strong>Status:</strong>
+                @if ($image->isActive==1)
+                <span class="status_badge status_active">Active</span>
+                @else
+                <span class="status_badge status_disabled">Disabled</span>
+                @endif
+              </div>
+            </div>
+            <div class="banner-action">
+              @if ($image->isActive==1)
+              <form method="POST" action="{{url('remove-utility')}}" enctype="multipart/form-data">
+                @csrf
+                <input type="hidden" name="utilityId" value="{{$image->id}}">
+                <button class="btn btn-warning" type="submit">Disable Utility</button>
+              </form>
+              @endif
+            </div>
+          </article>
+          @endforeach
+        </div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Add New Utility</h2>
+      </div>
+      <div class="panel-body">
+        <form method="POST" action="{{url('upload-utility')}}" enctype="multipart/form-data">
+          @csrf
+          <div class="form-row">
+            <label class="form-label" for="categoryId">Choose Category</label>
+            <select class="input-field" name="categoryId" id="categoryId" required>
+              @foreach ($categories as $category)
+                <option value="{{$category->categoryId}}">{{$category->CategoryName}}</option>
+              @endforeach
+            </select>
+          </div>
+          <div class="form-row">
+            <label class="form-label" for="uploadfile">Choose Image</label>
+            <input class="input-field" type="file" name="uploadfile" id="uploadfile" accept="image/*" required>
+          </div>
+          <div class="form-row">
+            <label class="form-label" for="altText">Alt Text</label>
+            <input class="input-field" type="text" name="altText" id="altText">
+          </div>
+          <div class="form-row">
+            <label class="form-label" for="redirectUrl">Redirect URL</label>
+            <input class="input-field" type="text" name="redirectUrl" id="redirectUrl" placeholder="https://example.com">
+          </div>
+          <button class="btn btn-primary" type="submit" name="upload">Upload Utility</button>
+        </form>
+      </div>
+    </section>
+  </div>
 </div>
 </body>
 </html>
