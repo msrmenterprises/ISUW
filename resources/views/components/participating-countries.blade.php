@@ -179,6 +179,7 @@
 		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Congo.png" style="width: 200px;"><h5 style="font-size: 13px;">Congo</h5></div></div>
 	    <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Denmark.png" style="width: 220px;"><h5 style="font-size: 13px;">Denmark</h5></div></div>
 	     <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/European Union.png" style="width: 220px;"><h5 style="font-size: 13px;">European Union</h5></div></div>
+		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Egypt.png" style="width: 220px;"><h5 style="font-size: 13px;">Egypt</h5></div></div>
         <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Ethiopia.png" style="width: 220px;"><h5 style="font-size: 13px;">Ethiopia</h5></div></div>
         <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/England.png" style="width: 220px;"><h5 style="font-size: 13px;">England</h5></div></div>
         <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Finland.png" style="width: 220px;"><h5 style="font-size: 13px;">Finland</h5></div></div>
@@ -225,6 +226,7 @@
         <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Oman.png" style="width: 220px;"><h5 style="font-size: 13px;">Oman</h5></div></div>
         <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Portugal.png" style="width: 220px;"><h5 style="font-size: 13px;">Portugal</h5></div></div>
 		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Philippines.png" style="width: 200px;"><h5 style="font-size: 13px;">Philippines</h5></div></div>
+        <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Peru.png" style="width: 220px;"><h5 style="font-size: 13px;">Peru</h5></div></div>
 
 		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Poland.png" style="width: 200px;"><h5 style="font-size: 13px;">Poland</h5></div></div>
 
@@ -236,6 +238,7 @@
 		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Saudi Arabia.png" style="width: 234px;"><h5 style="font-size: 13px;">Saudi Arabia</h5></div></div>
 
 		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Singapore.png" style="width: 204px;"><h5 style="font-size: 13px;">Singapore</h5></div></div>
+		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Sierra Leone.png" style="width: 220px;"><h5 style="font-size: 13px;">Sierra Leone</h5></div></div>
 	
 		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/South Africa.png" style="width: 234px;"><h5 style="font-size: 13px;">South Africa</h5></div></div>
 
@@ -246,6 +249,7 @@
 		<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/uploads/countryflags/Switzerland.png" style="width: 205px;"><h5 style="font-size: 13px;">Switzerland</h5></div></div>
 		 
     <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Sri Lanka.png" style="width: 234px;"><h5 style="font-size: 13px;">Sri Lanka</h5></div></div>
+	<div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Slovenia.png" style="width: 220px;"><h5 style="font-size: 13px;">Slovenia</h5></div></div>
     <div class="col-lg-3"><div class="logo-div"><img class="size-medium wp-image-38225 alignleft" src="/public/uploads/countryflags/Spain.png" style="width: 234px;"><h5 style="font-size: 13px;">Spain</h5></div></div>
    
 	
