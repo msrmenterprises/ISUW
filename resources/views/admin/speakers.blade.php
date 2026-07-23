@@ -93,5 +93,6 @@
     </section>
   </div>
 </div>
+@include('admin.adminFooter')
 </body>
 </html>

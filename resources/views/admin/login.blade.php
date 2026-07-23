@@ -28,5 +28,6 @@
     </div>
   </div>
 </div>
+@include('admin.adminFooter')
 </body>
 </html>

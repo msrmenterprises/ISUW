@@ -306,6 +306,7 @@ Route::get('/enquiry', [ContactUsFormController::class, 'createForm']);
 Route::post('/enquiry', [ContactUsFormController::class, 'ContactUsForm'])->name('contact.store');
 Route::get('/login',[LoginController::class,'index']);
 Route::post('/login', [LoginController::class,'authenticate'])->name('login');
+Route::post('/logout', [LoginController::class,'logout'])->name('logout');
 Route::get('/presentation',[LoginController::class,'presentation']);
 Route::post('/presentation', [LoginController::class,'presentationauthenticate'])->name('loginpresentation');
 Route::get('/presentation2023',[LoginController::class,'presentation2023']);

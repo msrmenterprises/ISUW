@@ -36,6 +36,14 @@ body {
 .admin_nav {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.admin_nav_left {
+  display: flex;
+  align-items: center;
   gap: 16px;
   flex-wrap: wrap;
 }
@@ -72,6 +80,25 @@ body {
 .admin_li a:hover {
   background: #f1f6fd;
   border-color: #d6e6f8;
+}
+
+.logout-form {
+  margin: 0;
+}
+
+.btn-ghost {
+  border: 1px solid #d8e2ef;
+  border-radius: 8px;
+  background: #fff;
+  color: #2d4058;
+  padding: 8px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-ghost:hover {
+  background: #f5f8fd;
 }
 
 .admin-page {
@@ -308,6 +335,25 @@ textarea.input-field {
   width: 100%;
   padding: 12px;
   font-size: 14px;
+}
+
+.admin-footer {
+  max-width: 1240px;
+  margin: 8px auto 30px;
+  padding: 0 16px;
+}
+
+.admin-footer-inner {
+  background: #fff;
+  border: 1px solid var(--panel-border);
+  border-radius: 12px;
+  color: var(--muted);
+  font-size: 13px;
+  padding: 12px 14px;
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
 }
 
 @media (max-width: 960px) {
