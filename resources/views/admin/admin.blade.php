@@ -20,12 +20,12 @@ margin: 10px;
 .admin_banner_div {  
   display: flex;
   flex-flow: row wrap; 
-  height: 250px;
+  height: 500px;
   overflow-y: scroll;
 }
 
 .admin_banner_img{
-  width:250px;
+  /* width:250px; */
   height:150px;
   margin: 10px;
 }
