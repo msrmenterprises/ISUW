@@ -1103,7 +1103,7 @@
       <section class="page-section isuw-countdown">
          <div class="container">
             <div class="section-title">
-               <h2 class="text-black">ISUW 2026 Countdown</h2>
+               <h2 class="text-black">ISUW 2027 Countdown</h2>
             </div>
 	
             <div class="balloon white d-none">
