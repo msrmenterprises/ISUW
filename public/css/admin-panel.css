@@ -38,13 +38,15 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 16px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
 }
 
 .admin_nav_left {
   display: flex;
   align-items: center;
   gap: 16px;
+  flex: 1;
+  min-width: 0;
   flex-wrap: wrap;
 }
 
@@ -84,6 +86,8 @@ body {
 
 .logout-form {
   margin: 0;
+  flex-shrink: 0;
+  margin-left: auto;
 }
 
 .btn-ghost {
@@ -102,9 +106,10 @@ body {
 }
 
 .admin-page {
-  max-width: 1240px;
-  margin: 28px auto 40px;
-  padding: 0 16px;
+  width: 100%;
+  max-width: none;
+  margin: 24px 0 40px;
+  padding: 0 24px;
 }
 
 .page-title {
@@ -136,7 +141,7 @@ body {
 
 .layout-grid {
   display: grid;
-  grid-template-columns: 2.2fr 1fr;
+  grid-template-columns: minmax(0, 3fr) minmax(300px, 1fr);
   gap: 18px;
   align-items: start;
 }
@@ -338,9 +343,10 @@ textarea.input-field {
 }
 
 .admin-footer {
-  max-width: 1240px;
-  margin: 8px auto 30px;
-  padding: 0 16px;
+  width: 100%;
+  max-width: none;
+  margin: 8px 0 30px;
+  padding: 0 24px;
 }
 
 .admin-footer-inner {
@@ -357,6 +363,18 @@ textarea.input-field {
 }
 
 @media (max-width: 960px) {
+  .admin_nav {
+    flex-wrap: wrap;
+  }
+
+  .admin_nav_left {
+    width: 100%;
+  }
+
+  .logout-form {
+    margin-left: 0;
+  }
+
   .layout-grid {
     grid-template-columns: 1fr;
   }
