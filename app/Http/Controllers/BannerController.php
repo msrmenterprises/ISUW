@@ -147,6 +147,51 @@ class BannerController extends Controller
 
         return redirect('/admin');
     }
+
+    /**
+    * Permanently delete banner record and associated file from storage.
+    *
+    * @param Request $request
+    */
+    public function deleteBannerPermanent(Request $request)
+    {
+        $this->validate($request, [
+            'bannerId' => 'required',
+        ]);
+
+        $banner = DB::table('banners')->where('bannerId', $request->bannerId)->first();
+
+        if ($banner && !empty($banner->BannerUrl)) {
+            $candidates = [];
+            $urlPath = parse_url($banner->BannerUrl, PHP_URL_PATH);
+
+            if (!empty($urlPath)) {
+                $normalizedPath = ltrim($urlPath, '/');
+                if (strpos($normalizedPath, 'public/') === 0) {
+                    $normalizedPath = substr($normalizedPath, 7);
+                }
+                $candidates[] = public_path($normalizedPath);
+            }
+
+            $candidates[] = public_path('uploads/banner/' . basename($banner->BannerUrl));
+            $baseBannerDir = realpath(public_path('uploads/banner'));
+
+            foreach (array_unique($candidates) as $filePath) {
+                if (!is_string($filePath) || $filePath === '') {
+                    continue;
+                }
+
+                $realFilePath = realpath($filePath);
+                if ($realFilePath && $baseBannerDir && strpos($realFilePath, $baseBannerDir) === 0 && is_file($realFilePath)) {
+                    @unlink($realFilePath);
+                }
+            }
+        }
+
+        DB::table('banners')->where('bannerId', $request->bannerId)->delete();
+
+        return redirect('/admin')->with('status', 'Banner deleted permanently.');
+    }
     
     /**
      * Display the specified resource.
