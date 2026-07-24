@@ -5,24 +5,13 @@
 <link rel="stylesheet" href="/public/css/admin-panel.css?id=1">
 <title>Admin - Banner Management</title>
 <style>
-  .filter-tabs {
-    display: flex;
-    gap: 10px;
-    margin: 16px 0;
-    flex-wrap: wrap;
+  .stat-chip {
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
   }
 
-  .filter-btn {
-    border: 1px solid #d8d8d8;
-    background: #fff;
-    color: #333;
-    border-radius: 999px;
-    padding: 6px 14px;
-    font-size: 13px;
-    cursor: pointer;
-  }
-
-  .filter-btn.active {
+  .stat-chip.is-active {
     background: #ef7b00;
     color: #fff;
     border-color: #ef7b00;
@@ -58,11 +47,6 @@
 <body>
 @include('admin.adminHeader')
 
-@php
-  $activeCount = $banners->where('displayBanner', 1)->count();
-  $disabledCount = $banners->where('displayBanner', 0)->count();
-@endphp
-
 <div class="admin-page">
   <h1 class="page-title">Banner Management</h1>
   <p class="page-subtitle">Review all banners, monitor status, and enable or disable visibility on the homepage.</p>
@@ -72,25 +56,20 @@
   @endif
 
   <div class="stats">
-    <span class="stat-chip"><strong>Total:</strong> {{$banners->count()}}</span>
-    <span class="stat-chip"><strong>Active:</strong> {{$activeCount}}</span>
-    <span class="stat-chip"><strong>Disabled:</strong> {{$disabledCount}}</span>
+    <a class="stat-chip {{$selectedFilter === 'all' ? 'is-active' : ''}}" href="{{ url('/admin') }}?filter=all"><strong>Total:</strong>&nbsp;{{$totalCount}}</a>
+    <a class="stat-chip {{$selectedFilter === 'active' ? 'is-active' : ''}}" href="{{ url('/admin') }}?filter=active"><strong>Active:</strong>&nbsp;{{$activeCount}}</a>
+    <a class="stat-chip {{$selectedFilter === 'disabled' ? 'is-active' : ''}}" href="{{ url('/admin') }}?filter=disabled"><strong>Disabled:</strong>&nbsp;{{$disabledCount}}</a>
   </div>
 
   <div class="layout-grid">
     <section class="panel">
       <div class="panel-head">
-        <h2>All Banners</h2>
+        <h2>{{ ucfirst($selectedFilter) }} Banners</h2>
       </div>
       <div class="panel-body">
-        <div class="filter-tabs" id="bannerFilterTabs">
-          <button type="button" class="filter-btn active" data-filter="all">All ({{$banners->count()}})</button>
-          <button type="button" class="filter-btn" data-filter="active">Active ({{$activeCount}})</button>
-          <button type="button" class="filter-btn" data-filter="disabled">Disabled ({{$disabledCount}})</button>
-        </div>
         <div class="admin-grid">
           @foreach ($banners as $banner)
-          <article class="admin-card" data-status="{{$banner->displayBanner==1 ? 'active' : 'disabled'}}">
+          <article class="admin-card">
             <img src="{{$banner->BannerUrl}}" alt="{{$banner->ImageAltText}}">
             <div class="card-meta">
               <div><strong>ID:</strong> {{$banner->bannerId}}</div>
@@ -154,32 +133,5 @@
   </div>
 </div>
 @include('admin.adminFooter')
-<script>
-  (function () {
-    const tabsWrap = document.getElementById('bannerFilterTabs');
-    if (!tabsWrap) return;
-
-    const buttons = tabsWrap.querySelectorAll('.filter-btn');
-    const cards = document.querySelectorAll('.admin-card[data-status]');
-
-    function applyFilter(filter) {
-      cards.forEach((card) => {
-        const status = card.getAttribute('data-status');
-        const visible = filter === 'all' || filter === status;
-        card.style.display = visible ? '' : 'none';
-      });
-
-      buttons.forEach((btn) => {
-        btn.classList.toggle('active', btn.getAttribute('data-filter') === filter);
-      });
-    }
-
-    buttons.forEach((btn) => {
-      btn.addEventListener('click', function () {
-        applyFilter(this.getAttribute('data-filter'));
-      });
-    });
-  })();
-</script>
 </body>
 </html>
