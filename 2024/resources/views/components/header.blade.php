@@ -3,7 +3,7 @@
             <div class="row">
                <div class="col-lg-7  col-12">
                   <ul class="info">
-                     <li class="text-warning"  id="speakers-2021" style="width: 213px !important;font-size: 12px !important;">Highlights of 2024</li>
+                     <li class="text-warning"  id="speakers-2021">Highlights of 2024</li>
                      <li class="mrq">
                         <marquee>2000+ Participants from 25+ countries | 7 Supporting Ministries, 15 Supporting Organisations and 18 Supporting Media Partners | 30 Key Partners, 20 Exhibitors, 5 Country Partners and 17 Conference Session Partners | 241 Speakers | 16 Thematic Sessions, 1 Master Class  | 8 Bi-lateral & Focused Workshops | 2 Special Plenaries | 202 Participants from 32 Utilities | 60 Technical Papers Published and 25 Technical Papers Presented | 66 Winners amongst 11 ISGF Innovation Award Categories</marquee>
                      </li>
