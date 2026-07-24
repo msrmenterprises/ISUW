@@ -8,7 +8,7 @@ class homeController extends Controller
 {
     public function show()
     {
-      $banners = DB::table('banners')->get();
+      $banners = DB::table('banners')->where('displayBanner', 1)->get();
       $speakersr24 = DB::table('speakers2026')->get();
       $exhibitors = DB::table('exhibitors2022')->get();
       $utilitycategory = DB::table('utilitycategory2022')->get();
