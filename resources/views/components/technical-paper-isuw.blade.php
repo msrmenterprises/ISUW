@@ -27,14 +27,14 @@
 	</div>
 <!--	<p><b><marqee>We thank all the Authors for the overwhelming response for your Technical Paper Abstract Submission. As the number of Technical Papers Abstracts received is very high, we shall be announcing the results for the next round of Full Paper Submission by 15th November 2023.</marqee></b></p>
    --> 
-<div class="accordion accordion-flush" id="accordionFlushExample">
+<div class="accordion accordion-flush" id="technicalPapersAccordion">
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsewinners" aria-expanded="false" aria-controls="flush-collapsewinners">
        <H4 style="color: green;"><strong>Call for Technical Papers Abstracts</strong></style></H4>
       </button>
     </h2>
-    <div id="flush-collapsewinners" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+    <div id="flush-collapsewinners" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#technicalPapersAccordion">
       <div class="accordion-body">
           <h3 style="color:green; text-align:center;">Call for Technical Papers - Abstracts</h3>
 
@@ -42,12 +42,6 @@
           <h4 style="text-align:center;">Last date for Abstract Submission: 30th September 2026</h4>
           <p style="text-align:center;"><b>Abstract Submission for TESS 2027 at following link:<br/>
           <a href="https://bit.ly/4ztWLWr" target="_blank">https://bit.ly/4ztWLWr</a></b></p>
-
-          <p style="text-align:center; margin-bottom: 18px;">
-              <a href="#technical-paper-guidelines" class="btn btn-primary" style="display:inline-block; background-color:#0d6efd; color:#fff; padding:10px 18px; border-radius:5px; text-decoration:none; font-weight:600;">
-                  GUIDELINES FOR SUBMISSION OF TECHNICAL PAPER ABSTRACTS
-              </a>
-          </p>
 
           <p>From India Smart Utility Week (ISUW) to The Energy Singularity Summit (TESS) — the journey continues into a new era of energy and technology convergence. Building on 12 successful editions of ISUW conducted by the India Smart Grid Forum (ISGF) since 2015, TESS 2027 brings together the worlds of intelligent energy systems and artificial intelligence to explore the technologies, innovations and solutions shaping the future of energy. The Summit will focus on the transformation towards self-optimising, decarbonised, flexible and resilient energy systems capable of meeting the demands of an increasingly AI-driven world.</p>
 
@@ -82,9 +76,19 @@
               <li>Emerging Space Technologies: Architecture and Energy Systems for Colonising the Moon and Mars, and the Autonomous and Zero Pollution Mobility</li>
               <li>Autonomous and Zero Emission Vehicles</li>
           </ul>
+      </div>
+    </div>
+  </div>
 
-          <div id="technical-paper-guidelines" style="margin-top: 30px;">
-              <h4 style="color:green; text-align:center;">GUIDELINES FOR SUBMISSION OF TECHNICAL PAPER ABSTRACTS</h4>
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="flush-heading-guidelines">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse-guidelines" aria-expanded="false" aria-controls="flush-collapse-guidelines">
+        <H4 style="color: green;"><strong>GUIDELINES FOR SUBMISSION OF TECHNICAL PAPER ABSTRACTS</strong></H4>
+      </button>
+    </h2>
+    <div id="flush-collapse-guidelines" class="accordion-collapse collapse" aria-labelledby="flush-heading-guidelines" data-bs-parent="#technicalPapersAccordion">
+      <div class="accordion-body">
+          <div id="technical-paper-guidelines" style="margin-top: 10px;">
               <p>To Submit the Abstract for THE ENERGY SINGULARITY SUMMIT 2027, please visit the following Link:<br/>
               <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0m6CSpMXdxyCvZCNfmhIP4hZt1FA7RunnWig-KvZTqX_Prw/viewform?usp=dialog" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSd0m6CSpMXdxyCvZCNfmhIP4hZt1FA7RunnWig-KvZTqX_Prw/viewform?usp=dialog</a></p>
 
@@ -103,19 +107,21 @@
 
               <p>For queries, email us at: <a href="mailto:tp@isuw.in">tp@isuw.in</a></p>
           </div>
-
-      </div></div></div></div>
+      </div>
+    </div>
+  </div>
+</div>
 	  
 <p align="center" style="line-height: 108%; margin-bottom: 0.11in"></p>
 
-<div class="accordion accordion-flush" id="accordionFlushExample">
+<div class="accordion accordion-flush" id="juryAccordion">
   <div class="accordion-item">
-    <h2 class="accordion-header" id="flush-headingOne">
+    <h2 class="accordion-header" id="flush-headingOneJury">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsesix" aria-expanded="false" aria-controls="flush-collapsesix">
         <H4 style="color: green;"><strong>Esteemed Jury Members of Technical Papers 2027</strong></H4>
       </button>
     </h2>
-    <div id="flush-collapsesix" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+    <div id="flush-collapsesix" class="accordion-collapse collapse" aria-labelledby="flush-headingOneJury" data-bs-parent="#juryAccordion">
       <div class="accordion-body">
         <TABLE>
           <COL WIDTH=76*>
