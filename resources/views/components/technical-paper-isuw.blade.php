@@ -112,7 +112,7 @@
   <div class="accordion-item">
     <h2 class="accordion-header" id="flush-headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapsesix" aria-expanded="false" aria-controls="flush-collapsesix">
-        <H4 style="color: green;"><strong>Esteemed Jury Members of Technical Papers 2026</strong></H4>
+        <H4 style="color: green;"><strong>Esteemed Jury Members of Technical Papers 2027</strong></H4>
       </button>
     </h2>
     <div id="flush-collapsesix" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
@@ -1415,7 +1415,71 @@ Papers</span></b></p>
   </td>
  </tr>
 
-  <tr style='height:30.0pt'>
+ <tr style='height:30.0pt'>
+  <td width=73 style='width:54.45pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'><span lang=EN-IN style='color:black'>2026</span></p>
+  </td>
+  <td width=201 style='width:150.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-IN style='color:black'>TECHNICAL PAPERS – ISUW 2026</span></p>
+  </td>
+  <td width=265 style='width:198.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-IN style='color:black'>To be uploaded</span></p>
+  </td>
+  <td width=180 style='width:134.65pt;border-top:none;border-left:none
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-IN style='color:black'>To be uploaded</span></p>
+  </td>
+  <td width=208 nowrap style='width:155.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'><span lang=EN-IN style='color:black'>To be uploaded</span></p>
+  </td>
+ </tr>
+
+ <tr style='height:30.0pt'>
+  <td width=73 style='width:54.45pt;border:solid windowtext 1.0pt;border-top:
+  none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'><span lang=EN-IN style='color:black'>2025</span></p>
+  </td>
+  <td width=201 style='width:150.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-IN style='color:black'>TECHNICAL PAPERS – ISUW 2025</span></p>
+  </td>
+  <td width=265 style='width:198.45pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-IN style='color:black'>To be uploaded</span></p>
+  </td>
+  <td width=180 style='width:134.65pt;border-top:none;border-left:none
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
+  lang=EN-IN style='color:black'>To be uploaded</span></p>
+  </td>
+  <td width=208 nowrap style='width:155.95pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
+  <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
+  line-height:normal'><span lang=EN-IN style='color:black'>To be uploaded</span></p>
+  </td>
+ </tr>
+
+ <tr style='height:30.0pt'>
   <td width=73 style='width:54.45pt;border:solid windowtext 1.0pt;border-top:
   none;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal align=center style='margin-bottom:0in;text-align:center;
