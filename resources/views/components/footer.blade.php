@@ -16,7 +16,7 @@ color:#EF7B00;
 			<div class="row ">
                <div class="col-lg-3">
                   <div class="widget">
-                     <h6>ISUW 2027 Venue</h6>
+                     <h6>TESS 2027 Venue</h6>
                      <p><i class="fa fa-home" aria-hidden="true"></i> New Delhi, India</p>
                       <h6>  For General Queries</h6>
 					 <p><i class="fa fa-phone" aria-hidden="true"></i> Call us at : <a href="tel:011 - 41030398" style="color:white;">011 - 41030398</a><br>
@@ -65,17 +65,19 @@ color:#EF7B00;
                </div> 
                <div class="col-lg-3">
                   <div class="widget">
-                     <h6>ISUW 2026 Event Structure</h6>
-                     <h5 style="color:#4EBC3C;">Day 1 – 10 March 2026 (Tuesday)</h5>
-                     <p>Special Workshops</p>
-                     <h5 style="color:#4EBC3C;">Day 2 – 11 March 2026 (Wednesday)</h5>
-                     <p>Conference &amp; Exhibition</p>
-                     <h5 style="color:#4EBC3C;">Day 3 – 12 March 2026 (Thursday)</h5>
-                     <p>Conference &amp; Exhibition</p>
-                     <h5 style="color:#4EBC3C;">Day 4 – 13 March 2026 (Friday)</h5>
-                     <p>Conference &amp; Exhibition | ISGF Innovation Awards Ceremony &amp; Valedictory Function</p>
-                     <h5 style="color:#4EBC3C;">Day 5 – 14 March 2026 (Saturday)</h5>
-                     <p>Technical Tours and Cultural Tours</p>
+                     <h6>TESS 2027 Event Structure</h6>
+                     <h5 style="color:#4EBC3C;">Day 1 – 05th April 2027 (Monday)</h5>
+                     <p>IRED (Co-Hosted Event)</p>
+                     <h5 style="color:#4EBC3C;">Day 2 – 06th April 2027 (Tuesday)</h5>
+                     <p>WE3 ASIA (Co-Hosted Event) | TESS Special Workshops | TESS Masterclass</p>
+                     <h5 style="color:#4EBC3C;">Day 3 – 07th April 2027 (Wednesday)</h5>
+                     <p>TESS Inauguration | TESS Conference &amp; Exhibition | IRED</p>
+                     <h5 style="color:#4EBC3C;">Day 4 – 08th April 2027 (Thursday)</h5>
+                     <p>TESS Conference &amp; Exhibition | IRED</p>
+                     <h5 style="color:#4EBC3C;">Day 5 – 09th April 2027 (Friday)</h5>
+                     <p>TESS Conference &amp; Exhibition | 11th ISGF Innovation Awards Ceremony &amp; Valedictory Function</p>
+                     <h5 style="color:#4EBC3C;">Day 6 – 10th April 2027 (Saturday)</h5>
+                     <p>Technical Tours* and Cultural Tours*</p>
                   </div>
 				   <div class="register-now">
 					 <a href="http://www.isuw.in/conference-agenda-and-program" class="button" target="_blank">Program Agenda</a>
