@@ -36,9 +36,9 @@
     </h2>
     <div id="flush-collapsewinners" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#technicalPapersAccordion">
       <div class="accordion-body">
-          <h3 style="color:green; text-align:center;">Call for Technical Papers - Abstracts</h3>
+          <h3 style="color:green; text-align:center;">Call for Technical Papers: Abstracts</h3>
 
-          <h4 style="color:green; text-align:center;">THE ENERGY SINGULARITY SUMMIT (TESS) 2027</h4>
+          <h4 style="color:green; text-align:center;">The Energy Singularity Summit (TESS) 2027</h4>
           <h4 style="text-align:center;">Last date for Abstract Submission: 30th September 2026</h4>
           <p style="text-align:center; margin-bottom: 18px;"><b>Abstract Submission for TESS 2027:</b></p>
           <p style="text-align:center; margin: 18px 0;">
@@ -47,12 +47,12 @@
               </a>
           </p>
 
-          <p>From India Smart Utility Week (ISUW) to The Energy Singularity Summit (TESS) — the journey continues into a new era of energy and technology convergence. Building on 12 successful editions of ISUW conducted by the India Smart Grid Forum (ISGF) since 2015, TESS 2027 brings together the worlds of intelligent energy systems and artificial intelligence to explore the technologies, innovations and solutions shaping the future of energy. The Summit will focus on the transformation towards self-optimising, decarbonised, flexible and resilient energy systems capable of meeting the demands of an increasingly AI-driven world.</p>
+          <p>From India Smart Utility Week (ISUW) to The Energy Singularity Summit (TESS) — the journey continues into a new era of energy and technology convergence. Building on 12 successful editions of ISUW conducted by the India Smart Grid Forum (ISGF) since 2015, TESS 2027 brings together the worlds of intelligent energy systems and artificial intelligence to explore the technologies, innovations and solutions shaping the future of energy. The summit will focus on the transformation towards self-optimising, decarbonised, flexible and resilient energy systems capable of meeting the demands of an increasingly AI-driven world.</p>
 
-          <p>TESS 2027 is pleased to invite subject matter experts to submit abstracts for Technical Papers on the below-mentioned themes. The Technical Papers Presentation will be part of THE ENERGY SINGULARITY SUMMIT (TESS) 2027, an international conference and exhibition scheduled from 05 – 10 April, 2027. For details about the event, please visit <a href="https://www.energysingularitysummit.com" target="_blank">www.energysingularitysummit.com</a></p>
+          <p>TESS 2027 is pleased to invite subject matter experts to submit abstracts for technical papers on the below-mentioned themes. The technical papers presentation will be part of The Energy Singularity Summit (TESS) 2027, an international conference and exhibition scheduled from 05 – 10 April, 2027. For details about the event, please visit <a href="https://www.energysingularitysummit.com" target="_blank">www.energysingularitysummit.com</a></p>
 
-          <h4 style="color:green; text-align:center;">THEMES OF TECHNICAL PAPERS</h4>
-          <ul style="margin-left: 20px; padding-left: 20px; line-height: 1.8; list-style: none;">
+          <h4 style="color:green; text-align:center;">Themes of Technical Papers:</h4>
+          <ul style="margin-left: 20px; padding-left: 20px; line-height: 1.8; list-style: circle;">
               <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Demand Forecasting, Autonomous Grid Control, Digital Twins and Predictive Maintenance</span> — AI and Digital Superintelligence for Grid Management</li>
               <li style="margin-bottom: 8px;"><span style="font-weight: 600;">For Critical Infrastructure and AI</span> — Smart Microgrids and Resilient Power Systems</li>
               <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Smart Meters, Time-of-Use (TOU) Tariffs, Vehicle-to-Grid (V2G) and AI-Managed Smart Buildings and Campuses</span> — Demand-Side Flexibility</li>
