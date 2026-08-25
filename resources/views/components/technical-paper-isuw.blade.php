@@ -94,7 +94,7 @@
                   <li>Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers</li>
                   <li>Abstract of paper: Max 250 words to be submitted with this application no later than 30th September 2026</li>
                   <li>Shortlisted Paper Abstracts will be announced by 21st October 2026 for Full Paper Submission</li>
-                  <li>Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 20th November, 2026 | Max: 4 pages / 1000 Words | Download the format from the following: <a href="https://docs.google.com/document/d/11IJQoLsK9_XN20KCUHlzgsDQRPkJBy0c/edit?usp=sharing&ouid=103484490277585705632&rtpof=true&sd=true" target="_blank" style="color:#0d6efd; text-decoration:underline;">Download Paper Format</a></li>
+                  <li>Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 20th November, 2026 | Max: 4 pages / 1000 Words | Download the format from the following: <a href="https://docs.google.com/document/d/11IJQoLsK9_XN20KCUHlzgsDQRPkJBy0c/edit?usp=sharing&ouid=103484490277585705632&rtpof=true&sd=true" target="_blank" style="color:#0d6efd; text-decoration:underline;font-weight:bold">Download Paper Format</a></li>
                   <li>Shortlisted Papers will be announced by 15th December 2026</li>
                   <li>Papers deemed purely commercial in nature will not be selected</li>
                   <li>No change in topic/title of Abstract or full paper submission will be allowed after submission</li>
