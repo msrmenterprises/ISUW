@@ -178,7 +178,7 @@ color:#EF7B00;
 	
 		 
 	<div class="k_fixed_broo">
-    <a href="https://www.isuw.in/conference-agenda-and-program" class="buttonbrochuree" target="_blank">ISUW Agenda</a>
+    <a href="https://www.isuw.in/conference-agenda-and-program" class="buttonbrochuree" target="_blank">TESS Agenda</a>
 	</div>
 	<div class="k_fixed_bro">
     <a href="https://isuw.in/public/images/ISUW2026Brochure.pdf?id=2" class="buttonbrochure" target="_blank">Download Brochure</a>
