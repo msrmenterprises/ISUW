@@ -40,8 +40,12 @@
 
           <h4 style="color:green; text-align:center;">THE ENERGY SINGULARITY SUMMIT (TESS) 2027</h4>
           <h4 style="text-align:center;">Last date for Abstract Submission: 30th September 2026</h4>
-          <p style="text-align:center;"><b>Abstract Submission for TESS 2027 at following link:<br/>
-          <a href="https://bit.ly/4ztWLWr" target="_blank">https://bit.ly/4ztWLWr</a></b></p>
+          <p style="text-align:center; margin-bottom: 18px;"><b>Abstract Submission for TESS 2027:</b></p>
+          <p style="text-align:center; margin: 18px 0;">
+              <a href="https://bit.ly/4ztWLWr" target="_blank" class="btn btn-primary" style="display:inline-block; background-color:#0d6efd; color:#fff; padding:10px 22px; border-radius:6px; text-decoration:none; font-weight:600; min-width: 220px;">
+                  Submit Abstract
+              </a>
+          </p>
 
           <p>From India Smart Utility Week (ISUW) to The Energy Singularity Summit (TESS) — the journey continues into a new era of energy and technology convergence. Building on 12 successful editions of ISUW conducted by the India Smart Grid Forum (ISGF) since 2015, TESS 2027 brings together the worlds of intelligent energy systems and artificial intelligence to explore the technologies, innovations and solutions shaping the future of energy. The Summit will focus on the transformation towards self-optimising, decarbonised, flexible and resilient energy systems capable of meeting the demands of an increasingly AI-driven world.</p>
 
@@ -89,8 +93,12 @@
     <div id="flush-collapse-guidelines" class="accordion-collapse collapse" aria-labelledby="flush-heading-guidelines" data-bs-parent="#technicalPapersAccordion">
       <div class="accordion-body">
           <div id="technical-paper-guidelines" style="margin-top: 10px;">
-              <p>To Submit the Abstract for THE ENERGY SINGULARITY SUMMIT 2027, please visit the following Link:<br/>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0m6CSpMXdxyCvZCNfmhIP4hZt1FA7RunnWig-KvZTqX_Prw/viewform?usp=dialog" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSd0m6CSpMXdxyCvZCNfmhIP4hZt1FA7RunnWig-KvZTqX_Prw/viewform?usp=dialog</a></p>
+              <p style="margin-bottom: 18px;">To submit the abstract for THE ENERGY SINGULARITY SUMMIT 2027, please visit the following link:</p>
+              <p style="text-align: center; margin: 18px 0;">
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0m6CSpMXdxyCvZCNfmhIP4hZt1FA7RunnWig-KvZTqX_Prw/viewform?usp=dialog" target="_blank" class="btn btn-primary" style="display:inline-block; background-color:#0d6efd; color:#fff; padding:10px 22px; border-radius:6px; text-decoration:none; font-weight:600; min-width: 240px;">
+                      Submit Technical Paper Abstract
+                  </a>
+              </p>
 
               <ul style="margin-left: 20px; padding-left: 20px; line-height: 1.8;">
                   <li>Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers</li>
