@@ -81,9 +81,9 @@
   </div>
 
   <div class="accordion-item">
-    <h2 class="accordion-header" id="flush-heading-guidelines">
+    <h2 class="accordion-header" id="flush-heading-guidelines" style="margin-top: 12px;">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse-guidelines" aria-expanded="false" aria-controls="flush-collapse-guidelines">
-        <H4 style="color: green;"><strong>GUIDELINES FOR SUBMISSION OF TECHNICAL PAPER ABSTRACTS</strong></H4>
+        <H4 style="color: green;"><strong>Guidelines For Submission Of Technical Paper Abstracts</strong></H4>
       </button>
     </h2>
     <div id="flush-collapse-guidelines" class="accordion-collapse collapse" aria-labelledby="flush-heading-guidelines" data-bs-parent="#technicalPapersAccordion">
