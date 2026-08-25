@@ -1350,7 +1350,7 @@
     <div id="flush-collapseD" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
 	  <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=926
- style='width:694.35pt;border-collapse:collapse;border:none'>
+ style='width:100%;border-collapse:collapse;border:none'>
  <tr style='height:33.0pt'>
   <td width=73 style='width:54.45pt;border:solid windowtext 1.0pt;background:
   #92D050;padding:0in 5.4pt 0in 5.4pt;height:33.0pt'>
