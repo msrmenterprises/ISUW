@@ -51,34 +51,34 @@
 
           <p>TESS 2027 is pleased to invite subject matter experts to submit abstracts for Technical Papers on the below-mentioned themes. The Technical Papers Presentation will be part of THE ENERGY SINGULARITY SUMMIT (TESS) 2027, an international conference and exhibition scheduled from 05 – 10 April, 2027. For details about the event, please visit <a href="https://www.energysingularitysummit.com" target="_blank">www.energysingularitysummit.com</a></p>
 
-          <h4 style="color:green; text-align:center;">THEMES OF TECHNICAL PAPERS:</h4>
-          <ul style="margin-left: 20px; padding-left: 20px; line-height: 1.8;">
-              <li>AI and Digital Superintelligence for Grid Management: Demand Forecasting, Autonomous Grid Control, Digital Twins and Predictive Maintenance</li>
-              <li>Smart Microgrids and Resilient Power Systems: For Critical Infrastructure and AI</li>
-              <li>Demand-Side Flexibility: Smart Meters, Time-of-Use (TOU) Tariffs, Vehicle-to-Grid (V2G) and AI-Managed Smart Buildings and Campuses</li>
-              <li>The Cooling Challenge: Cooling as a Service through District Cooling Systems (DCS) and Enhanced Flexibility for the Distribution Grid</li>
-              <li>New Architecture and Control Systems for the Green Grid: With Multidirectional Power Flows</li>
-              <li>Digital Energy Grids: Where Customers (and Smart Appliance/EV/Drone/Robot) can Buy Electricity from the Greenest and Cheapest Source through P2P Transactions</li>
-              <li>New Loads and New Customers: GW Scale AI Data Centres, MW Scale EV Charging Stations; and Billions of Humanoid Robots and Trillions of AI Agents</li>
-              <li>Grid-Scale and Long-Duration Energy Storage: LFP Batteries, Pumped Hydro, Flow Batteries, Thermal Storage, Iron-Air and Gravity-Based Energy Storage Technologies</li>
-              <li>Nuclear Renaissance: Small Modular Reactors (SMRs) for Firm, Dispatchable, Carbon-Free Power</li>
-              <li>Offshore and Floating Wind: Unlocking New Resource Frontiers</li>
-              <li>Green Hydrogen: Long-Duration Storage and Decarbonisation of Hard-to-Abate Industries</li>
-              <li>Enabling Policies, Regulations and Skilled Workforce: With Gender Balance for the Energy Singularity Era</li>
-              <li>“Everything to the Grid” Energy Systems for the “Reimagined Grid”</li>
-              <li>Advanced Transmission Infrastructure: HVDC, FACTS, Grid-Forming Inverters and Superconducting Cables</li>
-              <li>Powering Data Centres: On Land, in Orbit and under the Sea</li>
-              <li>Wired and Wireless Charging of EVs, Drones, Humanoid Robots and Flying Cars</li>
-              <li>Agentic AI-Based VPP-ESS Interconnections for Grid Flexibility</li>
-              <li>Room-Temperature Superconductors and AI-Driven Materials Discovery</li>
-              <li>Next-Generation Solar: Perovskites, Bifacial Modules and Agrivoltaics</li>
-              <li>Nuclear Fusion: AI-Accelerated Path to Commercial Fusion Power</li>
-              <li>Advanced Power Electronics: Wide-Bandgap Semiconductors (SiC and GaN) for a More Efficient Energy Conversion Chain</li>
-              <li>Quantum Technologies and Quantum Algorithms: For Power Flow Control and Optimization in Real-Time</li>
-              <li>Biomimicry and Artificial Photosynthesis</li>
-              <li>Cyber Security, Quantum Safe and Lattice-Based Cryptography</li>
-              <li>Emerging Space Technologies: Architecture and Energy Systems for Colonising the Moon and Mars, and the Autonomous and Zero Pollution Mobility</li>
-              <li>Autonomous and Zero Emission Vehicles</li>
+          <h4 style="color:green; text-align:center;">THEMES OF TECHNICAL PAPERS</h4>
+          <ul style="margin-left: 20px; padding-left: 20px; line-height: 1.8; list-style: none;">
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Demand Forecasting, Autonomous Grid Control, Digital Twins and Predictive Maintenance</span> — AI and Digital Superintelligence for Grid Management</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">For Critical Infrastructure and AI</span> — Smart Microgrids and Resilient Power Systems</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Smart Meters, Time-of-Use (TOU) Tariffs, Vehicle-to-Grid (V2G) and AI-Managed Smart Buildings and Campuses</span> — Demand-Side Flexibility</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Cooling as a Service through District Cooling Systems (DCS) and Enhanced Flexibility for the Distribution Grid</span> — The Cooling Challenge</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">With Multidirectional Power Flows</span> — New Architecture and Control Systems for the Green Grid</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Where Customers (and Smart Appliance/EV/Drone/Robot) can Buy Electricity from the Greenest and Cheapest Source through P2P Transactions</span> — Digital Energy Grids</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">GW Scale AI Data Centres, MW Scale EV Charging Stations, Billions of Humanoid Robots and Trillions of AI Agents</span> — New Loads and New Customers</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">LFP Batteries, Pumped Hydro, Flow Batteries, Thermal Storage, Iron-Air and Gravity-Based Energy Storage Technologies</span> — Grid-Scale and Long-Duration Energy Storage</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Small Modular Reactors (SMRs) for Firm, Dispatchable, Carbon-Free Power</span> — Nuclear Renaissance</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Unlocking New Resource Frontiers</span> — Offshore and Floating Wind</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Long-Duration Storage and Decarbonisation of Hard-to-Abate Industries</span> — Green Hydrogen</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">With Gender Balance for the Energy Singularity Era</span> — Enabling Policies, Regulations and Skilled Workforce</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">For the “Reimagined Grid”</span> — “Everything to the Grid” Energy Systems</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">HVDC, FACTS, Grid-Forming Inverters and Superconducting Cables</span> — Advanced Transmission Infrastructure</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">On Land, in Orbit and under the Sea</span> — Powering Data Centres</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Wired and Wireless Charging of EVs, Drones, Humanoid Robots and Flying Cars</span> — Electric Mobility Frontiers</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Grid Flexibility through VPP-ESS Interconnections</span> — Agentic AI-Based VPP-ESS Interconnections</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">AI-Driven Materials Discovery</span> — Room-Temperature Superconductors</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Perovskites, Bifacial Modules and Agrivoltaics</span> — Next-Generation Solar</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">AI-Accelerated Path to Commercial Fusion Power</span> — Nuclear Fusion</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Wide-Bandgap Semiconductors (SiC and GaN) for a More Efficient Energy Conversion Chain</span> — Advanced Power Electronics</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">For Power Flow Control and Optimization in Real-Time</span> — Quantum Technologies and Quantum Algorithms</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Biomimicry and Artificial Photosynthesis</span> — Nature-Inspired and Synthetic Energy Systems</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Quantum Safe and Lattice-Based Cryptography</span> — Cyber Security</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Architecture and Energy Systems for Colonising the Moon and Mars, and the Autonomous and Zero Pollution Mobility</span> — Emerging Space Technologies</li>
+              <li style="margin-bottom: 8px;"><span style="font-weight: 600;">Autonomous and Zero Emission Vehicles</span> — Mobility and Transport Transformation</li>
           </ul>
       </div>
     </div>
