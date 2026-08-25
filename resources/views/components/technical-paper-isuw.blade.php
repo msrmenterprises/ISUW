@@ -22,7 +22,7 @@
  <div class="row justify-content-left ">
 <p></p>
 <div class="k_cheading">
-		<h1>INDIA SMART UTILITY WEEK (ISUW)<span class="k_greencolor"> Technical Papers</span></h1>
+		<h1>THE ENERGY SINGULARITY SUMMIT (TESS)<span class="k_greencolor"> TECHNICAL PAPERS</span></h1>
 		<img src="/public/uploads/images/kborder_bottom.PNG" alt=""> 
 	</div>
 <!--	<p><b><marqee>We thank all the Authors for the overwhelming response for your Technical Paper Abstract Submission. As the number of Technical Papers Abstracts received is very high, we shall be announcing the results for the next round of Full Paper Submission by 15th November 2023.</marqee></b></p>
@@ -36,199 +36,75 @@
     </h2>
     <div id="flush-collapsewinners" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
       <div class="accordion-body">
-          <h3 style="color:green; text-align:center;">Call for Technical Papers-Abstracts</h3>
+          <h3 style="color:green; text-align:center;">Call for Technical Papers - Abstracts</h3>
 
- <h4 style="color:green; text-align:center;">India Smart Utility Week (ISUW) 2026</h4>
-	  <h4 style="text-align:center;">Last date for Abstract Submission: 15th September 2025</h4>
-	  <p style="text-align:center;"><b>Abstract Submission for ISUW 2026 at following link:<br/>
-	  <a href="https://bit.ly/4lXLzdd" target="_blank">https://bit.ly/4lXLzdd</a></b></p>
-	  
-	  <p><a href="https://indiasmartgrid.org/" target="_blank">India Smart Grid Forum (ISGF)</a> is pleased to invite the subject matter experts to submit the abstract for Technical Paper on below mentioned themes. The Technical Papers Presentation will be part of India Smart Utility Week (ISUW) 2026, an international conference and exhibition scheduled from 10th -14th March 2026. For details about the event, please visit <a href="https://isuw.in/" target="_blank">www.isuw.in</a></p>
-         <TABLE style="width: 100%;">
-	<TR>
-		<TD  BGCOLOR="green" STYLE="border-top: 1.00pt solid #00000a; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: middle;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><B>S. No*</B></FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="green" STYLE="border-top: 1.00pt solid #00000a; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: middle;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><B>Theme of Technical Paper</B></FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">1</FONT></FONT></P>
-		</TD>
-			<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
-			<P style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>INDIA @ 100 in 2047: Vision for the Net Zero Power System in India</b>
-			<ul style="margin-left: 20px; padding-left: 20px;">
-			<li>Net Zero Power Sector</li>
-			<li>Digital Technologies for Energy Transition</li>
-			<li>Climate Proofing the Power Systems</li>
-			<li>Affordable and Reliable Green Energy 24x7 for All Citizens</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-		</TR>
-		<TR>
-		    	<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">2</FONT></FONT></P>
-		</TD>
-		<TD BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
-			<P style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Evolving Architecture of the Green Grid with Two-Way Power Flows</b>
-			<ul style="margin-left: 20px; padding-left: 20px;">
-			<li>Planning And Design of Transmission Grid</li>
-			<li>Planning And Design of Distribution Grid with Prosumers and Electric Vehicles and Distributed Energy Resources</li>
-			<li>Communication Systems and Technologies for Fast Response- 1/50 (or) 1/60 Seconds</li>
-            <li>Separate Control Bus for IT and OT Systems</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">3</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
-			<P style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Electric Mobility</b> 
-			<ul style="margin-left: 20px; padding-left: 20px;">
-			<li>North American Charging Standards (NACS)</li>    
-			<li>MW-scale Charging Systems (MCS)</li>
-			<li>School Bus Electrification</li>
-			<li>Vehicle Grid Integration (VGI)</li>
-			<li>Liquid Cooling Technology for the High-Power Charges (HPC)</li>
-			<li>Electric Highways and the Electric Grids</li>
-			<li>New Infrastructure Planning with Integrated EVSE</li>
-			<li>EVs as Virtual Power Plants (VPP)</li>
-			<li>Wireless Charging of EVs and Drones</li>
-			<li>Passenger Drones, Delivery Drones and Agricultural Drones; Charging Infrastructure for Drones</li>
-			<li>Battery Swapping</li>
-			<li>Vehicle to Vehicle Charging</li>
-			<li>Destination (Wallbox) DC Charging</li>
-			<li>Second Life for EV Batteries</li>
-			<li>Robotic Charging</li>
-			<li>Battery-Buffered Charging</li>
-			<li>Off-Grid Charging</li>
-			<li>Mobile Charging</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">4</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
-			<P style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Foundational Blocks for Smart Grids</b>
-			<ul style="margin-left: 20px; padding-left: 20px;">
-			<li>Learnings from Smart Grid Projects</li>
-			<li>Smart Microgrids for Campuses, Railway Stations, Sea Ports, Airports, Industrial Parks, Military Bases, Hotels, Hospitals, Slums and Commercial Complexes</li>
-			<li>Cyber Physical Security of the Critical Infrastructure</li>
-			<li>Standards and Interoperability of Equipment and Systems</li>
-			<li>Communication Solutions for Smart Grids and Smart Cities</li>
-			<li>Flexibility in Power Systems</li>
-			<li>Energy Storage Systems - Applications and Business Models</li>
-			<li>Smart Metering-Indian Experiences and Lessons Learned</li>
-			<li>Digital Tools for Management of DER</li>
-			<li>Emerging Technologies for RE Integration</li>
-			<li>Smart Inverters confirming to ISI 18968:2025</li>
-			<li>Synthetic Inertia and Grid Forming Inverters (IEEE 2800)</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">5</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
-			<P style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Disruptive Innovations for Utilities</b>
-			<ul style="margin-left: 20px; padding-left: 20px;">
-			<li>Artificial Intelligence, Machine Learning and Robotics</li> 
-			<li>Digital Twins for Power Systems</li>
-			<li>Virtual Reality, Augmented Reality, Assisted Reality and Mixed Reality Technologies for the Smart Grids and Smart Cities</li>
-			<li>Web 3.0 and Metaverse for Utilities</li>
-			<li>Wearable Devices</li>
-			<li>Blockchain Applications for Utilities and Local Energy Markets</li>
-			<li>Robotic Process Automation (RPA) for Utilities</li>
-			<li>Digitalization, New Services and Revenue Streams</li>
-			<li>Voice of the Customer - What the Digital Customers Wants?</li>
-			<li>Customer Engagement Strategies and Social Media for Utilities - Customer Portal, Chat-bot, Voice-bot</li>
-			<li>5G Rollout and its Impact for Electric Utilities</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">6</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
-			<P style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Smart Grids for Smart Cities and Utility Integration</b>
-			<ul style="margin-left: 20px; padding-left: 20px;">
-			<li>Common Automation and IT Layer for Smart City Infrastructure Domains</li>
-			<li>Unlocking the Value of Street Light Poles for Multiple Smart City Applications</li>
-			<li>Smart Home and Smart Appliances</li>
-			<li>Smart Grid as Anchor Infrastructure for Smart Cities-Integration of Utilities: Electricity, Gas and Water</li>
-			<li>Combined Billing and Customer Care Systems for all Utilities in a Smart City</li>
-			<li>Common GIS Map for all Domains in a Smart City</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">7</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
-			<P style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>New and Emerging Technologies and Trends</b> 
-			<ul style="margin-left: 20px; padding-left: 20px;">
-			<li>DG Set Replacement with Battery Energy Storage Systems (BESS)</li>
-			<li>Green Hydrogen -- Production, Transport, Utilization; and Certification</li>
-			<li>District Cooling System</li>
-			<li>Electric Cooking</li>
-			<li>Rise of "Flexumers in the Power Systems"</li>
-			<li>Grid Interactive Buildings and Campuses</li>
-			<li>Urban Air Mobility Systems (UAM)</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER><FONT COLOR="#000000"><FONT FACE="Calibri, serif">8</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
-			<P style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Regulations for the Evolving Smart Energy Systems and Power Markets</b>
-			<ul style="margin-left: 20px; padding-left: 20px;">
-			<li>100% Renewables</li>
-			<li>Electricity Derivatives</li>
-			<li>Market Coupling</li>
-			<li>Carbon Markets</li>
-			<li>Flexibility Solutions</li>
-			<li>Retail Competition</li>
-			<li>Green Power Markets</li>
-			<li>Ancillary Services</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-	<TR>
-		<TD   BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: 1.00pt solid #00000a; border-right: 1px solid #00000a; padding: 0in 0.08in; vertical-align: top;">
-			<P ALIGN=CENTER style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif">9</FONT></FONT></P>
-		</TD>
-		<TD  BGCOLOR="#ffffff" STYLE="border-top: none; border-bottom: 1px solid #00000a; border-left: none; border-right: 1px solid #00000a; padding-top: 0in; padding-bottom: 0in; padding-left: 0in; padding-right: 0.08in; vertical-align: top;">
-			<P style="padding-left:8px"><FONT COLOR="#000000"><FONT FACE="Calibri, serif"><b>Smart Water and Smart City Gas Distribution</b>
-			<ul style="margin-left: 20px; padding-left: 20px;">
-			<li>Smart Solutions for Water Production, Transmission and Distribution</li>
-			<li>Smart Technologies to Address India's Urban Water Crisis</li>
-			<li>Utility Integration</li>
-			<li>Solutions for Gas Transmission and City Gas Distribution Networks</li>
-			</ul>
-			</FONT></FONT></P>
-		</TD>
-	</TR>
-</TABLE>
+          <h4 style="color:green; text-align:center;">THE ENERGY SINGULARITY SUMMIT (TESS) 2027</h4>
+          <h4 style="text-align:center;">Last date for Abstract Submission: 30th September 2026</h4>
+          <p style="text-align:center;"><b>Abstract Submission for TESS 2027 at following link:<br/>
+          <a href="https://bit.ly/4ztWLWr" target="_blank">https://bit.ly/4ztWLWr</a></b></p>
 
-	  </div></div></div></div>
+          <p style="text-align:center; margin-bottom: 18px;">
+              <a href="#technical-paper-guidelines" class="btn btn-primary" style="display:inline-block; background-color:#0d6efd; color:#fff; padding:10px 18px; border-radius:5px; text-decoration:none; font-weight:600;">
+                  GUIDELINES FOR SUBMISSION OF TECHNICAL PAPER ABSTRACTS
+              </a>
+          </p>
+
+          <p>From India Smart Utility Week (ISUW) to The Energy Singularity Summit (TESS) — the journey continues into a new era of energy and technology convergence. Building on 12 successful editions of ISUW conducted by the India Smart Grid Forum (ISGF) since 2015, TESS 2027 brings together the worlds of intelligent energy systems and artificial intelligence to explore the technologies, innovations and solutions shaping the future of energy. The Summit will focus on the transformation towards self-optimising, decarbonised, flexible and resilient energy systems capable of meeting the demands of an increasingly AI-driven world.</p>
+
+          <p>TESS 2027 is pleased to invite subject matter experts to submit abstracts for Technical Papers on the below-mentioned themes. The Technical Papers Presentation will be part of THE ENERGY SINGULARITY SUMMIT (TESS) 2027, an international conference and exhibition scheduled from 05 – 10 April, 2027. For details about the event, please visit <a href="https://www.energysingularitysummit.com" target="_blank">www.energysingularitysummit.com</a></p>
+
+          <h4 style="color:green; text-align:center;">THEMES OF TECHNICAL PAPERS:</h4>
+          <ul style="margin-left: 20px; padding-left: 20px; line-height: 1.8;">
+              <li>AI and Digital Superintelligence for Grid Management: Demand Forecasting, Autonomous Grid Control, Digital Twins and Predictive Maintenance</li>
+              <li>Smart Microgrids and Resilient Power Systems: For Critical Infrastructure and AI</li>
+              <li>Demand-Side Flexibility: Smart Meters, Time-of-Use (TOU) Tariffs, Vehicle-to-Grid (V2G) and AI-Managed Smart Buildings and Campuses</li>
+              <li>The Cooling Challenge: Cooling as a Service through District Cooling Systems (DCS) and Enhanced Flexibility for the Distribution Grid</li>
+              <li>New Architecture and Control Systems for the Green Grid: With Multidirectional Power Flows</li>
+              <li>Digital Energy Grids: Where Customers (and Smart Appliance/EV/Drone/Robot) can Buy Electricity from the Greenest and Cheapest Source through P2P Transactions</li>
+              <li>New Loads and New Customers: GW Scale AI Data Centres, MW Scale EV Charging Stations; and Billions of Humanoid Robots and Trillions of AI Agents</li>
+              <li>Grid-Scale and Long-Duration Energy Storage: LFP Batteries, Pumped Hydro, Flow Batteries, Thermal Storage, Iron-Air and Gravity-Based Energy Storage Technologies</li>
+              <li>Nuclear Renaissance: Small Modular Reactors (SMRs) for Firm, Dispatchable, Carbon-Free Power</li>
+              <li>Offshore and Floating Wind: Unlocking New Resource Frontiers</li>
+              <li>Green Hydrogen: Long-Duration Storage and Decarbonisation of Hard-to-Abate Industries</li>
+              <li>Enabling Policies, Regulations and Skilled Workforce: With Gender Balance for the Energy Singularity Era</li>
+              <li>“Everything to the Grid” Energy Systems for the “Reimagined Grid”</li>
+              <li>Advanced Transmission Infrastructure: HVDC, FACTS, Grid-Forming Inverters and Superconducting Cables</li>
+              <li>Powering Data Centres: On Land, in Orbit and under the Sea</li>
+              <li>Wired and Wireless Charging of EVs, Drones, Humanoid Robots and Flying Cars</li>
+              <li>Agentic AI-Based VPP-ESS Interconnections for Grid Flexibility</li>
+              <li>Room-Temperature Superconductors and AI-Driven Materials Discovery</li>
+              <li>Next-Generation Solar: Perovskites, Bifacial Modules and Agrivoltaics</li>
+              <li>Nuclear Fusion: AI-Accelerated Path to Commercial Fusion Power</li>
+              <li>Advanced Power Electronics: Wide-Bandgap Semiconductors (SiC and GaN) for a More Efficient Energy Conversion Chain</li>
+              <li>Quantum Technologies and Quantum Algorithms: For Power Flow Control and Optimization in Real-Time</li>
+              <li>Biomimicry and Artificial Photosynthesis</li>
+              <li>Cyber Security, Quantum Safe and Lattice-Based Cryptography</li>
+              <li>Emerging Space Technologies: Architecture and Energy Systems for Colonising the Moon and Mars, and the Autonomous and Zero Pollution Mobility</li>
+              <li>Autonomous and Zero Emission Vehicles</li>
+          </ul>
+
+          <div id="technical-paper-guidelines" style="margin-top: 30px;">
+              <h4 style="color:green; text-align:center;">GUIDELINES FOR SUBMISSION OF TECHNICAL PAPER ABSTRACTS</h4>
+              <p>To Submit the Abstract for THE ENERGY SINGULARITY SUMMIT 2027, please visit the following Link:<br/>
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSd0m6CSpMXdxyCvZCNfmhIP4hZt1FA7RunnWig-KvZTqX_Prw/viewform?usp=dialog" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSd0m6CSpMXdxyCvZCNfmhIP4hZt1FA7RunnWig-KvZTqX_Prw/viewform?usp=dialog</a></p>
+
+              <ul style="margin-left: 20px; padding-left: 20px; line-height: 1.8;">
+                  <li>Utility Experts and Researchers on Smart Grid Technologies are Eligible to Submit Technical Papers</li>
+                  <li>Abstract of paper: Max 250 words to be submitted with this application no later than 30th September 2026</li>
+                  <li>Shortlisted Paper Abstracts will be announced by 21st October 2026 for Full Paper Submission</li>
+                  <li>Full Paper: Authors of shortlisted papers will be required to submit the full paper in IEEE paper format by 20th November, 2026 | Max: 4 pages / 1000 Words | Download the format from following: <a href="https://docs.google.com/document/d/11IJQoLsK9_XN20KCUHlzgsDQRPkJBy0c/edit?usp=sharing&ouid=103484490277585705632&rtpof=true&sd=true" target="_blank">https://docs.google.com/document/d/11IJQoLsK9_XN20KCUHlzgsDQRPkJBy0c/edit?usp=sharing&ouid=103484490277585705632&rtpof=true&sd=true</a></li>
+                  <li>Shortlisted Papers will be announced by 15th December 2026</li>
+                  <li>Papers deemed purely commercial in nature will not be selected</li>
+                  <li>No change in topic/title of Abstract or full paper submission will be allowed after submission</li>
+                  <li>Those whose name is mentioned as the primary author will only be allowed to make the presentation during TESS 2027; co-authors will be allowed in special cases</li>
+                  <li>File name should not be more than 10 words</li>
+                  <li>Add Theme + title + your name during Abstract submission</li>
+              </ul>
+
+              <p>For queries, email us at: <a href="mailto:tp@isuw.in">tp@isuw.in</a></p>
+          </div>
+
+      </div></div></div></div>
 	  
 <p align="center" style="line-height: 108%; margin-bottom: 0.11in"></p>
 
