@@ -1398,7 +1398,7 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'>TECHNICAL PAPERS – ISUW 2026</span></p>
+  lang=EN-IN style='color:black'><a href="#" target="_blank">2026 Shortlisted Papers for Presentation and Publication</a>
   </td>
   <td width=265 style='width:198.45pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1436,7 +1436,7 @@ Papers</span></b></p>
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0in 5.4pt 0in 5.4pt;height:30.0pt'>
   <p class=MsoNormal style='margin-bottom:0in;line-height:normal'><span
-  lang=EN-IN style='color:black'>To be uploaded</span></p>
+  lang=EN-IN style='color:black'><a href="#" target="_blank">2025 Shortlisted Papers for Presentation and Publication</a></span></p>
   </td>
   <td width=180 style='width:134.65pt;border-top:none;border-left:none
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
