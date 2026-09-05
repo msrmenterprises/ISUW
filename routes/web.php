@@ -269,9 +269,6 @@ Route::get('/isuw-2023-brochure', function () {
 Route::get('/isuw-2024-brochure', function () {
      return view('/components/isuw-2024-brochure');
 });
-Route::get('/isuw-2025-brochure', function () use ($redirectToEnergyPage) {
-     return $redirectToEnergyPage('/isuw-2025-brochure');
-});
 Route::get('/isuw-brochure', function () use ($redirectToEnergyPage) {
      return $redirectToEnergyPage('/isuw-brochure');
 });
