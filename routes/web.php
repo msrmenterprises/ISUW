@@ -27,6 +27,12 @@ use App\Http\Controllers\SpeakerAdminController;
 use App\Http\Controllers\Testimonial;
 use App\Http\Controllers\TestimonialController;
 use App\Http\Controllers\ContactUsFormController;
+
+$energyMirrorBase = rtrim(env('ENERGY_MIRROR_DOMAIN', 'https://www.energysingularitysummit.com'), '/');
+$redirectToEnergyPage = function (string $path) use ($energyMirrorBase) {
+     return redirect()->away($energyMirrorBase . '/' . ltrim($path, '/'), 301);
+};
+
 Route::get('/', [homeController::class, 'show']);
 Route::get('/isuw-2022-presentations', [homeController::class, 'presentation']);
 Route::get('/isuw-2023-presentations', [homeController::class, 'presentation2023']);
@@ -263,8 +269,11 @@ Route::get('/isuw-2023-brochure', function () {
 Route::get('/isuw-2024-brochure', function () {
      return view('/components/isuw-2024-brochure');
 });
-Route::get('/isuw-brochure', function () {
-     return view('/components/isuw-2025-brochure');
+Route::get('/isuw-2025-brochure', function () use ($redirectToEnergyPage) {
+     return $redirectToEnergyPage('/isuw-2025-brochure');
+});
+Route::get('/isuw-brochure', function () use ($redirectToEnergyPage) {
+     return $redirectToEnergyPage('/isuw-2025-brochure');
 });
 Route::get('/theme-and-session-partners-2021', function () {
      return view('/components/theme-and-session-partners-2021');
