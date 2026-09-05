@@ -273,7 +273,7 @@ Route::get('/isuw-2025-brochure', function () use ($redirectToEnergyPage) {
      return $redirectToEnergyPage('/isuw-2025-brochure');
 });
 Route::get('/isuw-brochure', function () use ($redirectToEnergyPage) {
-     return $redirectToEnergyPage('/isuw-2025-brochure');
+     return $redirectToEnergyPage('/isuw-brochure');
 });
 Route::get('/theme-and-session-partners-2021', function () {
      return view('/components/theme-and-session-partners-2021');
