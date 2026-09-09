@@ -95,8 +95,8 @@ Route::get('/admin', function () {
  Route::get('/conference-agenda-and-program', function () {
       return view('/components/conference-agenda-and-program-2025');
  });
-  Route::get('/partnership-opportunity-information', function () {
-      return view('/components/partnership-opportunity-information');
+  Route::get('/partnership-opportunity-information', function () use ($redirectToEnergyPage) {
+      return $redirectToEnergyPage('/partnership-opportunity-information');
  });
   Route::get('/isuw-participated-utilties', function () {
       return view('/components/isuw-participated-utilties');
